@@ -1,14 +1,27 @@
-# Your Project Name
+# ClinicalAgent
 
-A starter template for the AI Engineering Buildcamp capstone. Replace this README with a description of your own project.
+An agent layer on top of ClinicalRAG, a clinical document question-answering system. The agent plans its own retrieval to answer multi-hop questions across patient reports.
 
 ## The Problem
 
-Describe the problem your project solves and who has it. One or two sentences.
+Clinicians and clinical researchers need to find specific facts, such as medications, lab values and prior diagnoses. These are often buried across dozens of scanned or dictated patient reports.
+
+ClinicalRAG does one retrieval pass per question. That breaks on multi-hop questions, where the answer lives in more than one place. For example, "What medications is the lymphoma patient on?" needs two steps. First find which patient has the diagnosis, then find that patient's medication list. Those facts sit in different chunks.
 
 ## What It Does
 
-Describe what the AI system does and a typical interaction. What does the user provide? What does the system return?
+ClinicalAgent replaces ClinicalRAG's fixed single-pass workaround with an agent that plans its own retrieval. It searches, reads the result, and searches again using what it learned. It stops when it has enough evidence. When the documents don't answer the question, it says so.
+
+**Typical interaction:** the user uploads clinical PDFs and asks a question in plain English. The system returns:
+
+- an answer in which every claim cites its source file, section and page
+- the agent's trajectory, showing what it searched for and why it searched again
+
+**Evaluation.** The core of the project is measuring whether the agent actually beats the fixed pipeline it replaces. The comparison uses three metrics:
+
+- tool-selection accuracy
+- trajectory efficiency
+- recovery when a search returns nothing
 
 ## Setup
 
@@ -19,6 +32,8 @@ Describe what the AI system does and a typical interaction. What does the user p
 3. Create a `.env` file from the template and add your API key:
 
        cp .env.example .env
+
+   This project uses [Groq](https://console.groq.com/keys) instead of OpenAI because Groq has a free tier and implements the same Responses API. The official `openai` Python SDK is used unchanged. Only `base_url` (`GROQ_BASE_URL`) and the model (`openai/gpt-oss-120b`) differ.
 
 4. Install dependencies:
 
