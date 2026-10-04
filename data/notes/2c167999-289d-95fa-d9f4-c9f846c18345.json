@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "2c167999-289d-95fa-d9f4-c9f846c18345",
+    "patient_id": "2c167999-289d-95fa-5c27-7d8b8d35348c",
+    "document_type": "Office Visit Note",
+    "date": "2021-04-28",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Eliseo Nader - 2021-04-28",
+    "content": "Patient: Eliseo Nader, male, born 1974-01-12 (patient ID 2c167999-289d-95fa-5c27-7d8b8d35348c).\nVisit date: 2021-04-28.\nVisit type: Encounter for symptom.\nClinician: Willian Batz (General Practice).\nFacility: BOSTON MEDICAL CENTER CORPORATION-, WINTHROP, MA."
+  },
+  {
+    "doc_id": "2c167999-289d-95fa-d9f4-c9f846c18345",
+    "patient_id": "2c167999-289d-95fa-5c27-7d8b8d35348c",
+    "document_type": "Office Visit Note",
+    "date": "2021-04-28",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Eliseo Nader - 2021-04-28",
+    "content": "Seen for Viral sinusitis."
+  },
+  {
+    "doc_id": "2c167999-289d-95fa-d9f4-c9f846c18345",
+    "patient_id": "2c167999-289d-95fa-5c27-7d8b8d35348c",
+    "document_type": "Office Visit Note",
+    "date": "2021-04-28",
+    "section": "Assessment",
+    "title": "Office Visit Note - Eliseo Nader - 2021-04-28",
+    "content": "Diagnoses recorded at this visit:\n- Viral sinusitis (onset 2021-04-28), resolved 2021-05-14."
+  }
+]

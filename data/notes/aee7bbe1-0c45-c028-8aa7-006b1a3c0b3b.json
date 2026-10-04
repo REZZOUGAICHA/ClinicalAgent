@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "aee7bbe1-0c45-c028-8aa7-006b1a3c0b3b",
+    "patient_id": "aee7bbe1-0c45-c028-1e62-1f4cdb30c273",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-12-20",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Wilfredo Fritsch - 2018-12-20",
+    "content": "Patient: Wilfredo Fritsch, male, born 2010-12-23 (patient ID aee7bbe1-0c45-c028-1e62-1f4cdb30c273).\nVisit date: 2018-12-20.\nVisit type: Well child visit.\nClinician: Victoria Roob (General Practice).\nFacility: DILIGENCEHEALTHCARE, BROCKTON, MA."
+  },
+  {
+    "doc_id": "aee7bbe1-0c45-c028-8aa7-006b1a3c0b3b",
+    "patient_id": "aee7bbe1-0c45-c028-1e62-1f4cdb30c273",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-12-20",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Wilfredo Fritsch - 2018-12-20",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2018-12-20), resolved 2018-12-20."
+  },
+  {
+    "doc_id": "aee7bbe1-0c45-c028-8aa7-006b1a3c0b3b",
+    "patient_id": "aee7bbe1-0c45-c028-1e62-1f4cdb30c273",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-12-20",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Wilfredo Fritsch - 2018-12-20",
+    "content": "- Body Height: 131.2 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0\n- Body Weight: 39.8 kg\n- Body mass index (BMI) [Ratio]: 23.2 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 98.6 %\n- Diastolic Blood Pressure: 85.0 mm[Hg]\n- Systolic Blood Pressure: 124.0 mm[Hg]\n- Heart rate: 66.0 /min\n- Respiratory rate: 16.0 /min"
+  },
+  {
+    "doc_id": "aee7bbe1-0c45-c028-8aa7-006b1a3c0b3b",
+    "patient_id": "aee7bbe1-0c45-c028-1e62-1f4cdb30c273",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-12-20",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Wilfredo Fritsch - 2018-12-20",
+    "content": "- Medication reconciliation."
+  },
+  {
+    "doc_id": "aee7bbe1-0c45-c028-8aa7-006b1a3c0b3b",
+    "patient_id": "aee7bbe1-0c45-c028-1e62-1f4cdb30c273",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-12-20",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Wilfredo Fritsch - 2018-12-20",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

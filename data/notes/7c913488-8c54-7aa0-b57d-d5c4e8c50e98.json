@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "7c913488-8c54-7aa0-b57d-d5c4e8c50e98",
+    "patient_id": "7c913488-8c54-7aa0-a452-83dbc3ad8377",
+    "document_type": "Office Visit Note",
+    "date": "2023-02-03",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Dian Kiehn - 2023-02-03",
+    "content": "Patient: Dian Kiehn, female, born 2012-01-13 (patient ID 7c913488-8c54-7aa0-a452-83dbc3ad8377).\nVisit date: 2023-02-03.\nVisit type: Encounter for check up.\nClinician: Vella Ankunding (General Practice).\nFacility: SOUTHCOAST HOSPITALS GROUP INC, FALL RIVER, MA."
+  },
+  {
+    "doc_id": "7c913488-8c54-7aa0-b57d-d5c4e8c50e98",
+    "patient_id": "7c913488-8c54-7aa0-a452-83dbc3ad8377",
+    "document_type": "Office Visit Note",
+    "date": "2023-02-03",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Dian Kiehn - 2023-02-03",
+    "content": "Seen for Patient referral for dental care."
+  },
+  {
+    "doc_id": "7c913488-8c54-7aa0-b57d-d5c4e8c50e98",
+    "patient_id": "7c913488-8c54-7aa0-a452-83dbc3ad8377",
+    "document_type": "Office Visit Note",
+    "date": "2023-02-03",
+    "section": "Procedures",
+    "title": "Office Visit Note - Dian Kiehn - 2023-02-03",
+    "content": "- Dental consultation and report, for Patient referral for dental care.\n- Dental care, for Patient referral for dental care.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Examination of gingivae, for Patient referral for dental care.\n- Oral health education, for Patient referral for dental care."
+  }
+]

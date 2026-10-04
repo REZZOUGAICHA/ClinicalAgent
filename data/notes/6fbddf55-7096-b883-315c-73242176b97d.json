@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "6fbddf55-7096-b883-315c-73242176b97d",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2015-04-15",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Clarinda Farrell - 2015-04-15",
+    "content": "Patient: Clarinda Farrell, female, born 1981-07-01 (patient ID 6fbddf55-7096-b883-7cd3-260f27953080).\nVisit date: 2015-04-15.\nVisit type: Encounter for check up.\nClinician: Luther Jakubowski (General Practice).\nFacility: ENCOMPASS HEALTH REHABILITATION HOSP OF NEW ENGLAN, WOBURN, MA."
+  },
+  {
+    "doc_id": "6fbddf55-7096-b883-315c-73242176b97d",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2015-04-15",
+    "section": "Assessment",
+    "title": "Outpatient Procedure Note - Clarinda Farrell - 2015-04-15",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2015-04-15), resolved 2017-10-04.\n- Stress (onset 2015-04-15), resolved 2021-07-07."
+  }
+]

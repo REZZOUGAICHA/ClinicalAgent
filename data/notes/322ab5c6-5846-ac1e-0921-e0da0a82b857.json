@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "322ab5c6-5846-ac1e-0921-e0da0a82b857",
+    "patient_id": "322ab5c6-5846-ac1e-38cc-48b8cb441e20",
+    "document_type": "Emergency Department Note",
+    "date": "2019-04-03",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Lena Cummings - 2019-04-03",
+    "content": "Patient: Lena Cummings, female, born 1965-02-26 (patient ID 322ab5c6-5846-ac1e-38cc-48b8cb441e20).\nVisit date: 2019-04-03.\nVisit type: Emergency room admission.\nClinician: Angelic McCullough (General Practice).\nFacility: COURTYARD NURSING CARE CENTER, MEDFORD, MA."
+  },
+  {
+    "doc_id": "322ab5c6-5846-ac1e-0921-e0da0a82b857",
+    "patient_id": "322ab5c6-5846-ac1e-38cc-48b8cb441e20",
+    "document_type": "Emergency Department Note",
+    "date": "2019-04-03",
+    "section": "Reason for Visit",
+    "title": "Emergency Department Note - Lena Cummings - 2019-04-03",
+    "content": "Seen for Laceration - injury."
+  },
+  {
+    "doc_id": "322ab5c6-5846-ac1e-0921-e0da0a82b857",
+    "patient_id": "322ab5c6-5846-ac1e-38cc-48b8cb441e20",
+    "document_type": "Emergency Department Note",
+    "date": "2019-04-03",
+    "section": "Assessment",
+    "title": "Emergency Department Note - Lena Cummings - 2019-04-03",
+    "content": "Diagnoses recorded at this visit:\n- Laceration - injury (onset 2019-04-03), resolved 2019-04-19.\n- Laceration of forearm (onset 2019-04-03), resolved 2019-04-19."
+  },
+  {
+    "doc_id": "322ab5c6-5846-ac1e-0921-e0da0a82b857",
+    "patient_id": "322ab5c6-5846-ac1e-38cc-48b8cb441e20",
+    "document_type": "Emergency Department Note",
+    "date": "2019-04-03",
+    "section": "Procedures",
+    "title": "Emergency Department Note - Lena Cummings - 2019-04-03",
+    "content": "- Suture open wound, for Laceration of forearm."
+  },
+  {
+    "doc_id": "322ab5c6-5846-ac1e-0921-e0da0a82b857",
+    "patient_id": "322ab5c6-5846-ac1e-38cc-48b8cb441e20",
+    "document_type": "Emergency Department Note",
+    "date": "2019-04-03",
+    "section": "Medications",
+    "title": "Emergency Department Note - Lena Cummings - 2019-04-03",
+    "content": "Medications prescribed at this visit:\n- Acetaminophen 325 MG Oral Tablet, started 2019-04-03; stopped 2019-04-19."
+  },
+  {
+    "doc_id": "322ab5c6-5846-ac1e-0921-e0da0a82b857",
+    "patient_id": "322ab5c6-5846-ac1e-38cc-48b8cb441e20",
+    "document_type": "Emergency Department Note",
+    "date": "2019-04-03",
+    "section": "Plan",
+    "title": "Emergency Department Note - Lena Cummings - 2019-04-03",
+    "content": "- Wound care for Laceration of forearm, started 2019-04-03, ended 2019-04-19."
+  }
+]

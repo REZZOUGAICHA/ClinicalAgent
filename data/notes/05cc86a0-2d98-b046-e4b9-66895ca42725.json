@@ -1,0 +1,65 @@
+[
+  {
+    "doc_id": "05cc86a0-2d98-b046-e4b9-66895ca42725",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-06-05",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Carita Grady - 2020-06-05",
+    "content": "Patient: Carita Grady, female, born 1925-09-18 (patient ID 05cc86a0-2d98-b046-790a-211fd9e1ea92).\nVisit date: 2020-06-05.\nVisit type: General examination of patient.\nClinician: Zachery Rau (General Practice).\nFacility: WALPOLE MEDICAL CENTER PC, WALPOLE, MA."
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-e4b9-66895ca42725",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-06-05",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Carita Grady - 2020-06-05",
+    "content": "Diagnoses recorded at this visit:\n- Full-time employment (onset 2020-06-05), resolved 2023-06-23."
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-e4b9-66895ca42725",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-06-05",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Carita Grady - 2020-06-05",
+    "content": "- Body Height: 148.2 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0\n- Body Weight: 63.5 kg\n- Body mass index (BMI) [Ratio]: 28.9 kg/m2\n- Diastolic Blood Pressure: 79.0 mm[Hg]\n- Systolic Blood Pressure: 112.0 mm[Hg]\n- Heart rate: 70.0 /min\n- Respiratory rate: 15.0 /min"
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-e4b9-66895ca42725",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-06-05",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Carita Grady - 2020-06-05",
+    "content": "- Hemoglobin A1c/Hemoglobin.total in Blood: 5.9 %\n- Glucose [Mass/volume] in Blood: 88.0 mg/dL\n- Urea nitrogen [Mass/volume] in Blood: 10.4 mg/dL\n- Creatinine [Mass/volume] in Blood: 0.3 mg/dL\n- Calcium [Mass/volume] in Blood: 9.4 mg/dL\n- Sodium [Moles/volume] in Blood: 137.3 mmol/L\n- Potassium [Moles/volume] in Blood: 4.3 mmol/L\n- Chloride [Moles/volume] in Blood: 105.6 mmol/L\n- Carbon dioxide  total [Moles/volume] in Blood: 24.2 mmol/L"
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-e4b9-66895ca42725",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-06-05",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Carita Grady - 2020-06-05",
+    "content": "- Assessment of health and social care needs.\n- Screening for domestic abuse.\n- Depression screening.\n- Depression screening."
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-e4b9-66895ca42725",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-06-05",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Carita Grady - 2020-06-05",
+    "content": "Medications prescribed at this visit:\n- Alendronic acid 10 MG Oral Tablet, started 2020-06-05, for Osteoporosis; stopped 2021-06-11."
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-e4b9-66895ca42725",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-06-05",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Carita Grady - 2020-06-05",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

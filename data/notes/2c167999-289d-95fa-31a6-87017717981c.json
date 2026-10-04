@@ -1,0 +1,65 @@
+[
+  {
+    "doc_id": "2c167999-289d-95fa-31a6-87017717981c",
+    "patient_id": "2c167999-289d-95fa-5c27-7d8b8d35348c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-05-23",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Eliseo Nader - 2020-05-23",
+    "content": "Patient: Eliseo Nader, male, born 1974-01-12 (patient ID 2c167999-289d-95fa-5c27-7d8b8d35348c).\nVisit date: 2020-05-23.\nVisit type: General examination of patient.\nClinician: Eddie Keeling (General Practice).\nFacility: PRIMARY CARE NORTH PC, LYNN, MA."
+  },
+  {
+    "doc_id": "2c167999-289d-95fa-31a6-87017717981c",
+    "patient_id": "2c167999-289d-95fa-5c27-7d8b8d35348c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-05-23",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Eliseo Nader - 2020-05-23",
+    "content": "Diagnoses recorded at this visit:\n- Part-time employment (onset 2020-05-23), resolved 2021-05-29.\n- Gingivitis (onset 2020-05-23), resolved 2020-06-06."
+  },
+  {
+    "doc_id": "2c167999-289d-95fa-31a6-87017717981c",
+    "patient_id": "2c167999-289d-95fa-5c27-7d8b8d35348c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-05-23",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Eliseo Nader - 2020-05-23",
+    "content": "- Body Height: 172.0 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0\n- Body Weight: 82.3 kg\n- Body mass index (BMI) [Ratio]: 27.8 kg/m2\n- Diastolic Blood Pressure: 79.0 mm[Hg]\n- Systolic Blood Pressure: 112.0 mm[Hg]\n- Heart rate: 98.0 /min\n- Respiratory rate: 14.0 /min"
+  },
+  {
+    "doc_id": "2c167999-289d-95fa-31a6-87017717981c",
+    "patient_id": "2c167999-289d-95fa-5c27-7d8b8d35348c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-05-23",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Eliseo Nader - 2020-05-23",
+    "content": "- Hemoglobin A1c/Hemoglobin.total in Blood: 7.0 %\n- Glucose [Mass/volume] in Blood: 109.7 mg/dL\n- Urea nitrogen [Mass/volume] in Blood: 7.2 mg/dL\n- Creatinine [Mass/volume] in Blood: 1.2 mg/dL\n- Calcium [Mass/volume] in Blood: 8.7 mg/dL\n- Sodium [Moles/volume] in Blood: 142.7 mmol/L\n- Potassium [Moles/volume] in Blood: 4.5 mmol/L\n- Chloride [Moles/volume] in Blood: 107.8 mmol/L\n- Carbon dioxide  total [Moles/volume] in Blood: 26.6 mmol/L\n- Cholesterol [Mass/volume] in Serum or Plasma: 235.1 mg/dL\n- Triglyceride [Mass/volume] in Serum or Plasma: 168.5 mg/dL\n- Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay: 148.1 mg/dL\n- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 53.3 mg/dL\n- Microalbumin/Creatinine [Mass Ratio] in Urine: 7.2 mg/g\n- Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M: 87.0 mL/min/{1.73_m2}"
+  },
+  {
+    "doc_id": "2c167999-289d-95fa-31a6-87017717981c",
+    "patient_id": "2c167999-289d-95fa-5c27-7d8b8d35348c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-05-23",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Eliseo Nader - 2020-05-23",
+    "content": "- Assessment of health and social care needs.\n- Assessment of anxiety.\n- Depression screening.\n- Depression screening.\n- Patient referral for dental care, for Gingivitis."
+  },
+  {
+    "doc_id": "2c167999-289d-95fa-31a6-87017717981c",
+    "patient_id": "2c167999-289d-95fa-5c27-7d8b8d35348c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-05-23",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Eliseo Nader - 2020-05-23",
+    "content": "Medications prescribed at this visit:\n- Hydrochlorothiazide 25 MG Oral Tablet, started 2020-05-23, for Essential hypertension; stopped 2021-05-29.\n- amLODIPine 2.5 MG Oral Tablet, started 2020-05-23, for Essential hypertension; stopped 2021-05-29."
+  },
+  {
+    "doc_id": "2c167999-289d-95fa-31a6-87017717981c",
+    "patient_id": "2c167999-289d-95fa-5c27-7d8b8d35348c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-05-23",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Eliseo Nader - 2020-05-23",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

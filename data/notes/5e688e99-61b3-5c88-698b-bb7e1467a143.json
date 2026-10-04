@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "5e688e99-61b3-5c88-698b-bb7e1467a143",
+    "patient_id": "5e688e99-61b3-5c88-3f60-21df8aaced27",
+    "document_type": "Office Visit Note",
+    "date": "2024-03-14",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Wallace Effertz - 2024-03-14",
+    "content": "Patient: Wallace Effertz, male, born 2010-01-28 (patient ID 5e688e99-61b3-5c88-3f60-21df8aaced27).\nVisit date: 2024-03-14.\nVisit type: Encounter for check up.\nClinician: Lorette Hauck (General Practice).\nFacility: WHITTIER REHABILTATION HOSPITAL, LYNN, MA."
+  },
+  {
+    "doc_id": "5e688e99-61b3-5c88-698b-bb7e1467a143",
+    "patient_id": "5e688e99-61b3-5c88-3f60-21df8aaced27",
+    "document_type": "Office Visit Note",
+    "date": "2024-03-14",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Wallace Effertz - 2024-03-14",
+    "content": "Seen for Patient referral for dental care."
+  },
+  {
+    "doc_id": "5e688e99-61b3-5c88-698b-bb7e1467a143",
+    "patient_id": "5e688e99-61b3-5c88-3f60-21df8aaced27",
+    "document_type": "Office Visit Note",
+    "date": "2024-03-14",
+    "section": "Assessment",
+    "title": "Office Visit Note - Wallace Effertz - 2024-03-14",
+    "content": "Diagnoses recorded at this visit:\n- Primary dental caries (onset 2024-03-14), resolved 2024-03-14."
+  },
+  {
+    "doc_id": "5e688e99-61b3-5c88-698b-bb7e1467a143",
+    "patient_id": "5e688e99-61b3-5c88-3f60-21df8aaced27",
+    "document_type": "Office Visit Note",
+    "date": "2024-03-14",
+    "section": "Procedures",
+    "title": "Office Visit Note - Wallace Effertz - 2024-03-14",
+    "content": "- Dental consultation and report, for Patient referral for dental care.\n- Dental care, for Patient referral for dental care.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Dental plain X-ray bitewing.\n- Examination of gingivae, for Patient referral for dental care.\n- Application of composite dental filling material to dentin of tooth following fracture of tooth, for Primary dental caries.\n- Oral health education, for Patient referral for dental care."
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "14a5a697-29a3-48b2-d104-eb9ab1857011",
+    "patient_id": "14a5a697-29a3-48b2-969a-3ceefe74a700",
+    "document_type": "Office Visit Note",
+    "date": "2019-02-14",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Drusilla Schumm - 2019-02-14",
+    "content": "Patient: Drusilla Schumm, female, born 1958-11-15 (patient ID 14a5a697-29a3-48b2-969a-3ceefe74a700).\nVisit date: 2019-02-14.\nVisit type: Encounter for problem.\nClinician: Bennie Abbott (General Practice).\nFacility: LAHEY HOSPITAL & MEDICAL CENTER BURLINGTON, PEABODY, MA."
+  },
+  {
+    "doc_id": "14a5a697-29a3-48b2-d104-eb9ab1857011",
+    "patient_id": "14a5a697-29a3-48b2-969a-3ceefe74a700",
+    "document_type": "Office Visit Note",
+    "date": "2019-02-14",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Drusilla Schumm - 2019-02-14",
+    "content": "Seen for Loss of teeth."
+  },
+  {
+    "doc_id": "14a5a697-29a3-48b2-d104-eb9ab1857011",
+    "patient_id": "14a5a697-29a3-48b2-969a-3ceefe74a700",
+    "document_type": "Office Visit Note",
+    "date": "2019-02-14",
+    "section": "Procedures",
+    "title": "Office Visit Note - Drusilla Schumm - 2019-02-14",
+    "content": "- Dental consultation and report, for Loss of teeth.\n- Dental plain X-ray bitewing.\n- Take oral or dental impression, for Loss of teeth."
+  }
+]

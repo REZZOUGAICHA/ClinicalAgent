@@ -1,0 +1,65 @@
+[
+  {
+    "doc_id": "46976cf7-b0bf-be20-89a0-4d66350b66b7",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Office Visit Note",
+    "date": "2020-12-06",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Lindsay Zieme - 2020-12-06",
+    "content": "Patient: Lindsay Zieme, female, born 2007-09-14 (patient ID 46976cf7-b0bf-be20-39a5-9f425a52886d).\nVisit date: 2020-12-06.\nVisit type: Encounter for symptom.\nClinician: Otha Roberts (General Practice).\nFacility: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC, WORCESTER, MA."
+  },
+  {
+    "doc_id": "46976cf7-b0bf-be20-89a0-4d66350b66b7",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Office Visit Note",
+    "date": "2020-12-06",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Lindsay Zieme - 2020-12-06",
+    "content": "Seen for Suspected disease caused by Severe acute respiratory coronavirus 2."
+  },
+  {
+    "doc_id": "46976cf7-b0bf-be20-89a0-4d66350b66b7",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Office Visit Note",
+    "date": "2020-12-06",
+    "section": "Assessment",
+    "title": "Office Visit Note - Lindsay Zieme - 2020-12-06",
+    "content": "Diagnoses recorded at this visit:\n- Headache (onset 2020-12-06), resolved 2020-12-26.\n- Sputum finding (onset 2020-12-06), resolved 2020-12-26.\n- Fever (onset 2020-12-06), resolved 2020-12-26.\n- Disease caused by severe acute respiratory syndrome coronavirus 2 (onset 2020-12-06), resolved 2020-12-26."
+  },
+  {
+    "doc_id": "46976cf7-b0bf-be20-89a0-4d66350b66b7",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Office Visit Note",
+    "date": "2020-12-06",
+    "section": "Vital Signs",
+    "title": "Office Visit Note - Lindsay Zieme - 2020-12-06",
+    "content": "- Body temperature: 38.5 \u00b0C\n- Respiratory rate: 37.9 /min\n- Heart rate: 167.2 /min\n- Oxygen saturation in Arterial blood: 87.2 %\n- Diastolic Blood Pressure: 91.0 mm[Hg]\n- Systolic Blood Pressure: 108.0 mm[Hg]\n- Body Weight: 45.7 kg"
+  },
+  {
+    "doc_id": "46976cf7-b0bf-be20-89a0-4d66350b66b7",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Office Visit Note",
+    "date": "2020-12-06",
+    "section": "Laboratory Results",
+    "title": "Office Visit Note - Lindsay Zieme - 2020-12-06",
+    "content": "- Influenza virus A RNA [Presence] in Respiratory system specimen by NAA with probe detection: Negative (qualifier value)\n- Influenza virus B RNA [Presence] in Respiratory system specimen by NAA with probe detection: Negative (qualifier value)\n- Respiratory syncytial virus RNA [Presence] in Respiratory system specimen by NAA with probe detection: Negative (qualifier value)\n- Parainfluenza virus 1 RNA [Presence] in Respiratory system specimen by NAA with probe detection: Negative (qualifier value)\n- Parainfluenza virus 2 RNA [Presence] in Respiratory system specimen by NAA with probe detection: Negative (qualifier value)\n- Parainfluenza virus 3 RNA [Presence] in Respiratory system specimen by NAA with probe detection: Negative (qualifier value)\n- Rhinovirus RNA [Presence] in Respiratory system specimen by NAA with probe detection: Negative (qualifier value)\n- Human metapneumovirus RNA [Presence] in Respiratory system specimen by NAA with probe detection: Negative (qualifier value)\n- Adenovirus A+B+C+D+E DNA [Presence] in Respiratory system specimen by NAA with probe detection: Negative (qualifier value)\n- SARS-CoV-2 (COVID-19) RNA panel - Respiratory system specimen by NAA with probe detection: Detected (qualifier value)"
+  },
+  {
+    "doc_id": "46976cf7-b0bf-be20-89a0-4d66350b66b7",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Office Visit Note",
+    "date": "2020-12-06",
+    "section": "Procedures",
+    "title": "Office Visit Note - Lindsay Zieme - 2020-12-06",
+    "content": "- Face mask (physical object), for Suspected disease caused by Severe acute respiratory coronavirus 2."
+  },
+  {
+    "doc_id": "46976cf7-b0bf-be20-89a0-4d66350b66b7",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Office Visit Note",
+    "date": "2020-12-06",
+    "section": "Plan",
+    "title": "Office Visit Note - Lindsay Zieme - 2020-12-06",
+    "content": "- Infectious disease care plan, started 2020-12-06, ended 2020-12-06.\n- Infectious disease care plan, started 2020-12-06, ended 2020-12-26."
+  }
+]

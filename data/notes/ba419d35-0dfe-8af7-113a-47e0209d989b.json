@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "ba419d35-0dfe-8af7-113a-47e0209d989b",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2009-05-29",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Corie Kohler - 2009-05-29",
+    "content": "Patient: Corie Kohler, female, born 1925-09-18 (patient ID ba419d35-0dfe-8af7-347c-eebf02485a56).\nVisit date: 2009-05-29.\nVisit type: General examination of patient.\nClinician: Wynell Mayert (General Practice).\nFacility: WELLNESS ON WHEELS PC, NORTH ATTLEBORO, MA."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-113a-47e0209d989b",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2009-05-29",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Corie Kohler - 2009-05-29",
+    "content": "Diagnoses recorded at this visit:\n- Chronic kidney disease stage 2 (onset 2009-05-29), resolved 2016-10-14.\n- Microalbuminuria due to type 2 diabetes mellitus (onset 2009-05-29)."
+  }
+]

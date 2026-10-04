@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-0491-e3c22fd4c584",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Office Visit Note",
+    "date": "2018-05-30",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Aron Hammes - 2018-05-30",
+    "content": "Patient: Aron Hammes, male, born 2002-10-19 (patient ID 2de4dd0d-f665-8a2e-4c6b-997735e14ace).\nVisit date: 2018-05-30.\nVisit type: Encounter for symptom.\nClinician: Carroll Eichmann (General Practice).\nFacility: BERKSHIRE MEDICAL CENTER INC, PITTSFIELD, MA."
+  },
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-0491-e3c22fd4c584",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Office Visit Note",
+    "date": "2018-05-30",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Aron Hammes - 2018-05-30",
+    "content": "Seen for Acute bronchitis."
+  },
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-0491-e3c22fd4c584",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Office Visit Note",
+    "date": "2018-05-30",
+    "section": "Assessment",
+    "title": "Office Visit Note - Aron Hammes - 2018-05-30",
+    "content": "Diagnoses recorded at this visit:\n- Acute bronchitis (onset 2018-05-30), resolved 2018-06-12."
+  },
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-0491-e3c22fd4c584",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Office Visit Note",
+    "date": "2018-05-30",
+    "section": "Procedures",
+    "title": "Office Visit Note - Aron Hammes - 2018-05-30",
+    "content": "- Measurement of respiratory function, for Acute bronchitis."
+  },
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-0491-e3c22fd4c584",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Office Visit Note",
+    "date": "2018-05-30",
+    "section": "Medications",
+    "title": "Office Visit Note - Aron Hammes - 2018-05-30",
+    "content": "Medications prescribed at this visit:\n- Acetaminophen 325 MG Oral Tablet, started 2018-05-30, for Acute bronchitis; stopped 2018-06-12."
+  },
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-0491-e3c22fd4c584",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Office Visit Note",
+    "date": "2018-05-30",
+    "section": "Plan",
+    "title": "Office Visit Note - Aron Hammes - 2018-05-30",
+    "content": "- Respiratory therapy, started 2018-05-30, ended 2018-12-01."
+  }
+]

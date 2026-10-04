@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "35b353dd-402b-571a-bbf4-7585555e13e3",
+    "patient_id": "35b353dd-402b-571a-d67a-af0a104d0854",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2026-05-30",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Jody Monahan - 2026-05-30",
+    "content": "Patient: Jody Monahan, male, born 1943-09-18 (patient ID 35b353dd-402b-571a-d67a-af0a104d0854).\nVisit date: 2026-05-30.\nVisit type: Encounter for check up.\nClinician: Floy Greenfelder (General Practice).\nFacility: CAMBRIDGE PUBLIC HEALTH COMMISSION, SOMERVILLE, MA."
+  },
+  {
+    "doc_id": "35b353dd-402b-571a-bbf4-7585555e13e3",
+    "patient_id": "35b353dd-402b-571a-d67a-af0a104d0854",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2026-05-30",
+    "section": "Assessment",
+    "title": "Outpatient Procedure Note - Jody Monahan - 2026-05-30",
+    "content": "Diagnoses recorded at this visit:\n- Not in labor force (onset 2026-05-30)."
+  },
+  {
+    "doc_id": "35b353dd-402b-571a-bbf4-7585555e13e3",
+    "patient_id": "35b353dd-402b-571a-d67a-af0a104d0854",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2026-05-30",
+    "section": "Vital Signs",
+    "title": "Outpatient Procedure Note - Jody Monahan - 2026-05-30",
+    "content": "- Body Height: 172.0 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0\n- Body Weight: 81.1 kg\n- Body mass index (BMI) [Ratio]: 27.4 kg/m2\n- Diastolic Blood Pressure: 62.0 mm[Hg]\n- Systolic Blood Pressure: 118.0 mm[Hg]\n- Heart rate: 91.0 /min\n- Respiratory rate: 15.0 /min"
+  },
+  {
+    "doc_id": "35b353dd-402b-571a-bbf4-7585555e13e3",
+    "patient_id": "35b353dd-402b-571a-d67a-af0a104d0854",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2026-05-30",
+    "section": "Laboratory Results",
+    "title": "Outpatient Procedure Note - Jody Monahan - 2026-05-30",
+    "content": "- Glucose [Mass/volume] in Serum or Plasma: 92.0 mg/dL\n- Urea nitrogen [Mass/volume] in Serum or Plasma: 7.9 mg/dL\n- Creatinine [Mass/volume] in Serum or Plasma: 1.9 mg/dL\n- Calcium [Mass/volume] in Serum or Plasma: 8.9 mg/dL\n- Sodium [Moles/volume] in Serum or Plasma: 142.6 mmol/L\n- Potassium [Moles/volume] in Serum or Plasma: 4.8 mmol/L\n- Chloride [Moles/volume] in Serum or Plasma: 101.2 mmol/L\n- Carbon dioxide  total [Moles/volume] in Serum or Plasma: 28.0 mmol/L\n- Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M: 58.2 mL/min/{1.73_m2}\n- Appearance of Urine: Cloudy urine (finding)\n- Odor of Urine: Urine smell ammoniacal (finding)\n- Clarity of Urine: Translucent (qualifier value)\n- Color of Urine: Brown color (qualifier value)\n- Glucose [Mass/volume] in Urine by Test strip: 2.0 mg/dL\n- Glucose [Presence] in Urine by Test strip: Urine glucose test = ++ (finding)\n- Bilirubin.total [Mass/volume] in Urine by Test strip: 0.8 mg/dL\n- Bilirubin.total [Presence] in Urine by Test strip: Finding of bilirubin in urine (finding)\n- Ketones [Mass/volume] in Urine by Test strip: 6.8 mg/dL\n- Ketones [Presence] in Urine by Test strip: Urine ketone test = ++ (finding)\n- Specific gravity of Urine by Test strip: 1.0\n- pH of Urine by Test strip: 6.8 pH\n- Protein [Mass/volume] in Urine by Test strip: 356.0 mg/dL\n- Protein [Presence] in Urine by Test strip: Urine protein test = ++ (finding)\n- Nitrite [Presence] in Urine by Test strip: Nitrite not detected in urine (finding)\n- Hemoglobin [Presence] in Urine by Test strip: Blood not detected in urine (finding)\n- Leukocyte esterase [Presence] in Urine by Test strip: Urine leukocytes not detected (finding)"
+  },
+  {
+    "doc_id": "35b353dd-402b-571a-bbf4-7585555e13e3",
+    "patient_id": "35b353dd-402b-571a-d67a-af0a104d0854",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2026-05-30",
+    "section": "Procedures",
+    "title": "Outpatient Procedure Note - Jody Monahan - 2026-05-30",
+    "content": "- Sleep apnea assessment, for Sleep disorder.\n- Assessment of health and social care needs.\n- Assessment using Morse Fall Scale.\n- Depression screening.\n- Depression screening.\n- Assessment of substance use.\n- Screening for drug abuse."
+  },
+  {
+    "doc_id": "35b353dd-402b-571a-bbf4-7585555e13e3",
+    "patient_id": "35b353dd-402b-571a-d67a-af0a104d0854",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2026-05-30",
+    "section": "Medications",
+    "title": "Outpatient Procedure Note - Jody Monahan - 2026-05-30",
+    "content": "Medications prescribed at this visit:\n- Hydrochlorothiazide 25 MG Oral Tablet, started 2026-05-30, for Essential hypertension; no stop date recorded."
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "f32a088b-988b-d7d5-425f-db3cab8bb78c",
+    "patient_id": "f32a088b-988b-d7d5-008b-89ea4ed1fc48",
+    "document_type": "Office Visit Note",
+    "date": "2018-08-15",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Wayne McLaughlin - 2018-08-15",
+    "content": "Patient: Wayne McLaughlin, male, born 2006-08-16 (patient ID f32a088b-988b-d7d5-008b-89ea4ed1fc48).\nVisit date: 2018-08-15.\nVisit type: Encounter for check up.\nClinician: Chantell Krajcik (General Practice).\nFacility: FRANCISCAN HOSPITAL FOR CHILDREN INC, BOSTON, MA."
+  },
+  {
+    "doc_id": "f32a088b-988b-d7d5-425f-db3cab8bb78c",
+    "patient_id": "f32a088b-988b-d7d5-008b-89ea4ed1fc48",
+    "document_type": "Office Visit Note",
+    "date": "2018-08-15",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Wayne McLaughlin - 2018-08-15",
+    "content": "Seen for Patient referral for dental care."
+  },
+  {
+    "doc_id": "f32a088b-988b-d7d5-425f-db3cab8bb78c",
+    "patient_id": "f32a088b-988b-d7d5-008b-89ea4ed1fc48",
+    "document_type": "Office Visit Note",
+    "date": "2018-08-15",
+    "section": "Procedures",
+    "title": "Office Visit Note - Wayne McLaughlin - 2018-08-15",
+    "content": "- Dental consultation and report, for Patient referral for dental care.\n- Dental care, for Patient referral for dental care.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Examination of gingivae, for Patient referral for dental care.\n- Oral health education, for Patient referral for dental care."
+  }
+]

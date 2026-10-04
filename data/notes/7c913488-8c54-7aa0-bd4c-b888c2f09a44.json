@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "7c913488-8c54-7aa0-bd4c-b888c2f09a44",
+    "patient_id": "7c913488-8c54-7aa0-a452-83dbc3ad8377",
+    "document_type": "Emergency Department Note",
+    "date": "2024-09-21",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Dian Kiehn - 2024-09-21",
+    "content": "Patient: Dian Kiehn, female, born 2012-01-13 (patient ID 7c913488-8c54-7aa0-a452-83dbc3ad8377).\nVisit date: 2024-09-21.\nVisit type: Emergency room admission.\nClinician: Lucien Howe (General Practice).\nFacility: FALL RIVER JEWISH HOME INC, FALL RIVER, MA."
+  },
+  {
+    "doc_id": "7c913488-8c54-7aa0-bd4c-b888c2f09a44",
+    "patient_id": "7c913488-8c54-7aa0-a452-83dbc3ad8377",
+    "document_type": "Emergency Department Note",
+    "date": "2024-09-21",
+    "section": "Reason for Visit",
+    "title": "Emergency Department Note - Dian Kiehn - 2024-09-21",
+    "content": "Seen for Sprain (morphologic abnormality)."
+  },
+  {
+    "doc_id": "7c913488-8c54-7aa0-bd4c-b888c2f09a44",
+    "patient_id": "7c913488-8c54-7aa0-a452-83dbc3ad8377",
+    "document_type": "Emergency Department Note",
+    "date": "2024-09-21",
+    "section": "Assessment",
+    "title": "Emergency Department Note - Dian Kiehn - 2024-09-21",
+    "content": "Diagnoses recorded at this visit:\n- Sprain (morphologic abnormality) (onset 2024-09-21), resolved 2024-10-22.\n- Sprain of ankle (onset 2024-09-21), resolved 2024-10-22."
+  },
+  {
+    "doc_id": "7c913488-8c54-7aa0-bd4c-b888c2f09a44",
+    "patient_id": "7c913488-8c54-7aa0-a452-83dbc3ad8377",
+    "document_type": "Emergency Department Note",
+    "date": "2024-09-21",
+    "section": "Medications",
+    "title": "Emergency Department Note - Dian Kiehn - 2024-09-21",
+    "content": "Medications prescribed at this visit:\n- Ibuprofen 200 MG Oral Tablet, started 2024-09-21; stopped 2024-10-22."
+  },
+  {
+    "doc_id": "7c913488-8c54-7aa0-bd4c-b888c2f09a44",
+    "patient_id": "7c913488-8c54-7aa0-a452-83dbc3ad8377",
+    "document_type": "Emergency Department Note",
+    "date": "2024-09-21",
+    "section": "Plan",
+    "title": "Emergency Department Note - Dian Kiehn - 2024-09-21",
+    "content": "- Physiotherapy care plan for Sprain of ankle, started 2024-09-21, ended 2024-10-22."
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "4f083ce3-f12b-bb4b-49b4-fd0f6056a789",
+    "patient_id": "4f083ce3-f12b-bb4b-7353-e17f0cd55b0a",
+    "document_type": "Office Visit Note",
+    "date": "2023-05-21",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Ezekiel Walter - 2023-05-21",
+    "content": "Patient: Ezekiel Walter, male, born 1999-01-12 (patient ID 4f083ce3-f12b-bb4b-7353-e17f0cd55b0a).\nVisit date: 2023-05-21.\nVisit type: Encounter for symptom.\nClinician: Eldora Langosh (General Practice).\nFacility: BRIGHAM AND WOMEN'S FAULKNER HOSPITAL INC., JAMAICA PLAIN, MA."
+  },
+  {
+    "doc_id": "4f083ce3-f12b-bb4b-49b4-fd0f6056a789",
+    "patient_id": "4f083ce3-f12b-bb4b-7353-e17f0cd55b0a",
+    "document_type": "Office Visit Note",
+    "date": "2023-05-21",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Ezekiel Walter - 2023-05-21",
+    "content": "Seen for Acute bacterial sinusitis."
+  },
+  {
+    "doc_id": "4f083ce3-f12b-bb4b-49b4-fd0f6056a789",
+    "patient_id": "4f083ce3-f12b-bb4b-7353-e17f0cd55b0a",
+    "document_type": "Office Visit Note",
+    "date": "2023-05-21",
+    "section": "Assessment",
+    "title": "Office Visit Note - Ezekiel Walter - 2023-05-21",
+    "content": "Diagnoses recorded at this visit:\n- Acute bacterial sinusitis (onset 2023-05-21), resolved 2023-07-30."
+  }
+]

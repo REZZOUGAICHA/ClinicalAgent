@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "7811dc30-8c86-8164-84ca-e53dea97044b",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Office Visit Note",
+    "date": "2020-04-21",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Mignon Rau - 2020-04-21",
+    "content": "Patient: Mignon Rau, female, born 1970-04-21 (patient ID 7811dc30-8c86-8164-6c33-6b6f464745ef).\nVisit date: 2020-04-21.\nVisit type: Encounter for check up.\nClinician: Rudolf Vandervort (General Practice).\nFacility: BETH ISRAEL DEACONESS HOSPITAL MILTON INC, MILTON, MA."
+  },
+  {
+    "doc_id": "7811dc30-8c86-8164-84ca-e53dea97044b",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Office Visit Note",
+    "date": "2020-04-21",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Mignon Rau - 2020-04-21",
+    "content": "Seen for Screening for malignant neoplasm of colon."
+  },
+  {
+    "doc_id": "7811dc30-8c86-8164-84ca-e53dea97044b",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Office Visit Note",
+    "date": "2020-04-21",
+    "section": "Procedures",
+    "title": "Office Visit Note - Mignon Rau - 2020-04-21",
+    "content": "- Colonoscopy."
+  }
+]

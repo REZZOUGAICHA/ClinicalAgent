@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "6fbddf55-7096-b883-58c4-d08a2acfbd7e",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-07-07",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Clarinda Farrell - 2021-07-07",
+    "content": "Patient: Clarinda Farrell, female, born 1981-07-01 (patient ID 6fbddf55-7096-b883-7cd3-260f27953080).\nVisit date: 2021-07-07.\nVisit type: General examination of patient.\nClinician: Lorinda Pouros (General Practice).\nFacility: CLARITY HEALTH & WELLNESS LLC, BURLINGTON, MA."
+  },
+  {
+    "doc_id": "6fbddf55-7096-b883-58c4-d08a2acfbd7e",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-07-07",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Clarinda Farrell - 2021-07-07",
+    "content": "- Body Height: 164.8 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0\n- Body Weight: 75.7 kg\n- Body mass index (BMI) [Ratio]: 27.9 kg/m2\n- Diastolic Blood Pressure: 84.0 mm[Hg]\n- Systolic Blood Pressure: 118.0 mm[Hg]\n- Heart rate: 80.0 /min\n- Respiratory rate: 15.0 /min"
+  },
+  {
+    "doc_id": "6fbddf55-7096-b883-58c4-d08a2acfbd7e",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-07-07",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Clarinda Farrell - 2021-07-07",
+    "content": "- Leukocytes [#/volume] in Blood by Automated count: 4.9 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 4.5 10*6/uL\n- Hemoglobin [Mass/volume] in Blood: 12.1 g/dL\n- Hematocrit [Volume Fraction] of Blood by Automated count: 40.4 %\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 90.0 fL\n- MCH [Entitic mass] by Automated count: 28.5 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 34.7 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 44.5 fL\n- Platelets [#/volume] in Blood by Automated count: 377.8 10*3/uL\n- Platelet distribution width [Entitic volume] in Blood by Automated count: 16.6 fL\n- Platelet [Entitic mean volume] in Blood by Automated count: 10.4 fL"
+  },
+  {
+    "doc_id": "6fbddf55-7096-b883-58c4-d08a2acfbd7e",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-07-07",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Clarinda Farrell - 2021-07-07",
+    "content": "- Medication reconciliation.\n- Assessment of health and social care needs.\n- Assessment of anxiety."
+  },
+  {
+    "doc_id": "6fbddf55-7096-b883-58c4-d08a2acfbd7e",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-07-07",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Clarinda Farrell - 2021-07-07",
+    "content": "- Influenza split virus trivalent PF.\n- Hep A adult."
+  }
+]

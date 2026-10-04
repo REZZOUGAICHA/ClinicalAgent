@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "7b06ee52-df9a-8487-170e-c4cb7b108e73",
+    "patient_id": "7b06ee52-df9a-8487-0be6-dff27cc7d519",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2016-09-12",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Ressie Nader - 2016-09-12",
+    "content": "Patient: Ressie Nader, female, born 2001-08-06 (patient ID 7b06ee52-df9a-8487-0be6-dff27cc7d519).\nVisit date: 2016-09-12.\nVisit type: Well child visit.\nClinician: Morgan Marvin (General Practice).\nFacility: FAMILY MEDICINE ASSOCIATES OF SOUTH ATTLEBORO P.C., SOUTH ATTLEBORO, MA."
+  },
+  {
+    "doc_id": "7b06ee52-df9a-8487-170e-c4cb7b108e73",
+    "patient_id": "7b06ee52-df9a-8487-0be6-dff27cc7d519",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2016-09-12",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Ressie Nader - 2016-09-12",
+    "content": "Diagnoses recorded at this visit:\n- Anemia (onset 2017-08-24), resolved 2017-08-24."
+  }
+]

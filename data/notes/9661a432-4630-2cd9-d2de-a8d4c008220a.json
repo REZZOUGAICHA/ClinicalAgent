@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "9661a432-4630-2cd9-d2de-a8d4c008220a",
+    "patient_id": "9661a432-4630-2cd9-142c-386845fae837",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1996-04-09",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Paul Tremblay - 1996-04-09",
+    "content": "Patient: Paul Tremblay, male, born 1978-02-14 (patient ID 9661a432-4630-2cd9-142c-386845fae837).\nVisit date: 1996-04-09.\nVisit type: General examination of patient.\nClinician: Idella Runte (General Practice).\nFacility: SIGNATURE HEALTHCARE MEDICAL GROUP INC, WEST BRIDGEWATER, MA."
+  },
+  {
+    "doc_id": "9661a432-4630-2cd9-d2de-a8d4c008220a",
+    "patient_id": "9661a432-4630-2cd9-142c-386845fae837",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1996-04-09",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Paul Tremblay - 1996-04-09",
+    "content": "Diagnoses recorded at this visit:\n- Received higher education (onset 1996-04-09)."
+  }
+]

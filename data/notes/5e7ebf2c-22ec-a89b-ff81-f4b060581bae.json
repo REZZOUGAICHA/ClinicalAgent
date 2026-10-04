@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-ff81-f4b060581bae",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Office Visit Note",
+    "date": "2020-03-19",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Rosalba Effertz - 2020-03-19",
+    "content": "Patient: Rosalba Effertz, female, born 1973-08-05 (patient ID 5e7ebf2c-22ec-a89b-53ab-38edddd81be9).\nVisit date: 2020-03-19.\nVisit type: Encounter for problem.\nClinician: Saundra Kuphal (General Practice).\nFacility: COOLEY DICKINSON HOSPITAL INC, NORTHAMPTON, MA."
+  },
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-ff81-f4b060581bae",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Office Visit Note",
+    "date": "2020-03-19",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Rosalba Effertz - 2020-03-19",
+    "content": "Seen for Dependent drug abuse."
+  },
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-ff81-f4b060581bae",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Office Visit Note",
+    "date": "2020-03-19",
+    "section": "Procedures",
+    "title": "Office Visit Note - Rosalba Effertz - 2020-03-19",
+    "content": "- Rehabilitation therapy, for Dependent drug abuse."
+  }
+]

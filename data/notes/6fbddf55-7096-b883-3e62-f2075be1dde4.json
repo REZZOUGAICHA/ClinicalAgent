@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "6fbddf55-7096-b883-3e62-f2075be1dde4",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Office Visit Note",
+    "date": "2020-01-15",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Clarinda Farrell - 2020-01-15",
+    "content": "Patient: Clarinda Farrell, female, born 1981-07-01 (patient ID 6fbddf55-7096-b883-7cd3-260f27953080).\nVisit date: 2020-01-15.\nVisit type: Prenatal visit.\nClinician: Luther Jakubowski (General Practice).\nFacility: ENCOMPASS HEALTH REHABILITATION HOSP OF NEW ENGLAN, WOBURN, MA."
+  },
+  {
+    "doc_id": "6fbddf55-7096-b883-3e62-f2075be1dde4",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Office Visit Note",
+    "date": "2020-01-15",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Clarinda Farrell - 2020-01-15",
+    "content": "Seen for Normal pregnancy."
+  },
+  {
+    "doc_id": "6fbddf55-7096-b883-3e62-f2075be1dde4",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Office Visit Note",
+    "date": "2020-01-15",
+    "section": "Procedures",
+    "title": "Office Visit Note - Clarinda Farrell - 2020-01-15",
+    "content": "- Evaluation of uterine fundal height, for Normal pregnancy.\n- Auscultation of the fetal heart, for Normal pregnancy."
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "922fb35e-148d-9e82-4afe-ccf70fba423e",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Office Visit Note",
+    "date": "2016-07-04",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Agnes Weber - 2016-07-04",
+    "content": "Patient: Agnes Weber, female, born 1986-12-19 (patient ID 922fb35e-148d-9e82-7e65-bfa05e3b3515).\nVisit date: 2016-07-04.\nVisit type: Encounter for symptom.\nClinician: Chanell Robel (General Practice).\nFacility: WHITTIER REHABILITATION HOSPITAL - BRADFORD, WESTBOROUGH, MA."
+  },
+  {
+    "doc_id": "922fb35e-148d-9e82-4afe-ccf70fba423e",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Office Visit Note",
+    "date": "2016-07-04",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Agnes Weber - 2016-07-04",
+    "content": "Seen for Acute bronchitis."
+  },
+  {
+    "doc_id": "922fb35e-148d-9e82-4afe-ccf70fba423e",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Office Visit Note",
+    "date": "2016-07-04",
+    "section": "Plan",
+    "title": "Office Visit Note - Agnes Weber - 2016-07-04",
+    "content": "- Respiratory therapy, started 2016-07-04, ended 2017-04-21."
+  }
+]

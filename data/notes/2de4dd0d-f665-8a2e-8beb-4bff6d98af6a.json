@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-8beb-4bff6d98af6a",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-12-01",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Aron Hammes - 2018-12-01",
+    "content": "Patient: Aron Hammes, male, born 2002-10-19 (patient ID 2de4dd0d-f665-8a2e-4c6b-997735e14ace).\nVisit date: 2018-12-01.\nVisit type: Well child visit.\nClinician: Lola Orosco (General Practice).\nFacility: FAIRVIEW HOSPITAL, WILLIAMSTOWN, MA."
+  },
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-8beb-4bff6d98af6a",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-12-01",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Aron Hammes - 2018-12-01",
+    "content": "Diagnoses recorded at this visit:\n- Gingivitis (onset 2018-12-01), resolved 2018-12-15."
+  },
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-8beb-4bff6d98af6a",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-12-01",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Aron Hammes - 2018-12-01",
+    "content": "- Body Height: 165.9 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0\n- Body Weight: 54.9 kg\n- Body mass index (BMI) [Ratio]: 20.0 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 40.0 %\n- Diastolic Blood Pressure: 65.0 mm[Hg]\n- Systolic Blood Pressure: 133.0 mm[Hg]\n- Heart rate: 77.0 /min\n- Respiratory rate: 14.0 /min"
+  },
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-8beb-4bff6d98af6a",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-12-01",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Aron Hammes - 2018-12-01",
+    "content": "- Leukocytes [#/volume] in Blood by Automated count: 9.1 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 4.0 10*6/uL\n- Hemoglobin [Mass/volume] in Blood: 13.7 g/dL\n- Hematocrit [Volume Fraction] of Blood by Automated count: 49.5 %\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 91.8 fL\n- MCH [Entitic mass] by Automated count: 30.9 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 34.5 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 43.8 fL\n- Platelets [#/volume] in Blood by Automated count: 208.2 10*3/uL\n- Platelet distribution width [Entitic volume] in Blood by Automated count: 9.7 fL\n- Platelet [Entitic mean volume] in Blood by Automated count: 10.1 fL"
+  },
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-8beb-4bff6d98af6a",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-12-01",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Aron Hammes - 2018-12-01",
+    "content": "- Assessment of anxiety.\n- Depression screening.\n- Depression screening using Patient Health Questionnaire Nine Item score.\n- Assessment of substance use.\n- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test.\n- Anticipatory guidance.\n- Patient referral for dental care, for Gingivitis."
+  },
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-8beb-4bff6d98af6a",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-12-01",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Aron Hammes - 2018-12-01",
+    "content": "- meningococcal MCV4P."
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "doc_id": "2c167999-289d-95fa-b19c-f0475ebb7001",
+    "patient_id": "2c167999-289d-95fa-5c27-7d8b8d35348c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-05-06",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Eliseo Nader - 2017-05-06",
+    "content": "Patient: Eliseo Nader, male, born 1974-01-12 (patient ID 2c167999-289d-95fa-5c27-7d8b8d35348c).\nVisit date: 2017-05-06.\nVisit type: General examination of patient.\nClinician: Eddie Keeling (General Practice).\nFacility: PRIMARY CARE NORTH PC, LYNN, MA."
+  },
+  {
+    "doc_id": "2c167999-289d-95fa-b19c-f0475ebb7001",
+    "patient_id": "2c167999-289d-95fa-5c27-7d8b8d35348c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-05-06",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Eliseo Nader - 2017-05-06",
+    "content": "Diagnoses recorded at this visit:\n- Unemployed (onset 2017-05-06), resolved 2018-05-12.\n- Limited social contact (onset 2017-05-06), resolved 2018-05-12."
+  },
+  {
+    "doc_id": "2c167999-289d-95fa-b19c-f0475ebb7001",
+    "patient_id": "2c167999-289d-95fa-5c27-7d8b8d35348c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-05-06",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Eliseo Nader - 2017-05-06",
+    "content": "- Body Height: 172.0 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0\n- Body Weight: 82.3 kg\n- Body mass index (BMI) [Ratio]: 27.8 kg/m2\n- Diastolic Blood Pressure: 87.0 mm[Hg]\n- Systolic Blood Pressure: 109.0 mm[Hg]\n- Heart rate: 75.0 /min\n- Respiratory rate: 15.0 /min"
+  },
+  {
+    "doc_id": "2c167999-289d-95fa-b19c-f0475ebb7001",
+    "patient_id": "2c167999-289d-95fa-5c27-7d8b8d35348c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-05-06",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Eliseo Nader - 2017-05-06",
+    "content": "- Hemoglobin A1c/Hemoglobin.total in Blood: 7.0 %\n- Glucose [Mass/volume] in Blood: 116.4 mg/dL\n- Urea nitrogen [Mass/volume] in Blood: 17.6 mg/dL\n- Creatinine [Mass/volume] in Blood: 1.3 mg/dL\n- Calcium [Mass/volume] in Blood: 8.9 mg/dL\n- Sodium [Moles/volume] in Blood: 142.4 mmol/L\n- Potassium [Moles/volume] in Blood: 4.9 mmol/L\n- Chloride [Moles/volume] in Blood: 110.3 mmol/L\n- Carbon dioxide  total [Moles/volume] in Blood: 25.5 mmol/L\n- Cholesterol [Mass/volume] in Serum or Plasma: 236.1 mg/dL\n- Triglyceride [Mass/volume] in Serum or Plasma: 185.6 mg/dL\n- Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay: 140.2 mg/dL\n- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 58.8 mg/dL\n- Microalbumin/Creatinine [Mass Ratio] in Urine: 14.1 mg/g\n- Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M: 84.8 mL/min/{1.73_m2}"
+  },
+  {
+    "doc_id": "2c167999-289d-95fa-b19c-f0475ebb7001",
+    "patient_id": "2c167999-289d-95fa-5c27-7d8b8d35348c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-05-06",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Eliseo Nader - 2017-05-06",
+    "content": "- Medication reconciliation.\n- Assessment of health and social care needs."
+  },
+  {
+    "doc_id": "2c167999-289d-95fa-b19c-f0475ebb7001",
+    "patient_id": "2c167999-289d-95fa-5c27-7d8b8d35348c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-05-06",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Eliseo Nader - 2017-05-06",
+    "content": "Medications prescribed at this visit:\n- Hydrochlorothiazide 25 MG Oral Tablet, started 2017-05-06, for Essential hypertension; stopped 2018-05-12.\n- amLODIPine 2.5 MG Oral Tablet, started 2017-05-06, for Essential hypertension; stopped 2018-05-12."
+  },
+  {
+    "doc_id": "2c167999-289d-95fa-b19c-f0475ebb7001",
+    "patient_id": "2c167999-289d-95fa-5c27-7d8b8d35348c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-05-06",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Eliseo Nader - 2017-05-06",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

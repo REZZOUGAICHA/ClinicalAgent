@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "46976cf7-b0bf-be20-dbe8-ab15ac0bb83a",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Emergency Department Note",
+    "date": "2020-01-22",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Lindsay Zieme - 2020-01-22",
+    "content": "Patient: Lindsay Zieme, female, born 2007-09-14 (patient ID 46976cf7-b0bf-be20-39a5-9f425a52886d).\nVisit date: 2020-01-22.\nVisit type: Emergency room admission.\nClinician: Angele Bogan (General Practice).\nFacility: COMFORT HOME CARE LLC, WORCESTER, MA."
+  },
+  {
+    "doc_id": "46976cf7-b0bf-be20-dbe8-ab15ac0bb83a",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Emergency Department Note",
+    "date": "2020-01-22",
+    "section": "Reason for Visit",
+    "title": "Emergency Department Note - Lindsay Zieme - 2020-01-22",
+    "content": "Seen for Sprain (morphologic abnormality)."
+  },
+  {
+    "doc_id": "46976cf7-b0bf-be20-dbe8-ab15ac0bb83a",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Emergency Department Note",
+    "date": "2020-01-22",
+    "section": "Assessment",
+    "title": "Emergency Department Note - Lindsay Zieme - 2020-01-22",
+    "content": "Diagnoses recorded at this visit:\n- Sprain (morphologic abnormality) (onset 2020-01-22), resolved 2020-02-05.\n- Sprain of wrist (onset 2020-01-22), resolved 2020-02-05."
+  },
+  {
+    "doc_id": "46976cf7-b0bf-be20-dbe8-ab15ac0bb83a",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Emergency Department Note",
+    "date": "2020-01-22",
+    "section": "Medications",
+    "title": "Emergency Department Note - Lindsay Zieme - 2020-01-22",
+    "content": "Medications prescribed at this visit:\n- Acetaminophen 325 MG Oral Tablet, started 2020-01-22; stopped 2020-02-05."
+  },
+  {
+    "doc_id": "46976cf7-b0bf-be20-dbe8-ab15ac0bb83a",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Emergency Department Note",
+    "date": "2020-01-22",
+    "section": "Plan",
+    "title": "Emergency Department Note - Lindsay Zieme - 2020-01-22",
+    "content": "- Physiotherapy care plan for Sprain of wrist, started 2020-01-22, ended 2020-02-05."
+  }
+]

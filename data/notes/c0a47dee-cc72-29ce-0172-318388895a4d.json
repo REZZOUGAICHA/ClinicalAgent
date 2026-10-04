@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "c0a47dee-cc72-29ce-0172-318388895a4d",
+    "patient_id": "c0a47dee-cc72-29ce-df5a-ea6d306c36a4",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2015-05-04",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Jonathan Carroll - 2015-05-04",
+    "content": "Patient: Jonathan Carroll, male, born 1987-02-23 (patient ID c0a47dee-cc72-29ce-df5a-ea6d306c36a4).\nVisit date: 2015-05-04.\nVisit type: General examination of patient.\nClinician: Theo Hammes (General Practice).\nFacility: STANLEY STREET TREATMENT AND RESOURCES INC, FALL RIVER, MA."
+  },
+  {
+    "doc_id": "c0a47dee-cc72-29ce-0172-318388895a4d",
+    "patient_id": "c0a47dee-cc72-29ce-df5a-ea6d306c36a4",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2015-05-04",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Jonathan Carroll - 2015-05-04",
+    "content": "Diagnoses recorded at this visit:\n- Part-time employment (onset 2015-05-04), resolved 2017-04-24."
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "f999ef25-a612-87c9-179e-869dfece4761",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Office Visit Note",
+    "date": "2010-12-26",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Evangeline Ziemann - 2010-12-26",
+    "content": "Patient: Evangeline Ziemann, female, born 1925-09-18 (patient ID f999ef25-a612-87c9-206f-aacc9d469dc8).\nVisit date: 2010-12-26.\nVisit type: Encounter for problem.\nClinician: Nickolas Schumm (General Practice).\nFacility: ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE, FRAMINGHAM, MA."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-179e-869dfece4761",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Office Visit Note",
+    "date": "2010-12-26",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Evangeline Ziemann - 2010-12-26",
+    "content": "Seen for Dependent drug abuse."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-179e-869dfece4761",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Office Visit Note",
+    "date": "2010-12-26",
+    "section": "Procedures",
+    "title": "Office Visit Note - Evangeline Ziemann - 2010-12-26",
+    "content": "- Rehabilitation therapy, for Dependent drug abuse."
+  }
+]

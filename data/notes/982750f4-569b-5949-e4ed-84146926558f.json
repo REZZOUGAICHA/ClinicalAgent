@@ -1,0 +1,65 @@
+[
+  {
+    "doc_id": "982750f4-569b-5949-e4ed-84146926558f",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-08-19",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Dwana Wolf - 2026-08-19",
+    "content": "Patient: Dwana Wolf, female, born 1986-11-12 (patient ID 982750f4-569b-5949-196b-60699bdda3fb).\nVisit date: 2026-08-19.\nVisit type: General examination of patient.\nClinician: Hank Schneider (General Practice).\nFacility: LOWELL FAMILY MEDICAL CARE PC, LOWELL, MA."
+  },
+  {
+    "doc_id": "982750f4-569b-5949-e4ed-84146926558f",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-08-19",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Dwana Wolf - 2026-08-19",
+    "content": "Diagnoses recorded at this visit:\n- Stress (onset 2026-08-19)."
+  },
+  {
+    "doc_id": "982750f4-569b-5949-e4ed-84146926558f",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-08-19",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Dwana Wolf - 2026-08-19",
+    "content": "- Body Height: 158.3 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0\n- Body Weight: 68.9 kg\n- Body mass index (BMI) [Ratio]: 27.5 kg/m2\n- Diastolic Blood Pressure: 87.0 mm[Hg]\n- Systolic Blood Pressure: 144.0 mm[Hg]\n- Heart rate: 70.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "982750f4-569b-5949-e4ed-84146926558f",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-08-19",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Dwana Wolf - 2026-08-19",
+    "content": "- Hemoglobin A1c/Hemoglobin.total in Blood: 5.4 %\n- Glucose [Mass/volume] in Blood: 133.5 mg/dL\n- Urea nitrogen [Mass/volume] in Blood: 16.7 mg/dL\n- Creatinine [Mass/volume] in Blood: 0.8 mg/dL\n- Calcium [Mass/volume] in Blood: 9.0 mg/dL\n- Sodium [Moles/volume] in Blood: 140.1 mmol/L\n- Potassium [Moles/volume] in Blood: 4.2 mmol/L\n- Chloride [Moles/volume] in Blood: 108.2 mmol/L\n- Carbon dioxide  total [Moles/volume] in Blood: 20.5 mmol/L\n- Cholesterol [Mass/volume] in Serum or Plasma: 258.9 mg/dL\n- Triglyceride [Mass/volume] in Serum or Plasma: 400.6 mg/dL\n- Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay: 144.8 mg/dL\n- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 34.0 mg/dL\n- Microalbumin/Creatinine [Mass Ratio] in Urine: 11.0 mg/g\n- Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M: 103.8 mL/min/{1.73_m2}"
+  },
+  {
+    "doc_id": "982750f4-569b-5949-e4ed-84146926558f",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-08-19",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Dwana Wolf - 2026-08-19",
+    "content": "- Assessment of health and social care needs.\n- Assessment of anxiety.\n- Assessment of substance use.\n- Screening for drug abuse.\n- Patient referral for dental care."
+  },
+  {
+    "doc_id": "982750f4-569b-5949-e4ed-84146926558f",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-08-19",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Dwana Wolf - 2026-08-19",
+    "content": "Medications prescribed at this visit:\n- Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet], started 2026-08-19; no stop date recorded.\n- Acetaminophen 325 MG Oral Tablet [Tylenol], started 2026-08-19; no stop date recorded.\n- tramadol hydrochloride 50 MG Oral Tablet, started 2026-08-19; no stop date recorded.\n- 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet, started 2026-08-19, for Diabetes mellitus type 2; no stop date recorded."
+  },
+  {
+    "doc_id": "982750f4-569b-5949-e4ed-84146926558f",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-08-19",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Dwana Wolf - 2026-08-19",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

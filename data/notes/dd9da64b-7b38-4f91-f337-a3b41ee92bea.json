@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "dd9da64b-7b38-4f91-f337-a3b41ee92bea",
+    "patient_id": "dd9da64b-7b38-4f91-e75d-b1268dde60d4",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2019-11-28",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Donnetta Jenkins - 2019-11-28",
+    "content": "Patient: Donnetta Jenkins, female, born 1987-01-26 (patient ID dd9da64b-7b38-4f91-e75d-b1268dde60d4).\nVisit date: 2019-11-28.\nVisit type: Consultation for treatment.\nClinician: Tracie Lesch (General Practice).\nFacility: ANNA JAQUES HOSPITAL SUBACUTE UNIT, NEWBURYPORT, MA."
+  },
+  {
+    "doc_id": "dd9da64b-7b38-4f91-f337-a3b41ee92bea",
+    "patient_id": "dd9da64b-7b38-4f91-e75d-b1268dde60d4",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2019-11-28",
+    "section": "Reason for Visit",
+    "title": "Outpatient Procedure Note - Donnetta Jenkins - 2019-11-28",
+    "content": "Seen for Contraception care."
+  },
+  {
+    "doc_id": "dd9da64b-7b38-4f91-f337-a3b41ee92bea",
+    "patient_id": "dd9da64b-7b38-4f91-e75d-b1268dde60d4",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2019-11-28",
+    "section": "Procedures",
+    "title": "Outpatient Procedure Note - Donnetta Jenkins - 2019-11-28",
+    "content": "- Implantation of subcutaneous contraceptive."
+  },
+  {
+    "doc_id": "dd9da64b-7b38-4f91-f337-a3b41ee92bea",
+    "patient_id": "dd9da64b-7b38-4f91-e75d-b1268dde60d4",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2019-11-28",
+    "section": "Medications",
+    "title": "Outpatient Procedure Note - Donnetta Jenkins - 2019-11-28",
+    "content": "Medications prescribed at this visit:\n- Etonogestrel 68 MG Drug Implant, started 2019-11-28; stopped 2020-11-22."
+  }
+]

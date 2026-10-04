@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "79021b82-f370-50bb-1414-02f00d8a4053",
+    "patient_id": "79021b82-f370-50bb-c5a1-7333816d683f",
+    "document_type": "Office Visit Note",
+    "date": "2018-12-17",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Evette Farrell - 2018-12-17",
+    "content": "Patient: Evette Farrell, female, born 2013-03-20 (patient ID 79021b82-f370-50bb-c5a1-7333816d683f).\nVisit date: 2018-12-17.\nVisit type: Encounter for symptom.\nClinician: Willian Batz (General Practice).\nFacility: BOSTON MEDICAL CENTER CORPORATION-, WINTHROP, MA."
+  },
+  {
+    "doc_id": "79021b82-f370-50bb-1414-02f00d8a4053",
+    "patient_id": "79021b82-f370-50bb-c5a1-7333816d683f",
+    "document_type": "Office Visit Note",
+    "date": "2018-12-17",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Evette Farrell - 2018-12-17",
+    "content": "Seen for Perennial allergic rhinitis."
+  },
+  {
+    "doc_id": "79021b82-f370-50bb-1414-02f00d8a4053",
+    "patient_id": "79021b82-f370-50bb-c5a1-7333816d683f",
+    "document_type": "Office Visit Note",
+    "date": "2018-12-17",
+    "section": "Assessment",
+    "title": "Office Visit Note - Evette Farrell - 2018-12-17",
+    "content": "Diagnoses recorded at this visit:\n- Perennial allergic rhinitis (onset 2018-12-17)."
+  },
+  {
+    "doc_id": "79021b82-f370-50bb-1414-02f00d8a4053",
+    "patient_id": "79021b82-f370-50bb-c5a1-7333816d683f",
+    "document_type": "Office Visit Note",
+    "date": "2018-12-17",
+    "section": "Medications",
+    "title": "Office Visit Note - Evette Farrell - 2018-12-17",
+    "content": "Medications prescribed at this visit:\n- Fexofenadine hydrochloride 30 MG Oral Tablet, started 2018-12-17; no stop date recorded."
+  }
+]

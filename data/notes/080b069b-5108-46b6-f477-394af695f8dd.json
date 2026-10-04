@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "080b069b-5108-46b6-f477-394af695f8dd",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2010-12-07",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Chester Aufderhar - 2010-12-07",
+    "content": "Patient: Chester Aufderhar, male, born 1966-11-22 (patient ID 080b069b-5108-46b6-ecef-6aacd3b9ef3f).\nVisit date: 2010-12-07.\nVisit type: General examination of patient.\nClinician: Sharyl Williamson (General Practice).\nFacility: COMPASSIONATE HEALTH CARE GROUP LLC, WAREHAM, MA."
+  },
+  {
+    "doc_id": "080b069b-5108-46b6-f477-394af695f8dd",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2010-12-07",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Chester Aufderhar - 2010-12-07",
+    "content": "Diagnoses recorded at this visit:\n- Essential hypertension (onset 2010-12-07).\n- Limited social contact (onset 2010-12-08), resolved 2019-12-11."
+  },
+  {
+    "doc_id": "080b069b-5108-46b6-f477-394af695f8dd",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2010-12-07",
+    "section": "Plan",
+    "title": "Annual Wellness Visit Note - Chester Aufderhar - 2010-12-07",
+    "content": "- Lifestyle education regarding hypertension for Essential hypertension, started 2010-12-07."
+  }
+]

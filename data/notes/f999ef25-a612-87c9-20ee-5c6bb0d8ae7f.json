@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "f999ef25-a612-87c9-20ee-5c6bb0d8ae7f",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Office Visit Note",
+    "date": "2014-01-17",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Evangeline Ziemann - 2014-01-17",
+    "content": "Patient: Evangeline Ziemann, female, born 1925-09-18 (patient ID f999ef25-a612-87c9-206f-aacc9d469dc8).\nVisit date: 2014-01-17.\nVisit type: Encounter for check up.\nClinician: Nickolas Schumm (General Practice).\nFacility: ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE, FRAMINGHAM, MA."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-20ee-5c6bb0d8ae7f",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Office Visit Note",
+    "date": "2014-01-17",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Evangeline Ziemann - 2014-01-17",
+    "content": "Seen for Gingivitis."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-20ee-5c6bb0d8ae7f",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Office Visit Note",
+    "date": "2014-01-17",
+    "section": "Assessment",
+    "title": "Office Visit Note - Evangeline Ziemann - 2014-01-17",
+    "content": "Diagnoses recorded at this visit:\n- Leaking dental filling (onset 2014-01-17), resolved 2014-01-17."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-20ee-5c6bb0d8ae7f",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Office Visit Note",
+    "date": "2014-01-17",
+    "section": "Procedures",
+    "title": "Office Visit Note - Evangeline Ziemann - 2014-01-17",
+    "content": "- Dental consultation and report, for Gingivitis.\n- Dental care, for Gingivitis.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Examination of gingivae, for Gingivitis.\n- Application of composite dental filling material to dentin of tooth following fracture of tooth, for Leaking dental filling.\n- Oral health education, for Gingivitis."
+  }
+]

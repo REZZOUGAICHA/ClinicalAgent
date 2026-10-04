@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "080b069b-5108-46b6-fc07-bd864540588a",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2021-10-12",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Chester Aufderhar - 2021-10-12",
+    "content": "Patient: Chester Aufderhar, male, born 1966-11-22 (patient ID 080b069b-5108-46b6-ecef-6aacd3b9ef3f).\nVisit date: 2021-10-12.\nVisit type: Administration of vaccine to produce active immunity.\nClinician: Harland Ryan (General Practice).\nFacility: SOUTHCOAST HOSPITAL GROUP INC, WAREHAM, MA."
+  },
+  {
+    "doc_id": "080b069b-5108-46b6-fc07-bd864540588a",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2021-10-12",
+    "section": "Immunizations",
+    "title": "Outpatient Procedure Note - Chester Aufderhar - 2021-10-12",
+    "content": "- COVID-19 mRNA LNP-S PF 100 mcg/0.5mL dose or 50 mcg/0.25mL dose."
+  }
+]

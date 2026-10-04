@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "35b353dd-402b-571a-81ce-70d836dd2464",
+    "patient_id": "35b353dd-402b-571a-d67a-af0a104d0854",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-02-16",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Jody Monahan - 2019-02-16",
+    "content": "Patient: Jody Monahan, male, born 1943-09-18 (patient ID 35b353dd-402b-571a-d67a-af0a104d0854).\nVisit date: 2019-02-16.\nVisit type: General examination of patient.\nClinician: Georgianne Howe (General Practice).\nFacility: WOODLAND INTERNISTS P.C., STONEHAM, MA."
+  },
+  {
+    "doc_id": "35b353dd-402b-571a-81ce-70d836dd2464",
+    "patient_id": "35b353dd-402b-571a-d67a-af0a104d0854",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-02-16",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Jody Monahan - 2019-02-16",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2019-02-16), resolved 2019-02-16.\n- Acute infective cystitis (onset 2019-08-31), resolved 2019-09-02."
+  },
+  {
+    "doc_id": "35b353dd-402b-571a-81ce-70d836dd2464",
+    "patient_id": "35b353dd-402b-571a-d67a-af0a104d0854",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-02-16",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Jody Monahan - 2019-02-16",
+    "content": "- Body Height: 172.0 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0\n- Body Weight: 81.1 kg\n- Body mass index (BMI) [Ratio]: 27.4 kg/m2\n- Diastolic Blood Pressure: 70.0 mm[Hg]\n- Systolic Blood Pressure: 126.0 mm[Hg]\n- Heart rate: 76.0 /min\n- Respiratory rate: 14.0 /min"
+  },
+  {
+    "doc_id": "35b353dd-402b-571a-81ce-70d836dd2464",
+    "patient_id": "35b353dd-402b-571a-d67a-af0a104d0854",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-02-16",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Jody Monahan - 2019-02-16",
+    "content": "- Glucose [Mass/volume] in Serum or Plasma: 76.4 mg/dL\n- Urea nitrogen [Mass/volume] in Serum or Plasma: 19.5 mg/dL\n- Creatinine [Mass/volume] in Serum or Plasma: 1.5 mg/dL\n- Calcium [Mass/volume] in Serum or Plasma: 8.8 mg/dL\n- Sodium [Moles/volume] in Serum or Plasma: 137.7 mmol/L\n- Potassium [Moles/volume] in Serum or Plasma: 4.2 mmol/L\n- Chloride [Moles/volume] in Serum or Plasma: 106.0 mmol/L\n- Carbon dioxide  total [Moles/volume] in Serum or Plasma: 27.5 mmol/L\n- Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M: 91.3 mL/min/{1.73_m2}\n- Appearance of Urine: Cloudy urine (finding)\n- Odor of Urine: Urine smell ammoniacal (finding)\n- Clarity of Urine: Translucent (qualifier value)\n- Color of Urine: Brown color (qualifier value)\n- Glucose [Mass/volume] in Urine by Test strip: 0.6 mg/dL\n- Glucose [Presence] in Urine by Test strip: Urine glucose test = ++ (finding)\n- Bilirubin.total [Mass/volume] in Urine by Test strip: 1.0 mg/dL\n- Bilirubin.total [Presence] in Urine by Test strip: Finding of bilirubin in urine (finding)\n- Ketones [Mass/volume] in Urine by Test strip: 5.4 mg/dL\n- Ketones [Presence] in Urine by Test strip: Urine ketone test = trace (finding)\n- Specific gravity of Urine by Test strip: 1.0\n- pH of Urine by Test strip: 7.0 pH\n- Protein [Mass/volume] in Urine by Test strip: 143.7 mg/dL\n- Protein [Presence] in Urine by Test strip: Urine protein test = + (finding)\n- Nitrite [Presence] in Urine by Test strip: Nitrite not detected in urine (finding)\n- Hemoglobin [Presence] in Urine by Test strip: Blood not detected in urine (finding)\n- Leukocyte esterase [Presence] in Urine by Test strip: Urine leukocytes not detected (finding)"
+  },
+  {
+    "doc_id": "35b353dd-402b-571a-81ce-70d836dd2464",
+    "patient_id": "35b353dd-402b-571a-d67a-af0a104d0854",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-02-16",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Jody Monahan - 2019-02-16",
+    "content": "- Medication reconciliation.\n- Sleep apnea assessment, for Sleep disorder.\n- Assessment of health and social care needs.\n- Depression screening.\n- Depression screening.\n- Assessment of substance use.\n- Screening for drug abuse."
+  },
+  {
+    "doc_id": "35b353dd-402b-571a-81ce-70d836dd2464",
+    "patient_id": "35b353dd-402b-571a-d67a-af0a104d0854",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-02-16",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Jody Monahan - 2019-02-16",
+    "content": "Medications prescribed at this visit:\n- Hydrochlorothiazide 25 MG Oral Tablet, started 2019-02-16, for Essential hypertension; stopped 2020-02-22."
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "c053e996-a4c4-6c02-4b2e-09a9fc54e458",
+    "patient_id": "c053e996-a4c4-6c02-e2b6-284227156c67",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-08-23",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Sharyn Hagenes - 2024-08-23",
+    "content": "Patient: Sharyn Hagenes, female, born 2023-09-15 (patient ID c053e996-a4c4-6c02-e2b6-284227156c67).\nVisit date: 2024-08-23.\nVisit type: Well child visit.\nClinician: Colin Witting (General Practice).\nFacility: PALMER FAMILY SERVICES LLC, MILFORD, MA."
+  },
+  {
+    "doc_id": "c053e996-a4c4-6c02-4b2e-09a9fc54e458",
+    "patient_id": "c053e996-a4c4-6c02-e2b6-284227156c67",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-08-23",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Sharyn Hagenes - 2024-08-23",
+    "content": "- Body Height: 75.2 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0\n- Body Weight: 10.3 kg\n- Weight-for-length Per age and sex: 80.3 %\n- Head Occipital-frontal circumference Percentile: 78.1 %\n- Head Occipital-frontal circumference: 45.9 cm\n- Diastolic Blood Pressure: 86.0 mm[Hg]\n- Systolic Blood Pressure: 132.0 mm[Hg]\n- Heart rate: 88.0 /min\n- Respiratory rate: 14.0 /min"
+  },
+  {
+    "doc_id": "c053e996-a4c4-6c02-4b2e-09a9fc54e458",
+    "patient_id": "c053e996-a4c4-6c02-e2b6-284227156c67",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-08-23",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Sharyn Hagenes - 2024-08-23",
+    "content": "- Medication reconciliation."
+  }
+]

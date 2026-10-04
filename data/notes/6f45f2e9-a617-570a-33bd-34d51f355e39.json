@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "6f45f2e9-a617-570a-33bd-34d51f355e39",
+    "patient_id": "6f45f2e9-a617-570a-8867-dec1260088bb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2022-06-30",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Carey Mraz - 2022-06-30",
+    "content": "Patient: Carey Mraz, male, born 2013-06-27 (patient ID 6f45f2e9-a617-570a-8867-dec1260088bb).\nVisit date: 2022-06-30.\nVisit type: Well child visit.\nClinician: Ulysses Ziemann (General Practice).\nFacility: CENTER FOR DIGESTIVE WELLNESS PC, LEOMINSTER, MA."
+  },
+  {
+    "doc_id": "6f45f2e9-a617-570a-33bd-34d51f355e39",
+    "patient_id": "6f45f2e9-a617-570a-8867-dec1260088bb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2022-06-30",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Carey Mraz - 2022-06-30",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2022-06-30), resolved 2022-06-30.\n- Gingivitis (onset 2022-06-30), resolved 2022-07-07."
+  },
+  {
+    "doc_id": "6f45f2e9-a617-570a-33bd-34d51f355e39",
+    "patient_id": "6f45f2e9-a617-570a-8867-dec1260088bb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2022-06-30",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Carey Mraz - 2022-06-30",
+    "content": "- Body Height: 144.8 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0\n- Body Weight: 36.8 kg\n- Body mass index (BMI) [Ratio]: 17.6 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 74.5 %\n- Diastolic Blood Pressure: 83.0 mm[Hg]\n- Systolic Blood Pressure: 116.0 mm[Hg]\n- Heart rate: 76.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "6f45f2e9-a617-570a-33bd-34d51f355e39",
+    "patient_id": "6f45f2e9-a617-570a-8867-dec1260088bb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2022-06-30",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Carey Mraz - 2022-06-30",
+    "content": "- Medication reconciliation.\n- Patient referral for dental care, for Gingivitis."
+  },
+  {
+    "doc_id": "6f45f2e9-a617-570a-33bd-34d51f355e39",
+    "patient_id": "6f45f2e9-a617-570a-8867-dec1260088bb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2022-06-30",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Carey Mraz - 2022-06-30",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-b78f-f1f0ea271f44",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-08-20",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Rosalba Effertz - 2017-08-20",
+    "content": "Patient: Rosalba Effertz, female, born 1973-08-05 (patient ID 5e7ebf2c-22ec-a89b-53ab-38edddd81be9).\nVisit date: 2017-08-20.\nVisit type: General examination of patient.\nClinician: Sammie Hermann (General Practice).\nFacility: PARADIGM HEALTHCARE PC, NORTHAMPTON, MA."
+  },
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-b78f-f1f0ea271f44",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-08-20",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Rosalba Effertz - 2017-08-20",
+    "content": "Diagnoses recorded at this visit:\n- Diabetes mellitus type 2 (onset 2017-08-20).\n- Unemployed (onset 2017-08-20), resolved 2019-08-25.\n- Stress (onset 2017-08-20), resolved 2019-08-25.\n- Reports of violence in the environment (onset 2017-08-20), resolved 2021-05-23.\n- Gingivitis (onset 2017-08-20), resolved 2017-09-03."
+  },
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-b78f-f1f0ea271f44",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-08-20",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Rosalba Effertz - 2017-08-20",
+    "content": "- Body Height: 166.4 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0\n- Body Weight: 76.2 kg\n- Body mass index (BMI) [Ratio]: 27.5 kg/m2\n- Diastolic Blood Pressure: 87.0 mm[Hg]\n- Systolic Blood Pressure: 122.0 mm[Hg]\n- Heart rate: 97.0 /min\n- Respiratory rate: 14.0 /min"
+  },
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-b78f-f1f0ea271f44",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-08-20",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Rosalba Effertz - 2017-08-20",
+    "content": "- Hemoglobin A1c/Hemoglobin.total in Blood: 6.9 %\n- Glucose [Mass/volume] in Blood: 81.7 mg/dL\n- Urea nitrogen [Mass/volume] in Blood: 11.4 mg/dL\n- Creatinine [Mass/volume] in Blood: 1.5 mg/dL\n- Calcium [Mass/volume] in Blood: 8.7 mg/dL\n- Sodium [Moles/volume] in Blood: 143.3 mmol/L\n- Potassium [Moles/volume] in Blood: 4.1 mmol/L\n- Chloride [Moles/volume] in Blood: 103.0 mmol/L\n- Carbon dioxide  total [Moles/volume] in Blood: 23.0 mmol/L\n- Cholesterol [Mass/volume] in Serum or Plasma: 154.4 mg/dL\n- Triglyceride [Mass/volume] in Serum or Plasma: 106.2 mg/dL\n- Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay: 71.2 mg/dL\n- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 61.9 mg/dL\n- Microalbumin/Creatinine [Mass Ratio] in Urine: 14.1 mg/g\n- Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M: 58.8 mL/min/{1.73_m2}"
+  },
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-b78f-f1f0ea271f44",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-08-20",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Rosalba Effertz - 2017-08-20",
+    "content": "- Medication reconciliation.\n- Assessment of health and social care needs.\n- Assessment of anxiety.\n- Screening for domestic abuse.\n- Depression screening.\n- Depression screening.\n- Depression screening using Patient Health Questionnaire Nine Item score.\n- Patient referral for dental care, for Gingivitis."
+  },
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-b78f-f1f0ea271f44",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-08-20",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Rosalba Effertz - 2017-08-20",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

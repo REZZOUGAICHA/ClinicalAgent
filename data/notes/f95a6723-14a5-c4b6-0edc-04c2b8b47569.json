@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "f95a6723-14a5-c4b6-0edc-04c2b8b47569",
+    "patient_id": "f95a6723-14a5-c4b6-78df-fa97f7ab361c",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "2025-09-06",
+    "section": "Visit Information",
+    "title": "Inpatient Discharge Summary - Roxann Sauer - 2025-09-06",
+    "content": "Patient: Roxann Sauer, female, born 1986-08-23 (patient ID f95a6723-14a5-c4b6-78df-fa97f7ab361c).\nVisit date: 2025-09-06.\nVisit type: Encounter for problem.\nClinician: Chu Weber (General Practice).\nFacility: STURDY MEMORIAL HOSPITAL INC, ATTLEBORO, MA."
+  },
+  {
+    "doc_id": "f95a6723-14a5-c4b6-0edc-04c2b8b47569",
+    "patient_id": "f95a6723-14a5-c4b6-78df-fa97f7ab361c",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "2025-09-06",
+    "section": "Reason for Visit",
+    "title": "Inpatient Discharge Summary - Roxann Sauer - 2025-09-06",
+    "content": "Seen for Sleep disorder."
+  },
+  {
+    "doc_id": "f95a6723-14a5-c4b6-0edc-04c2b8b47569",
+    "patient_id": "f95a6723-14a5-c4b6-78df-fa97f7ab361c",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "2025-09-06",
+    "section": "Assessment",
+    "title": "Inpatient Discharge Summary - Roxann Sauer - 2025-09-06",
+    "content": "Diagnoses recorded at this visit:\n- Obstructive sleep apnea syndrome (onset 2025-09-06)."
+  },
+  {
+    "doc_id": "f95a6723-14a5-c4b6-0edc-04c2b8b47569",
+    "patient_id": "f95a6723-14a5-c4b6-78df-fa97f7ab361c",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "2025-09-06",
+    "section": "Procedures",
+    "title": "Inpatient Discharge Summary - Roxann Sauer - 2025-09-06",
+    "content": "- Sleep apnea assessment, for Sleep disorder.\n- Sleep apnea monitoring with alarm, for Sleep disorder."
+  },
+  {
+    "doc_id": "f95a6723-14a5-c4b6-0edc-04c2b8b47569",
+    "patient_id": "f95a6723-14a5-c4b6-78df-fa97f7ab361c",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "2025-09-06",
+    "section": "Plan",
+    "title": "Inpatient Discharge Summary - Roxann Sauer - 2025-09-06",
+    "content": "- Care plan for Obstructive sleep apnea syndrome, started 2025-09-06."
+  }
+]

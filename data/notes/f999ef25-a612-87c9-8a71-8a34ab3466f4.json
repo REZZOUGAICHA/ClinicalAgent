@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "f999ef25-a612-87c9-8a71-8a34ab3466f4",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Urgent Care Note",
+    "date": "1967-09-15",
+    "section": "Visit Information",
+    "title": "Urgent Care Note - Evangeline Ziemann - 1967-09-15",
+    "content": "Patient: Evangeline Ziemann, female, born 1925-09-18 (patient ID f999ef25-a612-87c9-206f-aacc9d469dc8).\nVisit date: 1967-09-15.\nVisit type: Urgent care clinic.\nClinician: Liberty Kihn (General Practice).\nFacility: WOONSOCKET URGENT CARE PC, BELLINGHAM, MA."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-8a71-8a34ab3466f4",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Urgent Care Note",
+    "date": "1967-09-15",
+    "section": "Assessment",
+    "title": "Urgent Care Note - Evangeline Ziemann - 1967-09-15",
+    "content": "Diagnoses recorded at this visit:\n- Hyperlipidemia (onset 1967-09-15)."
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "080b069b-5108-46b6-c9d0-30315ea43d3a",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Office Visit Note",
+    "date": "2022-01-26",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Chester Aufderhar - 2022-01-26",
+    "content": "Patient: Chester Aufderhar, male, born 1966-11-22 (patient ID 080b069b-5108-46b6-ecef-6aacd3b9ef3f).\nVisit date: 2022-01-26.\nVisit type: Encounter for symptom.\nClinician: Harland Ryan (General Practice).\nFacility: SOUTHCOAST HOSPITAL GROUP INC, WAREHAM, MA."
+  },
+  {
+    "doc_id": "080b069b-5108-46b6-c9d0-30315ea43d3a",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Office Visit Note",
+    "date": "2022-01-26",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Chester Aufderhar - 2022-01-26",
+    "content": "Seen for Viral sinusitis."
+  },
+  {
+    "doc_id": "080b069b-5108-46b6-c9d0-30315ea43d3a",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Office Visit Note",
+    "date": "2022-01-26",
+    "section": "Assessment",
+    "title": "Office Visit Note - Chester Aufderhar - 2022-01-26",
+    "content": "Diagnoses recorded at this visit:\n- Viral sinusitis (onset 2022-01-26), resolved 2022-02-08."
+  },
+  {
+    "doc_id": "080b069b-5108-46b6-c9d0-30315ea43d3a",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Office Visit Note",
+    "date": "2022-01-26",
+    "section": "Medications",
+    "title": "Office Visit Note - Chester Aufderhar - 2022-01-26",
+    "content": "Medications prescribed at this visit:\n- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet, started 2022-01-26, for Viral sinusitis; stopped 2022-02-08."
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "6aed9210-c500-4375-308c-8f4e665e1a1a",
+    "patient_id": "6aed9210-c500-4375-b0fc-3374c40b8591",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-08-01",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Lyman Runte - 2019-08-01",
+    "content": "Patient: Lyman Runte, male, born 1965-07-08 (patient ID 6aed9210-c500-4375-b0fc-3374c40b8591).\nVisit date: 2019-08-01.\nVisit type: General examination of patient.\nClinician: Junior Leffler (General Practice).\nFacility: PULMONARY INTERNISTS AND CONSULTANTS PC, HYANNIS, MA."
+  },
+  {
+    "doc_id": "6aed9210-c500-4375-308c-8f4e665e1a1a",
+    "patient_id": "6aed9210-c500-4375-b0fc-3374c40b8591",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-08-01",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Lyman Runte - 2019-08-01",
+    "content": "Diagnoses recorded at this visit:\n- Stress (onset 2019-08-01), resolved 2022-02-10."
+  },
+  {
+    "doc_id": "6aed9210-c500-4375-308c-8f4e665e1a1a",
+    "patient_id": "6aed9210-c500-4375-b0fc-3374c40b8591",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-08-01",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Lyman Runte - 2019-08-01",
+    "content": "- Body Height: 176.5 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0\n- Body Weight: 94.1 kg\n- Body mass index (BMI) [Ratio]: 30.2 kg/m2\n- Diastolic Blood Pressure: 83.0 mm[Hg]\n- Systolic Blood Pressure: 147.0 mm[Hg]\n- Heart rate: 86.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "6aed9210-c500-4375-308c-8f4e665e1a1a",
+    "patient_id": "6aed9210-c500-4375-b0fc-3374c40b8591",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-08-01",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Lyman Runte - 2019-08-01",
+    "content": "- Hemoglobin A1c/Hemoglobin.total in Blood: 6.2 %\n- Glucose [Mass/volume] in Blood: 80.2 mg/dL\n- Urea nitrogen [Mass/volume] in Blood: 10.9 mg/dL\n- Creatinine [Mass/volume] in Blood: 1.1 mg/dL\n- Calcium [Mass/volume] in Blood: 9.6 mg/dL\n- Sodium [Moles/volume] in Blood: 141.1 mmol/L\n- Potassium [Moles/volume] in Blood: 4.8 mmol/L\n- Chloride [Moles/volume] in Blood: 105.5 mmol/L\n- Carbon dioxide  total [Moles/volume] in Blood: 27.2 mmol/L"
+  },
+  {
+    "doc_id": "6aed9210-c500-4375-308c-8f4e665e1a1a",
+    "patient_id": "6aed9210-c500-4375-b0fc-3374c40b8591",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-08-01",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Lyman Runte - 2019-08-01",
+    "content": "- Assessment of health and social care needs.\n- Depression screening.\n- Depression screening.\n- Assessment of substance use.\n- Assessment using Alcohol Use Disorders Identification Test - Consumption."
+  },
+  {
+    "doc_id": "6aed9210-c500-4375-308c-8f4e665e1a1a",
+    "patient_id": "6aed9210-c500-4375-b0fc-3374c40b8591",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-08-01",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Lyman Runte - 2019-08-01",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

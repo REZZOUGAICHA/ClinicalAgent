@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "7c913488-8c54-7aa0-38ed-02049562a9f9",
+    "patient_id": "7c913488-8c54-7aa0-a452-83dbc3ad8377",
+    "document_type": "Office Visit Note",
+    "date": "2026-01-06",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Dian Kiehn - 2026-01-06",
+    "content": "Patient: Dian Kiehn, female, born 2012-01-13 (patient ID 7c913488-8c54-7aa0-a452-83dbc3ad8377).\nVisit date: 2026-01-06.\nVisit type: Encounter for check up.\nClinician: Vella Ankunding (General Practice).\nFacility: SOUTHCOAST HOSPITALS GROUP INC, FALL RIVER, MA."
+  },
+  {
+    "doc_id": "7c913488-8c54-7aa0-38ed-02049562a9f9",
+    "patient_id": "7c913488-8c54-7aa0-a452-83dbc3ad8377",
+    "document_type": "Office Visit Note",
+    "date": "2026-01-06",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Dian Kiehn - 2026-01-06",
+    "content": "Seen for Fracture subluxation of wrist."
+  }
+]

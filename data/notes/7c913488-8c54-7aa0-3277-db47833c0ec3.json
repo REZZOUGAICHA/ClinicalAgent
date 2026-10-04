@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "7c913488-8c54-7aa0-3277-db47833c0ec3",
+    "patient_id": "7c913488-8c54-7aa0-a452-83dbc3ad8377",
+    "document_type": "Office Visit Note",
+    "date": "2020-06-13",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Dian Kiehn - 2020-06-13",
+    "content": "Patient: Dian Kiehn, female, born 2012-01-13 (patient ID 7c913488-8c54-7aa0-a452-83dbc3ad8377).\nVisit date: 2020-06-13.\nVisit type: Encounter for symptom.\nClinician: Vella Ankunding (General Practice).\nFacility: SOUTHCOAST HOSPITALS GROUP INC, FALL RIVER, MA."
+  },
+  {
+    "doc_id": "7c913488-8c54-7aa0-3277-db47833c0ec3",
+    "patient_id": "7c913488-8c54-7aa0-a452-83dbc3ad8377",
+    "document_type": "Office Visit Note",
+    "date": "2020-06-13",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Dian Kiehn - 2020-06-13",
+    "content": "Seen for Viral sinusitis."
+  },
+  {
+    "doc_id": "7c913488-8c54-7aa0-3277-db47833c0ec3",
+    "patient_id": "7c913488-8c54-7aa0-a452-83dbc3ad8377",
+    "document_type": "Office Visit Note",
+    "date": "2020-06-13",
+    "section": "Assessment",
+    "title": "Office Visit Note - Dian Kiehn - 2020-06-13",
+    "content": "Diagnoses recorded at this visit:\n- Viral sinusitis (onset 2020-06-13), resolved 2020-07-03."
+  },
+  {
+    "doc_id": "7c913488-8c54-7aa0-3277-db47833c0ec3",
+    "patient_id": "7c913488-8c54-7aa0-a452-83dbc3ad8377",
+    "document_type": "Office Visit Note",
+    "date": "2020-06-13",
+    "section": "Medications",
+    "title": "Office Visit Note - Dian Kiehn - 2020-06-13",
+    "content": "Medications prescribed at this visit:\n- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet, started 2020-06-13, for Viral sinusitis; stopped 2020-07-03."
+  }
+]

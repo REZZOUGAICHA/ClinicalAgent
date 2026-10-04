@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "6fbddf55-7096-b883-f1f8-59906e83ccd4",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2018-07-26",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Clarinda Farrell - 2018-07-26",
+    "content": "Patient: Clarinda Farrell, female, born 1981-07-01 (patient ID 6fbddf55-7096-b883-7cd3-260f27953080).\nVisit date: 2018-07-26.\nVisit type: Consultation for treatment.\nClinician: Luther Jakubowski (General Practice).\nFacility: ENCOMPASS HEALTH REHABILITATION HOSP OF NEW ENGLAN, WOBURN, MA."
+  },
+  {
+    "doc_id": "6fbddf55-7096-b883-f1f8-59906e83ccd4",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2018-07-26",
+    "section": "Reason for Visit",
+    "title": "Outpatient Procedure Note - Clarinda Farrell - 2018-07-26",
+    "content": "Seen for Contraception care."
+  },
+  {
+    "doc_id": "6fbddf55-7096-b883-f1f8-59906e83ccd4",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2018-07-26",
+    "section": "Medications",
+    "title": "Outpatient Procedure Note - Clarinda Farrell - 2018-07-26",
+    "content": "Medications prescribed at this visit:\n- 168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System, started 2018-07-26; stopped 2019-07-21."
+  }
+]

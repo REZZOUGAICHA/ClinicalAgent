@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "ba419d35-0dfe-8af7-8cd7-a9ef76a8c0ca",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Office Visit Note",
+    "date": "1951-03-10",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Corie Kohler - 1951-03-10",
+    "content": "Patient: Corie Kohler, female, born 1925-09-18 (patient ID ba419d35-0dfe-8af7-347c-eebf02485a56).\nVisit date: 1951-03-10.\nVisit type: Prenatal visit.\nClinician: Maricarmen Delafuente (General Practice).\nFacility: ARBOUR-FULLER HOSPITAL, SOUTH ATTLEBORO, MA."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-8cd7-a9ef76a8c0ca",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Office Visit Note",
+    "date": "1951-03-10",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Corie Kohler - 1951-03-10",
+    "content": "Seen for Fetus with chromosomal abnormality."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-8cd7-a9ef76a8c0ca",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Office Visit Note",
+    "date": "1951-03-10",
+    "section": "Assessment",
+    "title": "Office Visit Note - Corie Kohler - 1951-03-10",
+    "content": "Diagnoses recorded at this visit:\n- Past pregnancy history of miscarriage (onset 1951-03-10)."
+  }
+]

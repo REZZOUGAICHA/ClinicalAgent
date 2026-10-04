@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "dd9da64b-7b38-4f91-221d-b21f9e833cb1",
+    "patient_id": "dd9da64b-7b38-4f91-e75d-b1268dde60d4",
+    "document_type": "Office Visit Note",
+    "date": "2022-03-14",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Donnetta Jenkins - 2022-03-14",
+    "content": "Patient: Donnetta Jenkins, female, born 1987-01-26 (patient ID dd9da64b-7b38-4f91-e75d-b1268dde60d4).\nVisit date: 2022-03-14.\nVisit type: Prenatal initial visit.\nClinician: Gaston Grimes (General Practice).\nFacility: ANNA JAQUES HOSPITAL SUBACUTE UNIT, NEWBURYPORT, MA."
+  },
+  {
+    "doc_id": "dd9da64b-7b38-4f91-221d-b21f9e833cb1",
+    "patient_id": "dd9da64b-7b38-4f91-e75d-b1268dde60d4",
+    "document_type": "Office Visit Note",
+    "date": "2022-03-14",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Donnetta Jenkins - 2022-03-14",
+    "content": "Seen for Normal pregnancy."
+  },
+  {
+    "doc_id": "dd9da64b-7b38-4f91-221d-b21f9e833cb1",
+    "patient_id": "dd9da64b-7b38-4f91-e75d-b1268dde60d4",
+    "document_type": "Office Visit Note",
+    "date": "2022-03-14",
+    "section": "Assessment",
+    "title": "Office Visit Note - Donnetta Jenkins - 2022-03-14",
+    "content": "Diagnoses recorded at this visit:\n- Normal pregnancy (onset 2022-03-14), resolved 2022-10-24."
+  },
+  {
+    "doc_id": "dd9da64b-7b38-4f91-221d-b21f9e833cb1",
+    "patient_id": "dd9da64b-7b38-4f91-e75d-b1268dde60d4",
+    "document_type": "Office Visit Note",
+    "date": "2022-03-14",
+    "section": "Procedures",
+    "title": "Office Visit Note - Donnetta Jenkins - 2022-03-14",
+    "content": "- Standard pregnancy test, for Normal pregnancy.\n- Ultrasound scan for fetal viability, for Normal pregnancy.\n- Evaluation of uterine fundal height, for Normal pregnancy.\n- Auscultation of the fetal heart, for Normal pregnancy.\n- Blood group typing, for Normal pregnancy.\n- Hemogram  automated  with red blood cells  white blood cells  hemoglobin  hematocrit  indices  platelet count  and manual white blood cell differential, for Normal pregnancy.\n- Hepatitis B surface antigen measurement, for Normal pregnancy.\n- Human immunodeficiency virus antigen test, for Normal pregnancy.\n- Chlamydia antigen test, for Normal pregnancy.\n- Gonorrhea infection titer test, for Normal pregnancy.\n- Syphilis infectious titer test, for Normal pregnancy.\n- Urine culture, for Normal pregnancy.\n- Cytopathology procedure  preparation of smear  genital source, for Normal pregnancy.\n- Urine screening test for diabetes, for Normal pregnancy.\n- Hepatitis C antibody  confirmatory test, for Normal pregnancy.\n- Rubella screening test, for Normal pregnancy.\n- Measurement of Varicella-zoster virus antibody, for Normal pregnancy.\n- Skin test for tuberculosis  Tine test, for Normal pregnancy.\n- Urinalysis  protein  qualitative, for Normal pregnancy.\n- Physical examination procedure, for Normal pregnancy."
+  },
+  {
+    "doc_id": "dd9da64b-7b38-4f91-221d-b21f9e833cb1",
+    "patient_id": "dd9da64b-7b38-4f91-e75d-b1268dde60d4",
+    "document_type": "Office Visit Note",
+    "date": "2022-03-14",
+    "section": "Plan",
+    "title": "Office Visit Note - Donnetta Jenkins - 2022-03-14",
+    "content": "- Routine antenatal care, started 2022-03-14, ended 2022-10-24."
+  }
+]

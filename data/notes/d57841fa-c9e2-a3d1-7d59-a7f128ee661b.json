@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "d57841fa-c9e2-a3d1-7d59-a7f128ee661b",
+    "patient_id": "d57841fa-c9e2-a3d1-0e78-09bdbe4eed66",
+    "document_type": "Office Visit Note",
+    "date": "2025-09-29",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Jessica McKenzie - 2025-09-29",
+    "content": "Patient: Jessica McKenzie, female, born 1965-07-19 (patient ID d57841fa-c9e2-a3d1-0e78-09bdbe4eed66).\nVisit date: 2025-09-29.\nVisit type: Encounter for check up.\nClinician: Miguel Roberts (General Practice).\nFacility: SOUTH SHORE HOSPITAL INC., WEYMOUTH, MA."
+  },
+  {
+    "doc_id": "d57841fa-c9e2-a3d1-7d59-a7f128ee661b",
+    "patient_id": "d57841fa-c9e2-a3d1-0e78-09bdbe4eed66",
+    "document_type": "Office Visit Note",
+    "date": "2025-09-29",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Jessica McKenzie - 2025-09-29",
+    "content": "Seen for Patient referral for dental care."
+  },
+  {
+    "doc_id": "d57841fa-c9e2-a3d1-7d59-a7f128ee661b",
+    "patient_id": "d57841fa-c9e2-a3d1-0e78-09bdbe4eed66",
+    "document_type": "Office Visit Note",
+    "date": "2025-09-29",
+    "section": "Assessment",
+    "title": "Office Visit Note - Jessica McKenzie - 2025-09-29",
+    "content": "Diagnoses recorded at this visit:\n- Gingival disease (onset 2025-09-29), resolved 2025-09-29."
+  },
+  {
+    "doc_id": "d57841fa-c9e2-a3d1-7d59-a7f128ee661b",
+    "patient_id": "d57841fa-c9e2-a3d1-0e78-09bdbe4eed66",
+    "document_type": "Office Visit Note",
+    "date": "2025-09-29",
+    "section": "Procedures",
+    "title": "Office Visit Note - Jessica McKenzie - 2025-09-29",
+    "content": "- Dental consultation and report, for Patient referral for dental care.\n- Dental care, for Patient referral for dental care.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Examination of gingivae, for Patient referral for dental care.\n- Dental surgical procedure, for Gingival disease.\n- Dental application of desensitizing medicament, for Gingival disease.\n- Gingivectomy or gingivoplasty  per tooth, for Gingival disease.\n- Postoperative care for dental procedure.\n- Oral health education, for Patient referral for dental care."
+  }
+]

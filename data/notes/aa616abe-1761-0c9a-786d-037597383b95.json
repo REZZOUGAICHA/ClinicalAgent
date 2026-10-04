@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "aa616abe-1761-0c9a-786d-037597383b95",
+    "patient_id": "aa616abe-1761-0c9a-7959-07544679dafd",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2000-11-25",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Jona Robel - 2000-11-25",
+    "content": "Patient: Jona Robel, female, born 1958-11-15 (patient ID aa616abe-1761-0c9a-7959-07544679dafd).\nVisit date: 2000-11-25.\nVisit type: General examination of patient.\nClinician: Maren Aufderhar (General Practice).\nFacility: DUTTON FAMILY CARE ASSOCIATES LLP, WAKEFIELD, MA."
+  },
+  {
+    "doc_id": "aa616abe-1761-0c9a-786d-037597383b95",
+    "patient_id": "aa616abe-1761-0c9a-7959-07544679dafd",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2000-11-25",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Jona Robel - 2000-11-25",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2000-11-25), resolved 2002-11-30.\n- Full-time employment (onset 2000-11-25), resolved 2006-12-09."
+  },
+  {
+    "doc_id": "aa616abe-1761-0c9a-786d-037597383b95",
+    "patient_id": "aa616abe-1761-0c9a-7959-07544679dafd",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2000-11-25",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Jona Robel - 2000-11-25",
+    "content": "- Body Height: 174.6 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0\n- Body Weight: 67.1 kg\n- Body mass index (BMI) [Ratio]: 22.0 kg/m2\n- Diastolic Blood Pressure: 78.0 mm[Hg]\n- Systolic Blood Pressure: 123.0 mm[Hg]\n- Heart rate: 74.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "aa616abe-1761-0c9a-786d-037597383b95",
+    "patient_id": "aa616abe-1761-0c9a-7959-07544679dafd",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2000-11-25",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Jona Robel - 2000-11-25",
+    "content": "- Cholesterol [Mass/volume] in Serum or Plasma: 159.2 mg/dL\n- Triglyceride [Mass/volume] in Serum or Plasma: 119.8 mg/dL\n- Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay: 84.8 mg/dL\n- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 50.4 mg/dL"
+  },
+  {
+    "doc_id": "aa616abe-1761-0c9a-786d-037597383b95",
+    "patient_id": "aa616abe-1761-0c9a-7959-07544679dafd",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2000-11-25",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Jona Robel - 2000-11-25",
+    "content": "- Assessment of health and social care needs.\n- Assessment of anxiety.\n- Screening for domestic abuse.\n- Depression screening.\n- Depression screening."
+  },
+  {
+    "doc_id": "aa616abe-1761-0c9a-786d-037597383b95",
+    "patient_id": "aa616abe-1761-0c9a-7959-07544679dafd",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2000-11-25",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Jona Robel - 2000-11-25",
+    "content": "- Influenza split virus trivalent PF.\n- Td (adult) 5 Lf tetanus toxoid preservative free adsorbed.\n- Hep A adult."
+  }
+]

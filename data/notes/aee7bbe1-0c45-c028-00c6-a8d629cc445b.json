@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "aee7bbe1-0c45-c028-00c6-a8d629cc445b",
+    "patient_id": "aee7bbe1-0c45-c028-1e62-1f4cdb30c273",
+    "document_type": "Emergency Department Note",
+    "date": "2019-11-13",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Wilfredo Fritsch - 2019-11-13",
+    "content": "Patient: Wilfredo Fritsch, male, born 2010-12-23 (patient ID aee7bbe1-0c45-c028-1e62-1f4cdb30c273).\nVisit date: 2019-11-13.\nVisit type: Emergency room admission.\nClinician: Sid Hammes (General Practice).\nFacility: COLONY CENTER FOR HEALTH & REHABILITATION, ABINGTON, MA."
+  },
+  {
+    "doc_id": "aee7bbe1-0c45-c028-00c6-a8d629cc445b",
+    "patient_id": "aee7bbe1-0c45-c028-1e62-1f4cdb30c273",
+    "document_type": "Emergency Department Note",
+    "date": "2019-11-13",
+    "section": "Reason for Visit",
+    "title": "Emergency Department Note - Wilfredo Fritsch - 2019-11-13",
+    "content": "Seen for Fracture of bone."
+  },
+  {
+    "doc_id": "aee7bbe1-0c45-c028-00c6-a8d629cc445b",
+    "patient_id": "aee7bbe1-0c45-c028-1e62-1f4cdb30c273",
+    "document_type": "Emergency Department Note",
+    "date": "2019-11-13",
+    "section": "Assessment",
+    "title": "Emergency Department Note - Wilfredo Fritsch - 2019-11-13",
+    "content": "Diagnoses recorded at this visit:\n- Fracture of bone (onset 2019-11-13), resolved 2020-01-07.\n- Fracture of forearm (onset 2019-11-13), resolved 2020-01-07."
+  },
+  {
+    "doc_id": "aee7bbe1-0c45-c028-00c6-a8d629cc445b",
+    "patient_id": "aee7bbe1-0c45-c028-1e62-1f4cdb30c273",
+    "document_type": "Emergency Department Note",
+    "date": "2019-11-13",
+    "section": "Procedures",
+    "title": "Emergency Department Note - Wilfredo Fritsch - 2019-11-13",
+    "content": "- Plain X-ray of humerus.\n- Bone immobilization, for Fracture of forearm."
+  },
+  {
+    "doc_id": "aee7bbe1-0c45-c028-00c6-a8d629cc445b",
+    "patient_id": "aee7bbe1-0c45-c028-1e62-1f4cdb30c273",
+    "document_type": "Emergency Department Note",
+    "date": "2019-11-13",
+    "section": "Medications",
+    "title": "Emergency Department Note - Wilfredo Fritsch - 2019-11-13",
+    "content": "Medications prescribed at this visit:\n- Acetaminophen 160 MG Chewable Tablet, started 2019-11-13; stopped 2020-01-07."
+  },
+  {
+    "doc_id": "aee7bbe1-0c45-c028-00c6-a8d629cc445b",
+    "patient_id": "aee7bbe1-0c45-c028-1e62-1f4cdb30c273",
+    "document_type": "Emergency Department Note",
+    "date": "2019-11-13",
+    "section": "Plan",
+    "title": "Emergency Department Note - Wilfredo Fritsch - 2019-11-13",
+    "content": "- Fracture care for Fracture of forearm, started 2019-11-13, ended 2020-01-07."
+  }
+]

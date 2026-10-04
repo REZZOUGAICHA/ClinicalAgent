@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "26aa011e-0d75-d1a3-807f-7e77ef575a7e",
+    "patient_id": "26aa011e-0d75-d1a3-3c5a-560a9450cc9d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-05-05",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Jesse Wolf - 2024-05-05",
+    "content": "Patient: Jesse Wolf, male, born 2010-04-04 (patient ID 26aa011e-0d75-d1a3-3c5a-560a9450cc9d).\nVisit date: 2024-05-05.\nVisit type: Well child visit.\nClinician: Odessa Hintz (General Practice).\nFacility: WESTFORD INTERNAL MEDICINE PC, WESTFORD, MA."
+  },
+  {
+    "doc_id": "26aa011e-0d75-d1a3-807f-7e77ef575a7e",
+    "patient_id": "26aa011e-0d75-d1a3-3c5a-560a9450cc9d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-05-05",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Jesse Wolf - 2024-05-05",
+    "content": "- Body Height: 167.0 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0\n- Body Weight: 74.6 kg\n- Body mass index (BMI) [Ratio]: 26.8 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 95.9 %\n- Diastolic Blood Pressure: 72.0 mm[Hg]\n- Systolic Blood Pressure: 124.0 mm[Hg]\n- Heart rate: 87.0 /min\n- Respiratory rate: 14.0 /min"
+  },
+  {
+    "doc_id": "26aa011e-0d75-d1a3-807f-7e77ef575a7e",
+    "patient_id": "26aa011e-0d75-d1a3-3c5a-560a9450cc9d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-05-05",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Jesse Wolf - 2024-05-05",
+    "content": "- Medication reconciliation.\n- Assessment of anxiety.\n- Depression screening.\n- Depression screening using Patient Health Questionnaire Nine Item score.\n- Assessment of substance use.\n- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test.\n- Anticipatory guidance.\n- Patient referral for dental care."
+  },
+  {
+    "doc_id": "26aa011e-0d75-d1a3-807f-7e77ef575a7e",
+    "patient_id": "26aa011e-0d75-d1a3-3c5a-560a9450cc9d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-05-05",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Jesse Wolf - 2024-05-05",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

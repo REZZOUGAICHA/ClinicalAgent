@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "7b06ee52-df9a-8487-a2f5-31cf99226145",
+    "patient_id": "7b06ee52-df9a-8487-0be6-dff27cc7d519",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2024-10-28",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Ressie Nader - 2024-10-28",
+    "content": "Patient: Ressie Nader, female, born 2001-08-06 (patient ID 7b06ee52-df9a-8487-0be6-dff27cc7d519).\nVisit date: 2024-10-28.\nVisit type: Patient encounter procedure.\nClinician: Maricarmen Delafuente (General Practice).\nFacility: ARBOUR-FULLER HOSPITAL, SOUTH ATTLEBORO, MA."
+  },
+  {
+    "doc_id": "7b06ee52-df9a-8487-a2f5-31cf99226145",
+    "patient_id": "7b06ee52-df9a-8487-0be6-dff27cc7d519",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2024-10-28",
+    "section": "Reason for Visit",
+    "title": "Outpatient Procedure Note - Ressie Nader - 2024-10-28",
+    "content": "Seen for Contraception care."
+  },
+  {
+    "doc_id": "7b06ee52-df9a-8487-a2f5-31cf99226145",
+    "patient_id": "7b06ee52-df9a-8487-0be6-dff27cc7d519",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2024-10-28",
+    "section": "Procedures",
+    "title": "Outpatient Procedure Note - Ressie Nader - 2024-10-28",
+    "content": "- Intramuscular injection."
+  }
+]

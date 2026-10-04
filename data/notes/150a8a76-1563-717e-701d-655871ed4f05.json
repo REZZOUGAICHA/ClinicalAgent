@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "150a8a76-1563-717e-701d-655871ed4f05",
+    "patient_id": "150a8a76-1563-717e-bf0f-f52045675f46",
+    "document_type": "Office Visit Note",
+    "date": "1947-09-17",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Diego Armijo - 1947-09-17",
+    "content": "Patient: Diego Armijo, male, born 1947-03-03 (patient ID 150a8a76-1563-717e-bf0f-f52045675f46).\nVisit date: 1947-09-17.\nVisit type: Encounter for problem.\nClinician: Zachery Pagac (General Practice).\nFacility: MELROSEWAKEFIELD HEALTHCARE INC, MELROSE, MA."
+  },
+  {
+    "doc_id": "150a8a76-1563-717e-701d-655871ed4f05",
+    "patient_id": "150a8a76-1563-717e-bf0f-f52045675f46",
+    "document_type": "Office Visit Note",
+    "date": "1947-09-17",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Diego Armijo - 1947-09-17",
+    "content": "Seen for Allergic disposition."
+  },
+  {
+    "doc_id": "150a8a76-1563-717e-701d-655871ed4f05",
+    "patient_id": "150a8a76-1563-717e-bf0f-f52045675f46",
+    "document_type": "Office Visit Note",
+    "date": "1947-09-17",
+    "section": "Allergies",
+    "title": "Office Visit Note - Diego Armijo - 1947-09-17",
+    "content": "- Allergic disposition (environment allergy).\n- House dust mite (environment allergy).\n- Eggs (edible) (food allergy); reaction: wheal, moderate."
+  }
+]

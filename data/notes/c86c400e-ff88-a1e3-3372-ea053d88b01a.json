@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "c86c400e-ff88-a1e3-3372-ea053d88b01a",
+    "patient_id": "c86c400e-ff88-a1e3-2e23-caa4d8311f47",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1965-04-26",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Cristobal Montero - 1965-04-26",
+    "content": "Patient: Cristobal Montero, male, born 1947-03-03 (patient ID c86c400e-ff88-a1e3-2e23-caa4d8311f47).\nVisit date: 1965-04-26.\nVisit type: General examination of patient.\nClinician: Eddie Keeling (General Practice).\nFacility: PRIMARY CARE NORTH PC, LYNN, MA."
+  },
+  {
+    "doc_id": "c86c400e-ff88-a1e3-3372-ea053d88b01a",
+    "patient_id": "c86c400e-ff88-a1e3-2e23-caa4d8311f47",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1965-04-26",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Cristobal Montero - 1965-04-26",
+    "content": "Diagnoses recorded at this visit:\n- Educated to high school level (onset 1965-04-26)."
+  }
+]

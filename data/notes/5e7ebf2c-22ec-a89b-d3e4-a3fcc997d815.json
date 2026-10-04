@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-d3e4-a3fcc997d815",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2022-05-11",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Rosalba Effertz - 2022-05-11",
+    "content": "Patient: Rosalba Effertz, female, born 1973-08-05 (patient ID 5e7ebf2c-22ec-a89b-53ab-38edddd81be9).\nVisit date: 2022-05-11.\nVisit type: Consultation for treatment.\nClinician: Saundra Kuphal (General Practice).\nFacility: COOLEY DICKINSON HOSPITAL INC, NORTHAMPTON, MA."
+  },
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-d3e4-a3fcc997d815",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2022-05-11",
+    "section": "Reason for Visit",
+    "title": "Outpatient Procedure Note - Rosalba Effertz - 2022-05-11",
+    "content": "Seen for Contraception care."
+  },
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-d3e4-a3fcc997d815",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2022-05-11",
+    "section": "Medications",
+    "title": "Outpatient Procedure Note - Rosalba Effertz - 2022-05-11",
+    "content": "Medications prescribed at this visit:\n- {7 (ethinyl estradiol 0.01 MG Oral Tablet) / 84 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) } Pack [Seasonique], started 2022-05-11; stopped 2023-05-06."
+  }
+]

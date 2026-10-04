@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "05cc86a0-2d98-b046-75ee-67519c256f7f",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2016-05-13",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Carita Grady - 2016-05-13",
+    "content": "Patient: Carita Grady, female, born 1925-09-18 (patient ID 05cc86a0-2d98-b046-790a-211fd9e1ea92).\nVisit date: 2016-05-13.\nVisit type: General examination of patient.\nClinician: Zachery Rau (General Practice).\nFacility: WALPOLE MEDICAL CENTER PC, WALPOLE, MA."
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-75ee-67519c256f7f",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2016-05-13",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Carita Grady - 2016-05-13",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2016-05-13), resolved 2022-06-17.\n- Osteoporosis (onset 2016-05-13).\n- Unemployed (onset 2016-05-13), resolved 2017-05-19.\n- Stress (onset 2016-05-13), resolved 2019-05-31."
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-75ee-67519c256f7f",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2016-05-13",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Carita Grady - 2016-05-13",
+    "content": "Medications prescribed at this visit:\n- Alendronic acid 10 MG Oral Tablet, started 2016-05-13, for Osteoporosis; stopped 2017-05-19."
+  }
+]

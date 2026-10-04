@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "982750f4-569b-5949-794f-27f6959e9b05",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Office Visit Note",
+    "date": "2022-08-03",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Dwana Wolf - 2022-08-03",
+    "content": "Patient: Dwana Wolf, female, born 1986-11-12 (patient ID 982750f4-569b-5949-196b-60699bdda3fb).\nVisit date: 2022-08-03.\nVisit type: Encounter for problem.\nClinician: Marcus Schamberger (General Practice).\nFacility: THE LOWELL GENERAL HOSPITAL, WESTFORD, MA."
+  },
+  {
+    "doc_id": "982750f4-569b-5949-794f-27f6959e9b05",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Office Visit Note",
+    "date": "2022-08-03",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Dwana Wolf - 2022-08-03",
+    "content": "Seen for Anemia."
+  },
+  {
+    "doc_id": "982750f4-569b-5949-794f-27f6959e9b05",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Office Visit Note",
+    "date": "2022-08-03",
+    "section": "Laboratory Results",
+    "title": "Office Visit Note - Dwana Wolf - 2022-08-03",
+    "content": "- Hemoglobin [Mass/volume] in Blood: 11.1 g/dL\n- Hematocrit [Volume Fraction] of Blood by calculation: 33.1 %\n- Leukocytes [#/volume] in Blood by Automated count: 4.2 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 4.4 10*6/uL\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 88.6 fL\n- MCH [Entitic mass] by Automated count: 28.3 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 34.5 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 41.8 fL\n- Platelets [#/volume] in Blood by Automated count: 319.2 10*3/uL\n- Platelet distribution width [Entitic volume] in Blood by Automated count: 15.7 fL\n- Platelet [Entitic mean volume] in Blood by Automated count: 10.3 fL"
+  },
+  {
+    "doc_id": "982750f4-569b-5949-794f-27f6959e9b05",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Office Visit Note",
+    "date": "2022-08-03",
+    "section": "Procedures",
+    "title": "Office Visit Note - Dwana Wolf - 2022-08-03",
+    "content": "- Peripheral blood smear interpretation.\n- Review of systems.\n- Medication reconciliation.\n- Brief general examination."
+  },
+  {
+    "doc_id": "982750f4-569b-5949-794f-27f6959e9b05",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Office Visit Note",
+    "date": "2022-08-03",
+    "section": "Medications",
+    "title": "Office Visit Note - Dwana Wolf - 2022-08-03",
+    "content": "Medications prescribed at this visit:\n- Vitamin B12 5 MG/ML Injectable Solution, started 2022-08-03; no stop date recorded."
+  }
+]

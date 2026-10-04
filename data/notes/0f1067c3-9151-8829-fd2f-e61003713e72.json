@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "0f1067c3-9151-8829-fd2f-e61003713e72",
+    "patient_id": "0f1067c3-9151-8829-56cd-2eff898db59c",
+    "document_type": "Office Visit Note",
+    "date": "2024-08-08",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Virgie Aufderhar - 2024-08-08",
+    "content": "Patient: Virgie Aufderhar, female, born 2009-06-18 (patient ID 0f1067c3-9151-8829-56cd-2eff898db59c).\nVisit date: 2024-08-08.\nVisit type: Encounter for check up.\nClinician: Antwan Lindgren (General Practice).\nFacility: DR SOLOMON CARTER FULLER MENTAL HEALTH CENTER, BOSTON, MA."
+  },
+  {
+    "doc_id": "0f1067c3-9151-8829-fd2f-e61003713e72",
+    "patient_id": "0f1067c3-9151-8829-56cd-2eff898db59c",
+    "document_type": "Office Visit Note",
+    "date": "2024-08-08",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Virgie Aufderhar - 2024-08-08",
+    "content": "Seen for Gingivitis."
+  },
+  {
+    "doc_id": "0f1067c3-9151-8829-fd2f-e61003713e72",
+    "patient_id": "0f1067c3-9151-8829-56cd-2eff898db59c",
+    "document_type": "Office Visit Note",
+    "date": "2024-08-08",
+    "section": "Procedures",
+    "title": "Office Visit Note - Virgie Aufderhar - 2024-08-08",
+    "content": "- Dental consultation and report, for Gingivitis.\n- Dental care, for Gingivitis.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Dental plain X-ray bitewing.\n- Examination of gingivae, for Gingivitis.\n- Oral health education, for Gingivitis."
+  }
+]

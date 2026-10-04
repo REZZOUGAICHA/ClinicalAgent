@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "47d390c6-a1a2-1a80-0da2-e31e36a660d3",
+    "patient_id": "47d390c6-a1a2-1a80-dd1d-9722c7b24159",
+    "document_type": "Office Visit Note",
+    "date": "2026-05-02",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Demarcus Jones - 2026-05-02",
+    "content": "Patient: Demarcus Jones, male, born 2009-03-07 (patient ID 47d390c6-a1a2-1a80-dd1d-9722c7b24159).\nVisit date: 2026-05-02.\nVisit type: Encounter for check up.\nClinician: Jackelyn Pacocha (General Practice).\nFacility: WP ACQUISITION SUB LLC, HAVERHILL, MA."
+  },
+  {
+    "doc_id": "47d390c6-a1a2-1a80-0da2-e31e36a660d3",
+    "patient_id": "47d390c6-a1a2-1a80-dd1d-9722c7b24159",
+    "document_type": "Office Visit Note",
+    "date": "2026-05-02",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Demarcus Jones - 2026-05-02",
+    "content": "Seen for Patient referral for dental care."
+  },
+  {
+    "doc_id": "47d390c6-a1a2-1a80-0da2-e31e36a660d3",
+    "patient_id": "47d390c6-a1a2-1a80-dd1d-9722c7b24159",
+    "document_type": "Office Visit Note",
+    "date": "2026-05-02",
+    "section": "Procedures",
+    "title": "Office Visit Note - Demarcus Jones - 2026-05-02",
+    "content": "- Dental consultation and report, for Patient referral for dental care.\n- Dental care, for Patient referral for dental care.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Examination of gingivae, for Patient referral for dental care.\n- Oral health education, for Patient referral for dental care."
+  }
+]

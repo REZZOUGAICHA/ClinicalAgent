@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "f999ef25-a612-87c9-080c-48b17ae1cb4c",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Emergency Department Note",
+    "date": "1990-04-05",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Evangeline Ziemann - 1990-04-05",
+    "content": "Patient: Evangeline Ziemann, female, born 1925-09-18 (patient ID f999ef25-a612-87c9-206f-aacc9d469dc8).\nVisit date: 1990-04-05.\nVisit type: Emergency room admission.\nClinician: Javier Collier (General Practice).\nFacility: SERENITY HILL NURSING CENTER, WRENTHAM, MA."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-080c-48b17ae1cb4c",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Emergency Department Note",
+    "date": "1990-04-05",
+    "section": "Reason for Visit",
+    "title": "Emergency Department Note - Evangeline Ziemann - 1990-04-05",
+    "content": "Seen for Chronic intractable migraine without aura."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-080c-48b17ae1cb4c",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Emergency Department Note",
+    "date": "1990-04-05",
+    "section": "Assessment",
+    "title": "Emergency Department Note - Evangeline Ziemann - 1990-04-05",
+    "content": "Diagnoses recorded at this visit:\n- Chronic intractable migraine without aura (onset 1990-04-05)."
+  }
+]

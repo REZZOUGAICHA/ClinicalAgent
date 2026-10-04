@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "f999ef25-a612-87c9-9388-1fc07aa9ba34",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1961-12-29",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Evangeline Ziemann - 1961-12-29",
+    "content": "Patient: Evangeline Ziemann, female, born 1925-09-18 (patient ID f999ef25-a612-87c9-206f-aacc9d469dc8).\nVisit date: 1961-12-29.\nVisit type: General examination of patient.\nClinician: Sharron Okuneva (General Practice).\nFacility: A&A HEALTHCARE LLC, MILFORD, MA."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-9388-1fc07aa9ba34",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1961-12-29",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Evangeline Ziemann - 1961-12-29",
+    "content": "Diagnoses recorded at this visit:\n- Prediabetes (onset 1961-12-29)."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-9388-1fc07aa9ba34",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1961-12-29",
+    "section": "Plan",
+    "title": "Annual Wellness Visit Note - Evangeline Ziemann - 1961-12-29",
+    "content": "- Diabetes self management plan for Prediabetes, started 1961-12-29."
+  }
+]

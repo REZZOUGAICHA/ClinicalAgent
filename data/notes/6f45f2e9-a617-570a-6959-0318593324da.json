@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "6f45f2e9-a617-570a-6959-0318593324da",
+    "patient_id": "6f45f2e9-a617-570a-8867-dec1260088bb",
+    "document_type": "Office Visit Note",
+    "date": "2026-08-06",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Carey Mraz - 2026-08-06",
+    "content": "Patient: Carey Mraz, male, born 2013-06-27 (patient ID 6f45f2e9-a617-570a-8867-dec1260088bb).\nVisit date: 2026-08-06.\nVisit type: Encounter for check up.\nClinician: Jules Emard (General Practice).\nFacility: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC, LEOMINSTER, MA."
+  },
+  {
+    "doc_id": "6f45f2e9-a617-570a-6959-0318593324da",
+    "patient_id": "6f45f2e9-a617-570a-8867-dec1260088bb",
+    "document_type": "Office Visit Note",
+    "date": "2026-08-06",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Carey Mraz - 2026-08-06",
+    "content": "Seen for Patient referral for dental care."
+  },
+  {
+    "doc_id": "6f45f2e9-a617-570a-6959-0318593324da",
+    "patient_id": "6f45f2e9-a617-570a-8867-dec1260088bb",
+    "document_type": "Office Visit Note",
+    "date": "2026-08-06",
+    "section": "Assessment",
+    "title": "Office Visit Note - Carey Mraz - 2026-08-06",
+    "content": "Diagnoses recorded at this visit:\n- Gingival disease (onset 2026-08-06), resolved 2026-08-06."
+  },
+  {
+    "doc_id": "6f45f2e9-a617-570a-6959-0318593324da",
+    "patient_id": "6f45f2e9-a617-570a-8867-dec1260088bb",
+    "document_type": "Office Visit Note",
+    "date": "2026-08-06",
+    "section": "Procedures",
+    "title": "Office Visit Note - Carey Mraz - 2026-08-06",
+    "content": "- Dental consultation and report, for Patient referral for dental care.\n- Dental care, for Patient referral for dental care.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Dental plain X-ray bitewing.\n- Examination of gingivae, for Patient referral for dental care.\n- Dental surgical procedure, for Gingival disease.\n- Dental application of desensitizing medicament, for Gingival disease.\n- Gingivectomy or gingivoplasty  per tooth, for Gingival disease.\n- Postoperative care for dental procedure.\n- Oral health education, for Patient referral for dental care."
+  }
+]

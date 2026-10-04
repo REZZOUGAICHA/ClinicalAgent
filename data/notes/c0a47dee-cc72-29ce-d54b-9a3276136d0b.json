@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "c0a47dee-cc72-29ce-d54b-9a3276136d0b",
+    "patient_id": "c0a47dee-cc72-29ce-df5a-ea6d306c36a4",
+    "document_type": "Emergency Department Note",
+    "date": "2025-01-21",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Jonathan Carroll - 2025-01-21",
+    "content": "Patient: Jonathan Carroll, male, born 1987-02-23 (patient ID c0a47dee-cc72-29ce-df5a-ea6d306c36a4).\nVisit date: 2025-01-21.\nVisit type: Emergency room admission.\nClinician: Jane Schmeler (General Practice).\nFacility: CLIFTON REHABILITATION NURSING CENTER, SOMERSET, MA."
+  },
+  {
+    "doc_id": "c0a47dee-cc72-29ce-d54b-9a3276136d0b",
+    "patient_id": "c0a47dee-cc72-29ce-df5a-ea6d306c36a4",
+    "document_type": "Emergency Department Note",
+    "date": "2025-01-21",
+    "section": "Reason for Visit",
+    "title": "Emergency Department Note - Jonathan Carroll - 2025-01-21",
+    "content": "Seen for Concussion injury of brain."
+  },
+  {
+    "doc_id": "c0a47dee-cc72-29ce-d54b-9a3276136d0b",
+    "patient_id": "c0a47dee-cc72-29ce-df5a-ea6d306c36a4",
+    "document_type": "Emergency Department Note",
+    "date": "2025-01-21",
+    "section": "Assessment",
+    "title": "Emergency Department Note - Jonathan Carroll - 2025-01-21",
+    "content": "Diagnoses recorded at this visit:\n- Concussion injury of brain (onset 2025-01-21), resolved 2025-02-27.\n- Concussion with no loss of consciousness (onset 2025-01-21), resolved 2025-02-27."
+  },
+  {
+    "doc_id": "c0a47dee-cc72-29ce-d54b-9a3276136d0b",
+    "patient_id": "c0a47dee-cc72-29ce-df5a-ea6d306c36a4",
+    "document_type": "Emergency Department Note",
+    "date": "2025-01-21",
+    "section": "Plan",
+    "title": "Emergency Department Note - Jonathan Carroll - 2025-01-21",
+    "content": "- Head injury rehabilitation for Concussion with no loss of consciousness, started 2025-01-21, ended 2025-02-27."
+  }
+]

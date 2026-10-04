@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "14a5a697-29a3-48b2-5a25-f37e771ab09e",
+    "patient_id": "14a5a697-29a3-48b2-969a-3ceefe74a700",
+    "document_type": "Office Visit Note",
+    "date": "1980-08-16",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Drusilla Schumm - 1980-08-16",
+    "content": "Patient: Drusilla Schumm, female, born 1958-11-15 (patient ID 14a5a697-29a3-48b2-969a-3ceefe74a700).\nVisit date: 1980-08-16.\nVisit type: Prenatal visit.\nClinician: Bennie Abbott (General Practice).\nFacility: LAHEY HOSPITAL & MEDICAL CENTER BURLINGTON, PEABODY, MA."
+  },
+  {
+    "doc_id": "14a5a697-29a3-48b2-5a25-f37e771ab09e",
+    "patient_id": "14a5a697-29a3-48b2-969a-3ceefe74a700",
+    "document_type": "Office Visit Note",
+    "date": "1980-08-16",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Drusilla Schumm - 1980-08-16",
+    "content": "Seen for Normal pregnancy."
+  },
+  {
+    "doc_id": "14a5a697-29a3-48b2-5a25-f37e771ab09e",
+    "patient_id": "14a5a697-29a3-48b2-969a-3ceefe74a700",
+    "document_type": "Office Visit Note",
+    "date": "1980-08-16",
+    "section": "Assessment",
+    "title": "Office Visit Note - Drusilla Schumm - 1980-08-16",
+    "content": "Diagnoses recorded at this visit:\n- Recurrent urinary tract infection (onset 1980-09-12)."
+  }
+]

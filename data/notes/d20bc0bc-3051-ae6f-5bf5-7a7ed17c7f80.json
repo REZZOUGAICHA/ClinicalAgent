@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-5bf5-7a7ed17c7f80",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Office Visit Note",
+    "date": "2025-05-14",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Lavette Kozey - 2025-05-14",
+    "content": "Patient: Lavette Kozey, female, born 2010-03-24 (patient ID d20bc0bc-3051-ae6f-f391-ceec7ec0370f).\nVisit date: 2025-05-14.\nVisit type: Encounter for check up.\nClinician: Beatriz Monroy (General Practice).\nFacility: FIRST PSYCHIATRIC PLANNERS INC, WOBURN, MA."
+  },
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-5bf5-7a7ed17c7f80",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Office Visit Note",
+    "date": "2025-05-14",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Lavette Kozey - 2025-05-14",
+    "content": "Seen for Patient referral for dental care."
+  },
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-5bf5-7a7ed17c7f80",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Office Visit Note",
+    "date": "2025-05-14",
+    "section": "Assessment",
+    "title": "Office Visit Note - Lavette Kozey - 2025-05-14",
+    "content": "Diagnoses recorded at this visit:\n- Dental filling lost (onset 2025-05-14), resolved 2025-05-14."
+  },
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-5bf5-7a7ed17c7f80",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Office Visit Note",
+    "date": "2025-05-14",
+    "section": "Procedures",
+    "title": "Office Visit Note - Lavette Kozey - 2025-05-14",
+    "content": "- Dental consultation and report, for Patient referral for dental care.\n- Dental care, for Patient referral for dental care.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Dental plain X-ray bitewing.\n- Examination of gingivae, for Patient referral for dental care.\n- Application of composite dental filling material to dentin of tooth following fracture of tooth, for Dental filling lost.\n- Oral health education, for Patient referral for dental care."
+  }
+]

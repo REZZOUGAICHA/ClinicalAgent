@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "922fb35e-148d-9e82-dde9-aa9219a801c8",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2022-05-20",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Agnes Weber - 2022-05-20",
+    "content": "Patient: Agnes Weber, female, born 1986-12-19 (patient ID 922fb35e-148d-9e82-7e65-bfa05e3b3515).\nVisit date: 2022-05-20.\nVisit type: General examination of patient.\nClinician: Valentine Leannon (General Practice).\nFacility: SUNRISE HEALTHCARE LLC, SHREWSBURY, MA."
+  },
+  {
+    "doc_id": "922fb35e-148d-9e82-dde9-aa9219a801c8",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2022-05-20",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Agnes Weber - 2022-05-20",
+    "content": "Diagnoses recorded at this visit:\n- Reports of violence in the environment (onset 2022-05-20), resolved 2024-05-31."
+  },
+  {
+    "doc_id": "922fb35e-148d-9e82-dde9-aa9219a801c8",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2022-05-20",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Agnes Weber - 2022-05-20",
+    "content": "- Body Height: 176.6 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0\n- Body Weight: 78.8 kg\n- Body mass index (BMI) [Ratio]: 25.3 kg/m2\n- Diastolic Blood Pressure: 86.0 mm[Hg]\n- Systolic Blood Pressure: 125.0 mm[Hg]\n- Heart rate: 66.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "922fb35e-148d-9e82-dde9-aa9219a801c8",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2022-05-20",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Agnes Weber - 2022-05-20",
+    "content": "- Medication reconciliation.\n- Assessment of health and social care needs.\n- Assessment of anxiety.\n- Screening for domestic abuse.\n- Depression screening.\n- Depression screening.\n- Assessment of substance use.\n- Assessment using Alcohol Use Disorders Identification Test - Consumption.\n- Patient referral for dental care."
+  },
+  {
+    "doc_id": "922fb35e-148d-9e82-dde9-aa9219a801c8",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2022-05-20",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Agnes Weber - 2022-05-20",
+    "content": "Medications prescribed at this visit:\n- budesonide 0.25 MG/ML Inhalation Suspension, started 2022-05-20, for Childhood asthma; stopped 2023-05-26.\n- albuterol 0.21 MG/ML Inhalation Solution, started 2022-05-20, for Childhood asthma; stopped 2023-05-26."
+  },
+  {
+    "doc_id": "922fb35e-148d-9e82-dde9-aa9219a801c8",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2022-05-20",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Agnes Weber - 2022-05-20",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

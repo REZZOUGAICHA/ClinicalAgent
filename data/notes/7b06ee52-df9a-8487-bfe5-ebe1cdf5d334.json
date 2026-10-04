@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "7b06ee52-df9a-8487-bfe5-ebe1cdf5d334",
+    "patient_id": "7b06ee52-df9a-8487-0be6-dff27cc7d519",
+    "document_type": "Emergency Department Note",
+    "date": "2020-04-19",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Ressie Nader - 2020-04-19",
+    "content": "Patient: Ressie Nader, female, born 2001-08-06 (patient ID 7b06ee52-df9a-8487-0be6-dff27cc7d519).\nVisit date: 2020-04-19.\nVisit type: Emergency room admission.\nClinician: Kerrie Bergstrom (General Practice).\nFacility: LIFE CARE CENTER OF ATTLEBORO, ATTLEBORO, MA."
+  },
+  {
+    "doc_id": "7b06ee52-df9a-8487-bfe5-ebe1cdf5d334",
+    "patient_id": "7b06ee52-df9a-8487-0be6-dff27cc7d519",
+    "document_type": "Emergency Department Note",
+    "date": "2020-04-19",
+    "section": "Reason for Visit",
+    "title": "Emergency Department Note - Ressie Nader - 2020-04-19",
+    "content": "Seen for Sprain (morphologic abnormality)."
+  },
+  {
+    "doc_id": "7b06ee52-df9a-8487-bfe5-ebe1cdf5d334",
+    "patient_id": "7b06ee52-df9a-8487-0be6-dff27cc7d519",
+    "document_type": "Emergency Department Note",
+    "date": "2020-04-19",
+    "section": "Assessment",
+    "title": "Emergency Department Note - Ressie Nader - 2020-04-19",
+    "content": "Diagnoses recorded at this visit:\n- Sprain (morphologic abnormality) (onset 2020-04-19), resolved 2020-05-09.\n- Sprain of ankle (onset 2020-04-19), resolved 2020-05-09."
+  },
+  {
+    "doc_id": "7b06ee52-df9a-8487-bfe5-ebe1cdf5d334",
+    "patient_id": "7b06ee52-df9a-8487-0be6-dff27cc7d519",
+    "document_type": "Emergency Department Note",
+    "date": "2020-04-19",
+    "section": "Medications",
+    "title": "Emergency Department Note - Ressie Nader - 2020-04-19",
+    "content": "Medications prescribed at this visit:\n- Acetaminophen 325 MG Oral Tablet, started 2020-04-19; stopped 2020-05-09."
+  },
+  {
+    "doc_id": "7b06ee52-df9a-8487-bfe5-ebe1cdf5d334",
+    "patient_id": "7b06ee52-df9a-8487-0be6-dff27cc7d519",
+    "document_type": "Emergency Department Note",
+    "date": "2020-04-19",
+    "section": "Plan",
+    "title": "Emergency Department Note - Ressie Nader - 2020-04-19",
+    "content": "- Physiotherapy care plan for Sprain of ankle, started 2020-04-19, ended 2020-05-09."
+  }
+]

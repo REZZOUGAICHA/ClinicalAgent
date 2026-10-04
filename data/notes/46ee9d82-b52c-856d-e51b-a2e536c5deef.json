@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "46ee9d82-b52c-856d-e51b-a2e536c5deef",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Office Visit Note",
+    "date": "2019-03-12",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Shalanda Koepp - 2019-03-12",
+    "content": "Patient: Shalanda Koepp, female, born 1996-06-18 (patient ID 46ee9d82-b52c-856d-069b-5064ff052225).\nVisit date: 2019-03-12.\nVisit type: Prenatal initial visit.\nClinician: Alysha Koch (General Practice).\nFacility: TEWKSBURY HOSPITAL, TEWKSBURY, MA."
+  },
+  {
+    "doc_id": "46ee9d82-b52c-856d-e51b-a2e536c5deef",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Office Visit Note",
+    "date": "2019-03-12",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Shalanda Koepp - 2019-03-12",
+    "content": "Seen for Normal pregnancy."
+  },
+  {
+    "doc_id": "46ee9d82-b52c-856d-e51b-a2e536c5deef",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Office Visit Note",
+    "date": "2019-03-12",
+    "section": "Assessment",
+    "title": "Office Visit Note - Shalanda Koepp - 2019-03-12",
+    "content": "Diagnoses recorded at this visit:\n- Normal pregnancy (onset 2019-03-12), resolved 2019-04-06.\n- Miscarriage in first trimester (onset 2019-03-12), resolved 2019-04-06.\n- Tubal pregnancy (onset 2019-03-12), resolved 2019-04-06."
+  },
+  {
+    "doc_id": "46ee9d82-b52c-856d-e51b-a2e536c5deef",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Office Visit Note",
+    "date": "2019-03-12",
+    "section": "Procedures",
+    "title": "Office Visit Note - Shalanda Koepp - 2019-03-12",
+    "content": "- Standard pregnancy test, for Normal pregnancy.\n- Ultrasound scan for fetal viability, for Normal pregnancy."
+  }
+]

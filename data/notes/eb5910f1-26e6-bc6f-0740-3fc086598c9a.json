@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "eb5910f1-26e6-bc6f-0740-3fc086598c9a",
+    "patient_id": "eb5910f1-26e6-bc6f-b300-716eae678d6f",
+    "document_type": "Emergency Department Note",
+    "date": "2026-06-02",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Larissa Bins - 2026-06-02",
+    "content": "Patient: Larissa Bins, female, born 1995-04-25 (patient ID eb5910f1-26e6-bc6f-b300-716eae678d6f).\nVisit date: 2026-06-02.\nVisit type: Obstetric emergency hospital admission.\nClinician: Shameka Reichert (General Practice).\nFacility: LAKEVIEW HOUSE SKLD NRSG AND RESIDENTIAL CARE FAC, HAVERHILL, MA."
+  },
+  {
+    "doc_id": "eb5910f1-26e6-bc6f-0740-3fc086598c9a",
+    "patient_id": "eb5910f1-26e6-bc6f-b300-716eae678d6f",
+    "document_type": "Emergency Department Note",
+    "date": "2026-06-02",
+    "section": "Reason for Visit",
+    "title": "Emergency Department Note - Larissa Bins - 2026-06-02",
+    "content": "Seen for Normal pregnancy."
+  },
+  {
+    "doc_id": "eb5910f1-26e6-bc6f-0740-3fc086598c9a",
+    "patient_id": "eb5910f1-26e6-bc6f-b300-716eae678d6f",
+    "document_type": "Emergency Department Note",
+    "date": "2026-06-02",
+    "section": "Procedures",
+    "title": "Emergency Department Note - Larissa Bins - 2026-06-02",
+    "content": "- Episiotomy, for Normal pregnancy.\n- Human parturition  function, for Normal pregnancy."
+  }
+]

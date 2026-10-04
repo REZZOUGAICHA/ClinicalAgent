@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "b6a1cac9-8873-36a7-499f-a245ba369ca7",
+    "patient_id": "b6a1cac9-8873-36a7-e726-4aad8a07d44d",
+    "document_type": "Office Visit Note",
+    "date": "2025-03-05",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Renaldo Crist - 2025-03-05",
+    "content": "Patient: Renaldo Crist, male, born 1993-04-14 (patient ID b6a1cac9-8873-36a7-e726-4aad8a07d44d).\nVisit date: 2025-03-05.\nVisit type: Encounter for symptom.\nClinician: Eleni Franecki (General Practice).\nFacility: BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM INC., NEEDHAM, MA."
+  },
+  {
+    "doc_id": "b6a1cac9-8873-36a7-499f-a245ba369ca7",
+    "patient_id": "b6a1cac9-8873-36a7-e726-4aad8a07d44d",
+    "document_type": "Office Visit Note",
+    "date": "2025-03-05",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Renaldo Crist - 2025-03-05",
+    "content": "Seen for Viral sinusitis."
+  },
+  {
+    "doc_id": "b6a1cac9-8873-36a7-499f-a245ba369ca7",
+    "patient_id": "b6a1cac9-8873-36a7-e726-4aad8a07d44d",
+    "document_type": "Office Visit Note",
+    "date": "2025-03-05",
+    "section": "Assessment",
+    "title": "Office Visit Note - Renaldo Crist - 2025-03-05",
+    "content": "Diagnoses recorded at this visit:\n- Viral sinusitis (onset 2025-03-05), resolved 2025-03-21."
+  },
+  {
+    "doc_id": "b6a1cac9-8873-36a7-499f-a245ba369ca7",
+    "patient_id": "b6a1cac9-8873-36a7-e726-4aad8a07d44d",
+    "document_type": "Office Visit Note",
+    "date": "2025-03-05",
+    "section": "Medications",
+    "title": "Office Visit Note - Renaldo Crist - 2025-03-05",
+    "content": "Medications prescribed at this visit:\n- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet, started 2025-03-05, for Viral sinusitis; stopped 2025-03-21."
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "9661a432-4630-2cd9-c623-753e377261c7",
+    "patient_id": "9661a432-4630-2cd9-142c-386845fae837",
+    "document_type": "Emergency Department Note",
+    "date": "2021-08-13",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Paul Tremblay - 2021-08-13",
+    "content": "Patient: Paul Tremblay, male, born 1978-02-14 (patient ID 9661a432-4630-2cd9-142c-386845fae837).\nVisit date: 2021-08-13.\nVisit type: Emergency room admission.\nClinician: Silas Stamm (General Practice).\nFacility: SACHEM CENTER FOR HEALTH & REHABILITATION, EAST BRIDGEWATER, MA."
+  },
+  {
+    "doc_id": "9661a432-4630-2cd9-c623-753e377261c7",
+    "patient_id": "9661a432-4630-2cd9-142c-386845fae837",
+    "document_type": "Emergency Department Note",
+    "date": "2021-08-13",
+    "section": "Reason for Visit",
+    "title": "Emergency Department Note - Paul Tremblay - 2021-08-13",
+    "content": "Seen for Burn injury (morphologic abnormality)."
+  },
+  {
+    "doc_id": "9661a432-4630-2cd9-c623-753e377261c7",
+    "patient_id": "9661a432-4630-2cd9-142c-386845fae837",
+    "document_type": "Emergency Department Note",
+    "date": "2021-08-13",
+    "section": "Assessment",
+    "title": "Emergency Department Note - Paul Tremblay - 2021-08-13",
+    "content": "Diagnoses recorded at this visit:\n- Burn injury (morphologic abnormality) (onset 2021-08-13), resolved 2021-09-20.\n- Partial thickness burn (onset 2021-08-13), resolved 2021-09-20."
+  },
+  {
+    "doc_id": "9661a432-4630-2cd9-c623-753e377261c7",
+    "patient_id": "9661a432-4630-2cd9-142c-386845fae837",
+    "document_type": "Emergency Department Note",
+    "date": "2021-08-13",
+    "section": "Medications",
+    "title": "Emergency Department Note - Paul Tremblay - 2021-08-13",
+    "content": "Medications prescribed at this visit:\n- Cefuroxime 250 MG Oral Tablet, started 2021-08-13; stopped 2021-09-20.\n- Acetaminophen 325 MG / HYDROcodone Bitartrate 7.5 MG Oral Tablet, started 2021-08-13; stopped 2021-09-04.\n- Naproxen sodium 220 MG Oral Tablet, started 2021-08-13; stopped 2021-09-20."
+  },
+  {
+    "doc_id": "9661a432-4630-2cd9-c623-753e377261c7",
+    "patient_id": "9661a432-4630-2cd9-142c-386845fae837",
+    "document_type": "Emergency Department Note",
+    "date": "2021-08-13",
+    "section": "Plan",
+    "title": "Emergency Department Note - Paul Tremblay - 2021-08-13",
+    "content": "- Burn care for Partial thickness burn, started 2021-08-13, ended 2021-09-20."
+  }
+]

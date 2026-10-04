@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "7811dc30-8c86-8164-3847-c568a2758f99",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "1989-07-25",
+    "section": "Visit Information",
+    "title": "Inpatient Discharge Summary - Mignon Rau - 1989-07-25",
+    "content": "Patient: Mignon Rau, female, born 1970-04-21 (patient ID 7811dc30-8c86-8164-6c33-6b6f464745ef).\nVisit date: 1989-07-25.\nVisit type: Encounter for problem.\nClinician: Rudolf Vandervort (General Practice).\nFacility: BETH ISRAEL DEACONESS HOSPITAL MILTON INC, MILTON, MA."
+  },
+  {
+    "doc_id": "7811dc30-8c86-8164-3847-c568a2758f99",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "1989-07-25",
+    "section": "Reason for Visit",
+    "title": "Inpatient Discharge Summary - Mignon Rau - 1989-07-25",
+    "content": "Seen for Appendicitis."
+  },
+  {
+    "doc_id": "7811dc30-8c86-8164-3847-c568a2758f99",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "1989-07-25",
+    "section": "Assessment",
+    "title": "Inpatient Discharge Summary - Mignon Rau - 1989-07-25",
+    "content": "Diagnoses recorded at this visit:\n- History of appendectomy (onset 1989-07-25)."
+  }
+]

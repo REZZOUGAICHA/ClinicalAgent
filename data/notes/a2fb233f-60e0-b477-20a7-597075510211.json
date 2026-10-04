@@ -1,0 +1,65 @@
+[
+  {
+    "doc_id": "a2fb233f-60e0-b477-20a7-597075510211",
+    "patient_id": "a2fb233f-60e0-b477-cd38-af3923f792a3",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-05-25",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Tanner Mitchell - 2025-05-25",
+    "content": "Patient: Tanner Mitchell, male, born 1962-03-11 (patient ID a2fb233f-60e0-b477-cd38-af3923f792a3).\nVisit date: 2025-05-25.\nVisit type: General examination of patient.\nClinician: Patty Bashirian (General Practice).\nFacility: GARDEN STATE HEALTHCARE ASSOCIATES LLC, WEST NEWBURY, MA."
+  },
+  {
+    "doc_id": "a2fb233f-60e0-b477-20a7-597075510211",
+    "patient_id": "a2fb233f-60e0-b477-cd38-af3923f792a3",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-05-25",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Tanner Mitchell - 2025-05-25",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2025-05-25), resolved 2025-12-21.\n- Full-time employment (onset 2025-05-25).\n- Stress (onset 2025-05-25)."
+  },
+  {
+    "doc_id": "a2fb233f-60e0-b477-20a7-597075510211",
+    "patient_id": "a2fb233f-60e0-b477-cd38-af3923f792a3",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-05-25",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Tanner Mitchell - 2025-05-25",
+    "content": "- Body Height: 170.6 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0\n- Body Weight: 81.4 kg\n- Body mass index (BMI) [Ratio]: 28.0 kg/m2\n- Diastolic Blood Pressure: 88.0 mm[Hg]\n- Systolic Blood Pressure: 156.0 mm[Hg]\n- Heart rate: 63.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "a2fb233f-60e0-b477-20a7-597075510211",
+    "patient_id": "a2fb233f-60e0-b477-cd38-af3923f792a3",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-05-25",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Tanner Mitchell - 2025-05-25",
+    "content": "- Hemoglobin A1c/Hemoglobin.total in Blood: 6.0 %\n- Glucose [Mass/volume] in Blood: 73.1 mg/dL\n- Urea nitrogen [Mass/volume] in Blood: 11.7 mg/dL\n- Creatinine [Mass/volume] in Blood: 0.9 mg/dL\n- Calcium [Mass/volume] in Blood: 8.5 mg/dL\n- Sodium [Moles/volume] in Blood: 141.3 mmol/L\n- Potassium [Moles/volume] in Blood: 4.4 mmol/L\n- Chloride [Moles/volume] in Blood: 105.7 mmol/L\n- Carbon dioxide  total [Moles/volume] in Blood: 20.8 mmol/L"
+  },
+  {
+    "doc_id": "a2fb233f-60e0-b477-20a7-597075510211",
+    "patient_id": "a2fb233f-60e0-b477-cd38-af3923f792a3",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-05-25",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Tanner Mitchell - 2025-05-25",
+    "content": "- Assessment of health and social care needs.\n- Depression screening.\n- Depression screening.\n- Assessment of substance use.\n- Assessment using Alcohol Use Disorders Identification Test - Consumption."
+  },
+  {
+    "doc_id": "a2fb233f-60e0-b477-20a7-597075510211",
+    "patient_id": "a2fb233f-60e0-b477-cd38-af3923f792a3",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-05-25",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Tanner Mitchell - 2025-05-25",
+    "content": "Medications prescribed at this visit:\n- amLODIPine 2.5 MG Oral Tablet, started 2025-05-25, for Essential hypertension; stopped 2025-12-21."
+  },
+  {
+    "doc_id": "a2fb233f-60e0-b477-20a7-597075510211",
+    "patient_id": "a2fb233f-60e0-b477-cd38-af3923f792a3",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-05-25",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Tanner Mitchell - 2025-05-25",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

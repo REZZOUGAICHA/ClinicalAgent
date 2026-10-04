@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-3a61-c271c1363ea6",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-12-21",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Aron Hammes - 2024-12-21",
+    "content": "Patient: Aron Hammes, male, born 2002-10-19 (patient ID 2de4dd0d-f665-8a2e-4c6b-997735e14ace).\nVisit date: 2024-12-21.\nVisit type: General examination of patient.\nClinician: Lola Orosco (General Practice).\nFacility: FAIRVIEW HOSPITAL, WILLIAMSTOWN, MA."
+  },
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-3a61-c271c1363ea6",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-12-21",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Aron Hammes - 2024-12-21",
+    "content": "- Body Height: 169.4 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0\n- Body Weight: 64.8 kg\n- Body mass index (BMI) [Ratio]: 22.6 kg/m2\n- Diastolic Blood Pressure: 66.0 mm[Hg]\n- Systolic Blood Pressure: 133.0 mm[Hg]\n- Heart rate: 78.0 /min\n- Respiratory rate: 15.0 /min"
+  },
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-3a61-c271c1363ea6",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-12-21",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Aron Hammes - 2024-12-21",
+    "content": "- Leukocytes [#/volume] in Blood by Automated count: 7.1 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 4.7 10*6/uL\n- Hemoglobin [Mass/volume] in Blood: 15.7 g/dL\n- Hematocrit [Volume Fraction] of Blood by Automated count: 35.8 %\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 87.7 fL\n- MCH [Entitic mass] by Automated count: 27.5 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 33.1 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 44.9 fL\n- Platelets [#/volume] in Blood by Automated count: 181.2 10*3/uL\n- Platelet distribution width [Entitic volume] in Blood by Automated count: 14.4 fL\n- Platelet [Entitic mean volume] in Blood by Automated count: 12.3 fL"
+  },
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-3a61-c271c1363ea6",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-12-21",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Aron Hammes - 2024-12-21",
+    "content": "- Assessment of health and social care needs.\n- Screening for domestic abuse.\n- Assessment of substance use.\n- Assessment using Alcohol Use Disorders Identification Test - Consumption."
+  },
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-3a61-c271c1363ea6",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-12-21",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Aron Hammes - 2024-12-21",
+    "content": "- Influenza split virus trivalent PF.\n- Td (adult) 5 Lf tetanus toxoid preservative free adsorbed.\n- Hep B adult.\n- meningococcal MCV4P."
+  }
+]

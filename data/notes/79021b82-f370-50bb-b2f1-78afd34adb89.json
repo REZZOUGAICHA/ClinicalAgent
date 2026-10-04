@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "79021b82-f370-50bb-b2f1-78afd34adb89",
+    "patient_id": "79021b82-f370-50bb-c5a1-7333816d683f",
+    "document_type": "Emergency Department Note",
+    "date": "2022-12-18",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Evette Farrell - 2022-12-18",
+    "content": "Patient: Evette Farrell, female, born 2013-03-20 (patient ID 79021b82-f370-50bb-c5a1-7333816d683f).\nVisit date: 2022-12-18.\nVisit type: Emergency hospital admission for asthma.\nClinician: Georgetta Turner (General Practice).\nFacility: KATZMAN FAMILY CENTER FOR LIVING, CHELSEA, MA."
+  },
+  {
+    "doc_id": "79021b82-f370-50bb-b2f1-78afd34adb89",
+    "patient_id": "79021b82-f370-50bb-c5a1-7333816d683f",
+    "document_type": "Emergency Department Note",
+    "date": "2022-12-18",
+    "section": "Reason for Visit",
+    "title": "Emergency Department Note - Evette Farrell - 2022-12-18",
+    "content": "Seen for Childhood asthma."
+  }
+]

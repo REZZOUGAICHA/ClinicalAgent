@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "46976cf7-b0bf-be20-9544-bf21a87e34a6",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Office Visit Note",
+    "date": "2023-11-03",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Lindsay Zieme - 2023-11-03",
+    "content": "Patient: Lindsay Zieme, female, born 2007-09-14 (patient ID 46976cf7-b0bf-be20-39a5-9f425a52886d).\nVisit date: 2023-11-03.\nVisit type: Encounter for check up.\nClinician: Otha Roberts (General Practice).\nFacility: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC, WORCESTER, MA."
+  },
+  {
+    "doc_id": "46976cf7-b0bf-be20-9544-bf21a87e34a6",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Office Visit Note",
+    "date": "2023-11-03",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Lindsay Zieme - 2023-11-03",
+    "content": "Seen for Gingivitis."
+  },
+  {
+    "doc_id": "46976cf7-b0bf-be20-9544-bf21a87e34a6",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Office Visit Note",
+    "date": "2023-11-03",
+    "section": "Assessment",
+    "title": "Office Visit Note - Lindsay Zieme - 2023-11-03",
+    "content": "Diagnoses recorded at this visit:\n- Gingival disease (onset 2023-11-03), resolved 2023-11-03."
+  },
+  {
+    "doc_id": "46976cf7-b0bf-be20-9544-bf21a87e34a6",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Office Visit Note",
+    "date": "2023-11-03",
+    "section": "Procedures",
+    "title": "Office Visit Note - Lindsay Zieme - 2023-11-03",
+    "content": "- Dental consultation and report, for Gingivitis.\n- Dental care, for Gingivitis.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Examination of gingivae, for Gingivitis.\n- Dental surgical procedure, for Gingival disease.\n- Dental application of desensitizing medicament, for Gingival disease.\n- Gingivectomy or gingivoplasty  per tooth, for Gingival disease.\n- Postoperative care for dental procedure.\n- Oral health education, for Gingivitis."
+  }
+]

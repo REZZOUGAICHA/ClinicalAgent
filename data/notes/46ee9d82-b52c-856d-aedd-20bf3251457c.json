@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "46ee9d82-b52c-856d-aedd-20bf3251457c",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2016-08-23",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Shalanda Koepp - 2016-08-23",
+    "content": "Patient: Shalanda Koepp, female, born 1996-06-18 (patient ID 46ee9d82-b52c-856d-069b-5064ff052225).\nVisit date: 2016-08-23.\nVisit type: General examination of patient.\nClinician: Pearlene Towne (General Practice).\nFacility: LOWELL COMMUNITY HEALTH CENTER, LOWELL, MA."
+  },
+  {
+    "doc_id": "46ee9d82-b52c-856d-aedd-20bf3251457c",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2016-08-23",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Shalanda Koepp - 2016-08-23",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2016-08-23), resolved 2017-08-29."
+  },
+  {
+    "doc_id": "46ee9d82-b52c-856d-aedd-20bf3251457c",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2016-08-23",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Shalanda Koepp - 2016-08-23",
+    "content": "Medications prescribed at this visit:\n- tramadol hydrochloride 50 MG Oral Tablet, started 2016-08-23; stopped 2017-08-29."
+  }
+]

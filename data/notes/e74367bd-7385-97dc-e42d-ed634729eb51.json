@@ -1,0 +1,65 @@
+[
+  {
+    "doc_id": "e74367bd-7385-97dc-e42d-ed634729eb51",
+    "patient_id": "e74367bd-7385-97dc-2c7f-251b4cd9fe29",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-11-21",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Tennille Jerde - 2020-11-21",
+    "content": "Patient: Tennille Jerde, female, born 1960-09-24 (patient ID e74367bd-7385-97dc-2c7f-251b4cd9fe29).\nVisit date: 2020-11-21.\nVisit type: General examination of patient.\nClinician: Vito Barton (General Practice).\nFacility: DAVIS SQUARE FAMILY PRACTICE, SOMERVILLE, MA."
+  },
+  {
+    "doc_id": "e74367bd-7385-97dc-e42d-ed634729eb51",
+    "patient_id": "e74367bd-7385-97dc-2c7f-251b4cd9fe29",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-11-21",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Tennille Jerde - 2020-11-21",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2020-11-21), resolved 2020-12-12."
+  },
+  {
+    "doc_id": "e74367bd-7385-97dc-e42d-ed634729eb51",
+    "patient_id": "e74367bd-7385-97dc-2c7f-251b4cd9fe29",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-11-21",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Tennille Jerde - 2020-11-21",
+    "content": "- Body Height: 163.0 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0\n- Body Weight: 80.8 kg\n- Body mass index (BMI) [Ratio]: 30.4 kg/m2\n- Diastolic Blood Pressure: 89.0 mm[Hg]\n- Systolic Blood Pressure: 123.0 mm[Hg]\n- Heart rate: 67.0 /min\n- Respiratory rate: 15.0 /min"
+  },
+  {
+    "doc_id": "e74367bd-7385-97dc-e42d-ed634729eb51",
+    "patient_id": "e74367bd-7385-97dc-2c7f-251b4cd9fe29",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-11-21",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Tennille Jerde - 2020-11-21",
+    "content": "- Hemoglobin A1c/Hemoglobin.total in Blood: 5.9 %\n- Glucose [Mass/volume] in Blood: 85.6 mg/dL\n- Urea nitrogen [Mass/volume] in Blood: 7.3 mg/dL\n- Creatinine [Mass/volume] in Blood: 0.8 mg/dL\n- Calcium [Mass/volume] in Blood: 9.4 mg/dL\n- Sodium [Moles/volume] in Blood: 138.3 mmol/L\n- Potassium [Moles/volume] in Blood: 3.7 mmol/L\n- Chloride [Moles/volume] in Blood: 106.2 mmol/L\n- Carbon dioxide  total [Moles/volume] in Blood: 23.7 mmol/L\n- Cholesterol [Mass/volume] in Serum or Plasma: 162.7 mg/dL\n- Triglyceride [Mass/volume] in Serum or Plasma: 131.5 mg/dL\n- Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay: 76.8 mg/dL\n- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 59.6 mg/dL"
+  },
+  {
+    "doc_id": "e74367bd-7385-97dc-e42d-ed634729eb51",
+    "patient_id": "e74367bd-7385-97dc-2c7f-251b4cd9fe29",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-11-21",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Tennille Jerde - 2020-11-21",
+    "content": "- Assessment of health and social care needs."
+  },
+  {
+    "doc_id": "e74367bd-7385-97dc-e42d-ed634729eb51",
+    "patient_id": "e74367bd-7385-97dc-2c7f-251b4cd9fe29",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-11-21",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Tennille Jerde - 2020-11-21",
+    "content": "Medications prescribed at this visit:\n- Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet], started 2020-11-21; stopped 2020-12-12.\n- Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin], started 2020-11-21; stopped 2020-12-12.\n- buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet, started 2020-11-21, for Opioid abuse; stopped 2020-12-12.\n- 12 HR Hydrocodone Bitartrate 10 MG Extended Release Oral Capsule, started 2020-11-21; stopped 2020-12-12."
+  },
+  {
+    "doc_id": "e74367bd-7385-97dc-e42d-ed634729eb51",
+    "patient_id": "e74367bd-7385-97dc-2c7f-251b4cd9fe29",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-11-21",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Tennille Jerde - 2020-11-21",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-3997-478f2cc7f4aa",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-11-25",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Aron Hammes - 2017-11-25",
+    "content": "Patient: Aron Hammes, male, born 2002-10-19 (patient ID 2de4dd0d-f665-8a2e-4c6b-997735e14ace).\nVisit date: 2017-11-25.\nVisit type: Well child visit.\nClinician: Lola Orosco (General Practice).\nFacility: FAIRVIEW HOSPITAL, WILLIAMSTOWN, MA."
+  },
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-3997-478f2cc7f4aa",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-11-25",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Aron Hammes - 2017-11-25",
+    "content": "- Body Height: 162.2 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0\n- Body Weight: 50.7 kg\n- Body mass index (BMI) [Ratio]: 19.3 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 39.8 %\n- Diastolic Blood Pressure: 66.0 mm[Hg]\n- Systolic Blood Pressure: 126.0 mm[Hg]\n- Heart rate: 100.0 /min\n- Respiratory rate: 15.0 /min"
+  },
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-3997-478f2cc7f4aa",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-11-25",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Aron Hammes - 2017-11-25",
+    "content": "- Medication reconciliation.\n- Assessment of anxiety.\n- Depression screening.\n- Depression screening using Patient Health Questionnaire Nine Item score."
+  },
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-3997-478f2cc7f4aa",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-11-25",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Aron Hammes - 2017-11-25",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

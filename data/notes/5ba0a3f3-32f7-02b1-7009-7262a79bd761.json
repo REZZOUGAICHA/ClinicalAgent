@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-7009-7262a79bd761",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-08-16",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Faustino Langworth - 2017-08-16",
+    "content": "Patient: Faustino Langworth, male, born 1998-06-17 (patient ID 5ba0a3f3-32f7-02b1-ec6a-8f568923954c).\nVisit date: 2017-08-16.\nVisit type: General examination of patient.\nClinician: Vito Barton (General Practice).\nFacility: DAVIS SQUARE FAMILY PRACTICE, SOMERVILLE, MA."
+  },
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-7009-7262a79bd761",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-08-16",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Faustino Langworth - 2017-08-16",
+    "content": "Diagnoses recorded at this visit:\n- Social isolation (onset 2017-08-16), resolved 2020-12-02.\n- Gingivitis (onset 2017-08-16), resolved 2017-08-30."
+  },
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-7009-7262a79bd761",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-08-16",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Faustino Langworth - 2017-08-16",
+    "content": "- Body Height: 187.1 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0\n- Body Weight: 82.1 kg\n- Body mass index (BMI) [Ratio]: 23.5 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 61.3 %\n- Diastolic Blood Pressure: 78.0 mm[Hg]\n- Systolic Blood Pressure: 126.0 mm[Hg]\n- Heart rate: 83.0 /min\n- Respiratory rate: 15.0 /min"
+  },
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-7009-7262a79bd761",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-08-16",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Faustino Langworth - 2017-08-16",
+    "content": "- Medication reconciliation.\n- Assessment of health and social care needs.\n- Depression screening.\n- Depression screening.\n- Assessment of substance use.\n- Screening for drug abuse.\n- Patient referral for dental care, for Gingivitis."
+  },
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-7009-7262a79bd761",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-08-16",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Faustino Langworth - 2017-08-16",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

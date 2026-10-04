@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "f95a6723-14a5-c4b6-fdf6-dfd92d803476",
+    "patient_id": "f95a6723-14a5-c4b6-78df-fa97f7ab361c",
+    "document_type": "Office Visit Note",
+    "date": "2025-02-22",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Roxann Sauer - 2025-02-22",
+    "content": "Patient: Roxann Sauer, female, born 1986-08-23 (patient ID f95a6723-14a5-c4b6-78df-fa97f7ab361c).\nVisit date: 2025-02-22.\nVisit type: Encounter for check up.\nClinician: Chu Weber (General Practice).\nFacility: STURDY MEMORIAL HOSPITAL INC, ATTLEBORO, MA."
+  },
+  {
+    "doc_id": "f95a6723-14a5-c4b6-fdf6-dfd92d803476",
+    "patient_id": "f95a6723-14a5-c4b6-78df-fa97f7ab361c",
+    "document_type": "Office Visit Note",
+    "date": "2025-02-22",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Roxann Sauer - 2025-02-22",
+    "content": "Seen for Gingivitis."
+  },
+  {
+    "doc_id": "f95a6723-14a5-c4b6-fdf6-dfd92d803476",
+    "patient_id": "f95a6723-14a5-c4b6-78df-fa97f7ab361c",
+    "document_type": "Office Visit Note",
+    "date": "2025-02-22",
+    "section": "Assessment",
+    "title": "Office Visit Note - Roxann Sauer - 2025-02-22",
+    "content": "Diagnoses recorded at this visit:\n- Gingival disease (onset 2025-02-22), resolved 2025-02-22.\n- Primary dental caries (onset 2025-02-22), resolved 2025-02-22."
+  },
+  {
+    "doc_id": "f95a6723-14a5-c4b6-fdf6-dfd92d803476",
+    "patient_id": "f95a6723-14a5-c4b6-78df-fa97f7ab361c",
+    "document_type": "Office Visit Note",
+    "date": "2025-02-22",
+    "section": "Procedures",
+    "title": "Office Visit Note - Roxann Sauer - 2025-02-22",
+    "content": "- Dental consultation and report, for Gingivitis.\n- Dental care, for Gingivitis.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Dental plain X-ray bitewing.\n- Examination of gingivae, for Gingivitis.\n- Dental surgical procedure, for Gingival disease.\n- Dental application of desensitizing medicament, for Gingival disease.\n- Gingivectomy or gingivoplasty  per tooth, for Gingival disease.\n- Postoperative care for dental procedure.\n- Restoration of tooth with coverage of all cusps using dental filling material, for Primary dental caries.\n- Dental fluoride treatment, for Gingivitis.\n- Oral health education, for Gingivitis."
+  },
+  {
+    "doc_id": "f95a6723-14a5-c4b6-fdf6-dfd92d803476",
+    "patient_id": "f95a6723-14a5-c4b6-78df-fa97f7ab361c",
+    "document_type": "Office Visit Note",
+    "date": "2025-02-22",
+    "section": "Medications",
+    "title": "Office Visit Note - Roxann Sauer - 2025-02-22",
+    "content": "Medications prescribed at this visit:\n- sodium fluoride 0.0272 MG/MG Oral Gel, started 2025-02-22, for Gingivitis; stopped 2025-02-22."
+  }
+]

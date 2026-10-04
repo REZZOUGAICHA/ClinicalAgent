@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "ba419d35-0dfe-8af7-7761-b954ad4a8184",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Office Visit Note",
+    "date": "2016-11-18",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Corie Kohler - 2016-11-18",
+    "content": "Patient: Corie Kohler, female, born 1925-09-18 (patient ID ba419d35-0dfe-8af7-347c-eebf02485a56).\nVisit date: 2016-11-18.\nVisit type: Postoperative follow-up visit.\nClinician: Maricarmen Delafuente (General Practice).\nFacility: ARBOUR-FULLER HOSPITAL, SOUTH ATTLEBORO, MA."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-7761-b954ad4a8184",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Office Visit Note",
+    "date": "2016-11-18",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Corie Kohler - 2016-11-18",
+    "content": "Seen for History of renal transplant."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-7761-b954ad4a8184",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Office Visit Note",
+    "date": "2016-11-18",
+    "section": "Assessment",
+    "title": "Office Visit Note - Corie Kohler - 2016-11-18",
+    "content": "Diagnoses recorded at this visit:\n- Kidney transplant failure and rejection (onset 2016-11-18), resolved 2016-12-17."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-7761-b954ad4a8184",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Office Visit Note",
+    "date": "2016-11-18",
+    "section": "Laboratory Results",
+    "title": "Office Visit Note - Corie Kohler - 2016-11-18",
+    "content": "- Glucose [Mass/volume] in Blood: 98.9 mg/dL\n- Urea Nitrogen [Mass/volume] in Blood: 14.7 mg/dL\n- Creatinine [Mass/volume] in Blood: 0.5 mg/dL\n- Calcium [Mass/volume] in Blood: 8.7 mg/dL\n- Sodium [Moles/volume] in Blood: 140.9 mmol/L\n- Potassium [Moles/volume] in Blood: 4.4 mmol/L\n- Chloride [Moles/volume] in Blood: 108.4 mmol/L\n- Carbon dioxide  total [Moles/volume] in Blood: 20.3 mmol/L\n- Leukocytes [#/volume] in Blood by Automated count: 5.7 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 4.1 10*6/uL\n- Hemoglobin [Mass/volume] in Blood: 13.9 g/dL\n- Hematocrit [Volume Fraction] of Blood by Automated count: 49.3 %\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 81.6 fL\n- MCH [Entitic mass] by Automated count: 27.9 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 33.6 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 45.1 fL\n- Platelets [#/volume] in Blood by Automated count: 205.4 10*3/uL\n- Platelet distribution width [Entitic volume] in Blood by Automated count: 12.3 fL\n- Platelet [Entitic mean volume] in Blood by Automated count: 11.7 fL\n- Glucose [Presence] in Urine by Test strip: 0.0\n- Bilirubin.total [Presence] in Urine by Test strip: 0.0\n- Ketones [Presence] in Urine by Test strip: 0.0\n- Specific gravity of Urine by Test strip: 1.0\n- pH of Urine by Test strip: 6.7 [pH]\n- Protein [Presence] in Urine by Test strip: 0.0\n- Nitrite [Presence] in Urine by Test strip: 0.0\n- Hemoglobin [Presence] in Urine by Test strip: 0.0\n- Leukocyte esterase [Presence] in Urine by Test strip: 0.0"
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-7761-b954ad4a8184",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Office Visit Note",
+    "date": "2016-11-18",
+    "section": "Procedures",
+    "title": "Office Visit Note - Corie Kohler - 2016-11-18",
+    "content": "- Renal disorder medication review, for History of renal transplant.\n- Transplantation of kidney regime, for History of renal transplant."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-7761-b954ad4a8184",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Office Visit Note",
+    "date": "2016-11-18",
+    "section": "Medications",
+    "title": "Office Visit Note - Corie Kohler - 2016-11-18",
+    "content": "Medications prescribed at this visit:\n- 24 HR tacrolimus 5 MG Extended Release Oral Capsule [Astagraf], started 2016-11-18, for History of renal transplant; stopped 2017-07-21.\n- 1 ML tacrolimus 5 MG/ML Injection [Prograf], started 2016-11-18, for History of renal transplant; stopped 2016-11-18."
+  }
+]

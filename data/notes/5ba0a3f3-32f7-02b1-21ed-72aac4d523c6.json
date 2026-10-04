@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-21ed-72aac4d523c6",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Urgent Care Note",
+    "date": "2013-10-23",
+    "section": "Visit Information",
+    "title": "Urgent Care Note - Faustino Langworth - 2013-10-23",
+    "content": "Patient: Faustino Langworth, male, born 1998-06-17 (patient ID 5ba0a3f3-32f7-02b1-ec6a-8f568923954c).\nVisit date: 2013-10-23.\nVisit type: Urgent care clinic.\nClinician: Tracy Wilderman (General Practice).\nFacility: MASS GENERAL BRIGHAM URGENT CARE LLC, WOBURN, MA."
+  },
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-21ed-72aac4d523c6",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Urgent Care Note",
+    "date": "2013-10-23",
+    "section": "Assessment",
+    "title": "Urgent Care Note - Faustino Langworth - 2013-10-23",
+    "content": "Diagnoses recorded at this visit:\n- Risk activity involvement (onset 2013-10-23)."
+  }
+]

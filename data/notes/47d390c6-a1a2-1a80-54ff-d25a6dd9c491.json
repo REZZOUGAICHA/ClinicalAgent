@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "47d390c6-a1a2-1a80-54ff-d25a6dd9c491",
+    "patient_id": "47d390c6-a1a2-1a80-dd1d-9722c7b24159",
+    "document_type": "Office Visit Note",
+    "date": "2018-11-01",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Demarcus Jones - 2018-11-01",
+    "content": "Patient: Demarcus Jones, male, born 2009-03-07 (patient ID 47d390c6-a1a2-1a80-dd1d-9722c7b24159).\nVisit date: 2018-11-01.\nVisit type: Encounter for check up.\nClinician: Jackelyn Pacocha (General Practice).\nFacility: WP ACQUISITION SUB LLC, HAVERHILL, MA."
+  },
+  {
+    "doc_id": "47d390c6-a1a2-1a80-54ff-d25a6dd9c491",
+    "patient_id": "47d390c6-a1a2-1a80-dd1d-9722c7b24159",
+    "document_type": "Office Visit Note",
+    "date": "2018-11-01",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Demarcus Jones - 2018-11-01",
+    "content": "Seen for Concussion with no loss of consciousness."
+  }
+]

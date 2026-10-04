@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "982750f4-569b-5949-cc6b-a3b110f6a3ee",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2005-01-05",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Dwana Wolf - 2005-01-05",
+    "content": "Patient: Dwana Wolf, female, born 1986-11-12 (patient ID 982750f4-569b-5949-196b-60699bdda3fb).\nVisit date: 2005-01-05.\nVisit type: General examination of patient.\nClinician: Hank Schneider (General Practice).\nFacility: LOWELL FAMILY MEDICAL CARE PC, LOWELL, MA."
+  },
+  {
+    "doc_id": "982750f4-569b-5949-cc6b-a3b110f6a3ee",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2005-01-05",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Dwana Wolf - 2005-01-05",
+    "content": "Diagnoses recorded at this visit:\n- Received higher education (onset 2005-01-05)."
+  }
+]

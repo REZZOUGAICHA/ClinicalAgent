@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "f999ef25-a612-87c9-4c7f-67cee79addde",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2008-11-21",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Evangeline Ziemann - 2008-11-21",
+    "content": "Patient: Evangeline Ziemann, female, born 1925-09-18 (patient ID f999ef25-a612-87c9-206f-aacc9d469dc8).\nVisit date: 2008-11-21.\nVisit type: Encounter for check up.\nClinician: Nickolas Schumm (General Practice).\nFacility: ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE, FRAMINGHAM, MA."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-4c7f-67cee79addde",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2008-11-21",
+    "section": "Assessment",
+    "title": "Outpatient Procedure Note - Evangeline Ziemann - 2008-11-21",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2008-11-21), resolved 2010-12-10."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-4c7f-67cee79addde",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2008-11-21",
+    "section": "Laboratory Results",
+    "title": "Outpatient Procedure Note - Evangeline Ziemann - 2008-11-21",
+    "content": "- Hemoglobin A1c/Hemoglobin.total in Blood: 3.8 %"
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-4c7f-67cee79addde",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2008-11-21",
+    "section": "Medications",
+    "title": "Outpatient Procedure Note - Evangeline Ziemann - 2008-11-21",
+    "content": "Medications prescribed at this visit:\n- insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin], started 2008-11-21, for Prediabetes; stopped 2008-11-28.\n- 24 HR tacrolimus 1 MG Extended Release Oral Tablet [Envarsus], started 2008-11-21, for History of renal transplant; stopped 2008-11-28.\n- lisinopril 10 MG Oral Tablet, started 2008-11-21, for Essential hypertension; stopped 2008-11-28."
+  }
+]

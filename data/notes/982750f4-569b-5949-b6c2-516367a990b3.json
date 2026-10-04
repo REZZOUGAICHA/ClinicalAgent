@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "982750f4-569b-5949-b6c2-516367a990b3",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Office Visit Note",
+    "date": "2018-07-18",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Dwana Wolf - 2018-07-18",
+    "content": "Patient: Dwana Wolf, female, born 1986-11-12 (patient ID 982750f4-569b-5949-196b-60699bdda3fb).\nVisit date: 2018-07-18.\nVisit type: Encounter for check up.\nClinician: Marcus Schamberger (General Practice).\nFacility: THE LOWELL GENERAL HOSPITAL, WESTFORD, MA."
+  },
+  {
+    "doc_id": "982750f4-569b-5949-b6c2-516367a990b3",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Office Visit Note",
+    "date": "2018-07-18",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Dwana Wolf - 2018-07-18",
+    "content": "Seen for Gingivitis."
+  },
+  {
+    "doc_id": "982750f4-569b-5949-b6c2-516367a990b3",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Office Visit Note",
+    "date": "2018-07-18",
+    "section": "Procedures",
+    "title": "Office Visit Note - Dwana Wolf - 2018-07-18",
+    "content": "- Dental consultation and report, for Gingivitis.\n- Dental care, for Gingivitis.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Dental plain X-ray bitewing.\n- Examination of gingivae, for Gingivitis.\n- Dental fluoride treatment, for Gingivitis.\n- Oral health education, for Gingivitis."
+  },
+  {
+    "doc_id": "982750f4-569b-5949-b6c2-516367a990b3",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Office Visit Note",
+    "date": "2018-07-18",
+    "section": "Medications",
+    "title": "Office Visit Note - Dwana Wolf - 2018-07-18",
+    "content": "Medications prescribed at this visit:\n- sodium fluoride 0.0272 MG/MG Oral Gel, started 2018-07-18, for Gingivitis; stopped 2018-07-18."
+  }
+]

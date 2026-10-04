@@ -1,0 +1,65 @@
+[
+  {
+    "doc_id": "f999ef25-a612-87c9-efd7-87438c6673e0",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "2015-01-25",
+    "section": "Visit Information",
+    "title": "Inpatient Discharge Summary - Evangeline Ziemann - 2015-01-25",
+    "content": "Patient: Evangeline Ziemann, female, born 1925-09-18 (patient ID f999ef25-a612-87c9-206f-aacc9d469dc8).\nVisit date: 2015-01-25.\nVisit type: Admission to intensive care unit.\nClinician: Gabriel Reilly (General Practice).\nFacility: Fitchburg Outpatient Clinic, Fitchburg, MA."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-efd7-87438c6673e0",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "2015-01-25",
+    "section": "Reason for Visit",
+    "title": "Inpatient Discharge Summary - Evangeline Ziemann - 2015-01-25",
+    "content": "Seen for Chronic congestive heart failure."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-efd7-87438c6673e0",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "2015-01-25",
+    "section": "Vital Signs",
+    "title": "Inpatient Discharge Summary - Evangeline Ziemann - 2015-01-25",
+    "content": "- Oxygen saturation in Arterial blood: 84.0 %\n- Body Weight: 65.1 kg\n- Oxygen saturation in Arterial blood: 84.0 %\n- Body Weight: 65.1 kg"
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-efd7-87438c6673e0",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "2015-01-25",
+    "section": "Laboratory Results",
+    "title": "Inpatient Discharge Summary - Evangeline Ziemann - 2015-01-25",
+    "content": "- Left ventricular Ejection fraction: 82.6 %\n- Natriuretic peptide.B prohormone N-Terminal [Mass/volume] in Serum or Plasma: 317.7 pg/mL\n- Leukocytes [#/volume] in Blood by Automated count: 7.5 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 4.4 10*6/uL\n- Hemoglobin [Mass/volume] in Blood: 11.5 g/dL\n- Hematocrit [Volume Fraction] of Blood by Automated count: 37.2 %\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 86.0 fL\n- MCH [Entitic mass] by Automated count: 27.1 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 34.1 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 13.9 %\n- Platelets [#/volume] in Blood by Automated count: 396.1 10*3/uL\n- Glucose [Mass/volume] in Serum or Plasma: 77.9 mg/dL\n- Urea nitrogen [Mass/volume] in Serum or Plasma: 8.2 mg/dL\n- Creatinine [Mass/volume] in Serum or Plasma: 0.7 mg/dL\n- Calcium [Mass/volume] in Serum or Plasma: 9.5 mg/dL\n- Sodium [Moles/volume] in Serum or Plasma: 140.5 mmol/L\n- Potassium [Moles/volume] in Serum or Plasma: 3.8 mmol/L\n- Chloride [Moles/volume] in Serum or Plasma: 107.8 mmol/L\n- Carbon dioxide  total [Moles/volume] in Serum or Plasma: 23.9 mmol/L\n- Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M: 59.6 mL/min\n- Protein [Mass/volume] in Serum or Plasma: 7.8 g/dL\n- Albumin [Mass/volume] in Serum or Plasma: 4.1 g/dL\n- Bilirubin.total [Mass/volume] in Serum or Plasma: 1.1 mg/dL\n- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 109.4 U/L\n- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 38.1 U/L\n- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 12.9 U/L\n- Magnesium [Mass/volume] in Serum or Plasma: 2.1 mg/dL\n- Cholesterol [Mass/volume] in Serum or Plasma: 240.7 mg/dL\n- Triglyceride [Mass/volume] in Serum or Plasma: 141.3 mg/dL\n- Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay: 154.0 mg/dL\n- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 58.5 mg/dL\n- Hemoglobin A1c/Hemoglobin.total in Blood: 3.8 %\n- Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method: 0.0 pg/mL\n- Ferritin [Mass/volume] in Serum or Plasma: 95.9 ug/L\n- Iron [Mass/volume] in Serum or Plasma: 127.3 ug/dL\n- Iron binding capacity [Mass/volume] in Serum or Plasma: 332.8 ug/dL\n- Iron saturation [Mass Fraction] in Serum or Plasma: 49.8 %\n- Natriuretic peptide.B prohormone N-Terminal [Mass/volume] in Serum or Plasma: 979.4 pg/mL\n- Leukocytes [#/volume] in Blood by Automated count: 8.4 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 5.6 10*6/uL\n- Hemoglobin [Mass/volume] in Blood: 15.5 g/dL\n- Hematocrit [Volume Fraction] of Blood by Automated count: 41.1 %\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 96.6 fL\n- MCH [Entitic mass] by Automated count: 30.0 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 33.9 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 14.1 %\n- Platelets [#/volume] in Blood by Automated count: 423.2 10*3/uL\n- Glucose [Mass/volume] in Serum or Plasma: 77.9 mg/dL\n- Urea nitrogen [Mass/volume] in Serum or Plasma: 8.2 mg/dL\n- Creatinine [Mass/volume] in Serum or Plasma: 0.7 mg/dL\n- Calcium [Mass/volume] in Serum or Plasma: 9.5 mg/dL\n- Sodium [Moles/volume] in Serum or Plasma: 140.5 mmol/L\n- Potassium [Moles/volume] in Serum or Plasma: 3.8 mmol/L\n- Chloride [Moles/volume] in Serum or Plasma: 107.8 mmol/L\n- Carbon dioxide  total [Moles/volume] in Serum or Plasma: 23.9 mmol/L\n- Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M: 59.6 mL/min\n- Protein [Mass/volume] in Serum or Plasma: 8.0 g/dL\n- Albumin [Mass/volume] in Serum or Plasma: 4.5 g/dL\n- Bilirubin.total [Mass/volume] in Serum or Plasma: 0.9 mg/dL\n- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 78.2 U/L\n- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 35.1 U/L\n- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 20.5 U/L\n- Magnesium [Mass/volume] in Serum or Plasma: 1.7 mg/dL\n- Cholesterol [Mass/volume] in Serum or Plasma: 240.7 mg/dL\n- Triglyceride [Mass/volume] in Serum or Plasma: 141.3 mg/dL\n- Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay: 154.0 mg/dL\n- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 58.5 mg/dL\n- Hemoglobin A1c/Hemoglobin.total in Blood: 3.8 %\n- Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method: 0.0 pg/mL\n- Ferritin [Mass/volume] in Serum or Plasma: 147.9 ug/L\n- Iron [Mass/volume] in Serum or Plasma: 134.7 ug/dL\n- Iron binding capacity [Mass/volume] in Serum or Plasma: 360.9 ug/dL\n- Iron saturation [Mass Fraction] in Serum or Plasma: 23.1 %"
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-efd7-87438c6673e0",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "2015-01-25",
+    "section": "Procedures",
+    "title": "Inpatient Discharge Summary - Evangeline Ziemann - 2015-01-25",
+    "content": "- Medication reconciliation.\n- Electrocardiographic procedure, for Chronic congestive heart failure.\n- Echocardiography.\n- Oxygen administration by mask.\n- Placing subject in prone position.\n- Oxygen administration by mask.\n- Placing subject in prone position.\n- Heart failure education, for Chronic congestive heart failure."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-efd7-87438c6673e0",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "2015-01-25",
+    "section": "Medications",
+    "title": "Inpatient Discharge Summary - Evangeline Ziemann - 2015-01-25",
+    "content": "Medications prescribed at this visit:\n- 10 ML Furosemide 10 MG/ML Injection, started 2015-01-25, for Chronic congestive heart failure; stopped 2015-01-25.\n- 10 ML Furosemide 10 MG/ML Injection, started 2015-01-26, for Chronic congestive heart failure; stopped 2015-01-26.\n- 10 ML Furosemide 10 MG/ML Injection, started 2015-01-26, for Chronic congestive heart failure; stopped 2015-01-26.\n- 10 ML Furosemide 10 MG/ML Injection, started 2015-01-27, for Chronic congestive heart failure; stopped 2015-01-27."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-efd7-87438c6673e0",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "2015-01-25",
+    "section": "Plan",
+    "title": "Inpatient Discharge Summary - Evangeline Ziemann - 2015-01-25",
+    "content": "- Inpatient care plan for Chronic congestive heart failure, started 2015-01-25, ended 2015-01-27."
+  }
+]

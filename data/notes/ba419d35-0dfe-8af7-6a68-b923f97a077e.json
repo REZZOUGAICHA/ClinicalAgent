@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "ba419d35-0dfe-8af7-6a68-b923f97a077e",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Office Visit Note",
+    "date": "2016-12-09",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Corie Kohler - 2016-12-09",
+    "content": "Patient: Corie Kohler, female, born 1925-09-18 (patient ID ba419d35-0dfe-8af7-347c-eebf02485a56).\nVisit date: 2016-12-09.\nVisit type: Postoperative follow-up visit.\nClinician: Maricarmen Delafuente (General Practice).\nFacility: ARBOUR-FULLER HOSPITAL, SOUTH ATTLEBORO, MA."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-6a68-b923f97a077e",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Office Visit Note",
+    "date": "2016-12-09",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Corie Kohler - 2016-12-09",
+    "content": "Seen for History of renal transplant."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-6a68-b923f97a077e",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Office Visit Note",
+    "date": "2016-12-09",
+    "section": "Laboratory Results",
+    "title": "Office Visit Note - Corie Kohler - 2016-12-09",
+    "content": "- Glucose [Mass/volume] in Blood: 70.3 mg/dL\n- Urea Nitrogen [Mass/volume] in Blood: 19.2 mg/dL\n- Creatinine [Mass/volume] in Blood: 0.5 mg/dL\n- Calcium [Mass/volume] in Blood: 9.1 mg/dL\n- Sodium [Moles/volume] in Blood: 139.7 mmol/L\n- Potassium [Moles/volume] in Blood: 4.7 mmol/L\n- Chloride [Moles/volume] in Blood: 104.8 mmol/L\n- Carbon dioxide  total [Moles/volume] in Blood: 28.0 mmol/L\n- Leukocytes [#/volume] in Blood by Automated count: 3.9 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 4.5 10*6/uL\n- Hemoglobin [Mass/volume] in Blood: 16.9 g/dL\n- Hematocrit [Volume Fraction] of Blood by Automated count: 44.4 %\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 89.3 fL\n- MCH [Entitic mass] by Automated count: 27.8 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 35.7 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 41.8 fL\n- Platelets [#/volume] in Blood by Automated count: 254.7 10*3/uL\n- Platelet distribution width [Entitic volume] in Blood by Automated count: 16.4 fL\n- Platelet [Entitic mean volume] in Blood by Automated count: 11.8 fL\n- Glucose [Presence] in Urine by Test strip: 0.0\n- Bilirubin.total [Presence] in Urine by Test strip: 0.0\n- Ketones [Presence] in Urine by Test strip: 0.0\n- Specific gravity of Urine by Test strip: 1.0\n- pH of Urine by Test strip: 5.8 [pH]\n- Protein [Presence] in Urine by Test strip: 0.0\n- Nitrite [Presence] in Urine by Test strip: 0.0\n- Hemoglobin [Presence] in Urine by Test strip: 0.0\n- Leukocyte esterase [Presence] in Urine by Test strip: 0.0"
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-6a68-b923f97a077e",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Office Visit Note",
+    "date": "2016-12-09",
+    "section": "Procedures",
+    "title": "Office Visit Note - Corie Kohler - 2016-12-09",
+    "content": "- Renal disorder medication review, for History of renal transplant.\n- Transplantation of kidney regime, for History of renal transplant."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-6a68-b923f97a077e",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Office Visit Note",
+    "date": "2016-12-09",
+    "section": "Medications",
+    "title": "Office Visit Note - Corie Kohler - 2016-12-09",
+    "content": "Medications prescribed at this visit:\n- 1 ML tacrolimus 5 MG/ML Injection [Prograf], started 2016-12-09, for History of renal transplant; stopped 2016-12-09."
+  }
+]

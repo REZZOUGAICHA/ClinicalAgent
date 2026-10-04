@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "7512bbb4-b22b-0979-4c7a-78f3dc6e0c2e",
+    "patient_id": "7512bbb4-b22b-0979-6edc-389e16607ac7",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-03-30",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Tamie Herzog - 2025-03-30",
+    "content": "Patient: Tamie Herzog, female, born 2025-02-23 (patient ID 7512bbb4-b22b-0979-6edc-389e16607ac7).\nVisit date: 2025-03-30.\nVisit type: Well child visit.\nClinician: Carlota Maya (General Practice).\nFacility: RIVER'S EDGE PRIMARY CARE LLC, CHICOPEE, MA."
+  },
+  {
+    "doc_id": "7512bbb4-b22b-0979-4c7a-78f3dc6e0c2e",
+    "patient_id": "7512bbb4-b22b-0979-6edc-389e16607ac7",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-03-30",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Tamie Herzog - 2025-03-30",
+    "content": "- Body Height: 54.8 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0\n- Body Weight: 5.2 kg\n- Weight-for-length Per age and sex: 85.6 %\n- Head Occipital-frontal circumference Percentile: 44.6 %\n- Head Occipital-frontal circumference: 37.8 cm\n- Diastolic Blood Pressure: 88.0 mm[Hg]\n- Systolic Blood Pressure: 108.0 mm[Hg]\n- Heart rate: 96.0 /min\n- Respiratory rate: 12.0 /min"
+  },
+  {
+    "doc_id": "7512bbb4-b22b-0979-4c7a-78f3dc6e0c2e",
+    "patient_id": "7512bbb4-b22b-0979-6edc-389e16607ac7",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-03-30",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Tamie Herzog - 2025-03-30",
+    "content": "- Hep B adolescent or pediatric."
+  }
+]

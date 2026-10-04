@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "05cc86a0-2d98-b046-1c8f-799e35961cea",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Emergency Department Note",
+    "date": "1990-03-13",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Carita Grady - 1990-03-13",
+    "content": "Patient: Carita Grady, female, born 1925-09-18 (patient ID 05cc86a0-2d98-b046-790a-211fd9e1ea92).\nVisit date: 1990-03-13.\nVisit type: Emergency hospital admission.\nClinician: Javier Collier (General Practice).\nFacility: SERENITY HILL NURSING CENTER, WRENTHAM, MA."
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-1c8f-799e35961cea",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Emergency Department Note",
+    "date": "1990-03-13",
+    "section": "Reason for Visit",
+    "title": "Emergency Department Note - Carita Grady - 1990-03-13",
+    "content": "Seen for Chronic pain."
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-1c8f-799e35961cea",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Emergency Department Note",
+    "date": "1990-03-13",
+    "section": "Assessment",
+    "title": "Emergency Department Note - Carita Grady - 1990-03-13",
+    "content": "Diagnoses recorded at this visit:\n- Chronic pain (onset 1990-03-13)."
+  }
+]

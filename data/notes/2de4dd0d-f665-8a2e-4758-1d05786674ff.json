@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-4758-1d05786674ff",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Emergency Department Note",
+    "date": "2016-12-17",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Aron Hammes - 2016-12-17",
+    "content": "Patient: Aron Hammes, male, born 2002-10-19 (patient ID 2de4dd0d-f665-8a2e-4c6b-997735e14ace).\nVisit date: 2016-12-17.\nVisit type: Emergency room admission.\nClinician: Fallon Homenick (General Practice).\nFacility: WILLIAMSTOWN COMMONS NURSING & REHAB, WILLIAMSTOWN, MA."
+  },
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-4758-1d05786674ff",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Emergency Department Note",
+    "date": "2016-12-17",
+    "section": "Reason for Visit",
+    "title": "Emergency Department Note - Aron Hammes - 2016-12-17",
+    "content": "Seen for Fracture of bone."
+  },
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-4758-1d05786674ff",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Emergency Department Note",
+    "date": "2016-12-17",
+    "section": "Assessment",
+    "title": "Emergency Department Note - Aron Hammes - 2016-12-17",
+    "content": "Diagnoses recorded at this visit:\n- Fracture of bone (onset 2016-12-17), resolved 2017-04-10.\n- Fracture of clavicle (onset 2016-12-17), resolved 2017-04-10."
+  },
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-4758-1d05786674ff",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Emergency Department Note",
+    "date": "2016-12-17",
+    "section": "Procedures",
+    "title": "Emergency Department Note - Aron Hammes - 2016-12-17",
+    "content": "- Plain X-ray of clavicle.\n- Admission to orthopedic department, for Fracture of clavicle."
+  },
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-4758-1d05786674ff",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Emergency Department Note",
+    "date": "2016-12-17",
+    "section": "Medications",
+    "title": "Emergency Department Note - Aron Hammes - 2016-12-17",
+    "content": "Medications prescribed at this visit:\n- Acetaminophen 325 MG / HYDROcodone Bitartrate 7.5 MG Oral Tablet, started 2016-12-17; no stop date recorded.\n- Naproxen sodium 220 MG Oral Tablet, started 2016-12-17; stopped 2017-04-10."
+  },
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-4758-1d05786674ff",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Emergency Department Note",
+    "date": "2016-12-17",
+    "section": "Plan",
+    "title": "Emergency Department Note - Aron Hammes - 2016-12-17",
+    "content": "- Fracture care for Fracture of clavicle, started 2016-12-17, ended 2017-04-10."
+  }
+]

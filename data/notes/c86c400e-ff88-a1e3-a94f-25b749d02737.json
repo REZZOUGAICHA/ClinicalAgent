@@ -1,0 +1,65 @@
+[
+  {
+    "doc_id": "c86c400e-ff88-a1e3-a94f-25b749d02737",
+    "patient_id": "c86c400e-ff88-a1e3-2e23-caa4d8311f47",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1981-05-18",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Cristobal Montero - 1981-05-18",
+    "content": "Patient: Cristobal Montero, male, born 1947-03-03 (patient ID c86c400e-ff88-a1e3-2e23-caa4d8311f47).\nVisit date: 1981-05-18.\nVisit type: General examination of patient.\nClinician: Eddie Keeling (General Practice).\nFacility: PRIMARY CARE NORTH PC, LYNN, MA."
+  },
+  {
+    "doc_id": "c86c400e-ff88-a1e3-a94f-25b749d02737",
+    "patient_id": "c86c400e-ff88-a1e3-2e23-caa4d8311f47",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1981-05-18",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Cristobal Montero - 1981-05-18",
+    "content": "Diagnoses recorded at this visit:\n- Gingivitis (onset 1981-05-18), resolved 1981-06-01."
+  },
+  {
+    "doc_id": "c86c400e-ff88-a1e3-a94f-25b749d02737",
+    "patient_id": "c86c400e-ff88-a1e3-2e23-caa4d8311f47",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1981-05-18",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Cristobal Montero - 1981-05-18",
+    "content": "- Body Height: 185.2 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0\n- Body Weight: 94.1 kg\n- Body mass index (BMI) [Ratio]: 27.4 kg/m2\n- Diastolic Blood Pressure: 87.0 mm[Hg]\n- Systolic Blood Pressure: 117.0 mm[Hg]\n- Heart rate: 91.0 /min\n- Respiratory rate: 14.0 /min"
+  },
+  {
+    "doc_id": "c86c400e-ff88-a1e3-a94f-25b749d02737",
+    "patient_id": "c86c400e-ff88-a1e3-2e23-caa4d8311f47",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1981-05-18",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Cristobal Montero - 1981-05-18",
+    "content": "- Cholesterol [Mass/volume] in Serum or Plasma: 196.6 mg/dL\n- Triglyceride [Mass/volume] in Serum or Plasma: 116.7 mg/dL\n- Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay: 129.8 mg/dL\n- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 43.5 mg/dL\n- Leukocytes [#/volume] in Blood by Automated count: 9.8 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 4.7 10*6/uL\n- Hemoglobin [Mass/volume] in Blood: 12.7 g/dL\n- Hematocrit [Volume Fraction] of Blood by Automated count: 37.3 %\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 86.0 fL\n- MCH [Entitic mass] by Automated count: 27.0 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 35.3 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 39.6 fL\n- Platelets [#/volume] in Blood by Automated count: 296.4 10*3/uL\n- Platelet distribution width [Entitic volume] in Blood by Automated count: 14.4 fL\n- Platelet [Entitic mean volume] in Blood by Automated count: 9.5 fL"
+  },
+  {
+    "doc_id": "c86c400e-ff88-a1e3-a94f-25b749d02737",
+    "patient_id": "c86c400e-ff88-a1e3-2e23-caa4d8311f47",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1981-05-18",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Cristobal Montero - 1981-05-18",
+    "content": "- Assessment of health and social care needs.\n- Screening for domestic abuse.\n- Patient referral for dental care, for Gingivitis."
+  },
+  {
+    "doc_id": "c86c400e-ff88-a1e3-a94f-25b749d02737",
+    "patient_id": "c86c400e-ff88-a1e3-2e23-caa4d8311f47",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1981-05-18",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Cristobal Montero - 1981-05-18",
+    "content": "Medications prescribed at this visit:\n- carbamazepine 20 MG/ML Oral Suspension [Tegretol], started 1981-05-18, for Seizure disorder; stopped 1981-11-23."
+  },
+  {
+    "doc_id": "c86c400e-ff88-a1e3-a94f-25b749d02737",
+    "patient_id": "c86c400e-ff88-a1e3-2e23-caa4d8311f47",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1981-05-18",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Cristobal Montero - 1981-05-18",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "79021b82-f370-50bb-b15b-1f3c89c43127",
+    "patient_id": "79021b82-f370-50bb-c5a1-7333816d683f",
+    "document_type": "Urgent Care Note",
+    "date": "2024-05-29",
+    "section": "Visit Information",
+    "title": "Urgent Care Note - Evette Farrell - 2024-05-29",
+    "content": "Patient: Evette Farrell, female, born 2013-03-20 (patient ID 79021b82-f370-50bb-c5a1-7333816d683f).\nVisit date: 2024-05-29.\nVisit type: Urgent care clinic.\nClinician: Karla Cummerata (General Practice).\nFacility: LYNN URGENT CARE LLC, LYNN, MA."
+  },
+  {
+    "doc_id": "79021b82-f370-50bb-b15b-1f3c89c43127",
+    "patient_id": "79021b82-f370-50bb-c5a1-7333816d683f",
+    "document_type": "Urgent Care Note",
+    "date": "2024-05-29",
+    "section": "Vital Signs",
+    "title": "Urgent Care Note - Evette Farrell - 2024-05-29",
+    "content": "- Body Height: 142.8 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0\n- Body Weight: 39.1 kg\n- Body mass index (BMI) [Ratio]: 19.2 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 71.1 %\n- Diastolic Blood Pressure: 82.0 mm[Hg]\n- Systolic Blood Pressure: 101.0 mm[Hg]\n- Heart rate: 98.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "79021b82-f370-50bb-b15b-1f3c89c43127",
+    "patient_id": "79021b82-f370-50bb-c5a1-7333816d683f",
+    "document_type": "Urgent Care Note",
+    "date": "2024-05-29",
+    "section": "Procedures",
+    "title": "Urgent Care Note - Evette Farrell - 2024-05-29",
+    "content": "- Patient referral for dental care."
+  },
+  {
+    "doc_id": "79021b82-f370-50bb-b15b-1f3c89c43127",
+    "patient_id": "79021b82-f370-50bb-c5a1-7333816d683f",
+    "document_type": "Urgent Care Note",
+    "date": "2024-05-29",
+    "section": "Medications",
+    "title": "Urgent Care Note - Evette Farrell - 2024-05-29",
+    "content": "Medications prescribed at this visit:\n- budesonide 0.25 MG/ML Inhalation Suspension, started 2024-05-29, for Childhood asthma; stopped 2024-06-05.\n- NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir], started 2024-05-29, for Childhood asthma; stopped 2024-06-05."
+  },
+  {
+    "doc_id": "79021b82-f370-50bb-b15b-1f3c89c43127",
+    "patient_id": "79021b82-f370-50bb-c5a1-7333816d683f",
+    "document_type": "Urgent Care Note",
+    "date": "2024-05-29",
+    "section": "Immunizations",
+    "title": "Urgent Care Note - Evette Farrell - 2024-05-29",
+    "content": "- HPV quadrivalent."
+  }
+]

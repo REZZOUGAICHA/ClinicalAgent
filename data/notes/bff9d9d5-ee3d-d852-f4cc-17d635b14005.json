@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "bff9d9d5-ee3d-d852-f4cc-17d635b14005",
+    "patient_id": "bff9d9d5-ee3d-d852-9c67-36d8361a4a4a",
+    "document_type": "Office Visit Note",
+    "date": "2024-07-28",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Rosario Ortiz - 2024-07-28",
+    "content": "Patient: Rosario Ortiz, male, born 1945-01-28 (patient ID bff9d9d5-ee3d-d852-9c67-36d8361a4a4a).\nVisit date: 2024-07-28.\nVisit type: Encounter for check up.\nClinician: Eleni Franecki (General Practice).\nFacility: BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM INC., NEEDHAM, MA."
+  },
+  {
+    "doc_id": "bff9d9d5-ee3d-d852-f4cc-17d635b14005",
+    "patient_id": "bff9d9d5-ee3d-d852-9c67-36d8361a4a4a",
+    "document_type": "Office Visit Note",
+    "date": "2024-07-28",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Rosario Ortiz - 2024-07-28",
+    "content": "Seen for Gingivitis."
+  },
+  {
+    "doc_id": "bff9d9d5-ee3d-d852-f4cc-17d635b14005",
+    "patient_id": "bff9d9d5-ee3d-d852-9c67-36d8361a4a4a",
+    "document_type": "Office Visit Note",
+    "date": "2024-07-28",
+    "section": "Procedures",
+    "title": "Office Visit Note - Rosario Ortiz - 2024-07-28",
+    "content": "- Dental consultation and report, for Gingivitis.\n- Dental care, for Gingivitis.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Dental plain X-ray bitewing.\n- Examination of gingivae, for Gingivitis.\n- Oral health education, for Gingivitis."
+  }
+]

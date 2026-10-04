@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "150a8a76-1563-717e-1e2f-ab30df526971",
+    "patient_id": "150a8a76-1563-717e-bf0f-f52045675f46",
+    "document_type": "Office Visit Note",
+    "date": "1947-09-03",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Diego Armijo - 1947-09-03",
+    "content": "Patient: Diego Armijo, male, born 1947-03-03 (patient ID 150a8a76-1563-717e-bf0f-f52045675f46).\nVisit date: 1947-09-03.\nVisit type: Encounter for problem.\nClinician: Zachery Pagac (General Practice).\nFacility: MELROSEWAKEFIELD HEALTHCARE INC, MELROSE, MA."
+  },
+  {
+    "doc_id": "150a8a76-1563-717e-1e2f-ab30df526971",
+    "patient_id": "150a8a76-1563-717e-bf0f-f52045675f46",
+    "document_type": "Office Visit Note",
+    "date": "1947-09-03",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Diego Armijo - 1947-09-03",
+    "content": "Seen for Eggs (edible)."
+  },
+  {
+    "doc_id": "150a8a76-1563-717e-1e2f-ab30df526971",
+    "patient_id": "150a8a76-1563-717e-bf0f-f52045675f46",
+    "document_type": "Office Visit Note",
+    "date": "1947-09-03",
+    "section": "Plan",
+    "title": "Office Visit Note - Diego Armijo - 1947-09-03",
+    "content": "- Self-care interventions, started 1947-09-03."
+  }
+]

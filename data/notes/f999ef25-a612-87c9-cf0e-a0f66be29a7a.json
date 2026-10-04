@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "f999ef25-a612-87c9-cf0e-a0f66be29a7a",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Office Visit Note",
+    "date": "2014-02-14",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Evangeline Ziemann - 2014-02-14",
+    "content": "Patient: Evangeline Ziemann, female, born 1925-09-18 (patient ID f999ef25-a612-87c9-206f-aacc9d469dc8).\nVisit date: 2014-02-14.\nVisit type: Patient encounter procedure.\nClinician: Nickolas Schumm (General Practice).\nFacility: ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE, FRAMINGHAM, MA."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-cf0e-a0f66be29a7a",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Office Visit Note",
+    "date": "2014-02-14",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Evangeline Ziemann - 2014-02-14",
+    "content": "Seen for Chronic pain."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-cf0e-a0f66be29a7a",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Office Visit Note",
+    "date": "2014-02-14",
+    "section": "Procedures",
+    "title": "Office Visit Note - Evangeline Ziemann - 2014-02-14",
+    "content": "- Movement therapy."
+  }
+]

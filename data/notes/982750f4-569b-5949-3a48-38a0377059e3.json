@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "982750f4-569b-5949-3a48-38a0377059e3",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Office Visit Note",
+    "date": "2022-05-04",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Dwana Wolf - 2022-05-04",
+    "content": "Patient: Dwana Wolf, female, born 1986-11-12 (patient ID 982750f4-569b-5949-196b-60699bdda3fb).\nVisit date: 2022-05-04.\nVisit type: Prenatal initial visit.\nClinician: Marcus Schamberger (General Practice).\nFacility: THE LOWELL GENERAL HOSPITAL, WESTFORD, MA."
+  },
+  {
+    "doc_id": "982750f4-569b-5949-3a48-38a0377059e3",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Office Visit Note",
+    "date": "2022-05-04",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Dwana Wolf - 2022-05-04",
+    "content": "Seen for Normal pregnancy."
+  },
+  {
+    "doc_id": "982750f4-569b-5949-3a48-38a0377059e3",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Office Visit Note",
+    "date": "2022-05-04",
+    "section": "Assessment",
+    "title": "Office Visit Note - Dwana Wolf - 2022-05-04",
+    "content": "Diagnoses recorded at this visit:\n- Normal pregnancy (onset 2022-05-04), resolved 2022-07-16."
+  },
+  {
+    "doc_id": "982750f4-569b-5949-3a48-38a0377059e3",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Office Visit Note",
+    "date": "2022-05-04",
+    "section": "Procedures",
+    "title": "Office Visit Note - Dwana Wolf - 2022-05-04",
+    "content": "- Standard pregnancy test, for Normal pregnancy.\n- Ultrasound scan for fetal viability, for Normal pregnancy.\n- Evaluation of uterine fundal height, for Normal pregnancy.\n- Auscultation of the fetal heart, for Normal pregnancy.\n- Blood group typing, for Normal pregnancy.\n- Hemogram  automated  with red blood cells  white blood cells  hemoglobin  hematocrit  indices  platelet count  and manual white blood cell differential, for Normal pregnancy.\n- Hepatitis B surface antigen measurement, for Normal pregnancy.\n- Human immunodeficiency virus antigen test, for Normal pregnancy.\n- Chlamydia antigen test, for Normal pregnancy.\n- Gonorrhea infection titer test, for Normal pregnancy.\n- Syphilis infectious titer test, for Normal pregnancy.\n- Urine culture, for Normal pregnancy.\n- Cytopathology procedure  preparation of smear  genital source, for Normal pregnancy.\n- Urine screening test for diabetes, for Normal pregnancy.\n- Hepatitis C antibody  confirmatory test, for Normal pregnancy.\n- Rubella screening test, for Normal pregnancy.\n- Measurement of Varicella-zoster virus antibody, for Normal pregnancy.\n- Skin test for tuberculosis  Tine test, for Normal pregnancy.\n- Urinalysis  protein  qualitative, for Normal pregnancy.\n- Physical examination procedure, for Normal pregnancy."
+  },
+  {
+    "doc_id": "982750f4-569b-5949-3a48-38a0377059e3",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Office Visit Note",
+    "date": "2022-05-04",
+    "section": "Plan",
+    "title": "Office Visit Note - Dwana Wolf - 2022-05-04",
+    "content": "- Routine antenatal care, started 2022-05-04."
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "46976cf7-b0bf-be20-383b-903de3b2ad2f",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2018-10-05",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Lindsay Zieme - 2018-10-05",
+    "content": "Patient: Lindsay Zieme, female, born 2007-09-14 (patient ID 46976cf7-b0bf-be20-39a5-9f425a52886d).\nVisit date: 2018-10-05.\nVisit type: Encounter for check up.\nClinician: Otha Roberts (General Practice).\nFacility: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC, WORCESTER, MA."
+  },
+  {
+    "doc_id": "46976cf7-b0bf-be20-383b-903de3b2ad2f",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2018-10-05",
+    "section": "Vital Signs",
+    "title": "Outpatient Procedure Note - Lindsay Zieme - 2018-10-05",
+    "content": "- Body Height: 144.3 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0\n- Body Weight: 37.1 kg\n- Body mass index (BMI) [Ratio]: 17.8 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 55.5 %\n- Diastolic Blood Pressure: 98.0 mm[Hg]\n- Systolic Blood Pressure: 114.0 mm[Hg]\n- Heart rate: 84.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "46976cf7-b0bf-be20-383b-903de3b2ad2f",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2018-10-05",
+    "section": "Procedures",
+    "title": "Outpatient Procedure Note - Lindsay Zieme - 2018-10-05",
+    "content": "- Medication reconciliation.\n- Patient referral for dental care."
+  }
+]

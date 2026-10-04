@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "bff9d9d5-ee3d-d852-491b-b5e4864426c2",
+    "patient_id": "bff9d9d5-ee3d-d852-9c67-36d8361a4a4a",
+    "document_type": "Office Visit Note",
+    "date": "2022-07-17",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Rosario Ortiz - 2022-07-17",
+    "content": "Patient: Rosario Ortiz, male, born 1945-01-28 (patient ID bff9d9d5-ee3d-d852-9c67-36d8361a4a4a).\nVisit date: 2022-07-17.\nVisit type: Encounter for check up.\nClinician: Eleni Franecki (General Practice).\nFacility: BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM INC., NEEDHAM, MA."
+  },
+  {
+    "doc_id": "bff9d9d5-ee3d-d852-491b-b5e4864426c2",
+    "patient_id": "bff9d9d5-ee3d-d852-9c67-36d8361a4a4a",
+    "document_type": "Office Visit Note",
+    "date": "2022-07-17",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Rosario Ortiz - 2022-07-17",
+    "content": "Seen for Gingivitis."
+  },
+  {
+    "doc_id": "bff9d9d5-ee3d-d852-491b-b5e4864426c2",
+    "patient_id": "bff9d9d5-ee3d-d852-9c67-36d8361a4a4a",
+    "document_type": "Office Visit Note",
+    "date": "2022-07-17",
+    "section": "Assessment",
+    "title": "Office Visit Note - Rosario Ortiz - 2022-07-17",
+    "content": "Diagnoses recorded at this visit:\n- Gingival disease (onset 2022-07-17), resolved 2022-07-17.\n- Leaking dental filling (onset 2022-07-17), resolved 2022-07-17."
+  },
+  {
+    "doc_id": "bff9d9d5-ee3d-d852-491b-b5e4864426c2",
+    "patient_id": "bff9d9d5-ee3d-d852-9c67-36d8361a4a4a",
+    "document_type": "Office Visit Note",
+    "date": "2022-07-17",
+    "section": "Procedures",
+    "title": "Office Visit Note - Rosario Ortiz - 2022-07-17",
+    "content": "- Dental consultation and report, for Gingivitis.\n- Dental care, for Gingivitis.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Dental plain X-ray bitewing.\n- Examination of gingivae, for Gingivitis.\n- Dental surgical procedure, for Gingival disease.\n- Dental application of desensitizing medicament, for Gingival disease.\n- Gingivectomy or gingivoplasty  per tooth, for Gingival disease.\n- Postoperative care for dental procedure.\n- Restoration of tooth with coverage of all cusps using dental filling material, for Leaking dental filling.\n- Dental fluoride treatment, for Gingivitis.\n- Oral health education, for Gingivitis."
+  },
+  {
+    "doc_id": "bff9d9d5-ee3d-d852-491b-b5e4864426c2",
+    "patient_id": "bff9d9d5-ee3d-d852-9c67-36d8361a4a4a",
+    "document_type": "Office Visit Note",
+    "date": "2022-07-17",
+    "section": "Medications",
+    "title": "Office Visit Note - Rosario Ortiz - 2022-07-17",
+    "content": "Medications prescribed at this visit:\n- sodium fluoride 0.0272 MG/MG Oral Gel, started 2022-07-17, for Gingivitis; stopped 2022-07-17."
+  }
+]

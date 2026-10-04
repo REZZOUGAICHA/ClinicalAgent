@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "76b20010-c318-5754-8efe-c1d7a5b6ec87",
+    "patient_id": "76b20010-c318-5754-8c85-983aa538522f",
+    "document_type": "Office Visit Note",
+    "date": "2021-03-01",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Jody Hickle - 2021-03-01",
+    "content": "Patient: Jody Hickle, male, born 2018-03-19 (patient ID 76b20010-c318-5754-8c85-983aa538522f).\nVisit date: 2021-03-01.\nVisit type: Encounter for check up.\nClinician: Gaston Grimes (General Practice).\nFacility: ANNA JAQUES HOSPITAL SUBACUTE UNIT, NEWBURYPORT, MA."
+  },
+  {
+    "doc_id": "76b20010-c318-5754-8efe-c1d7a5b6ec87",
+    "patient_id": "76b20010-c318-5754-8c85-983aa538522f",
+    "document_type": "Office Visit Note",
+    "date": "2021-03-01",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Jody Hickle - 2021-03-01",
+    "content": "Seen for Patient referral for dental care."
+  },
+  {
+    "doc_id": "76b20010-c318-5754-8efe-c1d7a5b6ec87",
+    "patient_id": "76b20010-c318-5754-8c85-983aa538522f",
+    "document_type": "Office Visit Note",
+    "date": "2021-03-01",
+    "section": "Assessment",
+    "title": "Office Visit Note - Jody Hickle - 2021-03-01",
+    "content": "Diagnoses recorded at this visit:\n- Gingival disease (onset 2021-03-01), resolved 2021-03-01.\n- Primary dental caries (onset 2021-03-01), resolved 2021-03-01."
+  },
+  {
+    "doc_id": "76b20010-c318-5754-8efe-c1d7a5b6ec87",
+    "patient_id": "76b20010-c318-5754-8c85-983aa538522f",
+    "document_type": "Office Visit Note",
+    "date": "2021-03-01",
+    "section": "Procedures",
+    "title": "Office Visit Note - Jody Hickle - 2021-03-01",
+    "content": "- Dental consultation and report, for Patient referral for dental care.\n- Dental care, for Patient referral for dental care.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Examination of gingivae, for Patient referral for dental care.\n- Dental surgical procedure, for Gingival disease.\n- Dental application of desensitizing medicament, for Gingival disease.\n- Gingivectomy or gingivoplasty  per tooth, for Gingival disease.\n- Postoperative care for dental procedure.\n- Restoration of tooth with coverage of all cusps using dental filling material, for Primary dental caries.\n- Oral health education, for Patient referral for dental care."
+  }
+]

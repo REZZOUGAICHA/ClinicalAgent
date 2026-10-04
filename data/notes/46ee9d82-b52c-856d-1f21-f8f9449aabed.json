@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "46ee9d82-b52c-856d-1f21-f8f9449aabed",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2012-07-31",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Shalanda Koepp - 2012-07-31",
+    "content": "Patient: Shalanda Koepp, female, born 1996-06-18 (patient ID 46ee9d82-b52c-856d-069b-5064ff052225).\nVisit date: 2012-07-31.\nVisit type: Well child visit.\nClinician: Pearlene Towne (General Practice).\nFacility: LOWELL COMMUNITY HEALTH CENTER, LOWELL, MA."
+  },
+  {
+    "doc_id": "46ee9d82-b52c-856d-1f21-f8f9449aabed",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2012-07-31",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Shalanda Koepp - 2012-07-31",
+    "content": "Diagnoses recorded at this visit:\n- Risk activity involvement (onset 2012-07-31)."
+  }
+]

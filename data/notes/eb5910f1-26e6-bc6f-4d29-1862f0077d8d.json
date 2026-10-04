@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "eb5910f1-26e6-bc6f-4d29-1862f0077d8d",
+    "patient_id": "eb5910f1-26e6-bc6f-b300-716eae678d6f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-06-30",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Larissa Bins - 2020-06-30",
+    "content": "Patient: Larissa Bins, female, born 1995-04-25 (patient ID eb5910f1-26e6-bc6f-b300-716eae678d6f).\nVisit date: 2020-06-30.\nVisit type: General examination of patient.\nClinician: Jerri Stiedemann (General Practice).\nFacility: GREATER LAWRENCE FAMILY HEALTH CENTER INC, HAVERHILL, MA."
+  },
+  {
+    "doc_id": "eb5910f1-26e6-bc6f-4d29-1862f0077d8d",
+    "patient_id": "eb5910f1-26e6-bc6f-b300-716eae678d6f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-06-30",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Larissa Bins - 2020-06-30",
+    "content": "- Body Height: 162.7 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0\n- Body Weight: 68.2 kg\n- Body mass index (BMI) [Ratio]: 25.8 kg/m2\n- Diastolic Blood Pressure: 82.0 mm[Hg]\n- Systolic Blood Pressure: 126.0 mm[Hg]\n- Heart rate: 96.0 /min\n- Respiratory rate: 14.0 /min"
+  },
+  {
+    "doc_id": "eb5910f1-26e6-bc6f-4d29-1862f0077d8d",
+    "patient_id": "eb5910f1-26e6-bc6f-b300-716eae678d6f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-06-30",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Larissa Bins - 2020-06-30",
+    "content": "- Assessment of health and social care needs.\n- Depression screening.\n- Depression screening."
+  },
+  {
+    "doc_id": "eb5910f1-26e6-bc6f-4d29-1862f0077d8d",
+    "patient_id": "eb5910f1-26e6-bc6f-b300-716eae678d6f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-06-30",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Larissa Bins - 2020-06-30",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "e74367bd-7385-97dc-6cf3-429a8d947938",
+    "patient_id": "e74367bd-7385-97dc-2c7f-251b4cd9fe29",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2000-09-30",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Tennille Jerde - 2000-09-30",
+    "content": "Patient: Tennille Jerde, female, born 1960-09-24 (patient ID e74367bd-7385-97dc-2c7f-251b4cd9fe29).\nVisit date: 2000-09-30.\nVisit type: General examination of patient.\nClinician: Vito Barton (General Practice).\nFacility: DAVIS SQUARE FAMILY PRACTICE, SOMERVILLE, MA."
+  },
+  {
+    "doc_id": "e74367bd-7385-97dc-6cf3-429a8d947938",
+    "patient_id": "e74367bd-7385-97dc-2c7f-251b4cd9fe29",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2000-09-30",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Tennille Jerde - 2000-09-30",
+    "content": "Diagnoses recorded at this visit:\n- Body mass index 30+ - obesity (onset 2000-09-30)."
+  }
+]

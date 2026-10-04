@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-9086-d4368a580342",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-04-01",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Lavette Kozey - 2020-04-01",
+    "content": "Patient: Lavette Kozey, female, born 2010-03-24 (patient ID d20bc0bc-3051-ae6f-f391-ceec7ec0370f).\nVisit date: 2020-04-01.\nVisit type: Well child visit.\nClinician: Anh Schroeder (General Practice).\nFacility: FAMILY PRACTICE GROUP PC, ARLINGTON, MA."
+  },
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-9086-d4368a580342",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-04-01",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Lavette Kozey - 2020-04-01",
+    "content": "Diagnoses recorded at this visit:\n- Gingivitis (onset 2020-04-01), resolved 2020-04-08."
+  },
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-9086-d4368a580342",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-04-01",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Lavette Kozey - 2020-04-01",
+    "content": "- Body Height: 139.7 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0\n- Body Weight: 39.5 kg\n- Body mass index (BMI) [Ratio]: 20.2 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 86.4 %\n- Diastolic Blood Pressure: 85.0 mm[Hg]\n- Systolic Blood Pressure: 112.0 mm[Hg]\n- Heart rate: 82.0 /min\n- Respiratory rate: 15.0 /min"
+  },
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-9086-d4368a580342",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-04-01",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Lavette Kozey - 2020-04-01",
+    "content": "- Patient referral for dental care, for Gingivitis."
+  },
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-9086-d4368a580342",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-04-01",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Lavette Kozey - 2020-04-01",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "76b20010-c318-5754-0497-211daff5cf73",
+    "patient_id": "76b20010-c318-5754-8c85-983aa538522f",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2025-01-17",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Jody Hickle - 2025-01-17",
+    "content": "Patient: Jody Hickle, male, born 2018-03-19 (patient ID 76b20010-c318-5754-8c85-983aa538522f).\nVisit date: 2025-01-17.\nVisit type: Encounter for symptom.\nClinician: Tracie Lesch (General Practice).\nFacility: ANNA JAQUES HOSPITAL SUBACUTE UNIT, NEWBURYPORT, MA."
+  },
+  {
+    "doc_id": "76b20010-c318-5754-0497-211daff5cf73",
+    "patient_id": "76b20010-c318-5754-8c85-983aa538522f",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2025-01-17",
+    "section": "Reason for Visit",
+    "title": "Outpatient Procedure Note - Jody Hickle - 2025-01-17",
+    "content": "Seen for Otitis media."
+  },
+  {
+    "doc_id": "76b20010-c318-5754-0497-211daff5cf73",
+    "patient_id": "76b20010-c318-5754-8c85-983aa538522f",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2025-01-17",
+    "section": "Assessment",
+    "title": "Outpatient Procedure Note - Jody Hickle - 2025-01-17",
+    "content": "Diagnoses recorded at this visit:\n- Otitis media (onset 2025-01-17), resolved 2025-03-10."
+  },
+  {
+    "doc_id": "76b20010-c318-5754-0497-211daff5cf73",
+    "patient_id": "76b20010-c318-5754-8c85-983aa538522f",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2025-01-17",
+    "section": "Medications",
+    "title": "Outpatient Procedure Note - Jody Hickle - 2025-01-17",
+    "content": "Medications prescribed at this visit:\n- Amoxicillin 500 MG Oral Tablet, started 2025-01-17; stopped 2025-01-31.\n- Acetaminophen 160 MG Chewable Tablet, started 2025-01-17; stopped 2025-01-31."
+  }
+]

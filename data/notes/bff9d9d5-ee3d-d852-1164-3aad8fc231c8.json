@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "bff9d9d5-ee3d-d852-1164-3aad8fc231c8",
+    "patient_id": "bff9d9d5-ee3d-d852-9c67-36d8361a4a4a",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-07-26",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Rosario Ortiz - 2026-07-26",
+    "content": "Patient: Rosario Ortiz, male, born 1945-01-28 (patient ID bff9d9d5-ee3d-d852-9c67-36d8361a4a4a).\nVisit date: 2026-07-26.\nVisit type: General examination of patient.\nClinician: Cedrick Gleason (General Practice).\nFacility: WELLESLEY FAMILY CARE ASSOCIATES PC, WELLESLEY, MA."
+  },
+  {
+    "doc_id": "bff9d9d5-ee3d-d852-1164-3aad8fc231c8",
+    "patient_id": "bff9d9d5-ee3d-d852-9c67-36d8361a4a4a",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-07-26",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Rosario Ortiz - 2026-07-26",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2026-07-26), resolved 2026-07-26."
+  },
+  {
+    "doc_id": "bff9d9d5-ee3d-d852-1164-3aad8fc231c8",
+    "patient_id": "bff9d9d5-ee3d-d852-9c67-36d8361a4a4a",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-07-26",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Rosario Ortiz - 2026-07-26",
+    "content": "- Body Height: 180.8 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0\n- Body Weight: 94.8 kg\n- Body mass index (BMI) [Ratio]: 29.0 kg/m2\n- Diastolic Blood Pressure: 90.0 mm[Hg]\n- Systolic Blood Pressure: 121.0 mm[Hg]\n- Heart rate: 76.0 /min\n- Respiratory rate: 14.0 /min"
+  },
+  {
+    "doc_id": "bff9d9d5-ee3d-d852-1164-3aad8fc231c8",
+    "patient_id": "bff9d9d5-ee3d-d852-9c67-36d8361a4a4a",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-07-26",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Rosario Ortiz - 2026-07-26",
+    "content": "- Hemoglobin A1c/Hemoglobin.total in Blood: 5.8 %\n- Glucose [Mass/volume] in Blood: 66.4 mg/dL\n- Urea nitrogen [Mass/volume] in Blood: 8.4 mg/dL\n- Creatinine [Mass/volume] in Blood: 0.8 mg/dL\n- Calcium [Mass/volume] in Blood: 8.6 mg/dL\n- Sodium [Moles/volume] in Blood: 142.0 mmol/L\n- Potassium [Moles/volume] in Blood: 4.2 mmol/L\n- Chloride [Moles/volume] in Blood: 107.3 mmol/L\n- Carbon dioxide  total [Moles/volume] in Blood: 23.7 mmol/L"
+  },
+  {
+    "doc_id": "bff9d9d5-ee3d-d852-1164-3aad8fc231c8",
+    "patient_id": "bff9d9d5-ee3d-d852-9c67-36d8361a4a4a",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-07-26",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Rosario Ortiz - 2026-07-26",
+    "content": "- Medication reconciliation.\n- Assessment of health and social care needs.\n- Assessment of anxiety.\n- Assessment of substance use.\n- Screening for drug abuse."
+  },
+  {
+    "doc_id": "bff9d9d5-ee3d-d852-1164-3aad8fc231c8",
+    "patient_id": "bff9d9d5-ee3d-d852-9c67-36d8361a4a4a",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-07-26",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Rosario Ortiz - 2026-07-26",
+    "content": "- Influenza split virus trivalent PF.\n- Td (adult) 5 Lf tetanus toxoid preservative free adsorbed."
+  }
+]

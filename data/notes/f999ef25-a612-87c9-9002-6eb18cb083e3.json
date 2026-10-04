@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "f999ef25-a612-87c9-9002-6eb18cb083e3",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Urgent Care Note",
+    "date": "2012-10-12",
+    "section": "Visit Information",
+    "title": "Urgent Care Note - Evangeline Ziemann - 2012-10-12",
+    "content": "Patient: Evangeline Ziemann, female, born 1925-09-18 (patient ID f999ef25-a612-87c9-206f-aacc9d469dc8).\nVisit date: 2012-10-12.\nVisit type: Urgent care clinic.\nClinician: Liberty Kihn (General Practice).\nFacility: WOONSOCKET URGENT CARE PC, BELLINGHAM, MA."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-9002-6eb18cb083e3",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Urgent Care Note",
+    "date": "2012-10-12",
+    "section": "Assessment",
+    "title": "Urgent Care Note - Evangeline Ziemann - 2012-10-12",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2012-10-12), resolved 2012-10-12."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-9002-6eb18cb083e3",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Urgent Care Note",
+    "date": "2012-10-12",
+    "section": "Laboratory Results",
+    "title": "Urgent Care Note - Evangeline Ziemann - 2012-10-12",
+    "content": "- Hemoglobin A1c/Hemoglobin.total in Blood: 3.8 %"
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-9002-6eb18cb083e3",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Urgent Care Note",
+    "date": "2012-10-12",
+    "section": "Procedures",
+    "title": "Urgent Care Note - Evangeline Ziemann - 2012-10-12",
+    "content": "- Medication reconciliation."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-9002-6eb18cb083e3",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Urgent Care Note",
+    "date": "2012-10-12",
+    "section": "Medications",
+    "title": "Urgent Care Note - Evangeline Ziemann - 2012-10-12",
+    "content": "Medications prescribed at this visit:\n- insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin], started 2012-10-12, for Prediabetes; stopped 2012-12-21.\n- Furosemide 40 MG Oral Tablet, started 2012-10-12, for Chronic congestive heart failure; stopped 2012-12-21.\n- 24 HR tacrolimus 1 MG Extended Release Oral Tablet [Envarsus], started 2012-10-12, for History of renal transplant; stopped 2012-12-21.\n- lisinopril 10 MG Oral Tablet, started 2012-10-12, for Essential hypertension; stopped 2012-12-21."
+  }
+]

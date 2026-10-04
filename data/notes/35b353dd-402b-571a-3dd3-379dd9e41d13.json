@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "35b353dd-402b-571a-3dd3-379dd9e41d13",
+    "patient_id": "35b353dd-402b-571a-d67a-af0a104d0854",
+    "document_type": "Office Visit Note",
+    "date": "1987-11-09",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Jody Monahan - 1987-11-09",
+    "content": "Patient: Jody Monahan, male, born 1943-09-18 (patient ID 35b353dd-402b-571a-d67a-af0a104d0854).\nVisit date: 1987-11-09.\nVisit type: Hospital admission.\nClinician: Gabriel Reilly (General Practice).\nFacility: Fitchburg Outpatient Clinic, Fitchburg, MA."
+  },
+  {
+    "doc_id": "35b353dd-402b-571a-3dd3-379dd9e41d13",
+    "patient_id": "35b353dd-402b-571a-d67a-af0a104d0854",
+    "document_type": "Office Visit Note",
+    "date": "1987-11-09",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Jody Monahan - 1987-11-09",
+    "content": "Seen for Abnormal findings diagnostic imaging heart+coronary circulat."
+  },
+  {
+    "doc_id": "35b353dd-402b-571a-3dd3-379dd9e41d13",
+    "patient_id": "35b353dd-402b-571a-d67a-af0a104d0854",
+    "document_type": "Office Visit Note",
+    "date": "1987-11-09",
+    "section": "Assessment",
+    "title": "Office Visit Note - Jody Monahan - 1987-11-09",
+    "content": "Diagnoses recorded at this visit:\n- History of coronary artery bypass grafting (onset 1987-11-10)."
+  }
+]

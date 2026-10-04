@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "46ee9d82-b52c-856d-e798-ead21797e52b",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-09-21",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Shalanda Koepp - 2021-09-21",
+    "content": "Patient: Shalanda Koepp, female, born 1996-06-18 (patient ID 46ee9d82-b52c-856d-069b-5064ff052225).\nVisit date: 2021-09-21.\nVisit type: General examination of patient.\nClinician: Pearlene Towne (General Practice).\nFacility: LOWELL COMMUNITY HEALTH CENTER, LOWELL, MA."
+  },
+  {
+    "doc_id": "46ee9d82-b52c-856d-e798-ead21797e52b",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-09-21",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Shalanda Koepp - 2021-09-21",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2021-09-21), resolved 2025-10-14.\n- Severe anxiety (panic) (onset 2021-09-21), resolved 2022-09-27.\n- Victim of intimate partner abuse (onset 2021-09-21).\n- Gingivitis (onset 2021-09-21), resolved 2021-10-05."
+  },
+  {
+    "doc_id": "46ee9d82-b52c-856d-e798-ead21797e52b",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-09-21",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Shalanda Koepp - 2021-09-21",
+    "content": "- Body Height: 153.2 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0\n- Body Weight: 65.5 kg\n- Body mass index (BMI) [Ratio]: 27.9 kg/m2\n- Diastolic Blood Pressure: 85.0 mm[Hg]\n- Systolic Blood Pressure: 137.0 mm[Hg]\n- Heart rate: 82.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "46ee9d82-b52c-856d-e798-ead21797e52b",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-09-21",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Shalanda Koepp - 2021-09-21",
+    "content": "- Assessment of health and social care needs.\n- Assessment of anxiety.\n- Screening for domestic abuse.\n- Depression screening.\n- Depression screening.\n- Assessment of substance use.\n- Screening for drug abuse.\n- Patient referral for dental care, for Gingivitis."
+  },
+  {
+    "doc_id": "46ee9d82-b52c-856d-e798-ead21797e52b",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-09-21",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Shalanda Koepp - 2021-09-21",
+    "content": "Medications prescribed at this visit:\n- tramadol hydrochloride 50 MG Oral Tablet, started 2021-09-21; stopped 2022-09-27."
+  },
+  {
+    "doc_id": "46ee9d82-b52c-856d-e798-ead21797e52b",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-09-21",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Shalanda Koepp - 2021-09-21",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

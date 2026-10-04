@@ -1,0 +1,65 @@
+[
+  {
+    "doc_id": "c0a47dee-cc72-29ce-be28-333721ac1d80",
+    "patient_id": "c0a47dee-cc72-29ce-df5a-ea6d306c36a4",
+    "document_type": "Office Visit Note",
+    "date": "2021-02-28",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Jonathan Carroll - 2021-02-28",
+    "content": "Patient: Jonathan Carroll, male, born 1987-02-23 (patient ID c0a47dee-cc72-29ce-df5a-ea6d306c36a4).\nVisit date: 2021-02-28.\nVisit type: Encounter for symptom.\nClinician: Tabatha Roob (General Practice).\nFacility: STEWARD ST. ANNES HOSPITAL CORPORATION, FALL RIVER, MA."
+  },
+  {
+    "doc_id": "c0a47dee-cc72-29ce-be28-333721ac1d80",
+    "patient_id": "c0a47dee-cc72-29ce-df5a-ea6d306c36a4",
+    "document_type": "Office Visit Note",
+    "date": "2021-02-28",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Jonathan Carroll - 2021-02-28",
+    "content": "Seen for Suspected disease caused by Severe acute respiratory coronavirus 2."
+  },
+  {
+    "doc_id": "c0a47dee-cc72-29ce-be28-333721ac1d80",
+    "patient_id": "c0a47dee-cc72-29ce-df5a-ea6d306c36a4",
+    "document_type": "Office Visit Note",
+    "date": "2021-02-28",
+    "section": "Assessment",
+    "title": "Office Visit Note - Jonathan Carroll - 2021-02-28",
+    "content": "Diagnoses recorded at this visit:\n- Cough (onset 2021-02-28), resolved 2021-04-03.\n- Sputum finding (onset 2021-02-28), resolved 2021-04-03.\n- Fatigue (onset 2021-02-28), resolved 2021-04-03.\n- Fever (onset 2021-02-28), resolved 2021-04-03.\n- Loss of taste (onset 2021-02-28), resolved 2021-04-03.\n- Disease caused by severe acute respiratory syndrome coronavirus 2 (onset 2021-02-28), resolved 2021-04-03."
+  },
+  {
+    "doc_id": "c0a47dee-cc72-29ce-be28-333721ac1d80",
+    "patient_id": "c0a47dee-cc72-29ce-df5a-ea6d306c36a4",
+    "document_type": "Office Visit Note",
+    "date": "2021-02-28",
+    "section": "Vital Signs",
+    "title": "Office Visit Note - Jonathan Carroll - 2021-02-28",
+    "content": "- Body temperature: 41.0 \u00b0C\n- Respiratory rate: 28.5 /min\n- Heart rate: 124.7 /min\n- Oxygen saturation in Arterial blood: 75.9 %\n- Diastolic Blood Pressure: 83.0 mm[Hg]\n- Systolic Blood Pressure: 118.0 mm[Hg]\n- Body Weight: 93.1 kg"
+  },
+  {
+    "doc_id": "c0a47dee-cc72-29ce-be28-333721ac1d80",
+    "patient_id": "c0a47dee-cc72-29ce-df5a-ea6d306c36a4",
+    "document_type": "Office Visit Note",
+    "date": "2021-02-28",
+    "section": "Laboratory Results",
+    "title": "Office Visit Note - Jonathan Carroll - 2021-02-28",
+    "content": "- Influenza virus A Ag [Presence] in Upper respiratory specimen by Rapid immunoassay: Not detected (qualifier value)\n- Influenza virus B Ag [Presence] in Upper respiratory specimen by Rapid immunoassay: Not detected (qualifier value)\n- SARS-CoV-2 (COVID-19) RNA panel - Respiratory system specimen by NAA with probe detection: Detected (qualifier value)"
+  },
+  {
+    "doc_id": "c0a47dee-cc72-29ce-be28-333721ac1d80",
+    "patient_id": "c0a47dee-cc72-29ce-df5a-ea6d306c36a4",
+    "document_type": "Office Visit Note",
+    "date": "2021-02-28",
+    "section": "Procedures",
+    "title": "Office Visit Note - Jonathan Carroll - 2021-02-28",
+    "content": "- Face mask (physical object), for Suspected disease caused by Severe acute respiratory coronavirus 2."
+  },
+  {
+    "doc_id": "c0a47dee-cc72-29ce-be28-333721ac1d80",
+    "patient_id": "c0a47dee-cc72-29ce-df5a-ea6d306c36a4",
+    "document_type": "Office Visit Note",
+    "date": "2021-02-28",
+    "section": "Plan",
+    "title": "Office Visit Note - Jonathan Carroll - 2021-02-28",
+    "content": "- Infectious disease care plan, started 2021-02-28, ended 2021-02-28.\n- Infectious disease care plan, started 2021-02-28, ended 2021-04-03."
+  }
+]

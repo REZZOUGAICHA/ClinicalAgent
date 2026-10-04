@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "26aa011e-0d75-d1a3-97b7-6896567e847a",
+    "patient_id": "26aa011e-0d75-d1a3-3c5a-560a9450cc9d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-04-18",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Jesse Wolf - 2021-04-18",
+    "content": "Patient: Jesse Wolf, male, born 2010-04-04 (patient ID 26aa011e-0d75-d1a3-3c5a-560a9450cc9d).\nVisit date: 2021-04-18.\nVisit type: Well child visit.\nClinician: Odessa Hintz (General Practice).\nFacility: WESTFORD INTERNAL MEDICINE PC, WESTFORD, MA."
+  },
+  {
+    "doc_id": "26aa011e-0d75-d1a3-97b7-6896567e847a",
+    "patient_id": "26aa011e-0d75-d1a3-3c5a-560a9450cc9d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-04-18",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Jesse Wolf - 2021-04-18",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2021-04-18), resolved 2022-04-24."
+  },
+  {
+    "doc_id": "26aa011e-0d75-d1a3-97b7-6896567e847a",
+    "patient_id": "26aa011e-0d75-d1a3-3c5a-560a9450cc9d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-04-18",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Jesse Wolf - 2021-04-18",
+    "content": "- Body Height: 145.7 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0\n- Body Weight: 64.3 kg\n- Body mass index (BMI) [Ratio]: 30.3 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 99.0 %\n- Diastolic Blood Pressure: 71.0 mm[Hg]\n- Systolic Blood Pressure: 113.0 mm[Hg]\n- Heart rate: 82.0 /min\n- Respiratory rate: 15.0 /min"
+  },
+  {
+    "doc_id": "26aa011e-0d75-d1a3-97b7-6896567e847a",
+    "patient_id": "26aa011e-0d75-d1a3-3c5a-560a9450cc9d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-04-18",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Jesse Wolf - 2021-04-18",
+    "content": "- Leukocytes [#/volume] in Blood by Automated count: 8.3 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 4.1 10*6/uL\n- Hemoglobin [Mass/volume] in Blood: 17.4 g/dL\n- Hematocrit [Volume Fraction] of Blood by Automated count: 45.0 %\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 90.8 fL\n- MCH [Entitic mass] by Automated count: 29.1 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 34.9 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 45.0 fL\n- Platelets [#/volume] in Blood by Automated count: 426.6 10*3/uL\n- Platelet distribution width [Entitic volume] in Blood by Automated count: 12.3 fL\n- Platelet [Entitic mean volume] in Blood by Automated count: 9.5 fL"
+  },
+  {
+    "doc_id": "26aa011e-0d75-d1a3-97b7-6896567e847a",
+    "patient_id": "26aa011e-0d75-d1a3-3c5a-560a9450cc9d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-04-18",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Jesse Wolf - 2021-04-18",
+    "content": "- Tdap.\n- Influenza split virus trivalent PF.\n- HPV quadrivalent.\n- meningococcal MCV4P."
+  }
+]

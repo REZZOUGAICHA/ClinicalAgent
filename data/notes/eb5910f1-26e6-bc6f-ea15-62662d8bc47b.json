@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "eb5910f1-26e6-bc6f-ea15-62662d8bc47b",
+    "patient_id": "eb5910f1-26e6-bc6f-b300-716eae678d6f",
+    "document_type": "Office Visit Note",
+    "date": "2021-05-05",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Larissa Bins - 2021-05-05",
+    "content": "Patient: Larissa Bins, female, born 1995-04-25 (patient ID eb5910f1-26e6-bc6f-b300-716eae678d6f).\nVisit date: 2021-05-05.\nVisit type: Encounter for symptom.\nClinician: Jackelyn Pacocha (General Practice).\nFacility: WP ACQUISITION SUB LLC, HAVERHILL, MA."
+  },
+  {
+    "doc_id": "eb5910f1-26e6-bc6f-ea15-62662d8bc47b",
+    "patient_id": "eb5910f1-26e6-bc6f-b300-716eae678d6f",
+    "document_type": "Office Visit Note",
+    "date": "2021-05-05",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Larissa Bins - 2021-05-05",
+    "content": "Seen for Acute viral pharyngitis."
+  },
+  {
+    "doc_id": "eb5910f1-26e6-bc6f-ea15-62662d8bc47b",
+    "patient_id": "eb5910f1-26e6-bc6f-b300-716eae678d6f",
+    "document_type": "Office Visit Note",
+    "date": "2021-05-05",
+    "section": "Assessment",
+    "title": "Office Visit Note - Larissa Bins - 2021-05-05",
+    "content": "Diagnoses recorded at this visit:\n- Acute viral pharyngitis (onset 2021-05-05), resolved 2021-05-14."
+  },
+  {
+    "doc_id": "eb5910f1-26e6-bc6f-ea15-62662d8bc47b",
+    "patient_id": "eb5910f1-26e6-bc6f-b300-716eae678d6f",
+    "document_type": "Office Visit Note",
+    "date": "2021-05-05",
+    "section": "Vital Signs",
+    "title": "Office Visit Note - Larissa Bins - 2021-05-05",
+    "content": "- Body temperature: 37.4 \u00b0C"
+  },
+  {
+    "doc_id": "eb5910f1-26e6-bc6f-ea15-62662d8bc47b",
+    "patient_id": "eb5910f1-26e6-bc6f-b300-716eae678d6f",
+    "document_type": "Office Visit Note",
+    "date": "2021-05-05",
+    "section": "Procedures",
+    "title": "Office Visit Note - Larissa Bins - 2021-05-05",
+    "content": "- Throat culture, for Acute viral pharyngitis."
+  }
+]

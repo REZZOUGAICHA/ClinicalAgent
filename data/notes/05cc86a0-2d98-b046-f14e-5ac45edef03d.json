@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "05cc86a0-2d98-b046-f14e-5ac45edef03d",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Office Visit Note",
+    "date": "2022-10-19",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Carita Grady - 2022-10-19",
+    "content": "Patient: Carita Grady, female, born 1925-09-18 (patient ID 05cc86a0-2d98-b046-790a-211fd9e1ea92).\nVisit date: 2022-10-19.\nVisit type: Encounter for problem.\nClinician: Nickolas Schumm (General Practice).\nFacility: ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE, FRAMINGHAM, MA."
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-f14e-5ac45edef03d",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Office Visit Note",
+    "date": "2022-10-19",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Carita Grady - 2022-10-19",
+    "content": "Seen for Dependent drug abuse."
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-f14e-5ac45edef03d",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Office Visit Note",
+    "date": "2022-10-19",
+    "section": "Procedures",
+    "title": "Office Visit Note - Carita Grady - 2022-10-19",
+    "content": "- Rehabilitation therapy, for Dependent drug abuse."
+  }
+]

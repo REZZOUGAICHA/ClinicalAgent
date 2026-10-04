@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "4f083ce3-f12b-bb4b-bcd3-5c2155f4804f",
+    "patient_id": "4f083ce3-f12b-bb4b-7353-e17f0cd55b0a",
+    "document_type": "Office Visit Note",
+    "date": "2022-04-13",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Ezekiel Walter - 2022-04-13",
+    "content": "Patient: Ezekiel Walter, male, born 1999-01-12 (patient ID 4f083ce3-f12b-bb4b-7353-e17f0cd55b0a).\nVisit date: 2022-04-13.\nVisit type: Encounter for symptom.\nClinician: Eldora Langosh (General Practice).\nFacility: BRIGHAM AND WOMEN'S FAULKNER HOSPITAL INC., JAMAICA PLAIN, MA."
+  },
+  {
+    "doc_id": "4f083ce3-f12b-bb4b-bcd3-5c2155f4804f",
+    "patient_id": "4f083ce3-f12b-bb4b-7353-e17f0cd55b0a",
+    "document_type": "Office Visit Note",
+    "date": "2022-04-13",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Ezekiel Walter - 2022-04-13",
+    "content": "Seen for Streptococcal sore throat."
+  },
+  {
+    "doc_id": "4f083ce3-f12b-bb4b-bcd3-5c2155f4804f",
+    "patient_id": "4f083ce3-f12b-bb4b-7353-e17f0cd55b0a",
+    "document_type": "Office Visit Note",
+    "date": "2022-04-13",
+    "section": "Assessment",
+    "title": "Office Visit Note - Ezekiel Walter - 2022-04-13",
+    "content": "Diagnoses recorded at this visit:\n- Streptococcal sore throat (onset 2022-04-13), resolved 2022-04-27."
+  },
+  {
+    "doc_id": "4f083ce3-f12b-bb4b-bcd3-5c2155f4804f",
+    "patient_id": "4f083ce3-f12b-bb4b-7353-e17f0cd55b0a",
+    "document_type": "Office Visit Note",
+    "date": "2022-04-13",
+    "section": "Vital Signs",
+    "title": "Office Visit Note - Ezekiel Walter - 2022-04-13",
+    "content": "- Body temperature: 39.2 \u00b0C"
+  },
+  {
+    "doc_id": "4f083ce3-f12b-bb4b-bcd3-5c2155f4804f",
+    "patient_id": "4f083ce3-f12b-bb4b-7353-e17f0cd55b0a",
+    "document_type": "Office Visit Note",
+    "date": "2022-04-13",
+    "section": "Medications",
+    "title": "Office Visit Note - Ezekiel Walter - 2022-04-13",
+    "content": "Medications prescribed at this visit:\n- Penicillin V Potassium 500 MG Oral Tablet, started 2022-04-13, for Streptococcal sore throat; stopped 2022-04-27."
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "322ab5c6-5846-ac1e-ddbf-9433313dcb47",
+    "patient_id": "322ab5c6-5846-ac1e-38cc-48b8cb441e20",
+    "document_type": "Office Visit Note",
+    "date": "2017-05-24",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Lena Cummings - 2017-05-24",
+    "content": "Patient: Lena Cummings, female, born 1965-02-26 (patient ID 322ab5c6-5846-ac1e-38cc-48b8cb441e20).\nVisit date: 2017-05-24.\nVisit type: Encounter for symptom.\nClinician: Beatriz Monroy (General Practice).\nFacility: FIRST PSYCHIATRIC PLANNERS INC, WOBURN, MA."
+  },
+  {
+    "doc_id": "322ab5c6-5846-ac1e-ddbf-9433313dcb47",
+    "patient_id": "322ab5c6-5846-ac1e-38cc-48b8cb441e20",
+    "document_type": "Office Visit Note",
+    "date": "2017-05-24",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Lena Cummings - 2017-05-24",
+    "content": "Seen for Acute viral pharyngitis."
+  },
+  {
+    "doc_id": "322ab5c6-5846-ac1e-ddbf-9433313dcb47",
+    "patient_id": "322ab5c6-5846-ac1e-38cc-48b8cb441e20",
+    "document_type": "Office Visit Note",
+    "date": "2017-05-24",
+    "section": "Assessment",
+    "title": "Office Visit Note - Lena Cummings - 2017-05-24",
+    "content": "Diagnoses recorded at this visit:\n- Acute viral pharyngitis (onset 2017-05-24), resolved 2017-06-04."
+  },
+  {
+    "doc_id": "322ab5c6-5846-ac1e-ddbf-9433313dcb47",
+    "patient_id": "322ab5c6-5846-ac1e-38cc-48b8cb441e20",
+    "document_type": "Office Visit Note",
+    "date": "2017-05-24",
+    "section": "Vital Signs",
+    "title": "Office Visit Note - Lena Cummings - 2017-05-24",
+    "content": "- Body temperature: 37.0 \u00b0C"
+  }
+]

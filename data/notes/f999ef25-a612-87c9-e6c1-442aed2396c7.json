@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "f999ef25-a612-87c9-e6c1-442aed2396c7",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Emergency Department Note",
+    "date": "2011-11-12",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Evangeline Ziemann - 2011-11-12",
+    "content": "Patient: Evangeline Ziemann, female, born 1925-09-18 (patient ID f999ef25-a612-87c9-206f-aacc9d469dc8).\nVisit date: 2011-11-12.\nVisit type: Emergency room admission.\nClinician: Javier Collier (General Practice).\nFacility: SERENITY HILL NURSING CENTER, WRENTHAM, MA."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-e6c1-442aed2396c7",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Emergency Department Note",
+    "date": "2011-11-12",
+    "section": "Reason for Visit",
+    "title": "Emergency Department Note - Evangeline Ziemann - 2011-11-12",
+    "content": "Seen for Overdose."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-e6c1-442aed2396c7",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Emergency Department Note",
+    "date": "2011-11-12",
+    "section": "Assessment",
+    "title": "Emergency Department Note - Evangeline Ziemann - 2011-11-12",
+    "content": "Diagnoses recorded at this visit:\n- Overdose (onset 2011-11-13), resolved 2011-11-14."
+  }
+]

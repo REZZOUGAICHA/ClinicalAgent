@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-2c24-9e452f3978f9",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Office Visit Note",
+    "date": "2020-12-16",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Faustino Langworth - 2020-12-16",
+    "content": "Patient: Faustino Langworth, male, born 1998-06-17 (patient ID 5ba0a3f3-32f7-02b1-ec6a-8f568923954c).\nVisit date: 2020-12-16.\nVisit type: Encounter for check up.\nClinician: Floy Greenfelder (General Practice).\nFacility: CAMBRIDGE PUBLIC HEALTH COMMISSION, SOMERVILLE, MA."
+  },
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-2c24-9e452f3978f9",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Office Visit Note",
+    "date": "2020-12-16",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Faustino Langworth - 2020-12-16",
+    "content": "Seen for Patient referral for dental care."
+  },
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-2c24-9e452f3978f9",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Office Visit Note",
+    "date": "2020-12-16",
+    "section": "Procedures",
+    "title": "Office Visit Note - Faustino Langworth - 2020-12-16",
+    "content": "- Dental consultation and report, for Patient referral for dental care.\n- Dental care, for Patient referral for dental care.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Dental plain X-ray bitewing.\n- Examination of gingivae, for Patient referral for dental care.\n- Oral health education, for Patient referral for dental care."
+  }
+]

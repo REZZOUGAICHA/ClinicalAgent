@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "05cc86a0-2d98-b046-89bb-95f603c6fc2a",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Emergency Department Note",
+    "date": "2020-06-16",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Carita Grady - 2020-06-16",
+    "content": "Patient: Carita Grady, female, born 1925-09-18 (patient ID 05cc86a0-2d98-b046-790a-211fd9e1ea92).\nVisit date: 2020-06-16.\nVisit type: Emergency room admission.\nClinician: Javier Collier (General Practice).\nFacility: SERENITY HILL NURSING CENTER, WRENTHAM, MA."
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-89bb-95f603c6fc2a",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Emergency Department Note",
+    "date": "2020-06-16",
+    "section": "Reason for Visit",
+    "title": "Emergency Department Note - Carita Grady - 2020-06-16",
+    "content": "Seen for Fracture of bone."
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-89bb-95f603c6fc2a",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Emergency Department Note",
+    "date": "2020-06-16",
+    "section": "Assessment",
+    "title": "Emergency Department Note - Carita Grady - 2020-06-16",
+    "content": "Diagnoses recorded at this visit:\n- Fracture of bone (onset 2020-06-16), resolved 2020-08-15.\n- Fracture of clavicle (onset 2020-06-16), resolved 2020-08-15.\n- Osteoporotic fracture of bone (onset 2020-06-16), resolved 2020-08-15."
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-89bb-95f603c6fc2a",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Emergency Department Note",
+    "date": "2020-06-16",
+    "section": "Procedures",
+    "title": "Emergency Department Note - Carita Grady - 2020-06-16",
+    "content": "- Plain X-ray of clavicle.\n- Admission to orthopedic department, for Fracture of clavicle."
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-89bb-95f603c6fc2a",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Emergency Department Note",
+    "date": "2020-06-16",
+    "section": "Plan",
+    "title": "Emergency Department Note - Carita Grady - 2020-06-16",
+    "content": "- Fracture care for Fracture of clavicle, started 2020-06-16, ended 2020-08-15."
+  }
+]

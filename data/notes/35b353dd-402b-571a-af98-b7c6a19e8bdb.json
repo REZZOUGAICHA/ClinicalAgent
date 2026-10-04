@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "35b353dd-402b-571a-af98-b7c6a19e8bdb",
+    "patient_id": "35b353dd-402b-571a-d67a-af0a104d0854",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "1992-09-30",
+    "section": "Visit Information",
+    "title": "Inpatient Discharge Summary - Jody Monahan - 1992-09-30",
+    "content": "Patient: Jody Monahan, male, born 1943-09-18 (patient ID 35b353dd-402b-571a-d67a-af0a104d0854).\nVisit date: 1992-09-30.\nVisit type: Encounter for problem.\nClinician: Omer Koepp (General Practice).\nFacility: CAMBRIDGE PUBLIC HEALTH COMMISSION, SOMERVILLE, MA."
+  },
+  {
+    "doc_id": "35b353dd-402b-571a-af98-b7c6a19e8bdb",
+    "patient_id": "35b353dd-402b-571a-d67a-af0a104d0854",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "1992-09-30",
+    "section": "Reason for Visit",
+    "title": "Inpatient Discharge Summary - Jody Monahan - 1992-09-30",
+    "content": "Seen for Sleep disorder."
+  },
+  {
+    "doc_id": "35b353dd-402b-571a-af98-b7c6a19e8bdb",
+    "patient_id": "35b353dd-402b-571a-d67a-af0a104d0854",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "1992-09-30",
+    "section": "Assessment",
+    "title": "Inpatient Discharge Summary - Jody Monahan - 1992-09-30",
+    "content": "Diagnoses recorded at this visit:\n- Obstructive sleep apnea syndrome (onset 1992-10-01)."
+  },
+  {
+    "doc_id": "35b353dd-402b-571a-af98-b7c6a19e8bdb",
+    "patient_id": "35b353dd-402b-571a-d67a-af0a104d0854",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "1992-09-30",
+    "section": "Plan",
+    "title": "Inpatient Discharge Summary - Jody Monahan - 1992-09-30",
+    "content": "- Care plan for Obstructive sleep apnea syndrome, started 1992-10-01."
+  }
+]

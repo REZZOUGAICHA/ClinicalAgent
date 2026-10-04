@@ -1,0 +1,65 @@
+[
+  {
+    "doc_id": "80fcbdbc-e907-9bd5-e1cd-472e55d70967",
+    "patient_id": "80fcbdbc-e907-9bd5-2644-ad9ef5d6545b",
+    "document_type": "Office Visit Note",
+    "date": "2021-01-13",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Jaime Aponte - 2021-01-13",
+    "content": "Patient: Jaime Aponte, male, born 1947-03-03 (patient ID 80fcbdbc-e907-9bd5-2644-ad9ef5d6545b).\nVisit date: 2021-01-13.\nVisit type: Encounter for symptom.\nClinician: Zachery Pagac (General Practice).\nFacility: MELROSEWAKEFIELD HEALTHCARE INC, MELROSE, MA."
+  },
+  {
+    "doc_id": "80fcbdbc-e907-9bd5-e1cd-472e55d70967",
+    "patient_id": "80fcbdbc-e907-9bd5-2644-ad9ef5d6545b",
+    "document_type": "Office Visit Note",
+    "date": "2021-01-13",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Jaime Aponte - 2021-01-13",
+    "content": "Seen for Suspected disease caused by Severe acute respiratory coronavirus 2."
+  },
+  {
+    "doc_id": "80fcbdbc-e907-9bd5-e1cd-472e55d70967",
+    "patient_id": "80fcbdbc-e907-9bd5-2644-ad9ef5d6545b",
+    "document_type": "Office Visit Note",
+    "date": "2021-01-13",
+    "section": "Assessment",
+    "title": "Office Visit Note - Jaime Aponte - 2021-01-13",
+    "content": "Diagnoses recorded at this visit:\n- Fever (onset 2021-01-13), resolved 2021-02-16.\n- Disease caused by severe acute respiratory syndrome coronavirus 2 (onset 2021-01-13), resolved 2021-02-16."
+  },
+  {
+    "doc_id": "80fcbdbc-e907-9bd5-e1cd-472e55d70967",
+    "patient_id": "80fcbdbc-e907-9bd5-2644-ad9ef5d6545b",
+    "document_type": "Office Visit Note",
+    "date": "2021-01-13",
+    "section": "Vital Signs",
+    "title": "Office Visit Note - Jaime Aponte - 2021-01-13",
+    "content": "- Body temperature: 41.1 \u00b0C\n- Respiratory rate: 13.6 /min\n- Heart rate: 50.9 /min\n- Oxygen saturation in Arterial blood: 84.8 %\n- Diastolic Blood Pressure: 67.0 mm[Hg]\n- Systolic Blood Pressure: 95.0 mm[Hg]\n- Body Weight: 79.1 kg"
+  },
+  {
+    "doc_id": "80fcbdbc-e907-9bd5-e1cd-472e55d70967",
+    "patient_id": "80fcbdbc-e907-9bd5-2644-ad9ef5d6545b",
+    "document_type": "Office Visit Note",
+    "date": "2021-01-13",
+    "section": "Laboratory Results",
+    "title": "Office Visit Note - Jaime Aponte - 2021-01-13",
+    "content": "- Influenza virus A RNA [Presence] in Respiratory system specimen by NAA with probe detection: Negative (qualifier value)\n- Influenza virus B RNA [Presence] in Respiratory system specimen by NAA with probe detection: Negative (qualifier value)\n- Respiratory syncytial virus RNA [Presence] in Respiratory system specimen by NAA with probe detection: Negative (qualifier value)\n- Parainfluenza virus 1 RNA [Presence] in Respiratory system specimen by NAA with probe detection: Negative (qualifier value)\n- Parainfluenza virus 2 RNA [Presence] in Respiratory system specimen by NAA with probe detection: Negative (qualifier value)\n- Parainfluenza virus 3 RNA [Presence] in Respiratory system specimen by NAA with probe detection: Negative (qualifier value)\n- Rhinovirus RNA [Presence] in Respiratory system specimen by NAA with probe detection: Negative (qualifier value)\n- Human metapneumovirus RNA [Presence] in Respiratory system specimen by NAA with probe detection: Negative (qualifier value)\n- Adenovirus A+B+C+D+E DNA [Presence] in Respiratory system specimen by NAA with probe detection: Negative (qualifier value)\n- SARS-CoV-2 (COVID-19) RNA panel - Respiratory system specimen by NAA with probe detection: Detected (qualifier value)"
+  },
+  {
+    "doc_id": "80fcbdbc-e907-9bd5-e1cd-472e55d70967",
+    "patient_id": "80fcbdbc-e907-9bd5-2644-ad9ef5d6545b",
+    "document_type": "Office Visit Note",
+    "date": "2021-01-13",
+    "section": "Procedures",
+    "title": "Office Visit Note - Jaime Aponte - 2021-01-13",
+    "content": "- Face mask (physical object), for Suspected disease caused by Severe acute respiratory coronavirus 2."
+  },
+  {
+    "doc_id": "80fcbdbc-e907-9bd5-e1cd-472e55d70967",
+    "patient_id": "80fcbdbc-e907-9bd5-2644-ad9ef5d6545b",
+    "document_type": "Office Visit Note",
+    "date": "2021-01-13",
+    "section": "Plan",
+    "title": "Office Visit Note - Jaime Aponte - 2021-01-13",
+    "content": "- Infectious disease care plan, started 2021-01-13, ended 2021-01-13.\n- Infectious disease care plan, started 2021-01-13, ended 2021-02-16."
+  }
+]

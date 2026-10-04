@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "75d6a35c-c2e1-5b9f-e732-2efa21dfd7da",
+    "patient_id": "75d6a35c-c2e1-5b9f-e7f8-6a5b05af8fc8",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-01-06",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Hiram Batz - 2017-01-06",
+    "content": "Patient: Hiram Batz, male, born 2013-02-01 (patient ID 75d6a35c-c2e1-5b9f-e7f8-6a5b05af8fc8).\nVisit date: 2017-01-06.\nVisit type: Well child visit.\nClinician: Shaquita Graham (General Practice).\nFacility: HOPKINTON MEDICAL CARE P.C., HOPKINTON, MA."
+  },
+  {
+    "doc_id": "75d6a35c-c2e1-5b9f-e732-2efa21dfd7da",
+    "patient_id": "75d6a35c-c2e1-5b9f-e7f8-6a5b05af8fc8",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-01-06",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Hiram Batz - 2017-01-06",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2017-01-06), resolved 2017-01-06."
+  },
+  {
+    "doc_id": "75d6a35c-c2e1-5b9f-e732-2efa21dfd7da",
+    "patient_id": "75d6a35c-c2e1-5b9f-e7f8-6a5b05af8fc8",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-01-06",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Hiram Batz - 2017-01-06",
+    "content": "- Body Height: 105.5 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0\n- Body Weight: 19.2 kg\n- Weight-for-length Per age and sex: 90.0 %\n- Head Occipital-frontal circumference Percentile: 82.7 %\n- Head Occipital-frontal circumference: 51.2 cm\n- Body mass index (BMI) [Ratio]: 17.3 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 89.6 %\n- Diastolic Blood Pressure: 75.0 mm[Hg]\n- Systolic Blood Pressure: 104.0 mm[Hg]\n- Heart rate: 74.0 /min\n- Respiratory rate: 15.0 /min"
+  },
+  {
+    "doc_id": "75d6a35c-c2e1-5b9f-e732-2efa21dfd7da",
+    "patient_id": "75d6a35c-c2e1-5b9f-e7f8-6a5b05af8fc8",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-01-06",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Hiram Batz - 2017-01-06",
+    "content": "- Medication reconciliation."
+  },
+  {
+    "doc_id": "75d6a35c-c2e1-5b9f-e732-2efa21dfd7da",
+    "patient_id": "75d6a35c-c2e1-5b9f-e7f8-6a5b05af8fc8",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-01-06",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Hiram Batz - 2017-01-06",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

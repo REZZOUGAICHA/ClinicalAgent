@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "ba419d35-0dfe-8af7-d2fe-0cc4eea4554a",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Urgent Care Note",
+    "date": "2011-02-25",
+    "section": "Visit Information",
+    "title": "Urgent Care Note - Corie Kohler - 2011-02-25",
+    "content": "Patient: Corie Kohler, female, born 1925-09-18 (patient ID ba419d35-0dfe-8af7-347c-eebf02485a56).\nVisit date: 2011-02-25.\nVisit type: Urgent care clinic.\nClinician: Lorenzo Casta\u00f1eda (General Practice).\nFacility: WOONSOCKET URGENT CARE PC, NORTH ATTLEBORO, MA."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-d2fe-0cc4eea4554a",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Urgent Care Note",
+    "date": "2011-02-25",
+    "section": "Medications",
+    "title": "Urgent Care Note - Corie Kohler - 2011-02-25",
+    "content": "Medications prescribed at this visit:\n- lisinopril 10 MG Oral Tablet, started 2011-02-25, for Essential hypertension; stopped 2011-04-01."
+  }
+]

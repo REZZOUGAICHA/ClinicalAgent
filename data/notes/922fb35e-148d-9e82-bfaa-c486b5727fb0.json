@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "922fb35e-148d-9e82-bfaa-c486b5727fb0",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Emergency Department Note",
+    "date": "2020-11-12",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Agnes Weber - 2020-11-12",
+    "content": "Patient: Agnes Weber, female, born 1986-12-19 (patient ID 922fb35e-148d-9e82-7e65-bfa05e3b3515).\nVisit date: 2020-11-12.\nVisit type: Emergency room admission.\nClinician: Pat Bradtke (General Practice).\nFacility: COLEMAN HOUSE, NORTHBOROUGH, MA."
+  },
+  {
+    "doc_id": "922fb35e-148d-9e82-bfaa-c486b5727fb0",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Emergency Department Note",
+    "date": "2020-11-12",
+    "section": "Reason for Visit",
+    "title": "Emergency Department Note - Agnes Weber - 2020-11-12",
+    "content": "Seen for Sprain (morphologic abnormality)."
+  },
+  {
+    "doc_id": "922fb35e-148d-9e82-bfaa-c486b5727fb0",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Emergency Department Note",
+    "date": "2020-11-12",
+    "section": "Assessment",
+    "title": "Emergency Department Note - Agnes Weber - 2020-11-12",
+    "content": "Diagnoses recorded at this visit:\n- Sprain (morphologic abnormality) (onset 2020-11-12), resolved 2020-12-01.\n- Sprain of ankle (onset 2020-11-12), resolved 2020-12-01."
+  },
+  {
+    "doc_id": "922fb35e-148d-9e82-bfaa-c486b5727fb0",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Emergency Department Note",
+    "date": "2020-11-12",
+    "section": "Medications",
+    "title": "Emergency Department Note - Agnes Weber - 2020-11-12",
+    "content": "Medications prescribed at this visit:\n- Ibuprofen 200 MG Oral Tablet, started 2020-11-12; stopped 2020-12-01."
+  },
+  {
+    "doc_id": "922fb35e-148d-9e82-bfaa-c486b5727fb0",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Emergency Department Note",
+    "date": "2020-11-12",
+    "section": "Plan",
+    "title": "Emergency Department Note - Agnes Weber - 2020-11-12",
+    "content": "- Physiotherapy care plan for Sprain of ankle, started 2020-11-12, ended 2020-12-01."
+  }
+]

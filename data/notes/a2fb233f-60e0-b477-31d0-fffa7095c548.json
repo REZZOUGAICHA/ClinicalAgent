@@ -1,0 +1,65 @@
+[
+  {
+    "doc_id": "a2fb233f-60e0-b477-31d0-fffa7095c548",
+    "patient_id": "a2fb233f-60e0-b477-cd38-af3923f792a3",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-04-15",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Tanner Mitchell - 2018-04-15",
+    "content": "Patient: Tanner Mitchell, male, born 1962-03-11 (patient ID a2fb233f-60e0-b477-cd38-af3923f792a3).\nVisit date: 2018-04-15.\nVisit type: General examination of patient.\nClinician: Patty Bashirian (General Practice).\nFacility: GARDEN STATE HEALTHCARE ASSOCIATES LLC, WEST NEWBURY, MA."
+  },
+  {
+    "doc_id": "a2fb233f-60e0-b477-31d0-fffa7095c548",
+    "patient_id": "a2fb233f-60e0-b477-cd38-af3923f792a3",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-04-15",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Tanner Mitchell - 2018-04-15",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2018-04-15), resolved 2020-04-26.\n- Victim of intimate partner abuse (onset 2018-04-15), resolved 2019-04-21."
+  },
+  {
+    "doc_id": "a2fb233f-60e0-b477-31d0-fffa7095c548",
+    "patient_id": "a2fb233f-60e0-b477-cd38-af3923f792a3",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-04-15",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Tanner Mitchell - 2018-04-15",
+    "content": "- Body Height: 170.6 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0\n- Body Weight: 81.4 kg\n- Body mass index (BMI) [Ratio]: 28.0 kg/m2\n- Diastolic Blood Pressure: 94.0 mm[Hg]\n- Systolic Blood Pressure: 142.0 mm[Hg]\n- Heart rate: 94.0 /min\n- Respiratory rate: 15.0 /min"
+  },
+  {
+    "doc_id": "a2fb233f-60e0-b477-31d0-fffa7095c548",
+    "patient_id": "a2fb233f-60e0-b477-cd38-af3923f792a3",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-04-15",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Tanner Mitchell - 2018-04-15",
+    "content": "- Hemoglobin A1c/Hemoglobin.total in Blood: 6.3 %\n- Glucose [Mass/volume] in Blood: 99.4 mg/dL\n- Urea nitrogen [Mass/volume] in Blood: 15.4 mg/dL\n- Creatinine [Mass/volume] in Blood: 1.0 mg/dL\n- Calcium [Mass/volume] in Blood: 9.0 mg/dL\n- Sodium [Moles/volume] in Blood: 139.0 mmol/L\n- Potassium [Moles/volume] in Blood: 4.0 mmol/L\n- Chloride [Moles/volume] in Blood: 101.2 mmol/L\n- Carbon dioxide  total [Moles/volume] in Blood: 25.2 mmol/L\n- Cholesterol [Mass/volume] in Serum or Plasma: 181.6 mg/dL\n- Triglyceride [Mass/volume] in Serum or Plasma: 108.4 mg/dL\n- Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay: 104.5 mg/dL\n- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 55.4 mg/dL"
+  },
+  {
+    "doc_id": "a2fb233f-60e0-b477-31d0-fffa7095c548",
+    "patient_id": "a2fb233f-60e0-b477-cd38-af3923f792a3",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-04-15",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Tanner Mitchell - 2018-04-15",
+    "content": "- Assessment of health and social care needs.\n- Assessment of anxiety.\n- Screening for domestic abuse.\n- Patient referral for dental care."
+  },
+  {
+    "doc_id": "a2fb233f-60e0-b477-31d0-fffa7095c548",
+    "patient_id": "a2fb233f-60e0-b477-cd38-af3923f792a3",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-04-15",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Tanner Mitchell - 2018-04-15",
+    "content": "Medications prescribed at this visit:\n- amLODIPine 2.5 MG Oral Tablet, started 2018-04-15, for Essential hypertension; stopped 2019-04-21."
+  },
+  {
+    "doc_id": "a2fb233f-60e0-b477-31d0-fffa7095c548",
+    "patient_id": "a2fb233f-60e0-b477-cd38-af3923f792a3",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-04-15",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Tanner Mitchell - 2018-04-15",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

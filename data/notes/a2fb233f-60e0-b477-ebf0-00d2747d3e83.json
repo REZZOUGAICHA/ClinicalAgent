@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "a2fb233f-60e0-b477-ebf0-00d2747d3e83",
+    "patient_id": "a2fb233f-60e0-b477-cd38-af3923f792a3",
+    "document_type": "Office Visit Note",
+    "date": "2023-12-18",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Tanner Mitchell - 2023-12-18",
+    "content": "Patient: Tanner Mitchell, male, born 1962-03-11 (patient ID a2fb233f-60e0-b477-cd38-af3923f792a3).\nVisit date: 2023-12-18.\nVisit type: Encounter for problem.\nClinician: Tracie Lesch (General Practice).\nFacility: ANNA JAQUES HOSPITAL SUBACUTE UNIT, NEWBURYPORT, MA."
+  },
+  {
+    "doc_id": "a2fb233f-60e0-b477-ebf0-00d2747d3e83",
+    "patient_id": "a2fb233f-60e0-b477-cd38-af3923f792a3",
+    "document_type": "Office Visit Note",
+    "date": "2023-12-18",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Tanner Mitchell - 2023-12-18",
+    "content": "Seen for Idiopathic atrophic hypothyroidism."
+  },
+  {
+    "doc_id": "a2fb233f-60e0-b477-ebf0-00d2747d3e83",
+    "patient_id": "a2fb233f-60e0-b477-cd38-af3923f792a3",
+    "document_type": "Office Visit Note",
+    "date": "2023-12-18",
+    "section": "Laboratory Results",
+    "title": "Office Visit Note - Tanner Mitchell - 2023-12-18",
+    "content": "- Thyroxine (T4) free [Mass/volume] in Serum or Plasma: 0.3 ng/dl\n- Thyrotropin [Units/volume] in Serum or Plasma: 4.4 m[IU]/L"
+  }
+]

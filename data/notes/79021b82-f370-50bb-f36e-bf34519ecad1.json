@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "79021b82-f370-50bb-f36e-bf34519ecad1",
+    "patient_id": "79021b82-f370-50bb-c5a1-7333816d683f",
+    "document_type": "Office Visit Note",
+    "date": "2024-06-12",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Evette Farrell - 2024-06-12",
+    "content": "Patient: Evette Farrell, female, born 2013-03-20 (patient ID 79021b82-f370-50bb-c5a1-7333816d683f).\nVisit date: 2024-06-12.\nVisit type: Encounter for check up.\nClinician: Willian Batz (General Practice).\nFacility: BOSTON MEDICAL CENTER CORPORATION-, WINTHROP, MA."
+  },
+  {
+    "doc_id": "79021b82-f370-50bb-f36e-bf34519ecad1",
+    "patient_id": "79021b82-f370-50bb-c5a1-7333816d683f",
+    "document_type": "Office Visit Note",
+    "date": "2024-06-12",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Evette Farrell - 2024-06-12",
+    "content": "Seen for Patient referral for dental care."
+  },
+  {
+    "doc_id": "79021b82-f370-50bb-f36e-bf34519ecad1",
+    "patient_id": "79021b82-f370-50bb-c5a1-7333816d683f",
+    "document_type": "Office Visit Note",
+    "date": "2024-06-12",
+    "section": "Procedures",
+    "title": "Office Visit Note - Evette Farrell - 2024-06-12",
+    "content": "- Dental consultation and report, for Patient referral for dental care.\n- Dental care, for Patient referral for dental care.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Examination of gingivae, for Patient referral for dental care.\n- Dental fluoride treatment, for Patient referral for dental care.\n- Oral health education, for Patient referral for dental care."
+  },
+  {
+    "doc_id": "79021b82-f370-50bb-f36e-bf34519ecad1",
+    "patient_id": "79021b82-f370-50bb-c5a1-7333816d683f",
+    "document_type": "Office Visit Note",
+    "date": "2024-06-12",
+    "section": "Medications",
+    "title": "Office Visit Note - Evette Farrell - 2024-06-12",
+    "content": "Medications prescribed at this visit:\n- sodium fluoride 0.0272 MG/MG Oral Gel, started 2024-06-12, for Patient referral for dental care; stopped 2024-06-12."
+  }
+]

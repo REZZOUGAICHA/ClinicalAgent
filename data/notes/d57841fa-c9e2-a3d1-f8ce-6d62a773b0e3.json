@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "d57841fa-c9e2-a3d1-f8ce-6d62a773b0e3",
+    "patient_id": "d57841fa-c9e2-a3d1-0e78-09bdbe4eed66",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-09-21",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Jessica McKenzie - 2026-09-21",
+    "content": "Patient: Jessica McKenzie, female, born 1965-07-19 (patient ID d57841fa-c9e2-a3d1-0e78-09bdbe4eed66).\nVisit date: 2026-09-21.\nVisit type: General examination of patient.\nClinician: Leonie Wunsch (General Practice).\nFacility: SOUTH SHORE CENTER FOR WELLNESS LTD, NORWELL, MA."
+  },
+  {
+    "doc_id": "d57841fa-c9e2-a3d1-f8ce-6d62a773b0e3",
+    "patient_id": "d57841fa-c9e2-a3d1-0e78-09bdbe4eed66",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-09-21",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Jessica McKenzie - 2026-09-21",
+    "content": "Diagnoses recorded at this visit:\n- Stress (onset 2026-09-21)."
+  },
+  {
+    "doc_id": "d57841fa-c9e2-a3d1-f8ce-6d62a773b0e3",
+    "patient_id": "d57841fa-c9e2-a3d1-0e78-09bdbe4eed66",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-09-21",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Jessica McKenzie - 2026-09-21",
+    "content": "- Body Height: 160.8 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0\n- Body Weight: 79.2 kg\n- Body mass index (BMI) [Ratio]: 30.6 kg/m2\n- Diastolic Blood Pressure: 74.0 mm[Hg]\n- Systolic Blood Pressure: 142.0 mm[Hg]\n- Heart rate: 62.0 /min\n- Respiratory rate: 15.0 /min"
+  },
+  {
+    "doc_id": "d57841fa-c9e2-a3d1-f8ce-6d62a773b0e3",
+    "patient_id": "d57841fa-c9e2-a3d1-0e78-09bdbe4eed66",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-09-21",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Jessica McKenzie - 2026-09-21",
+    "content": "- Hemoglobin A1c/Hemoglobin.total in Blood: 5.9 %\n- Glucose [Mass/volume] in Blood: 78.7 mg/dL\n- Urea nitrogen [Mass/volume] in Blood: 16.0 mg/dL\n- Creatinine [Mass/volume] in Blood: 1.0 mg/dL\n- Calcium [Mass/volume] in Blood: 9.9 mg/dL\n- Sodium [Moles/volume] in Blood: 138.5 mmol/L\n- Potassium [Moles/volume] in Blood: 5.0 mmol/L\n- Chloride [Moles/volume] in Blood: 103.5 mmol/L\n- Carbon dioxide  total [Moles/volume] in Blood: 24.2 mmol/L\n- Cholesterol [Mass/volume] in Serum or Plasma: 174.4 mg/dL\n- Triglyceride [Mass/volume] in Serum or Plasma: 133.4 mg/dL\n- Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay: 97.8 mg/dL\n- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 49.9 mg/dL"
+  },
+  {
+    "doc_id": "d57841fa-c9e2-a3d1-f8ce-6d62a773b0e3",
+    "patient_id": "d57841fa-c9e2-a3d1-0e78-09bdbe4eed66",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-09-21",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Jessica McKenzie - 2026-09-21",
+    "content": "- Assessment of health and social care needs."
+  },
+  {
+    "doc_id": "d57841fa-c9e2-a3d1-f8ce-6d62a773b0e3",
+    "patient_id": "d57841fa-c9e2-a3d1-0e78-09bdbe4eed66",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-09-21",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Jessica McKenzie - 2026-09-21",
+    "content": "- Influenza split virus trivalent PF.\n- Td (adult) 5 Lf tetanus toxoid preservative free adsorbed."
+  }
+]

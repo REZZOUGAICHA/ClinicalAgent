@@ -1,0 +1,65 @@
+[
+  {
+    "doc_id": "05cc86a0-2d98-b046-5a2f-971335689333",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-06-23",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Carita Grady - 2023-06-23",
+    "content": "Patient: Carita Grady, female, born 1925-09-18 (patient ID 05cc86a0-2d98-b046-790a-211fd9e1ea92).\nVisit date: 2023-06-23.\nVisit type: General examination of patient.\nClinician: Zachery Rau (General Practice).\nFacility: WALPOLE MEDICAL CENTER PC, WALPOLE, MA."
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-5a2f-971335689333",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-06-23",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Carita Grady - 2023-06-23",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2023-06-23), resolved 2025-07-04.\n- Part-time employment (onset 2023-06-23), resolved 2024-06-28."
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-5a2f-971335689333",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-06-23",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Carita Grady - 2023-06-23",
+    "content": "- Body Height: 148.2 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0\n- Body Weight: 63.5 kg\n- Body mass index (BMI) [Ratio]: 28.9 kg/m2\n- Diastolic Blood Pressure: 74.0 mm[Hg]\n- Systolic Blood Pressure: 118.0 mm[Hg]\n- Heart rate: 94.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-5a2f-971335689333",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-06-23",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Carita Grady - 2023-06-23",
+    "content": "- Hemoglobin A1c/Hemoglobin.total in Blood: 6.3 %\n- Glucose [Mass/volume] in Blood: 98.7 mg/dL\n- Urea nitrogen [Mass/volume] in Blood: 14.7 mg/dL\n- Creatinine [Mass/volume] in Blood: 0.5 mg/dL\n- Calcium [Mass/volume] in Blood: 9.1 mg/dL\n- Sodium [Moles/volume] in Blood: 138.9 mmol/L\n- Potassium [Moles/volume] in Blood: 5.0 mmol/L\n- Chloride [Moles/volume] in Blood: 102.7 mmol/L\n- Carbon dioxide  total [Moles/volume] in Blood: 21.5 mmol/L\n- Leukocytes [#/volume] in Blood by Automated count: 7.2 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 4.6 10*6/uL\n- Hemoglobin [Mass/volume] in Blood: 13.9 g/dL\n- Hematocrit [Volume Fraction] of Blood by Automated count: 36.0 %\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 83.3 fL\n- MCH [Entitic mass] by Automated count: 30.4 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 33.7 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 40.3 fL\n- Platelets [#/volume] in Blood by Automated count: 261.8 10*3/uL\n- Platelet distribution width [Entitic volume] in Blood by Automated count: 11.9 fL\n- Platelet [Entitic mean volume] in Blood by Automated count: 10.4 fL"
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-5a2f-971335689333",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-06-23",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Carita Grady - 2023-06-23",
+    "content": "- Assessment of health and social care needs.\n- Assessment of anxiety.\n- Screening for domestic abuse.\n- Depression screening.\n- Depression screening."
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-5a2f-971335689333",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-06-23",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Carita Grady - 2023-06-23",
+    "content": "Medications prescribed at this visit:\n- Alendronic acid 10 MG Oral Tablet, started 2023-06-23, for Osteoporosis; stopped 2024-06-28."
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-5a2f-971335689333",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-06-23",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Carita Grady - 2023-06-23",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

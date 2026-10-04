@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-c637-05519fd7b63d",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-08-18",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Rosalba Effertz - 2024-08-18",
+    "content": "Patient: Rosalba Effertz, female, born 1973-08-05 (patient ID 5e7ebf2c-22ec-a89b-53ab-38edddd81be9).\nVisit date: 2024-08-18.\nVisit type: General examination of patient.\nClinician: Sammie Hermann (General Practice).\nFacility: PARADIGM HEALTHCARE PC, NORTHAMPTON, MA."
+  },
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-c637-05519fd7b63d",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-08-18",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Rosalba Effertz - 2024-08-18",
+    "content": "Diagnoses recorded at this visit:\n- Gingivitis (onset 2024-08-18), resolved 2024-09-01."
+  },
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-c637-05519fd7b63d",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-08-18",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Rosalba Effertz - 2024-08-18",
+    "content": "- Body Height: 166.4 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0\n- Body Weight: 76.2 kg\n- Body mass index (BMI) [Ratio]: 27.5 kg/m2\n- Diastolic Blood Pressure: 89.0 mm[Hg]\n- Systolic Blood Pressure: 120.0 mm[Hg]\n- Heart rate: 81.0 /min\n- Respiratory rate: 14.0 /min"
+  },
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-c637-05519fd7b63d",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-08-18",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Rosalba Effertz - 2024-08-18",
+    "content": "- Hemoglobin A1c/Hemoglobin.total in Blood: 6.9 %\n- Glucose [Mass/volume] in Blood: 108.2 mg/dL\n- Urea nitrogen [Mass/volume] in Blood: 13.5 mg/dL\n- Creatinine [Mass/volume] in Blood: 1.0 mg/dL\n- Calcium [Mass/volume] in Blood: 9.6 mg/dL\n- Sodium [Moles/volume] in Blood: 138.3 mmol/L\n- Potassium [Moles/volume] in Blood: 4.4 mmol/L\n- Chloride [Moles/volume] in Blood: 108.7 mmol/L\n- Carbon dioxide  total [Moles/volume] in Blood: 26.1 mmol/L\n- Cholesterol [Mass/volume] in Serum or Plasma: 202.2 mg/dL\n- Triglyceride [Mass/volume] in Serum or Plasma: 157.5 mg/dL\n- Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay: 127.7 mg/dL\n- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 43.0 mg/dL\n- Microalbumin/Creatinine [Mass Ratio] in Urine: 4.8 mg/g\n- Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M: 83.1 mL/min/{1.73_m2}"
+  },
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-c637-05519fd7b63d",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-08-18",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Rosalba Effertz - 2024-08-18",
+    "content": "- Assessment of health and social care needs.\n- Assessment of anxiety.\n- Patient referral for dental care, for Gingivitis."
+  },
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-c637-05519fd7b63d",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-08-18",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Rosalba Effertz - 2024-08-18",
+    "content": "- Td (adult) 5 Lf tetanus toxoid preservative free adsorbed."
+  }
+]

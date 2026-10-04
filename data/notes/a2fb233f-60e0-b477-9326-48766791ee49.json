@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "a2fb233f-60e0-b477-9326-48766791ee49",
+    "patient_id": "a2fb233f-60e0-b477-cd38-af3923f792a3",
+    "document_type": "Office Visit Note",
+    "date": "2021-09-19",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Tanner Mitchell - 2021-09-19",
+    "content": "Patient: Tanner Mitchell, male, born 1962-03-11 (patient ID a2fb233f-60e0-b477-cd38-af3923f792a3).\nVisit date: 2021-09-19.\nVisit type: Follow-up encounter.\nClinician: Tracie Lesch (General Practice).\nFacility: ANNA JAQUES HOSPITAL SUBACUTE UNIT, NEWBURYPORT, MA."
+  },
+  {
+    "doc_id": "a2fb233f-60e0-b477-9326-48766791ee49",
+    "patient_id": "a2fb233f-60e0-b477-cd38-af3923f792a3",
+    "document_type": "Office Visit Note",
+    "date": "2021-09-19",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Tanner Mitchell - 2021-09-19",
+    "content": "Seen for Acute infective cystitis."
+  },
+  {
+    "doc_id": "a2fb233f-60e0-b477-9326-48766791ee49",
+    "patient_id": "a2fb233f-60e0-b477-cd38-af3923f792a3",
+    "document_type": "Office Visit Note",
+    "date": "2021-09-19",
+    "section": "Laboratory Results",
+    "title": "Office Visit Note - Tanner Mitchell - 2021-09-19",
+    "content": "- Glucose [Mass/volume] in Urine by Test strip: 6.0 mg/dL\n- Ketones [Presence] in Urine by Test strip: Urine ketones not detected (finding)\n- Specific gravity of Urine by Test strip: 1.0\n- pH of Urine by Test strip: 5.6 pH\n- Protein [Mass/volume] in Urine by Test strip: 9.6 mg/dL\n- Nitrite [Presence] in Urine by Test strip: Nitrite detected in urine (finding)\n- Hemoglobin [Presence] in Urine by Test strip: Urine blood test = + (finding)\n- Leukocyte esterase [Presence] in Urine by Test strip: Urine leukocyte test one plus (finding)\n- Leukocytes [#/area] in Urine sediment by Microscopy high power field: 31.9 /[HPF]\n- Erythrocytes [#/area] in Urine sediment by Microscopy high power field: 2.0 /[HPF]\n- Epithelial cells [#/area] in Urine sediment by Microscopy high power field: 1.0 /[HPF]\n- Casts [Presence] in Urine sediment by Light microscopy: Urine microscopy: no casts (finding)\n- Mucus [Presence] in Urine sediment by Light microscopy: Mucus in urine (finding)\n- Bacteria [#/area] in Urine sediment by Microscopy high power field: Finding of presence of bacteria (finding)\n- Bacteria identified in Urine by Culture: Greater than 100 000 colony forming units per mL Escherichia coli"
+  },
+  {
+    "doc_id": "a2fb233f-60e0-b477-9326-48766791ee49",
+    "patient_id": "a2fb233f-60e0-b477-cd38-af3923f792a3",
+    "document_type": "Office Visit Note",
+    "date": "2021-09-19",
+    "section": "Procedures",
+    "title": "Office Visit Note - Tanner Mitchell - 2021-09-19",
+    "content": "- Evaluation procedure.\n- Discussion about pregnancy.\n- Urine specimen collection.\n- Urinalysis with reflex to microscopy and culture.\n- Antibiotic therapy."
+  },
+  {
+    "doc_id": "a2fb233f-60e0-b477-9326-48766791ee49",
+    "patient_id": "a2fb233f-60e0-b477-cd38-af3923f792a3",
+    "document_type": "Office Visit Note",
+    "date": "2021-09-19",
+    "section": "Medications",
+    "title": "Office Visit Note - Tanner Mitchell - 2021-09-19",
+    "content": "Medications prescribed at this visit:\n- sulfamethoxazole 800 MG / trimethoprim 160 MG Oral Tablet, started 2021-09-19, for Acute infective cystitis; stopped 2021-09-20."
+  }
+]

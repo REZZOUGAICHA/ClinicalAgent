@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "e74367bd-7385-97dc-c8ff-8f26a144aaac",
+    "patient_id": "e74367bd-7385-97dc-2c7f-251b4cd9fe29",
+    "document_type": "Office Visit Note",
+    "date": "2026-01-03",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Tennille Jerde - 2026-01-03",
+    "content": "Patient: Tennille Jerde, female, born 1960-09-24 (patient ID e74367bd-7385-97dc-2c7f-251b4cd9fe29).\nVisit date: 2026-01-03.\nVisit type: Encounter for check up.\nClinician: Omer Koepp (General Practice).\nFacility: CAMBRIDGE PUBLIC HEALTH COMMISSION, SOMERVILLE, MA."
+  },
+  {
+    "doc_id": "e74367bd-7385-97dc-c8ff-8f26a144aaac",
+    "patient_id": "e74367bd-7385-97dc-2c7f-251b4cd9fe29",
+    "document_type": "Office Visit Note",
+    "date": "2026-01-03",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Tennille Jerde - 2026-01-03",
+    "content": "Seen for Patient referral for dental care."
+  },
+  {
+    "doc_id": "e74367bd-7385-97dc-c8ff-8f26a144aaac",
+    "patient_id": "e74367bd-7385-97dc-2c7f-251b4cd9fe29",
+    "document_type": "Office Visit Note",
+    "date": "2026-01-03",
+    "section": "Procedures",
+    "title": "Office Visit Note - Tennille Jerde - 2026-01-03",
+    "content": "- Dental consultation and report, for Patient referral for dental care.\n- Dental care, for Patient referral for dental care.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Examination of gingivae, for Patient referral for dental care.\n- Dental fluoride treatment, for Patient referral for dental care.\n- Oral health education, for Patient referral for dental care."
+  },
+  {
+    "doc_id": "e74367bd-7385-97dc-c8ff-8f26a144aaac",
+    "patient_id": "e74367bd-7385-97dc-2c7f-251b4cd9fe29",
+    "document_type": "Office Visit Note",
+    "date": "2026-01-03",
+    "section": "Medications",
+    "title": "Office Visit Note - Tennille Jerde - 2026-01-03",
+    "content": "Medications prescribed at this visit:\n- sodium fluoride 0.0272 MG/MG Oral Gel, started 2026-01-03, for Patient referral for dental care; stopped 2026-01-03."
+  }
+]

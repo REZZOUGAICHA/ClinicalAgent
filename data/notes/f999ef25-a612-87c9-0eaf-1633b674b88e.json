@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "f999ef25-a612-87c9-0eaf-1633b674b88e",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Emergency Department Note",
+    "date": "2010-05-29",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Evangeline Ziemann - 2010-05-29",
+    "content": "Patient: Evangeline Ziemann, female, born 1925-09-18 (patient ID f999ef25-a612-87c9-206f-aacc9d469dc8).\nVisit date: 2010-05-29.\nVisit type: Emergency room admission.\nClinician: Javier Collier (General Practice).\nFacility: SERENITY HILL NURSING CENTER, WRENTHAM, MA."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-0eaf-1633b674b88e",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Emergency Department Note",
+    "date": "2010-05-29",
+    "section": "Reason for Visit",
+    "title": "Emergency Department Note - Evangeline Ziemann - 2010-05-29",
+    "content": "Seen for Injury of neck."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-0eaf-1633b674b88e",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Emergency Department Note",
+    "date": "2010-05-29",
+    "section": "Assessment",
+    "title": "Emergency Department Note - Evangeline Ziemann - 2010-05-29",
+    "content": "Diagnoses recorded at this visit:\n- Injury of neck (onset 2010-05-29), resolved 2010-07-18.\n- Whiplash injury to neck (onset 2010-05-29), resolved 2010-07-18."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-0eaf-1633b674b88e",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Emergency Department Note",
+    "date": "2010-05-29",
+    "section": "Medications",
+    "title": "Emergency Department Note - Evangeline Ziemann - 2010-05-29",
+    "content": "Medications prescribed at this visit:\n- Acetaminophen 325 MG Oral Tablet, started 2010-05-29; stopped 2010-07-18."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-0eaf-1633b674b88e",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Emergency Department Note",
+    "date": "2010-05-29",
+    "section": "Plan",
+    "title": "Emergency Department Note - Evangeline Ziemann - 2010-05-29",
+    "content": "- Musculoskeletal care, started 2010-05-29, ended 2010-07-18."
+  }
+]

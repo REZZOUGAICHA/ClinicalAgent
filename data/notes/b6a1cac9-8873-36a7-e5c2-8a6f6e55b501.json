@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "b6a1cac9-8873-36a7-e5c2-8a6f6e55b501",
+    "patient_id": "b6a1cac9-8873-36a7-e726-4aad8a07d44d",
+    "document_type": "Office Visit Note",
+    "date": "2019-03-24",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Renaldo Crist - 2019-03-24",
+    "content": "Patient: Renaldo Crist, male, born 1993-04-14 (patient ID b6a1cac9-8873-36a7-e726-4aad8a07d44d).\nVisit date: 2019-03-24.\nVisit type: Encounter for problem.\nClinician: Eleni Franecki (General Practice).\nFacility: BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM INC., NEEDHAM, MA."
+  },
+  {
+    "doc_id": "b6a1cac9-8873-36a7-e5c2-8a6f6e55b501",
+    "patient_id": "b6a1cac9-8873-36a7-e726-4aad8a07d44d",
+    "document_type": "Office Visit Note",
+    "date": "2019-03-24",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Renaldo Crist - 2019-03-24",
+    "content": "Seen for Dependent drug abuse."
+  },
+  {
+    "doc_id": "b6a1cac9-8873-36a7-e5c2-8a6f6e55b501",
+    "patient_id": "b6a1cac9-8873-36a7-e726-4aad8a07d44d",
+    "document_type": "Office Visit Note",
+    "date": "2019-03-24",
+    "section": "Procedures",
+    "title": "Office Visit Note - Renaldo Crist - 2019-03-24",
+    "content": "- Rehabilitation therapy, for Dependent drug abuse."
+  }
+]

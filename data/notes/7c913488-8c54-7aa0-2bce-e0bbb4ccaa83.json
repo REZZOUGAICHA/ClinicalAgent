@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "7c913488-8c54-7aa0-2bce-e0bbb4ccaa83",
+    "patient_id": "7c913488-8c54-7aa0-a452-83dbc3ad8377",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-01-27",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Dian Kiehn - 2023-01-27",
+    "content": "Patient: Dian Kiehn, female, born 2012-01-13 (patient ID 7c913488-8c54-7aa0-a452-83dbc3ad8377).\nVisit date: 2023-01-27.\nVisit type: Well child visit.\nClinician: Adela King (General Practice).\nFacility: FAMILY SERVICE ASSOCIATION OF GREATER FALL RIVER INC, FALL RIVER, MA."
+  },
+  {
+    "doc_id": "7c913488-8c54-7aa0-2bce-e0bbb4ccaa83",
+    "patient_id": "7c913488-8c54-7aa0-a452-83dbc3ad8377",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-01-27",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Dian Kiehn - 2023-01-27",
+    "content": "- Body Height: 154.1 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0\n- Body Weight: 48.5 kg\n- Body mass index (BMI) [Ratio]: 20.4 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 82.4 %\n- Diastolic Blood Pressure: 70.0 mm[Hg]\n- Systolic Blood Pressure: 129.0 mm[Hg]\n- Heart rate: 89.0 /min\n- Respiratory rate: 15.0 /min"
+  },
+  {
+    "doc_id": "7c913488-8c54-7aa0-2bce-e0bbb4ccaa83",
+    "patient_id": "7c913488-8c54-7aa0-a452-83dbc3ad8377",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-01-27",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Dian Kiehn - 2023-01-27",
+    "content": "- Leukocytes [#/volume] in Blood by Automated count: 9.6 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 4.3 10*6/uL\n- Hemoglobin [Mass/volume] in Blood: 13.0 g/dL\n- Hematocrit [Volume Fraction] of Blood by Automated count: 42.2 %\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 92.4 fL\n- MCH [Entitic mass] by Automated count: 30.3 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 34.8 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 42.2 fL\n- Platelets [#/volume] in Blood by Automated count: 395.1 10*3/uL\n- Platelet distribution width [Entitic volume] in Blood by Automated count: 9.4 fL\n- Platelet [Entitic mean volume] in Blood by Automated count: 11.1 fL"
+  },
+  {
+    "doc_id": "7c913488-8c54-7aa0-2bce-e0bbb4ccaa83",
+    "patient_id": "7c913488-8c54-7aa0-a452-83dbc3ad8377",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-01-27",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Dian Kiehn - 2023-01-27",
+    "content": "- Patient referral for dental care."
+  },
+  {
+    "doc_id": "7c913488-8c54-7aa0-2bce-e0bbb4ccaa83",
+    "patient_id": "7c913488-8c54-7aa0-a452-83dbc3ad8377",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-01-27",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Dian Kiehn - 2023-01-27",
+    "content": "- Tdap.\n- Influenza split virus trivalent PF.\n- HPV quadrivalent.\n- meningococcal MCV4P."
+  }
+]

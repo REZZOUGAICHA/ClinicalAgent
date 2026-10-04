@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "947c82ee-1735-c9ed-69a7-9d62ac5d6232",
+    "patient_id": "947c82ee-1735-c9ed-8210-38cb93d8070c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-04-24",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Marcell Hammes - 2018-04-24",
+    "content": "Patient: Marcell Hammes, female, born 2016-05-17 (patient ID 947c82ee-1735-c9ed-8210-38cb93d8070c).\nVisit date: 2018-04-24.\nVisit type: Well child visit.\nClinician: Kirby McKenzie (General Practice).\nFacility: BOSTON MEDICAL CENTER CORPORATION-, ROSLINDALE, MA."
+  },
+  {
+    "doc_id": "947c82ee-1735-c9ed-69a7-9d62ac5d6232",
+    "patient_id": "947c82ee-1735-c9ed-8210-38cb93d8070c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-04-24",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Marcell Hammes - 2018-04-24",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2018-04-24), resolved 2018-04-24."
+  },
+  {
+    "doc_id": "947c82ee-1735-c9ed-69a7-9d62ac5d6232",
+    "patient_id": "947c82ee-1735-c9ed-8210-38cb93d8070c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-04-24",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Marcell Hammes - 2018-04-24",
+    "content": "- Body Height: 86.4 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0\n- Body Weight: 10.5 kg\n- Weight-for-length Per age and sex: 3.3 %\n- Head Occipital-frontal circumference Percentile: 64.5 %\n- Head Occipital-frontal circumference: 47.9 cm\n- Diastolic Blood Pressure: 86.0 mm[Hg]\n- Systolic Blood Pressure: 133.0 mm[Hg]\n- Heart rate: 82.0 /min\n- Respiratory rate: 14.0 /min"
+  },
+  {
+    "doc_id": "947c82ee-1735-c9ed-69a7-9d62ac5d6232",
+    "patient_id": "947c82ee-1735-c9ed-8210-38cb93d8070c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-04-24",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Marcell Hammes - 2018-04-24",
+    "content": "- Medication reconciliation."
+  },
+  {
+    "doc_id": "947c82ee-1735-c9ed-69a7-9d62ac5d6232",
+    "patient_id": "947c82ee-1735-c9ed-8210-38cb93d8070c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-04-24",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Marcell Hammes - 2018-04-24",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

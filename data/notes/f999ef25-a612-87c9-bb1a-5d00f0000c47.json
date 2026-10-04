@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "f999ef25-a612-87c9-bb1a-5d00f0000c47",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Urgent Care Note",
+    "date": "1973-08-31",
+    "section": "Visit Information",
+    "title": "Urgent Care Note - Evangeline Ziemann - 1973-08-31",
+    "content": "Patient: Evangeline Ziemann, female, born 1925-09-18 (patient ID f999ef25-a612-87c9-206f-aacc9d469dc8).\nVisit date: 1973-08-31.\nVisit type: Urgent care clinic.\nClinician: Liberty Kihn (General Practice).\nFacility: WOONSOCKET URGENT CARE PC, BELLINGHAM, MA."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-bb1a-5d00f0000c47",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Urgent Care Note",
+    "date": "1973-08-31",
+    "section": "Assessment",
+    "title": "Urgent Care Note - Evangeline Ziemann - 1973-08-31",
+    "content": "Diagnoses recorded at this visit:\n- Microalbuminuria due to type 2 diabetes mellitus (onset 1973-08-31).\n- Proteinuria due to type 2 diabetes mellitus (onset 1973-08-31)."
+  }
+]

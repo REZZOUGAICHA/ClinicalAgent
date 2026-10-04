@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "75d6a35c-c2e1-5b9f-3584-27f8fa0d8d8b",
+    "patient_id": "75d6a35c-c2e1-5b9f-e7f8-6a5b05af8fc8",
+    "document_type": "Urgent Care Note",
+    "date": "2025-04-11",
+    "section": "Visit Information",
+    "title": "Urgent Care Note - Hiram Batz - 2025-04-11",
+    "content": "Patient: Hiram Batz, male, born 2013-02-01 (patient ID 75d6a35c-c2e1-5b9f-e7f8-6a5b05af8fc8).\nVisit date: 2025-04-11.\nVisit type: Urgent care clinic.\nClinician: Jolie Parisian (General Practice).\nFacility: CAREWELL URGENT CARE CENTERS OF MA PC, WORCESTER, MA."
+  },
+  {
+    "doc_id": "75d6a35c-c2e1-5b9f-3584-27f8fa0d8d8b",
+    "patient_id": "75d6a35c-c2e1-5b9f-e7f8-6a5b05af8fc8",
+    "document_type": "Urgent Care Note",
+    "date": "2025-04-11",
+    "section": "Assessment",
+    "title": "Urgent Care Note - Hiram Batz - 2025-04-11",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2025-04-11), resolved 2025-04-18.\n- Gingivitis (onset 2025-04-11), resolved 2025-04-26."
+  },
+  {
+    "doc_id": "75d6a35c-c2e1-5b9f-3584-27f8fa0d8d8b",
+    "patient_id": "75d6a35c-c2e1-5b9f-e7f8-6a5b05af8fc8",
+    "document_type": "Urgent Care Note",
+    "date": "2025-04-11",
+    "section": "Vital Signs",
+    "title": "Urgent Care Note - Hiram Batz - 2025-04-11",
+    "content": "- Body Height: 156.8 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0\n- Body Weight: 61.0 kg\n- Body mass index (BMI) [Ratio]: 24.8 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 95.6 %\n- Diastolic Blood Pressure: 66.0 mm[Hg]\n- Systolic Blood Pressure: 104.0 mm[Hg]\n- Heart rate: 72.0 /min\n- Respiratory rate: 14.0 /min"
+  },
+  {
+    "doc_id": "75d6a35c-c2e1-5b9f-3584-27f8fa0d8d8b",
+    "patient_id": "75d6a35c-c2e1-5b9f-e7f8-6a5b05af8fc8",
+    "document_type": "Urgent Care Note",
+    "date": "2025-04-11",
+    "section": "Procedures",
+    "title": "Urgent Care Note - Hiram Batz - 2025-04-11",
+    "content": "- Assessment of anxiety.\n- Depression screening.\n- Depression screening using Patient Health Questionnaire Nine Item score.\n- Patient referral for dental care, for Gingivitis."
+  },
+  {
+    "doc_id": "75d6a35c-c2e1-5b9f-3584-27f8fa0d8d8b",
+    "patient_id": "75d6a35c-c2e1-5b9f-e7f8-6a5b05af8fc8",
+    "document_type": "Urgent Care Note",
+    "date": "2025-04-11",
+    "section": "Immunizations",
+    "title": "Urgent Care Note - Hiram Batz - 2025-04-11",
+    "content": "- HPV quadrivalent."
+  }
+]

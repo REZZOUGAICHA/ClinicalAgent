@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "eb5910f1-26e6-bc6f-2182-1a66cd026a33",
+    "patient_id": "eb5910f1-26e6-bc6f-b300-716eae678d6f",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2023-03-10",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Larissa Bins - 2023-03-10",
+    "content": "Patient: Larissa Bins, female, born 1995-04-25 (patient ID eb5910f1-26e6-bc6f-b300-716eae678d6f).\nVisit date: 2023-03-10.\nVisit type: Consultation for treatment.\nClinician: Jackelyn Pacocha (General Practice).\nFacility: WP ACQUISITION SUB LLC, HAVERHILL, MA."
+  },
+  {
+    "doc_id": "eb5910f1-26e6-bc6f-2182-1a66cd026a33",
+    "patient_id": "eb5910f1-26e6-bc6f-b300-716eae678d6f",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2023-03-10",
+    "section": "Reason for Visit",
+    "title": "Outpatient Procedure Note - Larissa Bins - 2023-03-10",
+    "content": "Seen for Contraception care."
+  },
+  {
+    "doc_id": "eb5910f1-26e6-bc6f-2182-1a66cd026a33",
+    "patient_id": "eb5910f1-26e6-bc6f-b300-716eae678d6f",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2023-03-10",
+    "section": "Medications",
+    "title": "Outpatient Procedure Note - Larissa Bins - 2023-03-10",
+    "content": "Medications prescribed at this visit:\n- {5 (dienogest 2 MG / estradiol valerate 2 MG Oral Tablet) / 17 (dienogest 3 MG / estradiol valerate 2 MG Oral Tablet) / 2 (estradiol valerate 1 MG Oral Tablet) / 2 (estradiol valerate 3 MG Oral Tablet) / 2 (inert ingredients 1 MG Oral Tablet) } Pack [Natazia 28 Day], started 2023-03-10; stopped 2024-03-04."
+  }
+]

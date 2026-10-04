@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "aee7bbe1-0c45-c028-42c0-37027cdefeb9",
+    "patient_id": "aee7bbe1-0c45-c028-1e62-1f4cdb30c273",
+    "document_type": "Office Visit Note",
+    "date": "2020-01-07",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Wilfredo Fritsch - 2020-01-07",
+    "content": "Patient: Wilfredo Fritsch, male, born 2010-12-23 (patient ID aee7bbe1-0c45-c028-1e62-1f4cdb30c273).\nVisit date: 2020-01-07.\nVisit type: Encounter for check up.\nClinician: Damaris Funk (General Practice).\nFacility: BROCKTON HOSPITAL INC., BROCKTON, MA."
+  },
+  {
+    "doc_id": "aee7bbe1-0c45-c028-42c0-37027cdefeb9",
+    "patient_id": "aee7bbe1-0c45-c028-1e62-1f4cdb30c273",
+    "document_type": "Office Visit Note",
+    "date": "2020-01-07",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Wilfredo Fritsch - 2020-01-07",
+    "content": "Seen for Fracture of forearm."
+  },
+  {
+    "doc_id": "aee7bbe1-0c45-c028-42c0-37027cdefeb9",
+    "patient_id": "aee7bbe1-0c45-c028-1e62-1f4cdb30c273",
+    "document_type": "Office Visit Note",
+    "date": "2020-01-07",
+    "section": "Assessment",
+    "title": "Office Visit Note - Wilfredo Fritsch - 2020-01-07",
+    "content": "Diagnoses recorded at this visit:\n- Suspected disease caused by Severe acute respiratory coronavirus 2 (onset 2020-11-12), resolved 2020-11-12."
+  }
+]

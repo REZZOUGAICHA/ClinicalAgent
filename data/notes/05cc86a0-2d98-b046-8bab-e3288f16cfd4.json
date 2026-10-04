@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "05cc86a0-2d98-b046-8bab-e3288f16cfd4",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Emergency Department Note",
+    "date": "2019-01-11",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Carita Grady - 2019-01-11",
+    "content": "Patient: Carita Grady, female, born 1925-09-18 (patient ID 05cc86a0-2d98-b046-790a-211fd9e1ea92).\nVisit date: 2019-01-11.\nVisit type: Emergency room admission.\nClinician: Javier Collier (General Practice).\nFacility: SERENITY HILL NURSING CENTER, WRENTHAM, MA."
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-8bab-e3288f16cfd4",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Emergency Department Note",
+    "date": "2019-01-11",
+    "section": "Reason for Visit",
+    "title": "Emergency Department Note - Carita Grady - 2019-01-11",
+    "content": "Seen for Fracture of bone."
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-8bab-e3288f16cfd4",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Emergency Department Note",
+    "date": "2019-01-11",
+    "section": "Assessment",
+    "title": "Emergency Department Note - Carita Grady - 2019-01-11",
+    "content": "Diagnoses recorded at this visit:\n- Fracture of bone (onset 2019-01-11), resolved 2019-05-11.\n- Fracture of forearm (onset 2019-01-11), resolved 2019-05-11.\n- Osteoporotic fracture of bone (onset 2019-01-11), resolved 2019-05-11."
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-8bab-e3288f16cfd4",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Emergency Department Note",
+    "date": "2019-01-11",
+    "section": "Procedures",
+    "title": "Emergency Department Note - Carita Grady - 2019-01-11",
+    "content": "- Plain X-ray of humerus.\n- Bone immobilization, for Fracture of forearm."
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-8bab-e3288f16cfd4",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Emergency Department Note",
+    "date": "2019-01-11",
+    "section": "Medications",
+    "title": "Emergency Department Note - Carita Grady - 2019-01-11",
+    "content": "Medications prescribed at this visit:\n- Ibuprofen 200 MG Oral Tablet, started 2019-01-11; stopped 2019-05-11."
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-8bab-e3288f16cfd4",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Emergency Department Note",
+    "date": "2019-01-11",
+    "section": "Plan",
+    "title": "Emergency Department Note - Carita Grady - 2019-01-11",
+    "content": "- Fracture care for Fracture of forearm, started 2019-01-11, ended 2019-05-11."
+  }
+]

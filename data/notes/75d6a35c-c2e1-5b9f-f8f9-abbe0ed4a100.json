@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "75d6a35c-c2e1-5b9f-f8f9-abbe0ed4a100",
+    "patient_id": "75d6a35c-c2e1-5b9f-e7f8-6a5b05af8fc8",
+    "document_type": "Office Visit Note",
+    "date": "2020-05-09",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Hiram Batz - 2020-05-09",
+    "content": "Patient: Hiram Batz, male, born 2013-02-01 (patient ID 75d6a35c-c2e1-5b9f-e7f8-6a5b05af8fc8).\nVisit date: 2020-05-09.\nVisit type: Encounter for symptom.\nClinician: Bennett Rippin (General Practice).\nFacility: MILFORD REGIONAL MEDICAL CENTER, UPTON, MA."
+  },
+  {
+    "doc_id": "75d6a35c-c2e1-5b9f-f8f9-abbe0ed4a100",
+    "patient_id": "75d6a35c-c2e1-5b9f-e7f8-6a5b05af8fc8",
+    "document_type": "Office Visit Note",
+    "date": "2020-05-09",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Hiram Batz - 2020-05-09",
+    "content": "Seen for Viral sinusitis."
+  },
+  {
+    "doc_id": "75d6a35c-c2e1-5b9f-f8f9-abbe0ed4a100",
+    "patient_id": "75d6a35c-c2e1-5b9f-e7f8-6a5b05af8fc8",
+    "document_type": "Office Visit Note",
+    "date": "2020-05-09",
+    "section": "Assessment",
+    "title": "Office Visit Note - Hiram Batz - 2020-05-09",
+    "content": "Diagnoses recorded at this visit:\n- Viral sinusitis (onset 2020-05-09), resolved 2020-06-01."
+  }
+]

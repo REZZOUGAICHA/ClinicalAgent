@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "7512bbb4-b22b-0979-f6c8-54e7105cf950",
+    "patient_id": "7512bbb4-b22b-0979-6edc-389e16607ac7",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-02-23",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Tamie Herzog - 2025-02-23",
+    "content": "Patient: Tamie Herzog, female, born 2025-02-23 (patient ID 7512bbb4-b22b-0979-6edc-389e16607ac7).\nVisit date: 2025-02-23.\nVisit type: Well child visit.\nClinician: Carlota Maya (General Practice).\nFacility: RIVER'S EDGE PRIMARY CARE LLC, CHICOPEE, MA."
+  },
+  {
+    "doc_id": "7512bbb4-b22b-0979-f6c8-54e7105cf950",
+    "patient_id": "7512bbb4-b22b-0979-6edc-389e16607ac7",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-02-23",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Tamie Herzog - 2025-02-23",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2025-02-23), resolved 2026-05-03."
+  },
+  {
+    "doc_id": "7512bbb4-b22b-0979-f6c8-54e7105cf950",
+    "patient_id": "7512bbb4-b22b-0979-6edc-389e16607ac7",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-02-23",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Tamie Herzog - 2025-02-23",
+    "content": "- Body Height: 51.2 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0\n- Body Weight: 4.4 kg\n- Weight-for-length Per age and sex: 95.5 %\n- Head Occipital-frontal circumference Percentile: 44.6 %\n- Head Occipital-frontal circumference: 34.5 cm\n- Diastolic Blood Pressure: 85.0 mm[Hg]\n- Systolic Blood Pressure: 100.0 mm[Hg]\n- Heart rate: 79.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "7512bbb4-b22b-0979-f6c8-54e7105cf950",
+    "patient_id": "7512bbb4-b22b-0979-6edc-389e16607ac7",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-02-23",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Tamie Herzog - 2025-02-23",
+    "content": "- Leukocytes [#/volume] in Blood by Automated count: 5.1 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 5.0 10*6/uL\n- Hemoglobin [Mass/volume] in Blood: 14.5 g/dL\n- Hematocrit [Volume Fraction] of Blood by Automated count: 37.8 %\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 84.9 fL\n- MCH [Entitic mass] by Automated count: 29.5 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 33.1 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 44.0 fL\n- Platelets [#/volume] in Blood by Automated count: 404.7 10*3/uL\n- Platelet distribution width [Entitic volume] in Blood by Automated count: 15.6 fL\n- Platelet [Entitic mean volume] in Blood by Automated count: 11.9 fL"
+  },
+  {
+    "doc_id": "7512bbb4-b22b-0979-f6c8-54e7105cf950",
+    "patient_id": "7512bbb4-b22b-0979-6edc-389e16607ac7",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-02-23",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Tamie Herzog - 2025-02-23",
+    "content": "- Hep B adolescent or pediatric."
+  }
+]

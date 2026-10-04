@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "46976cf7-b0bf-be20-7e50-4b8ae5569d4c",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2021-07-16",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Lindsay Zieme - 2021-07-16",
+    "content": "Patient: Lindsay Zieme, female, born 2007-09-14 (patient ID 46976cf7-b0bf-be20-39a5-9f425a52886d).\nVisit date: 2021-07-16.\nVisit type: Administration of vaccine to produce active immunity.\nClinician: Otha Roberts (General Practice).\nFacility: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC, WORCESTER, MA."
+  },
+  {
+    "doc_id": "46976cf7-b0bf-be20-7e50-4b8ae5569d4c",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2021-07-16",
+    "section": "Immunizations",
+    "title": "Outpatient Procedure Note - Lindsay Zieme - 2021-07-16",
+    "content": "- COVID-19 mRNA LNP-S PF 30 mcg/0.3 mL dose."
+  }
+]

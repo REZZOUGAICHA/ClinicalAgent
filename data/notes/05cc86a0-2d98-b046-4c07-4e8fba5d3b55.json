@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "05cc86a0-2d98-b046-4c07-4e8fba5d3b55",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Office Visit Note",
+    "date": "2023-07-03",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Carita Grady - 2023-07-03",
+    "content": "Patient: Carita Grady, female, born 1925-09-18 (patient ID 05cc86a0-2d98-b046-790a-211fd9e1ea92).\nVisit date: 2023-07-03.\nVisit type: Follow-up encounter.\nClinician: Nickolas Schumm (General Practice).\nFacility: ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE, FRAMINGHAM, MA."
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-4c07-4e8fba5d3b55",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Office Visit Note",
+    "date": "2023-07-03",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Carita Grady - 2023-07-03",
+    "content": "Seen for Hyperlipidemia."
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-4c07-4e8fba5d3b55",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Office Visit Note",
+    "date": "2023-07-03",
+    "section": "Laboratory Results",
+    "title": "Office Visit Note - Carita Grady - 2023-07-03",
+    "content": "- Glucose [Mass/volume] in Blood: 94.6 mg/dL\n- Urea nitrogen [Mass/volume] in Blood: 7.4 mg/dL\n- Creatinine [Mass/volume] in Blood: 2.6 mg/dL\n- Calcium [Mass/volume] in Blood: 9.4 mg/dL\n- Sodium [Moles/volume] in Blood: 138.0 mmol/L\n- Potassium [Moles/volume] in Blood: 3.9 mmol/L\n- Chloride [Moles/volume] in Blood: 105.8 mmol/L\n- Carbon dioxide  total [Moles/volume] in Blood: 22.7 mmol/L\n- Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M: 76.8 mL/min\n- Protein [Mass/volume] in Serum or Plasma: 6.5 g/dL\n- Albumin [Mass/volume] in Serum or Plasma: 4.1 g/dL\n- Globulin [Mass/volume] in Serum by calculation: 2.9 g/L\n- Bilirubin.total [Mass/volume] in Serum or Plasma: 1.1 mg/dL\n- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 50.1 U/L\n- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 22.7 U/L\n- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 23.8 U/L\n- Cholesterol [Mass/volume] in Serum or Plasma: 175.3 mg/dL\n- Triglyceride [Mass/volume] in Serum or Plasma: 179.5 mg/dL\n- Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay: 127.9 mg/dL\n- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 47.0 mg/dL"
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-4c07-4e8fba5d3b55",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Office Visit Note",
+    "date": "2023-07-03",
+    "section": "Medications",
+    "title": "Office Visit Note - Carita Grady - 2023-07-03",
+    "content": "Medications prescribed at this visit:\n- Simvastatin 10 MG Oral Tablet, started 2023-07-03, for Hyperlipidemia; stopped 2024-07-02."
+  }
+]

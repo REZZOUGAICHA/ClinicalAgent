@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "e74367bd-7385-97dc-7715-391a7375f4a5",
+    "patient_id": "e74367bd-7385-97dc-2c7f-251b4cd9fe29",
+    "document_type": "Office Visit Note",
+    "date": "2024-07-06",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Tennille Jerde - 2024-07-06",
+    "content": "Patient: Tennille Jerde, female, born 1960-09-24 (patient ID e74367bd-7385-97dc-2c7f-251b4cd9fe29).\nVisit date: 2024-07-06.\nVisit type: Screening surveillance.\nClinician: Omer Koepp (General Practice).\nFacility: CAMBRIDGE PUBLIC HEALTH COMMISSION, SOMERVILLE, MA."
+  },
+  {
+    "doc_id": "e74367bd-7385-97dc-7715-391a7375f4a5",
+    "patient_id": "e74367bd-7385-97dc-2c7f-251b4cd9fe29",
+    "document_type": "Office Visit Note",
+    "date": "2024-07-06",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Tennille Jerde - 2024-07-06",
+    "content": "Seen for Malignant neoplasm of breast."
+  },
+  {
+    "doc_id": "e74367bd-7385-97dc-7715-391a7375f4a5",
+    "patient_id": "e74367bd-7385-97dc-2c7f-251b4cd9fe29",
+    "document_type": "Office Visit Note",
+    "date": "2024-07-06",
+    "section": "Procedures",
+    "title": "Office Visit Note - Tennille Jerde - 2024-07-06",
+    "content": "- Mammography, for Malignant neoplasm of breast."
+  }
+]

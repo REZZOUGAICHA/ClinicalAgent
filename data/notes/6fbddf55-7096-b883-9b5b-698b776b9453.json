@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "6fbddf55-7096-b883-9b5b-698b776b9453",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-07-16",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Clarinda Farrell - 2025-07-16",
+    "content": "Patient: Clarinda Farrell, female, born 1981-07-01 (patient ID 6fbddf55-7096-b883-7cd3-260f27953080).\nVisit date: 2025-07-16.\nVisit type: General examination of patient.\nClinician: Lorinda Pouros (General Practice).\nFacility: CLARITY HEALTH & WELLNESS LLC, BURLINGTON, MA."
+  },
+  {
+    "doc_id": "6fbddf55-7096-b883-9b5b-698b776b9453",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-07-16",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Clarinda Farrell - 2025-07-16",
+    "content": "Diagnoses recorded at this visit:\n- Limited social contact (onset 2025-07-16).\n- Stress (onset 2025-07-16)."
+  },
+  {
+    "doc_id": "6fbddf55-7096-b883-9b5b-698b776b9453",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-07-16",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Clarinda Farrell - 2025-07-16",
+    "content": "- Body Height: 164.8 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0\n- Body Weight: 82.0 kg\n- Body mass index (BMI) [Ratio]: 30.2 kg/m2\n- Diastolic Blood Pressure: 86.0 mm[Hg]\n- Systolic Blood Pressure: 108.0 mm[Hg]\n- Heart rate: 65.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "6fbddf55-7096-b883-9b5b-698b776b9453",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-07-16",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Clarinda Farrell - 2025-07-16",
+    "content": "- Assessment of health and social care needs.\n- Assessment of anxiety.\n- Depression screening.\n- Depression screening.\n- Depression screening using Patient Health Questionnaire Nine Item score."
+  },
+  {
+    "doc_id": "6fbddf55-7096-b883-9b5b-698b776b9453",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-07-16",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Clarinda Farrell - 2025-07-16",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

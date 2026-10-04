@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-6dc9-b53d9960103b",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2021-11-06",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Aron Hammes - 2021-11-06",
+    "content": "Patient: Aron Hammes, male, born 2002-10-19 (patient ID 2de4dd0d-f665-8a2e-4c6b-997735e14ace).\nVisit date: 2021-11-06.\nVisit type: Administration of vaccine to produce active immunity.\nClinician: Waldo Hintz (General Practice).\nFacility: BERKSHIRE MEDICAL CENTER INC - 1, PITTSFIELD, MA."
+  },
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-6dc9-b53d9960103b",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2021-11-06",
+    "section": "Immunizations",
+    "title": "Outpatient Procedure Note - Aron Hammes - 2021-11-06",
+    "content": "- COVID-19 mRNA LNP-S PF 30 mcg/0.3 mL dose."
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "b6a1cac9-8873-36a7-6777-c2c09b8bc521",
+    "patient_id": "b6a1cac9-8873-36a7-e726-4aad8a07d44d",
+    "document_type": "Office Visit Note",
+    "date": "2018-05-22",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Renaldo Crist - 2018-05-22",
+    "content": "Patient: Renaldo Crist, male, born 1993-04-14 (patient ID b6a1cac9-8873-36a7-e726-4aad8a07d44d).\nVisit date: 2018-05-22.\nVisit type: Outpatient procedure.\nClinician: Eleni Franecki (General Practice).\nFacility: BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM INC., NEEDHAM, MA."
+  },
+  {
+    "doc_id": "b6a1cac9-8873-36a7-6777-c2c09b8bc521",
+    "patient_id": "b6a1cac9-8873-36a7-e726-4aad8a07d44d",
+    "document_type": "Office Visit Note",
+    "date": "2018-05-22",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Renaldo Crist - 2018-05-22",
+    "content": "Seen for Allergic disposition."
+  },
+  {
+    "doc_id": "b6a1cac9-8873-36a7-6777-c2c09b8bc521",
+    "patient_id": "b6a1cac9-8873-36a7-e726-4aad8a07d44d",
+    "document_type": "Office Visit Note",
+    "date": "2018-05-22",
+    "section": "Procedures",
+    "title": "Office Visit Note - Renaldo Crist - 2018-05-22",
+    "content": "- Subcutaneous immunotherapy."
+  }
+]

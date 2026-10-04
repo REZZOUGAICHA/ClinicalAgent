@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "f999ef25-a612-87c9-ed1b-c863760f0c77",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Urgent Care Note",
+    "date": "2015-02-20",
+    "section": "Visit Information",
+    "title": "Urgent Care Note - Evangeline Ziemann - 2015-02-20",
+    "content": "Patient: Evangeline Ziemann, female, born 1925-09-18 (patient ID f999ef25-a612-87c9-206f-aacc9d469dc8).\nVisit date: 2015-02-20.\nVisit type: Urgent care clinic.\nClinician: Liberty Kihn (General Practice).\nFacility: WOONSOCKET URGENT CARE PC, BELLINGHAM, MA."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-ed1b-c863760f0c77",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Urgent Care Note",
+    "date": "2015-02-20",
+    "section": "Assessment",
+    "title": "Urgent Care Note - Evangeline Ziemann - 2015-02-20",
+    "content": "Diagnoses recorded at this visit:\n- Stress (onset 2015-02-20), resolved 2016-01-15.\n- Severe anxiety (panic) (onset 2015-02-20)."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-ed1b-c863760f0c77",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Urgent Care Note",
+    "date": "2015-02-20",
+    "section": "Vital Signs",
+    "title": "Urgent Care Note - Evangeline Ziemann - 2015-02-20",
+    "content": "- Body Height: 154.2 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0\n- Body Weight: 65.1 kg\n- Body mass index (BMI) [Ratio]: 27.4 kg/m2\n- Diastolic Blood Pressure: 62.0 mm[Hg]\n- Systolic Blood Pressure: 112.0 mm[Hg]\n- Heart rate: 81.0 /min\n- Respiratory rate: 16.0 /min"
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-ed1b-c863760f0c77",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Urgent Care Note",
+    "date": "2015-02-20",
+    "section": "Laboratory Results",
+    "title": "Urgent Care Note - Evangeline Ziemann - 2015-02-20",
+    "content": "- Hemoglobin A1c/Hemoglobin.total in Blood: 3.8 %\n- Glucose [Mass/volume] in Blood: 97.7 mg/dL\n- Urea nitrogen [Mass/volume] in Blood: 13.6 mg/dL\n- Creatinine [Mass/volume] in Blood: 0.4 mg/dL\n- Calcium [Mass/volume] in Blood: 9.2 mg/dL\n- Sodium [Moles/volume] in Blood: 141.6 mmol/L\n- Potassium [Moles/volume] in Blood: 4.8 mmol/L\n- Chloride [Moles/volume] in Blood: 106.3 mmol/L\n- Carbon dioxide  total [Moles/volume] in Blood: 28.4 mmol/L"
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-ed1b-c863760f0c77",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Urgent Care Note",
+    "date": "2015-02-20",
+    "section": "Procedures",
+    "title": "Urgent Care Note - Evangeline Ziemann - 2015-02-20",
+    "content": "- Assessment of health and social care needs.\n- Assessment of anxiety.\n- Depression screening.\n- Depression screening."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-ed1b-c863760f0c77",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Urgent Care Note",
+    "date": "2015-02-20",
+    "section": "Medications",
+    "title": "Urgent Care Note - Evangeline Ziemann - 2015-02-20",
+    "content": "Medications prescribed at this visit:\n- insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin], started 2015-02-20, for Prediabetes; stopped 2016-01-15.\n- Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet], started 2015-02-20; stopped 2016-01-15.\n- Furosemide 40 MG Oral Tablet, started 2015-02-20, for Chronic congestive heart failure; stopped 2016-01-15.\n- 24 HR tacrolimus 1 MG Extended Release Oral Tablet [Envarsus], started 2015-02-20, for History of renal transplant; stopped 2016-01-15.\n- lisinopril 10 MG Oral Tablet, started 2015-02-20, for Essential hypertension; stopped 2016-01-15."
+  }
+]

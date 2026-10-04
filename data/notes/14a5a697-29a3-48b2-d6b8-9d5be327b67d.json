@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "14a5a697-29a3-48b2-d6b8-9d5be327b67d",
+    "patient_id": "14a5a697-29a3-48b2-969a-3ceefe74a700",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-01-23",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Drusilla Schumm - 2021-01-23",
+    "content": "Patient: Drusilla Schumm, female, born 1958-11-15 (patient ID 14a5a697-29a3-48b2-969a-3ceefe74a700).\nVisit date: 2021-01-23.\nVisit type: General examination of patient.\nClinician: Merle Bogisich (General Practice).\nFacility: SALEM FAMILY HEALTH CENTER, PEABODY, MA."
+  },
+  {
+    "doc_id": "14a5a697-29a3-48b2-d6b8-9d5be327b67d",
+    "patient_id": "14a5a697-29a3-48b2-969a-3ceefe74a700",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-01-23",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Drusilla Schumm - 2021-01-23",
+    "content": "- Body Height: 162.7 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0\n- Body Weight: 79.8 kg\n- Body mass index (BMI) [Ratio]: 30.1 kg/m2\n- Diastolic Blood Pressure: 73.0 mm[Hg]\n- Systolic Blood Pressure: 101.0 mm[Hg]\n- Heart rate: 99.0 /min\n- Respiratory rate: 12.0 /min"
+  },
+  {
+    "doc_id": "14a5a697-29a3-48b2-d6b8-9d5be327b67d",
+    "patient_id": "14a5a697-29a3-48b2-969a-3ceefe74a700",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-01-23",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Drusilla Schumm - 2021-01-23",
+    "content": "- Hemoglobin A1c/Hemoglobin.total in Blood: 5.9 %\n- Glucose [Mass/volume] in Blood: 78.5 mg/dL\n- Urea nitrogen [Mass/volume] in Blood: 18.9 mg/dL\n- Creatinine [Mass/volume] in Blood: 0.9 mg/dL\n- Calcium [Mass/volume] in Blood: 9.6 mg/dL\n- Sodium [Moles/volume] in Blood: 138.9 mmol/L\n- Potassium [Moles/volume] in Blood: 3.8 mmol/L\n- Chloride [Moles/volume] in Blood: 104.7 mmol/L\n- Carbon dioxide  total [Moles/volume] in Blood: 25.6 mmol/L\n- Cholesterol [Mass/volume] in Serum or Plasma: 173.1 mg/dL\n- Triglyceride [Mass/volume] in Serum or Plasma: 129.4 mg/dL\n- Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay: 88.0 mg/dL\n- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 59.2 mg/dL\n- Leukocytes [#/volume] in Blood by Automated count: 7.1 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 4.5 10*6/uL\n- Hemoglobin [Mass/volume] in Blood: 13.0 g/dL\n- Hematocrit [Volume Fraction] of Blood by Automated count: 44.7 %\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 93.1 fL\n- MCH [Entitic mass] by Automated count: 28.9 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 34.4 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 45.0 fL\n- Platelets [#/volume] in Blood by Automated count: 394.2 10*3/uL\n- Platelet distribution width [Entitic volume] in Blood by Automated count: 16.0 fL\n- Platelet [Entitic mean volume] in Blood by Automated count: 10.7 fL"
+  },
+  {
+    "doc_id": "14a5a697-29a3-48b2-d6b8-9d5be327b67d",
+    "patient_id": "14a5a697-29a3-48b2-969a-3ceefe74a700",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-01-23",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Drusilla Schumm - 2021-01-23",
+    "content": "- Assessment of health and social care needs.\n- Screening for domestic abuse.\n- Patient referral for dental care."
+  },
+  {
+    "doc_id": "14a5a697-29a3-48b2-d6b8-9d5be327b67d",
+    "patient_id": "14a5a697-29a3-48b2-969a-3ceefe74a700",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-01-23",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Drusilla Schumm - 2021-01-23",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

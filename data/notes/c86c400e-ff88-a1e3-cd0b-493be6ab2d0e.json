@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "c86c400e-ff88-a1e3-cd0b-493be6ab2d0e",
+    "patient_id": "c86c400e-ff88-a1e3-2e23-caa4d8311f47",
+    "document_type": "Emergency Department Note",
+    "date": "1987-05-01",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Cristobal Montero - 1987-05-01",
+    "content": "Patient: Cristobal Montero, male, born 1947-03-03 (patient ID c86c400e-ff88-a1e3-2e23-caa4d8311f47).\nVisit date: 1987-05-01.\nVisit type: Emergency room admission.\nClinician: Dong Auer (General Practice).\nFacility: CHESTNUT WOODS REHABILITATION AND HEALTHCARE CTR, SAUGUS, MA."
+  },
+  {
+    "doc_id": "c86c400e-ff88-a1e3-cd0b-493be6ab2d0e",
+    "patient_id": "c86c400e-ff88-a1e3-2e23-caa4d8311f47",
+    "document_type": "Emergency Department Note",
+    "date": "1987-05-01",
+    "section": "Reason for Visit",
+    "title": "Emergency Department Note - Cristobal Montero - 1987-05-01",
+    "content": "Seen for Seizure disorder."
+  },
+  {
+    "doc_id": "c86c400e-ff88-a1e3-cd0b-493be6ab2d0e",
+    "patient_id": "c86c400e-ff88-a1e3-2e23-caa4d8311f47",
+    "document_type": "Emergency Department Note",
+    "date": "1987-05-01",
+    "section": "Assessment",
+    "title": "Emergency Department Note - Cristobal Montero - 1987-05-01",
+    "content": "Diagnoses recorded at this visit:\n- Epilepsy (onset 1987-05-01)."
+  },
+  {
+    "doc_id": "c86c400e-ff88-a1e3-cd0b-493be6ab2d0e",
+    "patient_id": "c86c400e-ff88-a1e3-2e23-caa4d8311f47",
+    "document_type": "Emergency Department Note",
+    "date": "1987-05-01",
+    "section": "Procedures",
+    "title": "Emergency Department Note - Cristobal Montero - 1987-05-01",
+    "content": "- Electroencephalogram."
+  },
+  {
+    "doc_id": "c86c400e-ff88-a1e3-cd0b-493be6ab2d0e",
+    "patient_id": "c86c400e-ff88-a1e3-2e23-caa4d8311f47",
+    "document_type": "Emergency Department Note",
+    "date": "1987-05-01",
+    "section": "Medications",
+    "title": "Emergency Department Note - Cristobal Montero - 1987-05-01",
+    "content": "Medications prescribed at this visit:\n- carbamazepine 20 MG/ML Oral Suspension [Tegretol], started 1987-05-01, for Seizure disorder; no stop date recorded."
+  }
+]

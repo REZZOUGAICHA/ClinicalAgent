@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "05cc86a0-2d98-b046-4955-cd96f0a85645",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Office Visit Note",
+    "date": "2019-10-30",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Carita Grady - 2019-10-30",
+    "content": "Patient: Carita Grady, female, born 1925-09-18 (patient ID 05cc86a0-2d98-b046-790a-211fd9e1ea92).\nVisit date: 2019-10-30.\nVisit type: Encounter for symptom.\nClinician: Nickolas Schumm (General Practice).\nFacility: ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE, FRAMINGHAM, MA."
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-4955-cd96f0a85645",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Office Visit Note",
+    "date": "2019-10-30",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Carita Grady - 2019-10-30",
+    "content": "Seen for Acute bronchitis."
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-4955-cd96f0a85645",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Office Visit Note",
+    "date": "2019-10-30",
+    "section": "Assessment",
+    "title": "Office Visit Note - Carita Grady - 2019-10-30",
+    "content": "Diagnoses recorded at this visit:\n- Acute bronchitis (onset 2019-10-30), resolved 2019-11-13."
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-4955-cd96f0a85645",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Office Visit Note",
+    "date": "2019-10-30",
+    "section": "Procedures",
+    "title": "Office Visit Note - Carita Grady - 2019-10-30",
+    "content": "- Sputum examination, for Acute bronchitis."
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-4955-cd96f0a85645",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Office Visit Note",
+    "date": "2019-10-30",
+    "section": "Medications",
+    "title": "Office Visit Note - Carita Grady - 2019-10-30",
+    "content": "Medications prescribed at this visit:\n- Acetaminophen 325 MG Oral Tablet, started 2019-10-30, for Acute bronchitis; stopped 2019-11-13."
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-4955-cd96f0a85645",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Office Visit Note",
+    "date": "2019-10-30",
+    "section": "Plan",
+    "title": "Office Visit Note - Carita Grady - 2019-10-30",
+    "content": "- Respiratory therapy, started 2019-10-30, ended 2020-06-05."
+  }
+]

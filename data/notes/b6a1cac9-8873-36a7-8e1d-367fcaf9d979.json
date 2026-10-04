@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "b6a1cac9-8873-36a7-8e1d-367fcaf9d979",
+    "patient_id": "b6a1cac9-8873-36a7-e726-4aad8a07d44d",
+    "document_type": "Office Visit Note",
+    "date": "2017-11-13",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Renaldo Crist - 2017-11-13",
+    "content": "Patient: Renaldo Crist, male, born 1993-04-14 (patient ID b6a1cac9-8873-36a7-e726-4aad8a07d44d).\nVisit date: 2017-11-13.\nVisit type: Allergic disorder initial assessment.\nClinician: Eleni Franecki (General Practice).\nFacility: BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM INC., NEEDHAM, MA."
+  },
+  {
+    "doc_id": "b6a1cac9-8873-36a7-8e1d-367fcaf9d979",
+    "patient_id": "b6a1cac9-8873-36a7-e726-4aad8a07d44d",
+    "document_type": "Office Visit Note",
+    "date": "2017-11-13",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Renaldo Crist - 2017-11-13",
+    "content": "Seen for Allergic disposition."
+  },
+  {
+    "doc_id": "b6a1cac9-8873-36a7-8e1d-367fcaf9d979",
+    "patient_id": "b6a1cac9-8873-36a7-e726-4aad8a07d44d",
+    "document_type": "Office Visit Note",
+    "date": "2017-11-13",
+    "section": "Laboratory Results",
+    "title": "Office Visit Note - Renaldo Crist - 2017-11-13",
+    "content": "- Peanut IgE Ab [Units/volume] in Serum: 0.3 kU/L\n- Walnut IgE Ab [Units/volume] in Serum: 0.0 kU/L\n- Codfish IgE Ab [Units/volume] in Serum: 0.1 kU/L\n- Shrimp IgE Ab [Units/volume] in Serum: 0.3 kU/L\n- Wheat IgE Ab [Units/volume] in Serum: 0.2 kU/L\n- Egg white IgE Ab [Units/volume] in Serum: 0.0 kU/L\n- Soybean IgE Ab [Units/volume] in Serum: 0.2 kU/L\n- Cow milk IgE Ab [Units/volume] in Serum: 0.3 kU/L\n- White oak IgE Ab [Units/volume] in Serum: 0.2 kU/L\n- Common Ragweed IgE Ab [Units/volume] in Serum: 0.3 kU/L\n- Cat dander IgE Ab [Units/volume] in Serum: 0.2 kU/L\n- American house dust mite IgE Ab [Units/volume] in Serum: 0.2 kU/L\n- Cladosporium herbarum IgE Ab [Units/volume] in Serum: 0.0 kU/L\n- Honey bee IgE Ab [Units/volume] in Serum: 0.1 kU/L\n- Latex IgE Ab [Units/volume] in Serum: 0.3 kU/L"
+  },
+  {
+    "doc_id": "b6a1cac9-8873-36a7-8e1d-367fcaf9d979",
+    "patient_id": "b6a1cac9-8873-36a7-e726-4aad8a07d44d",
+    "document_type": "Office Visit Note",
+    "date": "2017-11-13",
+    "section": "Procedures",
+    "title": "Office Visit Note - Renaldo Crist - 2017-11-13",
+    "content": "- Allergy screening test."
+  },
+  {
+    "doc_id": "b6a1cac9-8873-36a7-8e1d-367fcaf9d979",
+    "patient_id": "b6a1cac9-8873-36a7-e726-4aad8a07d44d",
+    "document_type": "Office Visit Note",
+    "date": "2017-11-13",
+    "section": "Plan",
+    "title": "Office Visit Note - Renaldo Crist - 2017-11-13",
+    "content": "- Allergic disorder monitoring, started 2017-11-13, ended 2021-12-04."
+  }
+]

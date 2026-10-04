@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "080b069b-5108-46b6-1a0b-06facef78275",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1985-04-02",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Chester Aufderhar - 1985-04-02",
+    "content": "Patient: Chester Aufderhar, male, born 1966-11-22 (patient ID 080b069b-5108-46b6-ecef-6aacd3b9ef3f).\nVisit date: 1985-04-02.\nVisit type: General examination of patient.\nClinician: Sharyl Williamson (General Practice).\nFacility: COMPASSIONATE HEALTH CARE GROUP LLC, WAREHAM, MA."
+  },
+  {
+    "doc_id": "080b069b-5108-46b6-1a0b-06facef78275",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1985-04-02",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Chester Aufderhar - 1985-04-02",
+    "content": "Diagnoses recorded at this visit:\n- Received higher education (onset 1985-04-03)."
+  }
+]

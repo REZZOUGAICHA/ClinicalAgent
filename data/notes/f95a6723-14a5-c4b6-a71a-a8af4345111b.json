@@ -1,0 +1,65 @@
+[
+  {
+    "doc_id": "f95a6723-14a5-c4b6-a71a-a8af4345111b",
+    "patient_id": "f95a6723-14a5-c4b6-78df-fa97f7ab361c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-12-30",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Roxann Sauer - 2017-12-30",
+    "content": "Patient: Roxann Sauer, female, born 1986-08-23 (patient ID f95a6723-14a5-c4b6-78df-fa97f7ab361c).\nVisit date: 2017-12-30.\nVisit type: General examination of patient.\nClinician: Amado Adams (General Practice).\nFacility: BL HEALTHCARE INC DELEWARE, FOXBOROUGH, MA."
+  },
+  {
+    "doc_id": "f95a6723-14a5-c4b6-a71a-a8af4345111b",
+    "patient_id": "f95a6723-14a5-c4b6-78df-fa97f7ab361c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-12-30",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Roxann Sauer - 2017-12-30",
+    "content": "Diagnoses recorded at this visit:\n- Stress (onset 2017-12-30), resolved 2020-01-11."
+  },
+  {
+    "doc_id": "f95a6723-14a5-c4b6-a71a-a8af4345111b",
+    "patient_id": "f95a6723-14a5-c4b6-78df-fa97f7ab361c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-12-30",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Roxann Sauer - 2017-12-30",
+    "content": "- Body Height: 163.2 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0\n- Body Weight: 72.1 kg\n- Body mass index (BMI) [Ratio]: 27.1 kg/m2\n- Diastolic Blood Pressure: 84.0 mm[Hg]\n- Systolic Blood Pressure: 126.0 mm[Hg]\n- Heart rate: 98.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "f95a6723-14a5-c4b6-a71a-a8af4345111b",
+    "patient_id": "f95a6723-14a5-c4b6-78df-fa97f7ab361c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-12-30",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Roxann Sauer - 2017-12-30",
+    "content": "- Hemoglobin A1c/Hemoglobin.total in Blood: 6.0 %\n- Glucose [Mass/volume] in Blood: 96.3 mg/dL\n- Urea nitrogen [Mass/volume] in Blood: 7.5 mg/dL\n- Creatinine [Mass/volume] in Blood: 1.5 mg/dL\n- Calcium [Mass/volume] in Blood: 8.6 mg/dL\n- Sodium [Moles/volume] in Blood: 142.2 mmol/L\n- Potassium [Moles/volume] in Blood: 4.6 mmol/L\n- Chloride [Moles/volume] in Blood: 103.0 mmol/L\n- Carbon dioxide  total [Moles/volume] in Blood: 22.4 mmol/L\n- Leukocytes [#/volume] in Blood by Automated count: 8.8 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 4.3 10*6/uL\n- Hemoglobin [Mass/volume] in Blood: 14.0 g/dL\n- Hematocrit [Volume Fraction] of Blood by Automated count: 45.3 %\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 93.7 fL\n- MCH [Entitic mass] by Automated count: 31.9 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 34.6 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 39.4 fL\n- Platelets [#/volume] in Blood by Automated count: 156.1 10*3/uL\n- Platelet distribution width [Entitic volume] in Blood by Automated count: 15.2 fL\n- Platelet [Entitic mean volume] in Blood by Automated count: 10.8 fL"
+  },
+  {
+    "doc_id": "f95a6723-14a5-c4b6-a71a-a8af4345111b",
+    "patient_id": "f95a6723-14a5-c4b6-78df-fa97f7ab361c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-12-30",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Roxann Sauer - 2017-12-30",
+    "content": "- Assessment of health and social care needs.\n- Screening for domestic abuse.\n- Depression screening.\n- Depression screening."
+  },
+  {
+    "doc_id": "f95a6723-14a5-c4b6-a71a-a8af4345111b",
+    "patient_id": "f95a6723-14a5-c4b6-78df-fa97f7ab361c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-12-30",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Roxann Sauer - 2017-12-30",
+    "content": "Medications prescribed at this visit:\n- 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent], started 2017-12-30, for Childhood asthma; stopped 2019-01-05.\n- albuterol 0.83 MG/ML Inhalation Solution, started 2017-12-30, for Childhood asthma; stopped 2019-01-05."
+  },
+  {
+    "doc_id": "f95a6723-14a5-c4b6-a71a-a8af4345111b",
+    "patient_id": "f95a6723-14a5-c4b6-78df-fa97f7ab361c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-12-30",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Roxann Sauer - 2017-12-30",
+    "content": "- Influenza split virus trivalent PF.\n- Td (adult) 5 Lf tetanus toxoid preservative free adsorbed."
+  }
+]

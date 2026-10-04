@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "f999ef25-a612-87c9-e121-d2a5b0e0b7af",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Office Visit Note",
+    "date": "2007-10-15",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Evangeline Ziemann - 2007-10-15",
+    "content": "Patient: Evangeline Ziemann, female, born 1925-09-18 (patient ID f999ef25-a612-87c9-206f-aacc9d469dc8).\nVisit date: 2007-10-15.\nVisit type: Follow-up encounter.\nClinician: Nickolas Schumm (General Practice).\nFacility: ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE, FRAMINGHAM, MA."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-e121-d2a5b0e0b7af",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Office Visit Note",
+    "date": "2007-10-15",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Evangeline Ziemann - 2007-10-15",
+    "content": "Seen for Hyperlipidemia."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-e121-d2a5b0e0b7af",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Office Visit Note",
+    "date": "2007-10-15",
+    "section": "Medications",
+    "title": "Office Visit Note - Evangeline Ziemann - 2007-10-15",
+    "content": "Medications prescribed at this visit:\n- Simvastatin 10 MG Oral Tablet, started 2007-10-15, for Hyperlipidemia; stopped 2008-10-14."
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "79021b82-f370-50bb-ff2f-91ebb5f6e4e6",
+    "patient_id": "79021b82-f370-50bb-c5a1-7333816d683f",
+    "document_type": "Office Visit Note",
+    "date": "2026-04-21",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Evette Farrell - 2026-04-21",
+    "content": "Patient: Evette Farrell, female, born 2013-03-20 (patient ID 79021b82-f370-50bb-c5a1-7333816d683f).\nVisit date: 2026-04-21.\nVisit type: Outpatient procedure.\nClinician: Willian Batz (General Practice).\nFacility: BOSTON MEDICAL CENTER CORPORATION-, WINTHROP, MA."
+  },
+  {
+    "doc_id": "79021b82-f370-50bb-ff2f-91ebb5f6e4e6",
+    "patient_id": "79021b82-f370-50bb-c5a1-7333816d683f",
+    "document_type": "Office Visit Note",
+    "date": "2026-04-21",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Evette Farrell - 2026-04-21",
+    "content": "Seen for Allergic disposition."
+  },
+  {
+    "doc_id": "79021b82-f370-50bb-ff2f-91ebb5f6e4e6",
+    "patient_id": "79021b82-f370-50bb-c5a1-7333816d683f",
+    "document_type": "Office Visit Note",
+    "date": "2026-04-21",
+    "section": "Procedures",
+    "title": "Office Visit Note - Evette Farrell - 2026-04-21",
+    "content": "- Subcutaneous immunotherapy."
+  }
+]

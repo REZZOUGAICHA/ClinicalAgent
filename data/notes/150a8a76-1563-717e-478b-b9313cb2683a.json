@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "150a8a76-1563-717e-478b-b9313cb2683a",
+    "patient_id": "150a8a76-1563-717e-bf0f-f52045675f46",
+    "document_type": "Office Visit Note",
+    "date": "1961-05-11",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Diego Armijo - 1961-05-11",
+    "content": "Patient: Diego Armijo, male, born 1947-03-03 (patient ID 150a8a76-1563-717e-bf0f-f52045675f46).\nVisit date: 1961-05-11.\nVisit type: Encounter for symptom.\nClinician: Zachery Pagac (General Practice).\nFacility: MELROSEWAKEFIELD HEALTHCARE INC, MELROSE, MA."
+  },
+  {
+    "doc_id": "150a8a76-1563-717e-478b-b9313cb2683a",
+    "patient_id": "150a8a76-1563-717e-bf0f-f52045675f46",
+    "document_type": "Office Visit Note",
+    "date": "1961-05-11",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Diego Armijo - 1961-05-11",
+    "content": "Seen for Streptococcal sore throat."
+  },
+  {
+    "doc_id": "150a8a76-1563-717e-478b-b9313cb2683a",
+    "patient_id": "150a8a76-1563-717e-bf0f-f52045675f46",
+    "document_type": "Office Visit Note",
+    "date": "1961-05-11",
+    "section": "Assessment",
+    "title": "Office Visit Note - Diego Armijo - 1961-05-11",
+    "content": "Diagnoses recorded at this visit:\n- Streptococcal sore throat (onset 1961-05-11), resolved 1961-05-23."
+  },
+  {
+    "doc_id": "150a8a76-1563-717e-478b-b9313cb2683a",
+    "patient_id": "150a8a76-1563-717e-bf0f-f52045675f46",
+    "document_type": "Office Visit Note",
+    "date": "1961-05-11",
+    "section": "Vital Signs",
+    "title": "Office Visit Note - Diego Armijo - 1961-05-11",
+    "content": "- Body temperature: 39.1 \u00b0C"
+  },
+  {
+    "doc_id": "150a8a76-1563-717e-478b-b9313cb2683a",
+    "patient_id": "150a8a76-1563-717e-bf0f-f52045675f46",
+    "document_type": "Office Visit Note",
+    "date": "1961-05-11",
+    "section": "Medications",
+    "title": "Office Visit Note - Diego Armijo - 1961-05-11",
+    "content": "Medications prescribed at this visit:\n- Penicillin V Potassium 250 MG Oral Tablet, started 1961-05-11, for Streptococcal sore throat; stopped 1961-05-23."
+  }
+]

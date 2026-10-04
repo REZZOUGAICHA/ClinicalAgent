@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "14a5a697-29a3-48b2-ffed-f7adca90e8cf",
+    "patient_id": "14a5a697-29a3-48b2-969a-3ceefe74a700",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-02-10",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Drusilla Schumm - 2024-02-10",
+    "content": "Patient: Drusilla Schumm, female, born 1958-11-15 (patient ID 14a5a697-29a3-48b2-969a-3ceefe74a700).\nVisit date: 2024-02-10.\nVisit type: General examination of patient.\nClinician: Merle Bogisich (General Practice).\nFacility: SALEM FAMILY HEALTH CENTER, PEABODY, MA."
+  },
+  {
+    "doc_id": "14a5a697-29a3-48b2-ffed-f7adca90e8cf",
+    "patient_id": "14a5a697-29a3-48b2-969a-3ceefe74a700",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-02-10",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Drusilla Schumm - 2024-02-10",
+    "content": "Diagnoses recorded at this visit:\n- Unemployed (onset 2024-02-10), resolved 2025-02-15.\n- Stress (onset 2024-02-10), resolved 2025-02-15."
+  },
+  {
+    "doc_id": "14a5a697-29a3-48b2-ffed-f7adca90e8cf",
+    "patient_id": "14a5a697-29a3-48b2-969a-3ceefe74a700",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-02-10",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Drusilla Schumm - 2024-02-10",
+    "content": "- Body Height: 162.7 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0\n- Body Weight: 73.3 kg\n- Body mass index (BMI) [Ratio]: 27.7 kg/m2\n- Diastolic Blood Pressure: 80.0 mm[Hg]\n- Systolic Blood Pressure: 102.0 mm[Hg]\n- Heart rate: 68.0 /min\n- Respiratory rate: 15.0 /min"
+  },
+  {
+    "doc_id": "14a5a697-29a3-48b2-ffed-f7adca90e8cf",
+    "patient_id": "14a5a697-29a3-48b2-969a-3ceefe74a700",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-02-10",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Drusilla Schumm - 2024-02-10",
+    "content": "- Hemoglobin A1c/Hemoglobin.total in Blood: 5.9 %\n- Glucose [Mass/volume] in Blood: 79.6 mg/dL\n- Urea nitrogen [Mass/volume] in Blood: 17.9 mg/dL\n- Creatinine [Mass/volume] in Blood: 0.7 mg/dL\n- Calcium [Mass/volume] in Blood: 9.9 mg/dL\n- Sodium [Moles/volume] in Blood: 139.3 mmol/L\n- Potassium [Moles/volume] in Blood: 5.1 mmol/L\n- Chloride [Moles/volume] in Blood: 105.2 mmol/L\n- Carbon dioxide  total [Moles/volume] in Blood: 23.4 mmol/L\n- Cholesterol [Mass/volume] in Serum or Plasma: 176.5 mg/dL\n- Triglyceride [Mass/volume] in Serum or Plasma: 145.8 mg/dL\n- Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay: 89.5 mg/dL\n- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 57.8 mg/dL"
+  },
+  {
+    "doc_id": "14a5a697-29a3-48b2-ffed-f7adca90e8cf",
+    "patient_id": "14a5a697-29a3-48b2-969a-3ceefe74a700",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-02-10",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Drusilla Schumm - 2024-02-10",
+    "content": "- Medication reconciliation.\n- Assessment of health and social care needs.\n- Assessment of anxiety.\n- Assessment using Morse Fall Scale."
+  },
+  {
+    "doc_id": "14a5a697-29a3-48b2-ffed-f7adca90e8cf",
+    "patient_id": "14a5a697-29a3-48b2-969a-3ceefe74a700",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-02-10",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Drusilla Schumm - 2024-02-10",
+    "content": "- Influenza split virus trivalent PF.\n- Pneumococcal conjugate PCV 13."
+  }
+]

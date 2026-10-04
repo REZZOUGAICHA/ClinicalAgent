@@ -1,0 +1,65 @@
+[
+  {
+    "doc_id": "46ee9d82-b52c-856d-ca13-b3800ca1de06",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2022-09-27",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Shalanda Koepp - 2022-09-27",
+    "content": "Patient: Shalanda Koepp, female, born 1996-06-18 (patient ID 46ee9d82-b52c-856d-069b-5064ff052225).\nVisit date: 2022-09-27.\nVisit type: General examination of patient.\nClinician: Pearlene Towne (General Practice).\nFacility: LOWELL COMMUNITY HEALTH CENTER, LOWELL, MA."
+  },
+  {
+    "doc_id": "46ee9d82-b52c-856d-ca13-b3800ca1de06",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2022-09-27",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Shalanda Koepp - 2022-09-27",
+    "content": "Diagnoses recorded at this visit:\n- Part-time employment (onset 2022-09-27), resolved 2023-10-03."
+  },
+  {
+    "doc_id": "46ee9d82-b52c-856d-ca13-b3800ca1de06",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2022-09-27",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Shalanda Koepp - 2022-09-27",
+    "content": "- Body Height: 153.2 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0\n- Body Weight: 67.1 kg\n- Body mass index (BMI) [Ratio]: 28.6 kg/m2\n- Diastolic Blood Pressure: 83.0 mm[Hg]\n- Systolic Blood Pressure: 125.0 mm[Hg]\n- Heart rate: 71.0 /min\n- Respiratory rate: 15.0 /min"
+  },
+  {
+    "doc_id": "46ee9d82-b52c-856d-ca13-b3800ca1de06",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2022-09-27",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Shalanda Koepp - 2022-09-27",
+    "content": "- Leukocytes [#/volume] in Blood by Automated count: 8.2 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 4.9 10*6/uL\n- Hemoglobin [Mass/volume] in Blood: 16.5 g/dL\n- Hematocrit [Volume Fraction] of Blood by Automated count: 49.3 %\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 84.1 fL\n- MCH [Entitic mass] by Automated count: 28.5 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 35.5 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 41.7 fL\n- Platelets [#/volume] in Blood by Automated count: 391.5 10*3/uL\n- Platelet distribution width [Entitic volume] in Blood by Automated count: 9.5 fL\n- Platelet [Entitic mean volume] in Blood by Automated count: 10.1 fL"
+  },
+  {
+    "doc_id": "46ee9d82-b52c-856d-ca13-b3800ca1de06",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2022-09-27",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Shalanda Koepp - 2022-09-27",
+    "content": "- Assessment of health and social care needs.\n- Assessment of anxiety.\n- Screening for domestic abuse."
+  },
+  {
+    "doc_id": "46ee9d82-b52c-856d-ca13-b3800ca1de06",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2022-09-27",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Shalanda Koepp - 2022-09-27",
+    "content": "Medications prescribed at this visit:\n- tramadol hydrochloride 50 MG Oral Tablet, started 2022-09-27; stopped 2023-10-03."
+  },
+  {
+    "doc_id": "46ee9d82-b52c-856d-ca13-b3800ca1de06",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2022-09-27",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Shalanda Koepp - 2022-09-27",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

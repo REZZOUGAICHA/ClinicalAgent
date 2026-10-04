@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "d57841fa-c9e2-a3d1-1a35-2d2fba6f2db3",
+    "patient_id": "d57841fa-c9e2-a3d1-0e78-09bdbe4eed66",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-09-15",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Jessica McKenzie - 2025-09-15",
+    "content": "Patient: Jessica McKenzie, female, born 1965-07-19 (patient ID d57841fa-c9e2-a3d1-0e78-09bdbe4eed66).\nVisit date: 2025-09-15.\nVisit type: General examination of patient.\nClinician: Leonie Wunsch (General Practice).\nFacility: SOUTH SHORE CENTER FOR WELLNESS LTD, NORWELL, MA."
+  },
+  {
+    "doc_id": "d57841fa-c9e2-a3d1-1a35-2d2fba6f2db3",
+    "patient_id": "d57841fa-c9e2-a3d1-0e78-09bdbe4eed66",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-09-15",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Jessica McKenzie - 2025-09-15",
+    "content": "Diagnoses recorded at this visit:\n- Limited social contact (onset 2025-09-15), resolved 2026-09-21."
+  },
+  {
+    "doc_id": "d57841fa-c9e2-a3d1-1a35-2d2fba6f2db3",
+    "patient_id": "d57841fa-c9e2-a3d1-0e78-09bdbe4eed66",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-09-15",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Jessica McKenzie - 2025-09-15",
+    "content": "- Body Height: 160.8 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0\n- Body Weight: 79.2 kg\n- Body mass index (BMI) [Ratio]: 30.6 kg/m2\n- Diastolic Blood Pressure: 84.0 mm[Hg]\n- Systolic Blood Pressure: 145.0 mm[Hg]\n- Heart rate: 71.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "d57841fa-c9e2-a3d1-1a35-2d2fba6f2db3",
+    "patient_id": "d57841fa-c9e2-a3d1-0e78-09bdbe4eed66",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-09-15",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Jessica McKenzie - 2025-09-15",
+    "content": "- Hemoglobin A1c/Hemoglobin.total in Blood: 6.0 %\n- Glucose [Mass/volume] in Blood: 97.3 mg/dL\n- Urea nitrogen [Mass/volume] in Blood: 11.9 mg/dL\n- Creatinine [Mass/volume] in Blood: 1.0 mg/dL\n- Calcium [Mass/volume] in Blood: 8.8 mg/dL\n- Sodium [Moles/volume] in Blood: 140.0 mmol/L\n- Potassium [Moles/volume] in Blood: 4.1 mmol/L\n- Chloride [Moles/volume] in Blood: 108.9 mmol/L\n- Carbon dioxide  total [Moles/volume] in Blood: 20.4 mmol/L"
+  },
+  {
+    "doc_id": "d57841fa-c9e2-a3d1-1a35-2d2fba6f2db3",
+    "patient_id": "d57841fa-c9e2-a3d1-0e78-09bdbe4eed66",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-09-15",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Jessica McKenzie - 2025-09-15",
+    "content": "- Assessment of health and social care needs.\n- Depression screening.\n- Depression screening.\n- Assessment of substance use.\n- Screening for drug abuse.\n- Patient referral for dental care."
+  },
+  {
+    "doc_id": "d57841fa-c9e2-a3d1-1a35-2d2fba6f2db3",
+    "patient_id": "d57841fa-c9e2-a3d1-0e78-09bdbe4eed66",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-09-15",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Jessica McKenzie - 2025-09-15",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

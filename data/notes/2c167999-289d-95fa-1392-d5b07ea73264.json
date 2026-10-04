@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "2c167999-289d-95fa-1392-d5b07ea73264",
+    "patient_id": "2c167999-289d-95fa-5c27-7d8b8d35348c",
+    "document_type": "Office Visit Note",
+    "date": "2012-04-14",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Eliseo Nader - 2012-04-14",
+    "content": "Patient: Eliseo Nader, male, born 1974-01-12 (patient ID 2c167999-289d-95fa-5c27-7d8b8d35348c).\nVisit date: 2012-04-14.\nVisit type: Encounter for problem.\nClinician: Willian Batz (General Practice).\nFacility: BOSTON MEDICAL CENTER CORPORATION-, WINTHROP, MA."
+  },
+  {
+    "doc_id": "2c167999-289d-95fa-1392-d5b07ea73264",
+    "patient_id": "2c167999-289d-95fa-5c27-7d8b8d35348c",
+    "document_type": "Office Visit Note",
+    "date": "2012-04-14",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Eliseo Nader - 2012-04-14",
+    "content": "Seen for Anemia."
+  },
+  {
+    "doc_id": "2c167999-289d-95fa-1392-d5b07ea73264",
+    "patient_id": "2c167999-289d-95fa-5c27-7d8b8d35348c",
+    "document_type": "Office Visit Note",
+    "date": "2012-04-14",
+    "section": "Medications",
+    "title": "Office Visit Note - Eliseo Nader - 2012-04-14",
+    "content": "Medications prescribed at this visit:\n- ferrous sulfate 325 MG Oral Tablet, started 2012-04-14; no stop date recorded."
+  }
+]

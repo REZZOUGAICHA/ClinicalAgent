@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "f999ef25-a612-87c9-9159-eb2bfd87a86a",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Office Visit Note",
+    "date": "2015-01-28",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Evangeline Ziemann - 2015-01-28",
+    "content": "Patient: Evangeline Ziemann, female, born 1925-09-18 (patient ID f999ef25-a612-87c9-206f-aacc9d469dc8).\nVisit date: 2015-01-28.\nVisit type: Encounter for symptom.\nClinician: Nickolas Schumm (General Practice).\nFacility: ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE, FRAMINGHAM, MA."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-9159-eb2bfd87a86a",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Office Visit Note",
+    "date": "2015-01-28",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Evangeline Ziemann - 2015-01-28",
+    "content": "Seen for Acute bronchitis."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-9159-eb2bfd87a86a",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Office Visit Note",
+    "date": "2015-01-28",
+    "section": "Assessment",
+    "title": "Office Visit Note - Evangeline Ziemann - 2015-01-28",
+    "content": "Diagnoses recorded at this visit:\n- Acute bronchitis (onset 2015-01-29), resolved 2015-02-15."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-9159-eb2bfd87a86a",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Office Visit Note",
+    "date": "2015-01-28",
+    "section": "Procedures",
+    "title": "Office Visit Note - Evangeline Ziemann - 2015-01-28",
+    "content": "- Sputum examination, for Acute bronchitis."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-9159-eb2bfd87a86a",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Office Visit Note",
+    "date": "2015-01-28",
+    "section": "Medications",
+    "title": "Office Visit Note - Evangeline Ziemann - 2015-01-28",
+    "content": "Medications prescribed at this visit:\n- Acetaminophen 325 MG Oral Tablet, started 2015-01-28, for Acute bronchitis; stopped 2015-02-14."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-9159-eb2bfd87a86a",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Office Visit Note",
+    "date": "2015-01-28",
+    "section": "Plan",
+    "title": "Office Visit Note - Evangeline Ziemann - 2015-01-28",
+    "content": "- Respiratory therapy, started 2015-01-29, ended 2015-02-15."
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "922fb35e-148d-9e82-56fa-67833e9d0c06",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Office Visit Note",
+    "date": "2022-12-14",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Agnes Weber - 2022-12-14",
+    "content": "Patient: Agnes Weber, female, born 1986-12-19 (patient ID 922fb35e-148d-9e82-7e65-bfa05e3b3515).\nVisit date: 2022-12-14.\nVisit type: Asthma follow-up.\nClinician: Chanell Robel (General Practice).\nFacility: WHITTIER REHABILITATION HOSPITAL - BRADFORD, WESTBOROUGH, MA."
+  },
+  {
+    "doc_id": "922fb35e-148d-9e82-56fa-67833e9d0c06",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Office Visit Note",
+    "date": "2022-12-14",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Agnes Weber - 2022-12-14",
+    "content": "Seen for Asthma."
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "46976cf7-b0bf-be20-883d-2054a4fc3ac0",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-10-04",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Lindsay Zieme - 2019-10-04",
+    "content": "Patient: Lindsay Zieme, female, born 2007-09-14 (patient ID 46976cf7-b0bf-be20-39a5-9f425a52886d).\nVisit date: 2019-10-04.\nVisit type: Well child visit.\nClinician: Levi Abbott (General Practice).\nFacility: TREE OF LIFE HEALTHCARE ASSOCIATES, WORCESTER, MA."
+  },
+  {
+    "doc_id": "46976cf7-b0bf-be20-883d-2054a4fc3ac0",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-10-04",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Lindsay Zieme - 2019-10-04",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2019-10-04), resolved 2022-10-21."
+  },
+  {
+    "doc_id": "46976cf7-b0bf-be20-883d-2054a4fc3ac0",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-10-04",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Lindsay Zieme - 2019-10-04",
+    "content": "- Body Height: 151.5 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0\n- Body Weight: 41.5 kg\n- Body mass index (BMI) [Ratio]: 18.1 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 50.0 %\n- Diastolic Blood Pressure: 91.0 mm[Hg]\n- Systolic Blood Pressure: 117.0 mm[Hg]\n- Heart rate: 76.0 /min\n- Respiratory rate: 15.0 /min"
+  },
+  {
+    "doc_id": "46976cf7-b0bf-be20-883d-2054a4fc3ac0",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-10-04",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Lindsay Zieme - 2019-10-04",
+    "content": "- Depression screening.\n- Depression screening using Patient Health Questionnaire Nine Item score.\n- Assessment of substance use.\n- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test.\n- Anticipatory guidance.\n- Patient referral for dental care."
+  },
+  {
+    "doc_id": "46976cf7-b0bf-be20-883d-2054a4fc3ac0",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-10-04",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Lindsay Zieme - 2019-10-04",
+    "content": "- Influenza split virus trivalent PF.\n- HPV quadrivalent."
+  }
+]

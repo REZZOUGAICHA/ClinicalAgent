@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "c053e996-a4c4-6c02-f1ad-026464118efd",
+    "patient_id": "c053e996-a4c4-6c02-e2b6-284227156c67",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-09-15",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Sharyn Hagenes - 2023-09-15",
+    "content": "Patient: Sharyn Hagenes, female, born 2023-09-15 (patient ID c053e996-a4c4-6c02-e2b6-284227156c67).\nVisit date: 2023-09-15.\nVisit type: Well child visit.\nClinician: Colin Witting (General Practice).\nFacility: PALMER FAMILY SERVICES LLC, MILFORD, MA."
+  },
+  {
+    "doc_id": "c053e996-a4c4-6c02-f1ad-026464118efd",
+    "patient_id": "c053e996-a4c4-6c02-e2b6-284227156c67",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-09-15",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Sharyn Hagenes - 2023-09-15",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2023-09-15), resolved 2023-12-22."
+  },
+  {
+    "doc_id": "c053e996-a4c4-6c02-f1ad-026464118efd",
+    "patient_id": "c053e996-a4c4-6c02-e2b6-284227156c67",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-09-15",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Sharyn Hagenes - 2023-09-15",
+    "content": "- Body Height: 53.4 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0\n- Body Weight: 4.3 kg\n- Weight-for-length Per age and sex: 59.5 %\n- Head Occipital-frontal circumference Percentile: 78.1 %\n- Head Occipital-frontal circumference: 36.0 cm\n- Diastolic Blood Pressure: 85.0 mm[Hg]\n- Systolic Blood Pressure: 137.0 mm[Hg]\n- Heart rate: 68.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "c053e996-a4c4-6c02-f1ad-026464118efd",
+    "patient_id": "c053e996-a4c4-6c02-e2b6-284227156c67",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-09-15",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Sharyn Hagenes - 2023-09-15",
+    "content": "- Leukocytes [#/volume] in Blood by Automated count: 9.5 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 4.1 10*6/uL\n- Hemoglobin [Mass/volume] in Blood: 15.2 g/dL\n- Hematocrit [Volume Fraction] of Blood by Automated count: 47.5 %\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 88.0 fL\n- MCH [Entitic mass] by Automated count: 28.7 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 35.5 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 43.7 fL\n- Platelets [#/volume] in Blood by Automated count: 212.2 10*3/uL\n- Platelet distribution width [Entitic volume] in Blood by Automated count: 14.6 fL\n- Platelet [Entitic mean volume] in Blood by Automated count: 11.7 fL"
+  },
+  {
+    "doc_id": "c053e996-a4c4-6c02-f1ad-026464118efd",
+    "patient_id": "c053e996-a4c4-6c02-e2b6-284227156c67",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-09-15",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Sharyn Hagenes - 2023-09-15",
+    "content": "- Hep B adolescent or pediatric."
+  }
+]

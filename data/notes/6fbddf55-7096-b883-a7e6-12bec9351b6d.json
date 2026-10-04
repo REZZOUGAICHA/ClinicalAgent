@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "6fbddf55-7096-b883-a7e6-12bec9351b6d",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Office Visit Note",
+    "date": "2023-07-26",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Clarinda Farrell - 2023-07-26",
+    "content": "Patient: Clarinda Farrell, female, born 1981-07-01 (patient ID 6fbddf55-7096-b883-7cd3-260f27953080).\nVisit date: 2023-07-26.\nVisit type: Encounter for check up.\nClinician: Luther Jakubowski (General Practice).\nFacility: ENCOMPASS HEALTH REHABILITATION HOSP OF NEW ENGLAN, WOBURN, MA."
+  },
+  {
+    "doc_id": "6fbddf55-7096-b883-a7e6-12bec9351b6d",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Office Visit Note",
+    "date": "2023-07-26",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Clarinda Farrell - 2023-07-26",
+    "content": "Seen for Patient referral for dental care."
+  },
+  {
+    "doc_id": "6fbddf55-7096-b883-a7e6-12bec9351b6d",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Office Visit Note",
+    "date": "2023-07-26",
+    "section": "Assessment",
+    "title": "Office Visit Note - Clarinda Farrell - 2023-07-26",
+    "content": "Diagnoses recorded at this visit:\n- Gingival disease (onset 2023-07-26), resolved 2023-07-26."
+  },
+  {
+    "doc_id": "6fbddf55-7096-b883-a7e6-12bec9351b6d",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Office Visit Note",
+    "date": "2023-07-26",
+    "section": "Procedures",
+    "title": "Office Visit Note - Clarinda Farrell - 2023-07-26",
+    "content": "- Dental consultation and report, for Patient referral for dental care.\n- Dental care, for Patient referral for dental care.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Examination of gingivae, for Patient referral for dental care.\n- Dental surgical procedure, for Gingival disease.\n- Dental application of desensitizing medicament, for Gingival disease.\n- Gingivectomy or gingivoplasty  per tooth, for Gingival disease.\n- Postoperative care for dental procedure.\n- Dental fluoride treatment, for Patient referral for dental care.\n- Oral health education, for Patient referral for dental care."
+  },
+  {
+    "doc_id": "6fbddf55-7096-b883-a7e6-12bec9351b6d",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Office Visit Note",
+    "date": "2023-07-26",
+    "section": "Medications",
+    "title": "Office Visit Note - Clarinda Farrell - 2023-07-26",
+    "content": "Medications prescribed at this visit:\n- sodium fluoride 0.0272 MG/MG Oral Gel, started 2023-07-26, for Patient referral for dental care; stopped 2023-07-26."
+  }
+]

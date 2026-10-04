@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "6fbddf55-7096-b883-a98a-b2db0ce2020d",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2018-08-22",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Clarinda Farrell - 2018-08-22",
+    "content": "Patient: Clarinda Farrell, female, born 1981-07-01 (patient ID 6fbddf55-7096-b883-7cd3-260f27953080).\nVisit date: 2018-08-22.\nVisit type: Patient encounter procedure.\nClinician: Luther Jakubowski (General Practice).\nFacility: ENCOMPASS HEALTH REHABILITATION HOSP OF NEW ENGLAN, WOBURN, MA."
+  },
+  {
+    "doc_id": "6fbddf55-7096-b883-a98a-b2db0ce2020d",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2018-08-22",
+    "section": "Reason for Visit",
+    "title": "Outpatient Procedure Note - Clarinda Farrell - 2018-08-22",
+    "content": "Seen for Contraception care."
+  },
+  {
+    "doc_id": "6fbddf55-7096-b883-a98a-b2db0ce2020d",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2018-08-22",
+    "section": "Procedures",
+    "title": "Outpatient Procedure Note - Clarinda Farrell - 2018-08-22",
+    "content": "- Removal of subcutaneous contraceptive.\n- Implantation of subcutaneous contraceptive."
+  }
+]

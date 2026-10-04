@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-1d8e-6bd661871c0f",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Office Visit Note",
+    "date": "2021-10-29",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Faustino Langworth - 2021-10-29",
+    "content": "Patient: Faustino Langworth, male, born 1998-06-17 (patient ID 5ba0a3f3-32f7-02b1-ec6a-8f568923954c).\nVisit date: 2021-10-29.\nVisit type: Encounter for symptom.\nClinician: Floy Greenfelder (General Practice).\nFacility: CAMBRIDGE PUBLIC HEALTH COMMISSION, SOMERVILLE, MA."
+  },
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-1d8e-6bd661871c0f",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Office Visit Note",
+    "date": "2021-10-29",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Faustino Langworth - 2021-10-29",
+    "content": "Seen for Viral sinusitis."
+  },
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-1d8e-6bd661871c0f",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Office Visit Note",
+    "date": "2021-10-29",
+    "section": "Assessment",
+    "title": "Office Visit Note - Faustino Langworth - 2021-10-29",
+    "content": "Diagnoses recorded at this visit:\n- Viral sinusitis (onset 2021-10-29), resolved 2021-11-08."
+  }
+]

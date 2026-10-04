@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "922fb35e-148d-9e82-0bc4-bc3b50a085e7",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Office Visit Note",
+    "date": "2017-05-05",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Agnes Weber - 2017-05-05",
+    "content": "Patient: Agnes Weber, female, born 1986-12-19 (patient ID 922fb35e-148d-9e82-7e65-bfa05e3b3515).\nVisit date: 2017-05-05.\nVisit type: Encounter for check up.\nClinician: Chanell Robel (General Practice).\nFacility: WHITTIER REHABILITATION HOSPITAL - BRADFORD, WESTBOROUGH, MA."
+  },
+  {
+    "doc_id": "922fb35e-148d-9e82-0bc4-bc3b50a085e7",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Office Visit Note",
+    "date": "2017-05-05",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Agnes Weber - 2017-05-05",
+    "content": "Seen for Patient referral for dental care."
+  },
+  {
+    "doc_id": "922fb35e-148d-9e82-0bc4-bc3b50a085e7",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Office Visit Note",
+    "date": "2017-05-05",
+    "section": "Assessment",
+    "title": "Office Visit Note - Agnes Weber - 2017-05-05",
+    "content": "Diagnoses recorded at this visit:\n- Dental filling lost (onset 2017-05-05), resolved 2017-05-05."
+  },
+  {
+    "doc_id": "922fb35e-148d-9e82-0bc4-bc3b50a085e7",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Office Visit Note",
+    "date": "2017-05-05",
+    "section": "Procedures",
+    "title": "Office Visit Note - Agnes Weber - 2017-05-05",
+    "content": "- Dental consultation and report, for Patient referral for dental care.\n- Dental care, for Patient referral for dental care.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Dental plain X-ray bitewing.\n- Examination of gingivae, for Patient referral for dental care.\n- Restoration of tooth with coverage of all cusps using dental filling material, for Dental filling lost.\n- Oral health education, for Patient referral for dental care."
+  }
+]

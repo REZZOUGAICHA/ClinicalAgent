@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "f32a088b-988b-d7d5-9874-a5cd24ab1457",
+    "patient_id": "f32a088b-988b-d7d5-008b-89ea4ed1fc48",
+    "document_type": "Office Visit Note",
+    "date": "2012-07-18",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Wayne McLaughlin - 2012-07-18",
+    "content": "Patient: Wayne McLaughlin, male, born 2006-08-16 (patient ID f32a088b-988b-d7d5-008b-89ea4ed1fc48).\nVisit date: 2012-07-18.\nVisit type: Encounter for symptom.\nClinician: Chantell Krajcik (General Practice).\nFacility: FRANCISCAN HOSPITAL FOR CHILDREN INC, BOSTON, MA."
+  },
+  {
+    "doc_id": "f32a088b-988b-d7d5-9874-a5cd24ab1457",
+    "patient_id": "f32a088b-988b-d7d5-008b-89ea4ed1fc48",
+    "document_type": "Office Visit Note",
+    "date": "2012-07-18",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Wayne McLaughlin - 2012-07-18",
+    "content": "Seen for Perennial allergic rhinitis with seasonal variation."
+  },
+  {
+    "doc_id": "f32a088b-988b-d7d5-9874-a5cd24ab1457",
+    "patient_id": "f32a088b-988b-d7d5-008b-89ea4ed1fc48",
+    "document_type": "Office Visit Note",
+    "date": "2012-07-18",
+    "section": "Assessment",
+    "title": "Office Visit Note - Wayne McLaughlin - 2012-07-18",
+    "content": "Diagnoses recorded at this visit:\n- Perennial allergic rhinitis with seasonal variation (onset 2012-07-18), resolved 2025-08-20."
+  },
+  {
+    "doc_id": "f32a088b-988b-d7d5-9874-a5cd24ab1457",
+    "patient_id": "f32a088b-988b-d7d5-008b-89ea4ed1fc48",
+    "document_type": "Office Visit Note",
+    "date": "2012-07-18",
+    "section": "Medications",
+    "title": "Office Visit Note - Wayne McLaughlin - 2012-07-18",
+    "content": "Medications prescribed at this visit:\n- cetirizine hydrochloride 5 MG Oral Tablet, started 2012-07-18; no stop date recorded."
+  }
+]

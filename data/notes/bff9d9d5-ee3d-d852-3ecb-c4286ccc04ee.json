@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "bff9d9d5-ee3d-d852-3ecb-c4286ccc04ee",
+    "patient_id": "bff9d9d5-ee3d-d852-9c67-36d8361a4a4a",
+    "document_type": "Office Visit Note",
+    "date": "2018-07-01",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Rosario Ortiz - 2018-07-01",
+    "content": "Patient: Rosario Ortiz, male, born 1945-01-28 (patient ID bff9d9d5-ee3d-d852-9c67-36d8361a4a4a).\nVisit date: 2018-07-01.\nVisit type: Follow-up encounter.\nClinician: Eleni Franecki (General Practice).\nFacility: BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM INC., NEEDHAM, MA."
+  },
+  {
+    "doc_id": "bff9d9d5-ee3d-d852-3ecb-c4286ccc04ee",
+    "patient_id": "bff9d9d5-ee3d-d852-9c67-36d8361a4a4a",
+    "document_type": "Office Visit Note",
+    "date": "2018-07-01",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Rosario Ortiz - 2018-07-01",
+    "content": "Seen for Hyperlipidemia."
+  },
+  {
+    "doc_id": "bff9d9d5-ee3d-d852-3ecb-c4286ccc04ee",
+    "patient_id": "bff9d9d5-ee3d-d852-9c67-36d8361a4a4a",
+    "document_type": "Office Visit Note",
+    "date": "2018-07-01",
+    "section": "Medications",
+    "title": "Office Visit Note - Rosario Ortiz - 2018-07-01",
+    "content": "Medications prescribed at this visit:\n- Simvastatin 10 MG Oral Tablet, started 2018-07-01, for Hyperlipidemia; stopped 2026-08-02."
+  },
+  {
+    "doc_id": "bff9d9d5-ee3d-d852-3ecb-c4286ccc04ee",
+    "patient_id": "bff9d9d5-ee3d-d852-9c67-36d8361a4a4a",
+    "document_type": "Office Visit Note",
+    "date": "2018-07-01",
+    "section": "Plan",
+    "title": "Office Visit Note - Rosario Ortiz - 2018-07-01",
+    "content": "- Hyperlipidemia clinical management plan for Hyperlipidemia, started 2018-07-01."
+  }
+]

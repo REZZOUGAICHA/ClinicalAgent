@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "6aed9210-c500-4375-226c-a28bb8199a26",
+    "patient_id": "6aed9210-c500-4375-b0fc-3374c40b8591",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1999-09-23",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Lyman Runte - 1999-09-23",
+    "content": "Patient: Lyman Runte, male, born 1965-07-08 (patient ID 6aed9210-c500-4375-b0fc-3374c40b8591).\nVisit date: 1999-09-23.\nVisit type: General examination of patient.\nClinician: Junior Leffler (General Practice).\nFacility: PULMONARY INTERNISTS AND CONSULTANTS PC, HYANNIS, MA."
+  },
+  {
+    "doc_id": "6aed9210-c500-4375-226c-a28bb8199a26",
+    "patient_id": "6aed9210-c500-4375-b0fc-3374c40b8591",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1999-09-23",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Lyman Runte - 1999-09-23",
+    "content": "Diagnoses recorded at this visit:\n- Body mass index 30+ - obesity (onset 1999-09-23).\n- Social isolation (onset 1999-09-23)."
+  }
+]

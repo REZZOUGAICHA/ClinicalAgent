@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "35b353dd-402b-571a-09c3-0aa2fca0b58c",
+    "patient_id": "35b353dd-402b-571a-d67a-af0a104d0854",
+    "document_type": "Emergency Department Note",
+    "date": "2021-08-15",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Jody Monahan - 2021-08-15",
+    "content": "Patient: Jody Monahan, male, born 1943-09-18 (patient ID 35b353dd-402b-571a-d67a-af0a104d0854).\nVisit date: 2021-08-15.\nVisit type: Emergency room admission.\nClinician: Angelic McCullough (General Practice).\nFacility: COURTYARD NURSING CARE CENTER, MEDFORD, MA."
+  },
+  {
+    "doc_id": "35b353dd-402b-571a-09c3-0aa2fca0b58c",
+    "patient_id": "35b353dd-402b-571a-d67a-af0a104d0854",
+    "document_type": "Emergency Department Note",
+    "date": "2021-08-15",
+    "section": "Reason for Visit",
+    "title": "Emergency Department Note - Jody Monahan - 2021-08-15",
+    "content": "Seen for Laceration - injury."
+  },
+  {
+    "doc_id": "35b353dd-402b-571a-09c3-0aa2fca0b58c",
+    "patient_id": "35b353dd-402b-571a-d67a-af0a104d0854",
+    "document_type": "Emergency Department Note",
+    "date": "2021-08-15",
+    "section": "Assessment",
+    "title": "Emergency Department Note - Jody Monahan - 2021-08-15",
+    "content": "Diagnoses recorded at this visit:\n- Laceration - injury (onset 2021-08-15), resolved 2021-09-01.\n- Facial laceration (onset 2021-08-15), resolved 2021-09-01."
+  },
+  {
+    "doc_id": "35b353dd-402b-571a-09c3-0aa2fca0b58c",
+    "patient_id": "35b353dd-402b-571a-d67a-af0a104d0854",
+    "document_type": "Emergency Department Note",
+    "date": "2021-08-15",
+    "section": "Procedures",
+    "title": "Emergency Department Note - Jody Monahan - 2021-08-15",
+    "content": "- Suture open wound, for Facial laceration."
+  },
+  {
+    "doc_id": "35b353dd-402b-571a-09c3-0aa2fca0b58c",
+    "patient_id": "35b353dd-402b-571a-d67a-af0a104d0854",
+    "document_type": "Emergency Department Note",
+    "date": "2021-08-15",
+    "section": "Medications",
+    "title": "Emergency Department Note - Jody Monahan - 2021-08-15",
+    "content": "Medications prescribed at this visit:\n- Acetaminophen 325 MG Oral Tablet, started 2021-08-15; stopped 2021-09-01."
+  },
+  {
+    "doc_id": "35b353dd-402b-571a-09c3-0aa2fca0b58c",
+    "patient_id": "35b353dd-402b-571a-d67a-af0a104d0854",
+    "document_type": "Emergency Department Note",
+    "date": "2021-08-15",
+    "section": "Plan",
+    "title": "Emergency Department Note - Jody Monahan - 2021-08-15",
+    "content": "- Wound care for Facial laceration, started 2021-08-15, ended 2021-09-01."
+  }
+]

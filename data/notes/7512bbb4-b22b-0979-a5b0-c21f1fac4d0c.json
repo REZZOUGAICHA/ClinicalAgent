@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "7512bbb4-b22b-0979-a5b0-c21f1fac4d0c",
+    "patient_id": "7512bbb4-b22b-0979-6edc-389e16607ac7",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-06-01",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Tamie Herzog - 2025-06-01",
+    "content": "Patient: Tamie Herzog, female, born 2025-02-23 (patient ID 7512bbb4-b22b-0979-6edc-389e16607ac7).\nVisit date: 2025-06-01.\nVisit type: Well child visit.\nClinician: Carlota Maya (General Practice).\nFacility: RIVER'S EDGE PRIMARY CARE LLC, CHICOPEE, MA."
+  },
+  {
+    "doc_id": "7512bbb4-b22b-0979-a5b0-c21f1fac4d0c",
+    "patient_id": "7512bbb4-b22b-0979-6edc-389e16607ac7",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-06-01",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Tamie Herzog - 2025-06-01",
+    "content": "- Body Height: 60.0 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0\n- Body Weight: 6.7 kg\n- Weight-for-length Per age and sex: 88.8 %\n- Head Occipital-frontal circumference Percentile: 44.6 %\n- Head Occipital-frontal circumference: 40.3 cm\n- Diastolic Blood Pressure: 90.0 mm[Hg]\n- Systolic Blood Pressure: 114.0 mm[Hg]\n- Heart rate: 85.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "7512bbb4-b22b-0979-a5b0-c21f1fac4d0c",
+    "patient_id": "7512bbb4-b22b-0979-6edc-389e16607ac7",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-06-01",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Tamie Herzog - 2025-06-01",
+    "content": "- Hib (PRP-OMP).\n- rotavirus monovalent.\n- IPV.\n- DTaP.\n- Pneumococcal conjugate PCV 13."
+  }
+]

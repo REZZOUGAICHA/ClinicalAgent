@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "aa616abe-1761-0c9a-b64c-2804ff8bce9a",
+    "patient_id": "aa616abe-1761-0c9a-7959-07544679dafd",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2007-03-05",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Jona Robel - 2007-03-05",
+    "content": "Patient: Jona Robel, female, born 1958-11-15 (patient ID aa616abe-1761-0c9a-7959-07544679dafd).\nVisit date: 2007-03-05.\nVisit type: Consultation for treatment.\nClinician: Chanelle Schuster (General Practice).\nFacility: TUFTS MEDICAL CENTER, STONEHAM, MA."
+  },
+  {
+    "doc_id": "aa616abe-1761-0c9a-b64c-2804ff8bce9a",
+    "patient_id": "aa616abe-1761-0c9a-7959-07544679dafd",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2007-03-05",
+    "section": "Reason for Visit",
+    "title": "Outpatient Procedure Note - Jona Robel - 2007-03-05",
+    "content": "Seen for Contraception care."
+  },
+  {
+    "doc_id": "aa616abe-1761-0c9a-b64c-2804ff8bce9a",
+    "patient_id": "aa616abe-1761-0c9a-7959-07544679dafd",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2007-03-05",
+    "section": "Medications",
+    "title": "Outpatient Procedure Note - Jona Robel - 2007-03-05",
+    "content": "Medications prescribed at this visit:\n- {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Trinessa 28 Day], started 2007-03-05; stopped 2008-02-28."
+  }
+]

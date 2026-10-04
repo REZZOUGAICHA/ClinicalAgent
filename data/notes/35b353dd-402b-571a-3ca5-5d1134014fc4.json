@@ -1,0 +1,65 @@
+[
+  {
+    "doc_id": "35b353dd-402b-571a-3ca5-5d1134014fc4",
+    "patient_id": "35b353dd-402b-571a-d67a-af0a104d0854",
+    "document_type": "Urgent Care Note",
+    "date": "2018-05-12",
+    "section": "Visit Information",
+    "title": "Urgent Care Note - Jody Monahan - 2018-05-12",
+    "content": "Patient: Jody Monahan, male, born 1943-09-18 (patient ID 35b353dd-402b-571a-d67a-af0a104d0854).\nVisit date: 2018-05-12.\nVisit type: Urgent care clinic.\nClinician: Tracy Wilderman (General Practice).\nFacility: MASS GENERAL BRIGHAM URGENT CARE LLC, WOBURN, MA."
+  },
+  {
+    "doc_id": "35b353dd-402b-571a-3ca5-5d1134014fc4",
+    "patient_id": "35b353dd-402b-571a-d67a-af0a104d0854",
+    "document_type": "Urgent Care Note",
+    "date": "2018-05-12",
+    "section": "Assessment",
+    "title": "Urgent Care Note - Jody Monahan - 2018-05-12",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2018-05-12), resolved 2018-05-12.\n- Part-time employment (onset 2018-05-12), resolved 2018-05-26.\n- Limited social contact (onset 2018-05-12), resolved 2018-05-26.\n- Stress (onset 2018-05-12), resolved 2018-05-26."
+  },
+  {
+    "doc_id": "35b353dd-402b-571a-3ca5-5d1134014fc4",
+    "patient_id": "35b353dd-402b-571a-d67a-af0a104d0854",
+    "document_type": "Urgent Care Note",
+    "date": "2018-05-12",
+    "section": "Vital Signs",
+    "title": "Urgent Care Note - Jody Monahan - 2018-05-12",
+    "content": "- Body Height: 172.0 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0\n- Body Weight: 81.1 kg\n- Body mass index (BMI) [Ratio]: 27.4 kg/m2\n- Diastolic Blood Pressure: 61.0 mm[Hg]\n- Systolic Blood Pressure: 114.0 mm[Hg]\n- Heart rate: 87.0 /min\n- Respiratory rate: 14.0 /min"
+  },
+  {
+    "doc_id": "35b353dd-402b-571a-3ca5-5d1134014fc4",
+    "patient_id": "35b353dd-402b-571a-d67a-af0a104d0854",
+    "document_type": "Urgent Care Note",
+    "date": "2018-05-12",
+    "section": "Laboratory Results",
+    "title": "Urgent Care Note - Jody Monahan - 2018-05-12",
+    "content": "- Glucose [Mass/volume] in Serum or Plasma: 72.1 mg/dL\n- Urea nitrogen [Mass/volume] in Serum or Plasma: 8.1 mg/dL\n- Creatinine [Mass/volume] in Serum or Plasma: 1.4 mg/dL\n- Calcium [Mass/volume] in Serum or Plasma: 9.3 mg/dL\n- Sodium [Moles/volume] in Serum or Plasma: 140.1 mmol/L\n- Potassium [Moles/volume] in Serum or Plasma: 4.8 mmol/L\n- Chloride [Moles/volume] in Serum or Plasma: 107.7 mmol/L\n- Carbon dioxide  total [Moles/volume] in Serum or Plasma: 23.9 mmol/L\n- Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M: 124.9 mL/min/{1.73_m2}\n- Appearance of Urine: Cloudy urine (finding)\n- Odor of Urine: Urine smell ammoniacal (finding)\n- Clarity of Urine: Translucent (qualifier value)\n- Color of Urine: Brown color (qualifier value)\n- Glucose [Mass/volume] in Urine by Test strip: 1.6 mg/dL\n- Glucose [Presence] in Urine by Test strip: Urine glucose test = ++ (finding)\n- Bilirubin.total [Mass/volume] in Urine by Test strip: 1.3 mg/dL\n- Bilirubin.total [Presence] in Urine by Test strip: Finding of bilirubin in urine (finding)\n- Ketones [Mass/volume] in Urine by Test strip: 2.7 mg/dL\n- Ketones [Presence] in Urine by Test strip: Urine ketone test = trace (finding)\n- Specific gravity of Urine by Test strip: 1.0\n- pH of Urine by Test strip: 5.9 pH\n- Protein [Mass/volume] in Urine by Test strip: 54.6 mg/dL\n- Protein [Presence] in Urine by Test strip: Urine protein test = + (finding)\n- Nitrite [Presence] in Urine by Test strip: Nitrite not detected in urine (finding)\n- Hemoglobin [Presence] in Urine by Test strip: Blood not detected in urine (finding)\n- Leukocyte esterase [Presence] in Urine by Test strip: Urine leukocytes not detected (finding)"
+  },
+  {
+    "doc_id": "35b353dd-402b-571a-3ca5-5d1134014fc4",
+    "patient_id": "35b353dd-402b-571a-d67a-af0a104d0854",
+    "document_type": "Urgent Care Note",
+    "date": "2018-05-12",
+    "section": "Procedures",
+    "title": "Urgent Care Note - Jody Monahan - 2018-05-12",
+    "content": "- Medication reconciliation.\n- Sleep apnea assessment, for Sleep disorder.\n- Assessment of health and social care needs.\n- Assessment using Morse Fall Scale.\n- Screening for domestic abuse."
+  },
+  {
+    "doc_id": "35b353dd-402b-571a-3ca5-5d1134014fc4",
+    "patient_id": "35b353dd-402b-571a-d67a-af0a104d0854",
+    "document_type": "Urgent Care Note",
+    "date": "2018-05-12",
+    "section": "Medications",
+    "title": "Urgent Care Note - Jody Monahan - 2018-05-12",
+    "content": "Medications prescribed at this visit:\n- Hydrochlorothiazide 25 MG Oral Tablet, started 2018-05-12, for Essential hypertension; stopped 2018-05-19."
+  },
+  {
+    "doc_id": "35b353dd-402b-571a-3ca5-5d1134014fc4",
+    "patient_id": "35b353dd-402b-571a-d67a-af0a104d0854",
+    "document_type": "Urgent Care Note",
+    "date": "2018-05-12",
+    "section": "Immunizations",
+    "title": "Urgent Care Note - Jody Monahan - 2018-05-12",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

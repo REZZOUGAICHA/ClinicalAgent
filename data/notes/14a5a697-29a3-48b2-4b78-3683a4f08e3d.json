@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "14a5a697-29a3-48b2-4b78-3683a4f08e3d",
+    "patient_id": "14a5a697-29a3-48b2-969a-3ceefe74a700",
+    "document_type": "Office Visit Note",
+    "date": "2022-02-12",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Drusilla Schumm - 2022-02-12",
+    "content": "Patient: Drusilla Schumm, female, born 1958-11-15 (patient ID 14a5a697-29a3-48b2-969a-3ceefe74a700).\nVisit date: 2022-02-12.\nVisit type: Encounter for check up.\nClinician: Bennie Abbott (General Practice).\nFacility: LAHEY HOSPITAL & MEDICAL CENTER BURLINGTON, PEABODY, MA."
+  },
+  {
+    "doc_id": "14a5a697-29a3-48b2-4b78-3683a4f08e3d",
+    "patient_id": "14a5a697-29a3-48b2-969a-3ceefe74a700",
+    "document_type": "Office Visit Note",
+    "date": "2022-02-12",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Drusilla Schumm - 2022-02-12",
+    "content": "Seen for Patient referral for dental care."
+  },
+  {
+    "doc_id": "14a5a697-29a3-48b2-4b78-3683a4f08e3d",
+    "patient_id": "14a5a697-29a3-48b2-969a-3ceefe74a700",
+    "document_type": "Office Visit Note",
+    "date": "2022-02-12",
+    "section": "Procedures",
+    "title": "Office Visit Note - Drusilla Schumm - 2022-02-12",
+    "content": "- Dental consultation and report, for Patient referral for dental care.\n- Dental care, for Patient referral for dental care.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Examination of gingivae, for Patient referral for dental care.\n- Oral health education, for Patient referral for dental care."
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "c053e996-a4c4-6c02-3cd6-29163198d69c",
+    "patient_id": "c053e996-a4c4-6c02-e2b6-284227156c67",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-12-22",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Sharyn Hagenes - 2023-12-22",
+    "content": "Patient: Sharyn Hagenes, female, born 2023-09-15 (patient ID c053e996-a4c4-6c02-e2b6-284227156c67).\nVisit date: 2023-12-22.\nVisit type: Well child visit.\nClinician: Colin Witting (General Practice).\nFacility: PALMER FAMILY SERVICES LLC, MILFORD, MA."
+  },
+  {
+    "doc_id": "c053e996-a4c4-6c02-3cd6-29163198d69c",
+    "patient_id": "c053e996-a4c4-6c02-e2b6-284227156c67",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-12-22",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Sharyn Hagenes - 2023-12-22",
+    "content": "- Body Height: 62.2 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0\n- Body Weight: 6.5 kg\n- Weight-for-length Per age and sex: 53.4 %\n- Head Occipital-frontal circumference Percentile: 78.1 %\n- Head Occipital-frontal circumference: 41.5 cm\n- Diastolic Blood Pressure: 83.0 mm[Hg]\n- Systolic Blood Pressure: 131.0 mm[Hg]\n- Heart rate: 77.0 /min\n- Respiratory rate: 15.0 /min"
+  },
+  {
+    "doc_id": "c053e996-a4c4-6c02-3cd6-29163198d69c",
+    "patient_id": "c053e996-a4c4-6c02-e2b6-284227156c67",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-12-22",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Sharyn Hagenes - 2023-12-22",
+    "content": "- Medication reconciliation."
+  },
+  {
+    "doc_id": "c053e996-a4c4-6c02-3cd6-29163198d69c",
+    "patient_id": "c053e996-a4c4-6c02-e2b6-284227156c67",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-12-22",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Sharyn Hagenes - 2023-12-22",
+    "content": "- Hib (PRP-OMP).\n- rotavirus monovalent.\n- IPV.\n- DTaP.\n- Pneumococcal conjugate PCV 13."
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "doc_id": "982750f4-569b-5949-3661-c255f6ae22a1",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-08-07",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Dwana Wolf - 2024-08-07",
+    "content": "Patient: Dwana Wolf, female, born 1986-11-12 (patient ID 982750f4-569b-5949-196b-60699bdda3fb).\nVisit date: 2024-08-07.\nVisit type: General examination of patient.\nClinician: Hank Schneider (General Practice).\nFacility: LOWELL FAMILY MEDICAL CARE PC, LOWELL, MA."
+  },
+  {
+    "doc_id": "982750f4-569b-5949-3661-c255f6ae22a1",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-08-07",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Dwana Wolf - 2024-08-07",
+    "content": "Diagnoses recorded at this visit:\n- Unemployed (onset 2024-08-07), resolved 2025-08-13.\n- Social isolation (onset 2024-08-07), resolved 2026-08-19.\n- Stress (onset 2024-08-07), resolved 2025-08-13.\n- Gingivitis (onset 2024-08-07), resolved 2024-08-21."
+  },
+  {
+    "doc_id": "982750f4-569b-5949-3661-c255f6ae22a1",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-08-07",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Dwana Wolf - 2024-08-07",
+    "content": "- Body Height: 158.3 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0\n- Body Weight: 68.9 kg\n- Body mass index (BMI) [Ratio]: 27.5 kg/m2\n- Diastolic Blood Pressure: 83.0 mm[Hg]\n- Systolic Blood Pressure: 137.0 mm[Hg]\n- Heart rate: 100.0 /min\n- Respiratory rate: 16.0 /min"
+  },
+  {
+    "doc_id": "982750f4-569b-5949-3661-c255f6ae22a1",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-08-07",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Dwana Wolf - 2024-08-07",
+    "content": "- Hemoglobin A1c/Hemoglobin.total in Blood: 5.4 %\n- Glucose [Mass/volume] in Blood: 158.6 mg/dL\n- Urea nitrogen [Mass/volume] in Blood: 18.0 mg/dL\n- Creatinine [Mass/volume] in Blood: 0.8 mg/dL\n- Calcium [Mass/volume] in Blood: 9.2 mg/dL\n- Sodium [Moles/volume] in Blood: 140.4 mmol/L\n- Potassium [Moles/volume] in Blood: 4.5 mmol/L\n- Chloride [Moles/volume] in Blood: 106.2 mmol/L\n- Carbon dioxide  total [Moles/volume] in Blood: 25.3 mmol/L\n- Cholesterol [Mass/volume] in Serum or Plasma: 245.4 mg/dL\n- Triglyceride [Mass/volume] in Serum or Plasma: 219.4 mg/dL\n- Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay: 173.7 mg/dL\n- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 27.8 mg/dL\n- Microalbumin/Creatinine [Mass Ratio] in Urine: 1.9 mg/g\n- Leukocytes [#/volume] in Blood by Automated count: 9.2 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 5.1 10*6/uL\n- Hemoglobin [Mass/volume] in Blood: 12.3 g/dL\n- Hematocrit [Volume Fraction] of Blood by Automated count: 42.9 %\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 88.3 fL\n- MCH [Entitic mass] by Automated count: 28.1 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 34.3 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 39.0 fL\n- Platelets [#/volume] in Blood by Automated count: 425.6 10*3/uL\n- Platelet distribution width [Entitic volume] in Blood by Automated count: 11.3 fL\n- Platelet [Entitic mean volume] in Blood by Automated count: 9.6 fL\n- Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M: 133.4 mL/min/{1.73_m2}"
+  },
+  {
+    "doc_id": "982750f4-569b-5949-3661-c255f6ae22a1",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-08-07",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Dwana Wolf - 2024-08-07",
+    "content": "- Medication reconciliation.\n- Assessment of health and social care needs.\n- Assessment of anxiety.\n- Patient referral for dental care, for Gingivitis."
+  },
+  {
+    "doc_id": "982750f4-569b-5949-3661-c255f6ae22a1",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-08-07",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Dwana Wolf - 2024-08-07",
+    "content": "Medications prescribed at this visit:\n- Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet], started 2024-08-07; stopped 2025-08-13.\n- Acetaminophen 325 MG Oral Tablet [Tylenol], started 2024-08-07; stopped 2025-08-13.\n- tramadol hydrochloride 50 MG Oral Tablet, started 2024-08-07; stopped 2025-08-13.\n- 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet, started 2024-08-07, for Diabetes mellitus type 2; stopped 2025-08-13."
+  },
+  {
+    "doc_id": "982750f4-569b-5949-3661-c255f6ae22a1",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-08-07",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Dwana Wolf - 2024-08-07",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "35b353dd-402b-571a-b0ab-f704c10fed31",
+    "patient_id": "35b353dd-402b-571a-d67a-af0a104d0854",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1980-12-06",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Jody Monahan - 1980-12-06",
+    "content": "Patient: Jody Monahan, male, born 1943-09-18 (patient ID 35b353dd-402b-571a-d67a-af0a104d0854).\nVisit date: 1980-12-06.\nVisit type: General examination of patient.\nClinician: Georgianne Howe (General Practice).\nFacility: WOODLAND INTERNISTS P.C., STONEHAM, MA."
+  },
+  {
+    "doc_id": "35b353dd-402b-571a-b0ab-f704c10fed31",
+    "patient_id": "35b353dd-402b-571a-d67a-af0a104d0854",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1980-12-06",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Jody Monahan - 1980-12-06",
+    "content": "Diagnoses recorded at this visit:\n- Body mass index 30+ - obesity (onset 1980-12-06)."
+  }
+]

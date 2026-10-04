@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "dd9da64b-7b38-4f91-90bb-c752eee3f2dc",
+    "patient_id": "dd9da64b-7b38-4f91-e75d-b1268dde60d4",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-05-29",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Donnetta Jenkins - 2017-05-29",
+    "content": "Patient: Donnetta Jenkins, female, born 1987-01-26 (patient ID dd9da64b-7b38-4f91-e75d-b1268dde60d4).\nVisit date: 2017-05-29.\nVisit type: General examination of patient.\nClinician: Son MacGyver (General Practice).\nFacility: HOLISTIC FAMILY PRACTICE INC., NEWBURY, MA."
+  },
+  {
+    "doc_id": "dd9da64b-7b38-4f91-90bb-c752eee3f2dc",
+    "patient_id": "dd9da64b-7b38-4f91-e75d-b1268dde60d4",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-05-29",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Donnetta Jenkins - 2017-05-29",
+    "content": "- Body Height: 156.3 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0\n- Body Weight: 81.3 kg\n- Body mass index (BMI) [Ratio]: 33.3 kg/m2\n- Diastolic Blood Pressure: 83.0 mm[Hg]\n- Systolic Blood Pressure: 114.0 mm[Hg]\n- Heart rate: 63.0 /min\n- Respiratory rate: 14.0 /min"
+  },
+  {
+    "doc_id": "dd9da64b-7b38-4f91-90bb-c752eee3f2dc",
+    "patient_id": "dd9da64b-7b38-4f91-e75d-b1268dde60d4",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-05-29",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Donnetta Jenkins - 2017-05-29",
+    "content": "- Cholesterol [Mass/volume] in Serum or Plasma: 138.7 mg/dL\n- Triglyceride [Mass/volume] in Serum or Plasma: 137.6 mg/dL\n- Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay: 52.3 mg/dL\n- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 58.9 mg/dL"
+  },
+  {
+    "doc_id": "dd9da64b-7b38-4f91-90bb-c752eee3f2dc",
+    "patient_id": "dd9da64b-7b38-4f91-e75d-b1268dde60d4",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-05-29",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Donnetta Jenkins - 2017-05-29",
+    "content": "- Assessment of health and social care needs.\n- Depression screening.\n- Depression screening.\n- Assessment of substance use.\n- Assessment using Alcohol Use Disorders Identification Test - Consumption."
+  },
+  {
+    "doc_id": "dd9da64b-7b38-4f91-90bb-c752eee3f2dc",
+    "patient_id": "dd9da64b-7b38-4f91-e75d-b1268dde60d4",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-05-29",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Donnetta Jenkins - 2017-05-29",
+    "content": "Medications prescribed at this visit:\n- budesonide 0.25 MG/ML Inhalation Suspension, started 2017-05-29, for Childhood asthma; stopped 2018-06-04.\n- NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir], started 2017-05-29, for Childhood asthma; stopped 2018-06-04."
+  },
+  {
+    "doc_id": "dd9da64b-7b38-4f91-90bb-c752eee3f2dc",
+    "patient_id": "dd9da64b-7b38-4f91-e75d-b1268dde60d4",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-05-29",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Donnetta Jenkins - 2017-05-29",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

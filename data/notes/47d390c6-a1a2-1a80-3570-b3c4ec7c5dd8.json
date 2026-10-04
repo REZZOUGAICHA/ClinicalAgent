@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "47d390c6-a1a2-1a80-3570-b3c4ec7c5dd8",
+    "patient_id": "47d390c6-a1a2-1a80-dd1d-9722c7b24159",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2022-04-02",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Demarcus Jones - 2022-04-02",
+    "content": "Patient: Demarcus Jones, male, born 2009-03-07 (patient ID 47d390c6-a1a2-1a80-dd1d-9722c7b24159).\nVisit date: 2022-04-02.\nVisit type: Well child visit.\nClinician: Francene Halvorson (General Practice).\nFacility: HAVERHILL FAMILY OFFICE LLC, HAVERHILL, MA."
+  },
+  {
+    "doc_id": "47d390c6-a1a2-1a80-3570-b3c4ec7c5dd8",
+    "patient_id": "47d390c6-a1a2-1a80-dd1d-9722c7b24159",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2022-04-02",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Demarcus Jones - 2022-04-02",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2022-04-02), resolved 2022-04-02."
+  },
+  {
+    "doc_id": "47d390c6-a1a2-1a80-3570-b3c4ec7c5dd8",
+    "patient_id": "47d390c6-a1a2-1a80-dd1d-9722c7b24159",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2022-04-02",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Demarcus Jones - 2022-04-02",
+    "content": "- Body Height: 160.8 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0\n- Body Weight: 51.2 kg\n- Body mass index (BMI) [Ratio]: 19.8 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 68.3 %\n- Diastolic Blood Pressure: 100.0 mm[Hg]\n- Systolic Blood Pressure: 110.0 mm[Hg]\n- Heart rate: 77.0 /min\n- Respiratory rate: 16.0 /min"
+  },
+  {
+    "doc_id": "47d390c6-a1a2-1a80-3570-b3c4ec7c5dd8",
+    "patient_id": "47d390c6-a1a2-1a80-dd1d-9722c7b24159",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2022-04-02",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Demarcus Jones - 2022-04-02",
+    "content": "- Medication reconciliation.\n- Assessment of anxiety.\n- Depression screening.\n- Depression screening using Patient Health Questionnaire Nine Item score."
+  },
+  {
+    "doc_id": "47d390c6-a1a2-1a80-3570-b3c4ec7c5dd8",
+    "patient_id": "47d390c6-a1a2-1a80-dd1d-9722c7b24159",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2022-04-02",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Demarcus Jones - 2022-04-02",
+    "content": "- Influenza split virus trivalent PF.\n- HPV quadrivalent."
+  }
+]

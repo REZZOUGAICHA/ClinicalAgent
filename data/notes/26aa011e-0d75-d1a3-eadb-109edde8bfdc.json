@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "26aa011e-0d75-d1a3-eadb-109edde8bfdc",
+    "patient_id": "26aa011e-0d75-d1a3-3c5a-560a9450cc9d",
+    "document_type": "Office Visit Note",
+    "date": "2026-05-31",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Jesse Wolf - 2026-05-31",
+    "content": "Patient: Jesse Wolf, male, born 2010-04-04 (patient ID 26aa011e-0d75-d1a3-3c5a-560a9450cc9d).\nVisit date: 2026-05-31.\nVisit type: Encounter for check up.\nClinician: Marcus Schamberger (General Practice).\nFacility: THE LOWELL GENERAL HOSPITAL, WESTFORD, MA."
+  },
+  {
+    "doc_id": "26aa011e-0d75-d1a3-eadb-109edde8bfdc",
+    "patient_id": "26aa011e-0d75-d1a3-3c5a-560a9450cc9d",
+    "document_type": "Office Visit Note",
+    "date": "2026-05-31",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Jesse Wolf - 2026-05-31",
+    "content": "Seen for Gingivitis."
+  },
+  {
+    "doc_id": "26aa011e-0d75-d1a3-eadb-109edde8bfdc",
+    "patient_id": "26aa011e-0d75-d1a3-3c5a-560a9450cc9d",
+    "document_type": "Office Visit Note",
+    "date": "2026-05-31",
+    "section": "Procedures",
+    "title": "Office Visit Note - Jesse Wolf - 2026-05-31",
+    "content": "- Dental consultation and report, for Gingivitis.\n- Dental care, for Gingivitis.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Examination of gingivae, for Gingivitis.\n- Oral health education, for Gingivitis."
+  }
+]

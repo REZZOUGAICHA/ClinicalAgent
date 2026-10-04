@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "7b06ee52-df9a-8487-f4db-0fff6a0a7686",
+    "patient_id": "7b06ee52-df9a-8487-0be6-dff27cc7d519",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-09-18",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Ressie Nader - 2017-09-18",
+    "content": "Patient: Ressie Nader, female, born 2001-08-06 (patient ID 7b06ee52-df9a-8487-0be6-dff27cc7d519).\nVisit date: 2017-09-18.\nVisit type: Well child visit.\nClinician: Morgan Marvin (General Practice).\nFacility: FAMILY MEDICINE ASSOCIATES OF SOUTH ATTLEBORO P.C., SOUTH ATTLEBORO, MA."
+  },
+  {
+    "doc_id": "7b06ee52-df9a-8487-f4db-0fff6a0a7686",
+    "patient_id": "7b06ee52-df9a-8487-0be6-dff27cc7d519",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-09-18",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Ressie Nader - 2017-09-18",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2017-09-18), resolved 2018-09-24."
+  },
+  {
+    "doc_id": "7b06ee52-df9a-8487-f4db-0fff6a0a7686",
+    "patient_id": "7b06ee52-df9a-8487-0be6-dff27cc7d519",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-09-18",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Ressie Nader - 2017-09-18",
+    "content": "- Body Height: 153.5 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0\n- Body Weight: 60.0 kg\n- Body mass index (BMI) [Ratio]: 25.5 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 87.8 %\n- Diastolic Blood Pressure: 90.0 mm[Hg]\n- Systolic Blood Pressure: 111.0 mm[Hg]\n- Heart rate: 82.0 /min\n- Respiratory rate: 16.0 /min"
+  },
+  {
+    "doc_id": "7b06ee52-df9a-8487-f4db-0fff6a0a7686",
+    "patient_id": "7b06ee52-df9a-8487-0be6-dff27cc7d519",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-09-18",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Ressie Nader - 2017-09-18",
+    "content": "- Leukocytes [#/volume] in Blood by Automated count: 7.9 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 5.0 10*6/uL\n- Hemoglobin [Mass/volume] in Blood: 14.4 g/dL\n- Hematocrit [Volume Fraction] of Blood by Automated count: 43.3 %\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 94.5 fL\n- MCH [Entitic mass] by Automated count: 30.5 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 34.9 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 45.3 fL\n- Platelets [#/volume] in Blood by Automated count: 235.3 10*3/uL\n- Platelet distribution width [Entitic volume] in Blood by Automated count: 12.8 fL\n- Platelet [Entitic mean volume] in Blood by Automated count: 11.4 fL"
+  },
+  {
+    "doc_id": "7b06ee52-df9a-8487-f4db-0fff6a0a7686",
+    "patient_id": "7b06ee52-df9a-8487-0be6-dff27cc7d519",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-09-18",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Ressie Nader - 2017-09-18",
+    "content": "- Depression screening.\n- Depression screening using Patient Health Questionnaire Nine Item score.\n- Assessment of substance use.\n- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test.\n- Anticipatory guidance.\n- Patient referral for dental care."
+  },
+  {
+    "doc_id": "7b06ee52-df9a-8487-f4db-0fff6a0a7686",
+    "patient_id": "7b06ee52-df9a-8487-0be6-dff27cc7d519",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-09-18",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Ressie Nader - 2017-09-18",
+    "content": "- Influenza split virus trivalent PF.\n- meningococcal MCV4P."
+  }
+]

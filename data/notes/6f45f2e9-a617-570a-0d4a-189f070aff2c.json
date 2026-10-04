@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "6f45f2e9-a617-570a-0d4a-189f070aff2c",
+    "patient_id": "6f45f2e9-a617-570a-8867-dec1260088bb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-07-11",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Carey Mraz - 2024-07-11",
+    "content": "Patient: Carey Mraz, male, born 2013-06-27 (patient ID 6f45f2e9-a617-570a-8867-dec1260088bb).\nVisit date: 2024-07-11.\nVisit type: Well child visit.\nClinician: Ulysses Ziemann (General Practice).\nFacility: CENTER FOR DIGESTIVE WELLNESS PC, LEOMINSTER, MA."
+  },
+  {
+    "doc_id": "6f45f2e9-a617-570a-0d4a-189f070aff2c",
+    "patient_id": "6f45f2e9-a617-570a-8867-dec1260088bb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-07-11",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Carey Mraz - 2024-07-11",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2024-07-11), resolved 2025-07-17."
+  },
+  {
+    "doc_id": "6f45f2e9-a617-570a-0d4a-189f070aff2c",
+    "patient_id": "6f45f2e9-a617-570a-8867-dec1260088bb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-07-11",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Carey Mraz - 2024-07-11",
+    "content": "- Body Height: 156.3 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0\n- Body Weight: 47.3 kg\n- Body mass index (BMI) [Ratio]: 19.4 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 78.8 %\n- Diastolic Blood Pressure: 78.0 mm[Hg]\n- Systolic Blood Pressure: 122.0 mm[Hg]\n- Heart rate: 73.0 /min\n- Respiratory rate: 16.0 /min"
+  },
+  {
+    "doc_id": "6f45f2e9-a617-570a-0d4a-189f070aff2c",
+    "patient_id": "6f45f2e9-a617-570a-8867-dec1260088bb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-07-11",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Carey Mraz - 2024-07-11",
+    "content": "- Leukocytes [#/volume] in Blood by Automated count: 10.2 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 5.2 10*6/uL\n- Hemoglobin [Mass/volume] in Blood: 16.1 g/dL\n- Hematocrit [Volume Fraction] of Blood by Automated count: 38.5 %\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 88.2 fL\n- MCH [Entitic mass] by Automated count: 32.9 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 33.7 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 41.5 fL\n- Platelets [#/volume] in Blood by Automated count: 413.5 10*3/uL\n- Platelet distribution width [Entitic volume] in Blood by Automated count: 9.0 fL\n- Platelet [Entitic mean volume] in Blood by Automated count: 10.7 fL"
+  },
+  {
+    "doc_id": "6f45f2e9-a617-570a-0d4a-189f070aff2c",
+    "patient_id": "6f45f2e9-a617-570a-8867-dec1260088bb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-07-11",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Carey Mraz - 2024-07-11",
+    "content": "- Tdap.\n- Influenza split virus trivalent PF.\n- HPV quadrivalent.\n- meningococcal MCV4P."
+  }
+]

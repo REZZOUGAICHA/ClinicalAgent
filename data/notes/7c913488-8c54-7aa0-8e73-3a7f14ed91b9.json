@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "7c913488-8c54-7aa0-8e73-3a7f14ed91b9",
+    "patient_id": "7c913488-8c54-7aa0-a452-83dbc3ad8377",
+    "document_type": "Office Visit Note",
+    "date": "2026-02-27",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Dian Kiehn - 2026-02-27",
+    "content": "Patient: Dian Kiehn, female, born 2012-01-13 (patient ID 7c913488-8c54-7aa0-a452-83dbc3ad8377).\nVisit date: 2026-02-27.\nVisit type: Encounter for check up.\nClinician: Vella Ankunding (General Practice).\nFacility: SOUTHCOAST HOSPITALS GROUP INC, FALL RIVER, MA."
+  },
+  {
+    "doc_id": "7c913488-8c54-7aa0-8e73-3a7f14ed91b9",
+    "patient_id": "7c913488-8c54-7aa0-a452-83dbc3ad8377",
+    "document_type": "Office Visit Note",
+    "date": "2026-02-27",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Dian Kiehn - 2026-02-27",
+    "content": "Seen for Gingivitis."
+  },
+  {
+    "doc_id": "7c913488-8c54-7aa0-8e73-3a7f14ed91b9",
+    "patient_id": "7c913488-8c54-7aa0-a452-83dbc3ad8377",
+    "document_type": "Office Visit Note",
+    "date": "2026-02-27",
+    "section": "Procedures",
+    "title": "Office Visit Note - Dian Kiehn - 2026-02-27",
+    "content": "- Dental consultation and report, for Gingivitis.\n- Dental care, for Gingivitis.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Examination of gingivae, for Gingivitis.\n- Dental fluoride treatment, for Gingivitis.\n- Oral health education, for Gingivitis."
+  },
+  {
+    "doc_id": "7c913488-8c54-7aa0-8e73-3a7f14ed91b9",
+    "patient_id": "7c913488-8c54-7aa0-a452-83dbc3ad8377",
+    "document_type": "Office Visit Note",
+    "date": "2026-02-27",
+    "section": "Medications",
+    "title": "Office Visit Note - Dian Kiehn - 2026-02-27",
+    "content": "Medications prescribed at this visit:\n- sodium fluoride 0.0272 MG/MG Oral Gel, started 2026-02-27, for Gingivitis; stopped 2026-02-27."
+  }
+]

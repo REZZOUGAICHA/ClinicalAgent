@@ -1,0 +1,65 @@
+[
+  {
+    "doc_id": "62f60bdb-cc5c-8305-7f47-8241cd1ae208",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-03-13",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Angel Frami - 2019-03-13",
+    "content": "Patient: Angel Frami, female, born 1975-10-22 (patient ID 62f60bdb-cc5c-8305-b98b-f2b229a55eca).\nVisit date: 2019-03-13.\nVisit type: General examination of patient.\nClinician: Cody Ratke (General Practice).\nFacility: HEALTHFIRST FAMILY CARE CENTER INC, FALL RIVER, MA."
+  },
+  {
+    "doc_id": "62f60bdb-cc5c-8305-7f47-8241cd1ae208",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-03-13",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Angel Frami - 2019-03-13",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2019-03-13), resolved 2021-03-24.\n- Limited social contact (onset 2019-03-13), resolved 2025-04-16.\n- Stress (onset 2019-03-13), resolved 2021-03-24.\n- Victim of intimate partner abuse (onset 2019-03-13), resolved 2020-03-18."
+  },
+  {
+    "doc_id": "62f60bdb-cc5c-8305-7f47-8241cd1ae208",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-03-13",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Angel Frami - 2019-03-13",
+    "content": "- Body Height: 152.6 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0\n- Body Weight: 50.7 kg\n- Body mass index (BMI) [Ratio]: 21.8 kg/m2\n- Diastolic Blood Pressure: 81.0 mm[Hg]\n- Systolic Blood Pressure: 122.0 mm[Hg]\n- Heart rate: 62.0 /min\n- Respiratory rate: 14.0 /min"
+  },
+  {
+    "doc_id": "62f60bdb-cc5c-8305-7f47-8241cd1ae208",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-03-13",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Angel Frami - 2019-03-13",
+    "content": "- Cholesterol [Mass/volume] in Serum or Plasma: 268.8 mg/dL\n- Triglyceride [Mass/volume] in Serum or Plasma: 148.5 mg/dL\n- Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay: 190.3 mg/dL\n- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 48.8 mg/dL"
+  },
+  {
+    "doc_id": "62f60bdb-cc5c-8305-7f47-8241cd1ae208",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-03-13",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Angel Frami - 2019-03-13",
+    "content": "- Assessment of health and social care needs.\n- Assessment of anxiety.\n- Depression screening.\n- Depression screening."
+  },
+  {
+    "doc_id": "62f60bdb-cc5c-8305-7f47-8241cd1ae208",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-03-13",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Angel Frami - 2019-03-13",
+    "content": "Medications prescribed at this visit:\n- Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet, started 2019-03-13; stopped 2020-03-18.\n- Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin], started 2019-03-13; stopped 2020-03-18.\n- 72 HR Fentanyl 0.025 MG/HR Transdermal System, started 2019-03-13; stopped 2020-03-18."
+  },
+  {
+    "doc_id": "62f60bdb-cc5c-8305-7f47-8241cd1ae208",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-03-13",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Angel Frami - 2019-03-13",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

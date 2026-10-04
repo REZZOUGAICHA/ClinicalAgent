@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "150a8a76-1563-717e-6896-c315a29ed414",
+    "patient_id": "150a8a76-1563-717e-bf0f-f52045675f46",
+    "document_type": "Office Visit Note",
+    "date": "1961-12-23",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Diego Armijo - 1961-12-23",
+    "content": "Patient: Diego Armijo, male, born 1947-03-03 (patient ID 150a8a76-1563-717e-bf0f-f52045675f46).\nVisit date: 1961-12-23.\nVisit type: Encounter for symptom.\nClinician: Zachery Pagac (General Practice).\nFacility: MELROSEWAKEFIELD HEALTHCARE INC, MELROSE, MA."
+  },
+  {
+    "doc_id": "150a8a76-1563-717e-6896-c315a29ed414",
+    "patient_id": "150a8a76-1563-717e-bf0f-f52045675f46",
+    "document_type": "Office Visit Note",
+    "date": "1961-12-23",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Diego Armijo - 1961-12-23",
+    "content": "Seen for Viral sinusitis."
+  },
+  {
+    "doc_id": "150a8a76-1563-717e-6896-c315a29ed414",
+    "patient_id": "150a8a76-1563-717e-bf0f-f52045675f46",
+    "document_type": "Office Visit Note",
+    "date": "1961-12-23",
+    "section": "Assessment",
+    "title": "Office Visit Note - Diego Armijo - 1961-12-23",
+    "content": "Diagnoses recorded at this visit:\n- Viral sinusitis (onset 1961-12-23), resolved 1962-01-03."
+  },
+  {
+    "doc_id": "150a8a76-1563-717e-6896-c315a29ed414",
+    "patient_id": "150a8a76-1563-717e-bf0f-f52045675f46",
+    "document_type": "Office Visit Note",
+    "date": "1961-12-23",
+    "section": "Medications",
+    "title": "Office Visit Note - Diego Armijo - 1961-12-23",
+    "content": "Medications prescribed at this visit:\n- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet, started 1961-12-23, for Viral sinusitis; stopped 1962-01-03."
+  }
+]

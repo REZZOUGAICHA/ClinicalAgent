@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "f95a6723-14a5-c4b6-f9b3-7099ecc861eb",
+    "patient_id": "f95a6723-14a5-c4b6-78df-fa97f7ab361c",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2009-03-14",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Roxann Sauer - 2009-03-14",
+    "content": "Patient: Roxann Sauer, female, born 1986-08-23 (patient ID f95a6723-14a5-c4b6-78df-fa97f7ab361c).\nVisit date: 2009-03-14.\nVisit type: Encounter for check up.\nClinician: Chu Weber (General Practice).\nFacility: STURDY MEMORIAL HOSPITAL INC, ATTLEBORO, MA."
+  },
+  {
+    "doc_id": "f95a6723-14a5-c4b6-f9b3-7099ecc861eb",
+    "patient_id": "f95a6723-14a5-c4b6-78df-fa97f7ab361c",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2009-03-14",
+    "section": "Assessment",
+    "title": "Outpatient Procedure Note - Roxann Sauer - 2009-03-14",
+    "content": "Diagnoses recorded at this visit:\n- Social isolation (onset 2009-03-14), resolved 2019-01-05."
+  }
+]

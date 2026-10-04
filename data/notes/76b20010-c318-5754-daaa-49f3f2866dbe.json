@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "76b20010-c318-5754-daaa-49f3f2866dbe",
+    "patient_id": "76b20010-c318-5754-8c85-983aa538522f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-08-23",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Jody Hickle - 2021-08-23",
+    "content": "Patient: Jody Hickle, male, born 2018-03-19 (patient ID 76b20010-c318-5754-8c85-983aa538522f).\nVisit date: 2021-08-23.\nVisit type: Well child visit.\nClinician: Dane Tromp (General Practice).\nFacility: NEWBURYPORT FAMILY PRACTICE P.C., NEWBURYPORT, MA."
+  },
+  {
+    "doc_id": "76b20010-c318-5754-daaa-49f3f2866dbe",
+    "patient_id": "76b20010-c318-5754-8c85-983aa538522f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-08-23",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Jody Hickle - 2021-08-23",
+    "content": "- Body Height: 99.0 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0\n- Body Weight: 15.1 kg\n- Weight-for-length Per age and sex: 32.5 %\n- Head Occipital-frontal circumference Percentile: 58.8 %\n- Head Occipital-frontal circumference: 50.0 cm\n- Body mass index (BMI) [Ratio]: 15.4 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 35.1 %\n- Diastolic Blood Pressure: 88.0 mm[Hg]\n- Systolic Blood Pressure: 115.0 mm[Hg]\n- Heart rate: 86.0 /min\n- Respiratory rate: 13.0 /min"
+  }
+]

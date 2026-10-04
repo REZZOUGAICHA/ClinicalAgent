@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "35b353dd-402b-571a-d20c-f9184b57058a",
+    "patient_id": "35b353dd-402b-571a-d67a-af0a104d0854",
+    "document_type": "Urgent Care Note",
+    "date": "2008-06-14",
+    "section": "Visit Information",
+    "title": "Urgent Care Note - Jody Monahan - 2008-06-14",
+    "content": "Patient: Jody Monahan, male, born 1943-09-18 (patient ID 35b353dd-402b-571a-d67a-af0a104d0854).\nVisit date: 2008-06-14.\nVisit type: Urgent care clinic.\nClinician: Tracy Wilderman (General Practice).\nFacility: MASS GENERAL BRIGHAM URGENT CARE LLC, WOBURN, MA."
+  },
+  {
+    "doc_id": "35b353dd-402b-571a-d20c-f9184b57058a",
+    "patient_id": "35b353dd-402b-571a-d67a-af0a104d0854",
+    "document_type": "Urgent Care Note",
+    "date": "2008-06-14",
+    "section": "Assessment",
+    "title": "Urgent Care Note - Jody Monahan - 2008-06-14",
+    "content": "Diagnoses recorded at this visit:\n- Chronic kidney disease stage 1 (onset 2008-06-14).\n- Disorder of kidney due to diabetes mellitus (onset 2008-06-14)."
+  }
+]

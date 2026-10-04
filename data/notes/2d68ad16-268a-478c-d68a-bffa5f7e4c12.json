@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "2d68ad16-268a-478c-d68a-bffa5f7e4c12",
+    "patient_id": "2d68ad16-268a-478c-1f84-d0f1976e1a46",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-07-31",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Mauro Braun - 2020-07-31",
+    "content": "Patient: Mauro Braun, male, born 2020-02-21 (patient ID 2d68ad16-268a-478c-1f84-d0f1976e1a46).\nVisit date: 2020-07-31.\nVisit type: Well child visit.\nClinician: Rolland Lemke (General Practice).\nFacility: QUINCY CENTER PRIMARY CARE PC, QUINCY, MA."
+  },
+  {
+    "doc_id": "2d68ad16-268a-478c-d68a-bffa5f7e4c12",
+    "patient_id": "2d68ad16-268a-478c-1f84-d0f1976e1a46",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-07-31",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Mauro Braun - 2020-07-31",
+    "content": "- Body Height: 64.2 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0\n- Body Weight: 7.4 kg\n- Weight-for-length Per age and sex: 71.4 %\n- Head Occipital-frontal circumference Percentile: 24.4 %\n- Head Occipital-frontal circumference: 42.5 cm\n- Diastolic Blood Pressure: 73.0 mm[Hg]\n- Systolic Blood Pressure: 94.0 mm[Hg]\n- Heart rate: 92.0 /min\n- Respiratory rate: 16.0 /min"
+  },
+  {
+    "doc_id": "2d68ad16-268a-478c-d68a-bffa5f7e4c12",
+    "patient_id": "2d68ad16-268a-478c-1f84-d0f1976e1a46",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-07-31",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Mauro Braun - 2020-07-31",
+    "content": "- Hib (PRP-OMP).\n- rotavirus monovalent.\n- IPV.\n- DTaP.\n- Pneumococcal conjugate PCV 13."
+  }
+]

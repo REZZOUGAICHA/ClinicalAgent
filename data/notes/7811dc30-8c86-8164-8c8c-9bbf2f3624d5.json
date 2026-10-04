@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "7811dc30-8c86-8164-8c8c-9bbf2f3624d5",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2015-11-17",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Mignon Rau - 2015-11-17",
+    "content": "Patient: Mignon Rau, female, born 1970-04-21 (patient ID 7811dc30-8c86-8164-6c33-6b6f464745ef).\nVisit date: 2015-11-17.\nVisit type: General examination of patient.\nClinician: Gordon Monahan (General Practice).\nFacility: ASSOCIATED INTERNISTS OF RANDOLPH INC., MILTON, MA."
+  },
+  {
+    "doc_id": "7811dc30-8c86-8164-8c8c-9bbf2f3624d5",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2015-11-17",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Mignon Rau - 2015-11-17",
+    "content": "Medications prescribed at this visit:\n- 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet, started 2015-11-17, for Diabetes mellitus type 2; stopped 2016-11-22.\n- budesonide 0.125 MG/ML Inhalation Suspension, started 2015-11-17, for Childhood asthma; stopped 2016-11-22.\n- albuterol 0.83 MG/ML Inhalation Solution, started 2015-11-17, for Childhood asthma; stopped 2016-11-22."
+  }
+]

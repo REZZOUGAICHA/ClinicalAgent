@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "e74367bd-7385-97dc-de6b-d5bf61e9083f",
+    "patient_id": "e74367bd-7385-97dc-2c7f-251b4cd9fe29",
+    "document_type": "Office Visit Note",
+    "date": "2021-01-02",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Tennille Jerde - 2021-01-02",
+    "content": "Patient: Tennille Jerde, female, born 1960-09-24 (patient ID e74367bd-7385-97dc-2c7f-251b4cd9fe29).\nVisit date: 2021-01-02.\nVisit type: Encounter for symptom.\nClinician: Omer Koepp (General Practice).\nFacility: CAMBRIDGE PUBLIC HEALTH COMMISSION, SOMERVILLE, MA."
+  },
+  {
+    "doc_id": "e74367bd-7385-97dc-de6b-d5bf61e9083f",
+    "patient_id": "e74367bd-7385-97dc-2c7f-251b4cd9fe29",
+    "document_type": "Office Visit Note",
+    "date": "2021-01-02",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Tennille Jerde - 2021-01-02",
+    "content": "Seen for Acute viral pharyngitis."
+  },
+  {
+    "doc_id": "e74367bd-7385-97dc-de6b-d5bf61e9083f",
+    "patient_id": "e74367bd-7385-97dc-2c7f-251b4cd9fe29",
+    "document_type": "Office Visit Note",
+    "date": "2021-01-02",
+    "section": "Assessment",
+    "title": "Office Visit Note - Tennille Jerde - 2021-01-02",
+    "content": "Diagnoses recorded at this visit:\n- Acute viral pharyngitis (onset 2021-01-02), resolved 2021-01-14."
+  },
+  {
+    "doc_id": "e74367bd-7385-97dc-de6b-d5bf61e9083f",
+    "patient_id": "e74367bd-7385-97dc-2c7f-251b4cd9fe29",
+    "document_type": "Office Visit Note",
+    "date": "2021-01-02",
+    "section": "Vital Signs",
+    "title": "Office Visit Note - Tennille Jerde - 2021-01-02",
+    "content": "- Body temperature: 37.7 \u00b0C"
+  }
+]

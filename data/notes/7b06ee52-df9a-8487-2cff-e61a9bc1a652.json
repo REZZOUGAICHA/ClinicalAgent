@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "7b06ee52-df9a-8487-2cff-e61a9bc1a652",
+    "patient_id": "7b06ee52-df9a-8487-0be6-dff27cc7d519",
+    "document_type": "Office Visit Note",
+    "date": "2024-03-18",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Ressie Nader - 2024-03-18",
+    "content": "Patient: Ressie Nader, female, born 2001-08-06 (patient ID 7b06ee52-df9a-8487-0be6-dff27cc7d519).\nVisit date: 2024-03-18.\nVisit type: Prenatal visit.\nClinician: Maricarmen Delafuente (General Practice).\nFacility: ARBOUR-FULLER HOSPITAL, SOUTH ATTLEBORO, MA."
+  },
+  {
+    "doc_id": "7b06ee52-df9a-8487-2cff-e61a9bc1a652",
+    "patient_id": "7b06ee52-df9a-8487-0be6-dff27cc7d519",
+    "document_type": "Office Visit Note",
+    "date": "2024-03-18",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Ressie Nader - 2024-03-18",
+    "content": "Seen for Normal pregnancy."
+  },
+  {
+    "doc_id": "7b06ee52-df9a-8487-2cff-e61a9bc1a652",
+    "patient_id": "7b06ee52-df9a-8487-0be6-dff27cc7d519",
+    "document_type": "Office Visit Note",
+    "date": "2024-03-18",
+    "section": "Procedures",
+    "title": "Office Visit Note - Ressie Nader - 2024-03-18",
+    "content": "- Hemogram  automated  with red blood cells  white blood cells  hemoglobin  hematocrit  indices  platelet count  and manual white blood cell differential, for Normal pregnancy.\n- Administration of vaccine product containing only Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae antigens, for Normal pregnancy.\n- Urine screening for glucose, for Normal pregnancy.\n- Evaluation of uterine fundal height, for Normal pregnancy.\n- Auscultation of the fetal heart, for Normal pregnancy."
+  }
+]

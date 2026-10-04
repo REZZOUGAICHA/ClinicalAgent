@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "5c39a9da-6fb0-3cbb-6e22-259df9e9e019",
+    "patient_id": "5c39a9da-6fb0-3cbb-0181-add875529d46",
+    "document_type": "Office Visit Note",
+    "date": "2020-03-12",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Edmond Ferry - 2020-03-12",
+    "content": "Patient: Edmond Ferry, male, born 2011-03-31 (patient ID 5c39a9da-6fb0-3cbb-0181-add875529d46).\nVisit date: 2020-03-12.\nVisit type: Encounter for symptom.\nClinician: Francisca Arteaga (General Practice).\nFacility: MOUNT AUBURN HOSPITAL, CAMBRIDGE, MA."
+  },
+  {
+    "doc_id": "5c39a9da-6fb0-3cbb-6e22-259df9e9e019",
+    "patient_id": "5c39a9da-6fb0-3cbb-0181-add875529d46",
+    "document_type": "Office Visit Note",
+    "date": "2020-03-12",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Edmond Ferry - 2020-03-12",
+    "content": "Seen for Viral sinusitis."
+  },
+  {
+    "doc_id": "5c39a9da-6fb0-3cbb-6e22-259df9e9e019",
+    "patient_id": "5c39a9da-6fb0-3cbb-0181-add875529d46",
+    "document_type": "Office Visit Note",
+    "date": "2020-03-12",
+    "section": "Assessment",
+    "title": "Office Visit Note - Edmond Ferry - 2020-03-12",
+    "content": "Diagnoses recorded at this visit:\n- Viral sinusitis (onset 2020-03-12), resolved 2020-03-21."
+  },
+  {
+    "doc_id": "5c39a9da-6fb0-3cbb-6e22-259df9e9e019",
+    "patient_id": "5c39a9da-6fb0-3cbb-0181-add875529d46",
+    "document_type": "Office Visit Note",
+    "date": "2020-03-12",
+    "section": "Medications",
+    "title": "Office Visit Note - Edmond Ferry - 2020-03-12",
+    "content": "Medications prescribed at this visit:\n- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet, started 2020-03-12, for Viral sinusitis; stopped 2020-03-21."
+  }
+]

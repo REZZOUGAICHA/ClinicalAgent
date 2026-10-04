@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "947c82ee-1735-c9ed-de62-7ee1bf68df90",
+    "patient_id": "947c82ee-1735-c9ed-8210-38cb93d8070c",
+    "document_type": "Office Visit Note",
+    "date": "2026-06-02",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Marcell Hammes - 2026-06-02",
+    "content": "Patient: Marcell Hammes, female, born 2016-05-17 (patient ID 947c82ee-1735-c9ed-8210-38cb93d8070c).\nVisit date: 2026-06-02.\nVisit type: Encounter for check up.\nClinician: Carmelina Goyette (General Practice).\nFacility: HEBREW SENIORLIFE AFFILIATED MEDICAL GROUP INC, ROSLINDALE, MA."
+  },
+  {
+    "doc_id": "947c82ee-1735-c9ed-de62-7ee1bf68df90",
+    "patient_id": "947c82ee-1735-c9ed-8210-38cb93d8070c",
+    "document_type": "Office Visit Note",
+    "date": "2026-06-02",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Marcell Hammes - 2026-06-02",
+    "content": "Seen for Gingivitis."
+  },
+  {
+    "doc_id": "947c82ee-1735-c9ed-de62-7ee1bf68df90",
+    "patient_id": "947c82ee-1735-c9ed-8210-38cb93d8070c",
+    "document_type": "Office Visit Note",
+    "date": "2026-06-02",
+    "section": "Procedures",
+    "title": "Office Visit Note - Marcell Hammes - 2026-06-02",
+    "content": "- Dental consultation and report, for Gingivitis.\n- Dental care, for Gingivitis.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Dental plain X-ray bitewing.\n- Examination of gingivae, for Gingivitis.\n- Dental fluoride treatment, for Gingivitis.\n- Oral health education, for Gingivitis."
+  },
+  {
+    "doc_id": "947c82ee-1735-c9ed-de62-7ee1bf68df90",
+    "patient_id": "947c82ee-1735-c9ed-8210-38cb93d8070c",
+    "document_type": "Office Visit Note",
+    "date": "2026-06-02",
+    "section": "Medications",
+    "title": "Office Visit Note - Marcell Hammes - 2026-06-02",
+    "content": "Medications prescribed at this visit:\n- sodium fluoride 0.0272 MG/MG Oral Gel, started 2026-06-02, for Gingivitis; stopped 2026-06-02."
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "7811dc30-8c86-8164-4d7e-2849dee18f22",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2018-08-07",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Mignon Rau - 2018-08-07",
+    "content": "Patient: Mignon Rau, female, born 1970-04-21 (patient ID 7811dc30-8c86-8164-6c33-6b6f464745ef).\nVisit date: 2018-08-07.\nVisit type: Encounter for check up.\nClinician: Rudolf Vandervort (General Practice).\nFacility: BETH ISRAEL DEACONESS HOSPITAL MILTON INC, MILTON, MA."
+  },
+  {
+    "doc_id": "7811dc30-8c86-8164-4d7e-2849dee18f22",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2018-08-07",
+    "section": "Assessment",
+    "title": "Outpatient Procedure Note - Mignon Rau - 2018-08-07",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2018-08-07), resolved 2018-08-07."
+  },
+  {
+    "doc_id": "7811dc30-8c86-8164-4d7e-2849dee18f22",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2018-08-07",
+    "section": "Vital Signs",
+    "title": "Outpatient Procedure Note - Mignon Rau - 2018-08-07",
+    "content": "- Body Height: 153.2 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0\n- Body Weight: 66.0 kg\n- Body mass index (BMI) [Ratio]: 28.1 kg/m2\n- Diastolic Blood Pressure: 71.0 mm[Hg]\n- Systolic Blood Pressure: 120.0 mm[Hg]\n- Heart rate: 74.0 /min\n- Respiratory rate: 15.0 /min"
+  },
+  {
+    "doc_id": "7811dc30-8c86-8164-4d7e-2849dee18f22",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2018-08-07",
+    "section": "Laboratory Results",
+    "title": "Outpatient Procedure Note - Mignon Rau - 2018-08-07",
+    "content": "- Hemoglobin A1c/Hemoglobin.total in Blood: 5.5 %\n- Glucose [Mass/volume] in Blood: 72.4 mg/dL\n- Urea nitrogen [Mass/volume] in Blood: 7.8 mg/dL\n- Creatinine [Mass/volume] in Blood: 0.7 mg/dL\n- Calcium [Mass/volume] in Blood: 9.6 mg/dL\n- Sodium [Moles/volume] in Blood: 140.1 mmol/L\n- Potassium [Moles/volume] in Blood: 4.6 mmol/L\n- Chloride [Moles/volume] in Blood: 107.3 mmol/L\n- Carbon dioxide  total [Moles/volume] in Blood: 20.3 mmol/L\n- Cholesterol [Mass/volume] in Serum or Plasma: 144.5 mg/dL\n- Triglyceride [Mass/volume] in Serum or Plasma: 117.8 mg/dL\n- Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay: 66.4 mg/dL\n- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 54.5 mg/dL\n- Microalbumin/Creatinine [Mass Ratio] in Urine: 9.0 mg/g\n- Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M: 157.5 mL/min/{1.73_m2}"
+  },
+  {
+    "doc_id": "7811dc30-8c86-8164-4d7e-2849dee18f22",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2018-08-07",
+    "section": "Procedures",
+    "title": "Outpatient Procedure Note - Mignon Rau - 2018-08-07",
+    "content": "- Medication reconciliation.\n- Assessment of health and social care needs.\n- Assessment of anxiety.\n- Depression screening.\n- Depression screening.\n- Assessment of substance use.\n- Screening for drug abuse."
+  },
+  {
+    "doc_id": "7811dc30-8c86-8164-4d7e-2849dee18f22",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2018-08-07",
+    "section": "Medications",
+    "title": "Outpatient Procedure Note - Mignon Rau - 2018-08-07",
+    "content": "Medications prescribed at this visit:\n- 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet, started 2018-08-07, for Diabetes mellitus type 2; stopped 2018-08-28.\n- budesonide 0.125 MG/ML Inhalation Suspension, started 2018-08-07, for Childhood asthma; stopped 2018-08-28.\n- albuterol 0.83 MG/ML Inhalation Solution, started 2018-08-07, for Childhood asthma; stopped 2018-08-28."
+  }
+]

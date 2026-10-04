@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "26aa011e-0d75-d1a3-fc9f-f4b8e2fc482b",
+    "patient_id": "26aa011e-0d75-d1a3-3c5a-560a9450cc9d",
+    "document_type": "Emergency Department Note",
+    "date": "2022-03-05",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Jesse Wolf - 2022-03-05",
+    "content": "Patient: Jesse Wolf, male, born 2010-04-04 (patient ID 26aa011e-0d75-d1a3-3c5a-560a9450cc9d).\nVisit date: 2022-03-05.\nVisit type: Emergency room admission.\nClinician: Joslyn Friesen (General Practice).\nFacility: PALM SKILLED NRSING CR & CTR FOR REHAB EXCELLENCE, CHELMSFORD, MA."
+  },
+  {
+    "doc_id": "26aa011e-0d75-d1a3-fc9f-f4b8e2fc482b",
+    "patient_id": "26aa011e-0d75-d1a3-3c5a-560a9450cc9d",
+    "document_type": "Emergency Department Note",
+    "date": "2022-03-05",
+    "section": "Reason for Visit",
+    "title": "Emergency Department Note - Jesse Wolf - 2022-03-05",
+    "content": "Seen for Burn injury (morphologic abnormality)."
+  },
+  {
+    "doc_id": "26aa011e-0d75-d1a3-fc9f-f4b8e2fc482b",
+    "patient_id": "26aa011e-0d75-d1a3-3c5a-560a9450cc9d",
+    "document_type": "Emergency Department Note",
+    "date": "2022-03-05",
+    "section": "Assessment",
+    "title": "Emergency Department Note - Jesse Wolf - 2022-03-05",
+    "content": "Diagnoses recorded at this visit:\n- Burn injury (morphologic abnormality) (onset 2022-03-05), resolved 2022-04-04.\n- Epidermal burn of skin (onset 2022-03-05), resolved 2022-04-04."
+  },
+  {
+    "doc_id": "26aa011e-0d75-d1a3-fc9f-f4b8e2fc482b",
+    "patient_id": "26aa011e-0d75-d1a3-3c5a-560a9450cc9d",
+    "document_type": "Emergency Department Note",
+    "date": "2022-03-05",
+    "section": "Medications",
+    "title": "Emergency Department Note - Jesse Wolf - 2022-03-05",
+    "content": "Medications prescribed at this visit:\n- Acetaminophen 160 MG Chewable Tablet, started 2022-03-05; stopped 2022-04-04."
+  },
+  {
+    "doc_id": "26aa011e-0d75-d1a3-fc9f-f4b8e2fc482b",
+    "patient_id": "26aa011e-0d75-d1a3-3c5a-560a9450cc9d",
+    "document_type": "Emergency Department Note",
+    "date": "2022-03-05",
+    "section": "Plan",
+    "title": "Emergency Department Note - Jesse Wolf - 2022-03-05",
+    "content": "- Burn care for Epidermal burn of skin, started 2022-03-05, ended 2022-04-04."
+  }
+]

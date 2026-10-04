@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "bff9d9d5-ee3d-d852-fdf4-87d3f0f6202f",
+    "patient_id": "bff9d9d5-ee3d-d852-9c67-36d8361a4a4a",
+    "document_type": "Office Visit Note",
+    "date": "2020-02-14",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Rosario Ortiz - 2020-02-14",
+    "content": "Patient: Rosario Ortiz, male, born 1945-01-28 (patient ID bff9d9d5-ee3d-d852-9c67-36d8361a4a4a).\nVisit date: 2020-02-14.\nVisit type: Encounter for check up.\nClinician: Eleni Franecki (General Practice).\nFacility: BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM INC., NEEDHAM, MA."
+  },
+  {
+    "doc_id": "bff9d9d5-ee3d-d852-fdf4-87d3f0f6202f",
+    "patient_id": "bff9d9d5-ee3d-d852-9c67-36d8361a4a4a",
+    "document_type": "Office Visit Note",
+    "date": "2020-02-14",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Rosario Ortiz - 2020-02-14",
+    "content": "Seen for Screening for malignant neoplasm of colon."
+  },
+  {
+    "doc_id": "bff9d9d5-ee3d-d852-fdf4-87d3f0f6202f",
+    "patient_id": "bff9d9d5-ee3d-d852-9c67-36d8361a4a4a",
+    "document_type": "Office Visit Note",
+    "date": "2020-02-14",
+    "section": "Procedures",
+    "title": "Office Visit Note - Rosario Ortiz - 2020-02-14",
+    "content": "- Colonoscopy."
+  }
+]

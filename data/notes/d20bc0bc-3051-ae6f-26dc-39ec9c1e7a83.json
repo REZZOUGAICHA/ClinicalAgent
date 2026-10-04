@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-26dc-39ec9c1e7a83",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-04-30",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Lavette Kozey - 2025-04-30",
+    "content": "Patient: Lavette Kozey, female, born 2010-03-24 (patient ID d20bc0bc-3051-ae6f-f391-ceec7ec0370f).\nVisit date: 2025-04-30.\nVisit type: Well child visit.\nClinician: Anh Schroeder (General Practice).\nFacility: FAMILY PRACTICE GROUP PC, ARLINGTON, MA."
+  },
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-26dc-39ec9c1e7a83",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-04-30",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Lavette Kozey - 2025-04-30",
+    "content": "- Body Height: 163.5 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0\n- Body Weight: 65.7 kg\n- Body mass index (BMI) [Ratio]: 24.6 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 86.9 %\n- Diastolic Blood Pressure: 80.0 mm[Hg]\n- Systolic Blood Pressure: 104.0 mm[Hg]\n- Heart rate: 76.0 /min\n- Respiratory rate: 16.0 /min"
+  },
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-26dc-39ec9c1e7a83",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-04-30",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Lavette Kozey - 2025-04-30",
+    "content": "- Depression screening.\n- Depression screening using Patient Health Questionnaire Nine Item score.\n- Assessment of substance use.\n- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test.\n- Anticipatory guidance.\n- Patient referral for dental care."
+  },
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-26dc-39ec9c1e7a83",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-04-30",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Lavette Kozey - 2025-04-30",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

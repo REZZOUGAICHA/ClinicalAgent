@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "05cc86a0-2d98-b046-4ac1-34e19936f376",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Skilled Nursing Facility Note",
+    "date": "2020-06-16",
+    "section": "Visit Information",
+    "title": "Skilled Nursing Facility Note - Carita Grady - 2020-06-16",
+    "content": "Patient: Carita Grady, female, born 1925-09-18 (patient ID 05cc86a0-2d98-b046-790a-211fd9e1ea92).\nVisit date: 2020-06-16.\nVisit type: Hospital admission.\nClinician: Beatriz Aparicio (General Practice).\nFacility: BEAR MT FRANKLIN LLC, FRANKLIN, MA."
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-4ac1-34e19936f376",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Skilled Nursing Facility Note",
+    "date": "2020-06-16",
+    "section": "Reason for Visit",
+    "title": "Skilled Nursing Facility Note - Carita Grady - 2020-06-16",
+    "content": "Seen for Patient transfer to skilled nursing facility."
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-4ac1-34e19936f376",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Skilled Nursing Facility Note",
+    "date": "2020-06-16",
+    "section": "Procedures",
+    "title": "Skilled Nursing Facility Note - Carita Grady - 2020-06-16",
+    "content": "- History AND physical examination.\n- Initial patient assessment.\n- Development of individualized plan of care.\n- Nursing care/supplementary surveillance.\n- Nursing care/supplementary surveillance.\n- Professional / ancillary services care.\n- Nursing care/supplementary surveillance.\n- Professional / ancillary services care.\n- Nursing care/supplementary surveillance.\n- Physical therapy procedure.\n- Professional / ancillary services care.\n- Nursing care/supplementary surveillance.\n- Nursing care/supplementary surveillance.\n- Nursing care/supplementary surveillance.\n- Speech and language therapy regime.\n- Professional / ancillary services care.\n- Nursing care/supplementary surveillance.\n- Professional / ancillary services care.\n- Nursing care/supplementary surveillance.\n- Occupational therapy.\n- Nursing care/supplementary surveillance.\n- Nursing care/supplementary surveillance.\n- Physical therapy procedure.\n- Nursing care/supplementary surveillance.\n- Occupational therapy.\n- Nursing care/supplementary surveillance.\n- Occupational therapy.\n- Professional / ancillary services care.\n- Nursing care/supplementary surveillance.\n- Nursing care/supplementary surveillance.\n- Pre-discharge assessment.\n- Discharge from hospital."
+  }
+]

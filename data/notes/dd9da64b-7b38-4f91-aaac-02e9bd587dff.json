@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "dd9da64b-7b38-4f91-aaac-02e9bd587dff",
+    "patient_id": "dd9da64b-7b38-4f91-e75d-b1268dde60d4",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2014-05-12",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Donnetta Jenkins - 2014-05-12",
+    "content": "Patient: Donnetta Jenkins, female, born 1987-01-26 (patient ID dd9da64b-7b38-4f91-e75d-b1268dde60d4).\nVisit date: 2014-05-12.\nVisit type: General examination of patient.\nClinician: Son MacGyver (General Practice).\nFacility: HOLISTIC FAMILY PRACTICE INC., NEWBURY, MA."
+  },
+  {
+    "doc_id": "dd9da64b-7b38-4f91-aaac-02e9bd587dff",
+    "patient_id": "dd9da64b-7b38-4f91-e75d-b1268dde60d4",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2014-05-12",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Donnetta Jenkins - 2014-05-12",
+    "content": "Diagnoses recorded at this visit:\n- Victim of intimate partner abuse (onset 2014-05-12), resolved 2021-06-21."
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "79021b82-f370-50bb-71a0-8c4064b7d44d",
+    "patient_id": "79021b82-f370-50bb-c5a1-7333816d683f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2016-08-24",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Evette Farrell - 2016-08-24",
+    "content": "Patient: Evette Farrell, female, born 2013-03-20 (patient ID 79021b82-f370-50bb-c5a1-7333816d683f).\nVisit date: 2016-08-24.\nVisit type: Well child visit.\nClinician: Elmer Gusikowski (General Practice).\nFacility: WHITLEY WELLNESS LLC, CHARLESTOWN, MA."
+  },
+  {
+    "doc_id": "79021b82-f370-50bb-71a0-8c4064b7d44d",
+    "patient_id": "79021b82-f370-50bb-c5a1-7333816d683f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2016-08-24",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Evette Farrell - 2016-08-24",
+    "content": "Medications prescribed at this visit:\n- budesonide 0.25 MG/ML Inhalation Suspension, started 2016-08-24, for Childhood asthma; stopped 2016-10-12.\n- NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir], started 2016-08-24, for Childhood asthma; stopped 2016-10-12."
+  }
+]

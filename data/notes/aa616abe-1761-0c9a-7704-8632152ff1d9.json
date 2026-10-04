@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "aa616abe-1761-0c9a-7704-8632152ff1d9",
+    "patient_id": "aa616abe-1761-0c9a-7959-07544679dafd",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1987-01-24",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Jona Robel - 1987-01-24",
+    "content": "Patient: Jona Robel, female, born 1958-11-15 (patient ID aa616abe-1761-0c9a-7959-07544679dafd).\nVisit date: 1987-01-24.\nVisit type: General examination of patient.\nClinician: Maren Aufderhar (General Practice).\nFacility: DUTTON FAMILY CARE ASSOCIATES LLP, WAKEFIELD, MA."
+  },
+  {
+    "doc_id": "aa616abe-1761-0c9a-7704-8632152ff1d9",
+    "patient_id": "aa616abe-1761-0c9a-7959-07544679dafd",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1987-01-24",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Jona Robel - 1987-01-24",
+    "content": "Diagnoses recorded at this visit:\n- Victim of intimate partner abuse (onset 1987-01-24), resolved 2002-11-30."
+  }
+]

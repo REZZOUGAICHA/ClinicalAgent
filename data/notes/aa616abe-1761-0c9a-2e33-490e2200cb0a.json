@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "aa616abe-1761-0c9a-2e33-490e2200cb0a",
+    "patient_id": "aa616abe-1761-0c9a-7959-07544679dafd",
+    "document_type": "Outpatient Procedure Note",
+    "date": "1999-10-29",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Jona Robel - 1999-10-29",
+    "content": "Patient: Jona Robel, female, born 1958-11-15 (patient ID aa616abe-1761-0c9a-7959-07544679dafd).\nVisit date: 1999-10-29.\nVisit type: Consultation for treatment.\nClinician: Chanelle Schuster (General Practice).\nFacility: TUFTS MEDICAL CENTER, STONEHAM, MA."
+  },
+  {
+    "doc_id": "aa616abe-1761-0c9a-2e33-490e2200cb0a",
+    "patient_id": "aa616abe-1761-0c9a-7959-07544679dafd",
+    "document_type": "Outpatient Procedure Note",
+    "date": "1999-10-29",
+    "section": "Reason for Visit",
+    "title": "Outpatient Procedure Note - Jona Robel - 1999-10-29",
+    "content": "Seen for Contraception care."
+  },
+  {
+    "doc_id": "aa616abe-1761-0c9a-2e33-490e2200cb0a",
+    "patient_id": "aa616abe-1761-0c9a-7959-07544679dafd",
+    "document_type": "Outpatient Procedure Note",
+    "date": "1999-10-29",
+    "section": "Medications",
+    "title": "Outpatient Procedure Note - Jona Robel - 1999-10-29",
+    "content": "Medications prescribed at this visit:\n- {7 (inert ingredients 1 MG Oral Tablet) / 21 (mestranol 0.05 MG / norethindrone 1 MG Oral Tablet) } Pack [Norinyl 1+50 28 Day], started 1999-10-29; stopped 2000-10-23."
+  }
+]

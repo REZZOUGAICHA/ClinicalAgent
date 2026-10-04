@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "7811dc30-8c86-8164-dfad-471ce297d94d",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Office Visit Note",
+    "date": "2018-08-14",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Mignon Rau - 2018-08-14",
+    "content": "Patient: Mignon Rau, female, born 1970-04-21 (patient ID 7811dc30-8c86-8164-6c33-6b6f464745ef).\nVisit date: 2018-08-14.\nVisit type: Encounter for symptom.\nClinician: Rudolf Vandervort (General Practice).\nFacility: BETH ISRAEL DEACONESS HOSPITAL MILTON INC, MILTON, MA."
+  },
+  {
+    "doc_id": "7811dc30-8c86-8164-dfad-471ce297d94d",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Office Visit Note",
+    "date": "2018-08-14",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Mignon Rau - 2018-08-14",
+    "content": "Seen for Acute bronchitis."
+  },
+  {
+    "doc_id": "7811dc30-8c86-8164-dfad-471ce297d94d",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Office Visit Note",
+    "date": "2018-08-14",
+    "section": "Assessment",
+    "title": "Office Visit Note - Mignon Rau - 2018-08-14",
+    "content": "Diagnoses recorded at this visit:\n- Acute bronchitis (onset 2018-08-14), resolved 2018-08-30."
+  },
+  {
+    "doc_id": "7811dc30-8c86-8164-dfad-471ce297d94d",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Office Visit Note",
+    "date": "2018-08-14",
+    "section": "Procedures",
+    "title": "Office Visit Note - Mignon Rau - 2018-08-14",
+    "content": "- Measurement of respiratory function, for Acute bronchitis."
+  },
+  {
+    "doc_id": "7811dc30-8c86-8164-dfad-471ce297d94d",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Office Visit Note",
+    "date": "2018-08-14",
+    "section": "Medications",
+    "title": "Office Visit Note - Mignon Rau - 2018-08-14",
+    "content": "Medications prescribed at this visit:\n- Acetaminophen 325 MG Oral Tablet, started 2018-08-14, for Acute bronchitis; stopped 2018-08-30."
+  },
+  {
+    "doc_id": "7811dc30-8c86-8164-dfad-471ce297d94d",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Office Visit Note",
+    "date": "2018-08-14",
+    "section": "Plan",
+    "title": "Office Visit Note - Mignon Rau - 2018-08-14",
+    "content": "- Respiratory therapy, started 2018-08-14, ended 2018-12-04."
+  }
+]

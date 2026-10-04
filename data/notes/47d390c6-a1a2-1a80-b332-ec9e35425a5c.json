@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "47d390c6-a1a2-1a80-b332-ec9e35425a5c",
+    "patient_id": "47d390c6-a1a2-1a80-dd1d-9722c7b24159",
+    "document_type": "Office Visit Note",
+    "date": "2025-05-03",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Demarcus Jones - 2025-05-03",
+    "content": "Patient: Demarcus Jones, male, born 2009-03-07 (patient ID 47d390c6-a1a2-1a80-dd1d-9722c7b24159).\nVisit date: 2025-05-03.\nVisit type: Encounter for check up.\nClinician: Jackelyn Pacocha (General Practice).\nFacility: WP ACQUISITION SUB LLC, HAVERHILL, MA."
+  },
+  {
+    "doc_id": "47d390c6-a1a2-1a80-b332-ec9e35425a5c",
+    "patient_id": "47d390c6-a1a2-1a80-dd1d-9722c7b24159",
+    "document_type": "Office Visit Note",
+    "date": "2025-05-03",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Demarcus Jones - 2025-05-03",
+    "content": "Seen for Gingivitis."
+  },
+  {
+    "doc_id": "47d390c6-a1a2-1a80-b332-ec9e35425a5c",
+    "patient_id": "47d390c6-a1a2-1a80-dd1d-9722c7b24159",
+    "document_type": "Office Visit Note",
+    "date": "2025-05-03",
+    "section": "Procedures",
+    "title": "Office Visit Note - Demarcus Jones - 2025-05-03",
+    "content": "- Dental consultation and report, for Gingivitis.\n- Dental care, for Gingivitis.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Dental plain X-ray bitewing.\n- Examination of gingivae, for Gingivitis.\n- Oral health education, for Gingivitis."
+  }
+]

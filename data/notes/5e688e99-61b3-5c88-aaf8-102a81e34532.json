@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "5e688e99-61b3-5c88-aaf8-102a81e34532",
+    "patient_id": "5e688e99-61b3-5c88-3f60-21df8aaced27",
+    "document_type": "Office Visit Note",
+    "date": "2020-02-20",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Wallace Effertz - 2020-02-20",
+    "content": "Patient: Wallace Effertz, male, born 2010-01-28 (patient ID 5e688e99-61b3-5c88-3f60-21df8aaced27).\nVisit date: 2020-02-20.\nVisit type: Encounter for symptom.\nClinician: Lorette Hauck (General Practice).\nFacility: WHITTIER REHABILTATION HOSPITAL, LYNN, MA."
+  },
+  {
+    "doc_id": "5e688e99-61b3-5c88-aaf8-102a81e34532",
+    "patient_id": "5e688e99-61b3-5c88-3f60-21df8aaced27",
+    "document_type": "Office Visit Note",
+    "date": "2020-02-20",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Wallace Effertz - 2020-02-20",
+    "content": "Seen for Acute bronchitis."
+  },
+  {
+    "doc_id": "5e688e99-61b3-5c88-aaf8-102a81e34532",
+    "patient_id": "5e688e99-61b3-5c88-3f60-21df8aaced27",
+    "document_type": "Office Visit Note",
+    "date": "2020-02-20",
+    "section": "Assessment",
+    "title": "Office Visit Note - Wallace Effertz - 2020-02-20",
+    "content": "Diagnoses recorded at this visit:\n- Acute bronchitis (onset 2020-02-20), resolved 2020-02-29."
+  },
+  {
+    "doc_id": "5e688e99-61b3-5c88-aaf8-102a81e34532",
+    "patient_id": "5e688e99-61b3-5c88-3f60-21df8aaced27",
+    "document_type": "Office Visit Note",
+    "date": "2020-02-20",
+    "section": "Medications",
+    "title": "Office Visit Note - Wallace Effertz - 2020-02-20",
+    "content": "Medications prescribed at this visit:\n- Acetaminophen 325 MG Oral Tablet, started 2020-02-20, for Acute bronchitis; stopped 2020-02-29."
+  },
+  {
+    "doc_id": "5e688e99-61b3-5c88-aaf8-102a81e34532",
+    "patient_id": "5e688e99-61b3-5c88-3f60-21df8aaced27",
+    "document_type": "Office Visit Note",
+    "date": "2020-02-20",
+    "section": "Plan",
+    "title": "Office Visit Note - Wallace Effertz - 2020-02-20",
+    "content": "- Respiratory therapy, started 2020-02-20, ended 2021-02-11."
+  }
+]

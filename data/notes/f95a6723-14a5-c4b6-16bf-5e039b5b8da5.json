@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "f95a6723-14a5-c4b6-16bf-5e039b5b8da5",
+    "patient_id": "f95a6723-14a5-c4b6-78df-fa97f7ab361c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2014-12-13",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Roxann Sauer - 2014-12-13",
+    "content": "Patient: Roxann Sauer, female, born 1986-08-23 (patient ID f95a6723-14a5-c4b6-78df-fa97f7ab361c).\nVisit date: 2014-12-13.\nVisit type: General examination of patient.\nClinician: Amado Adams (General Practice).\nFacility: BL HEALTHCARE INC DELEWARE, FOXBOROUGH, MA."
+  },
+  {
+    "doc_id": "f95a6723-14a5-c4b6-16bf-5e039b5b8da5",
+    "patient_id": "f95a6723-14a5-c4b6-78df-fa97f7ab361c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2014-12-13",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Roxann Sauer - 2014-12-13",
+    "content": "Diagnoses recorded at this visit:\n- Limited social contact (onset 2014-12-13), resolved 2016-12-24."
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "dd9da64b-7b38-4f91-4850-f05bf63f4843",
+    "patient_id": "dd9da64b-7b38-4f91-e75d-b1268dde60d4",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2018-12-01",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Donnetta Jenkins - 2018-12-01",
+    "content": "Patient: Donnetta Jenkins, female, born 1987-01-26 (patient ID dd9da64b-7b38-4f91-e75d-b1268dde60d4).\nVisit date: 2018-12-01.\nVisit type: Consultation for treatment.\nClinician: Tracie Lesch (General Practice).\nFacility: ANNA JAQUES HOSPITAL SUBACUTE UNIT, NEWBURYPORT, MA."
+  },
+  {
+    "doc_id": "dd9da64b-7b38-4f91-4850-f05bf63f4843",
+    "patient_id": "dd9da64b-7b38-4f91-e75d-b1268dde60d4",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2018-12-01",
+    "section": "Reason for Visit",
+    "title": "Outpatient Procedure Note - Donnetta Jenkins - 2018-12-01",
+    "content": "Seen for Contraception care."
+  }
+]

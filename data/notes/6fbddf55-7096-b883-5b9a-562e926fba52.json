@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "6fbddf55-7096-b883-5b9a-562e926fba52",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2025-08-19",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Clarinda Farrell - 2025-08-19",
+    "content": "Patient: Clarinda Farrell, female, born 1981-07-01 (patient ID 6fbddf55-7096-b883-7cd3-260f27953080).\nVisit date: 2025-08-19.\nVisit type: Consultation for treatment.\nClinician: Luther Jakubowski (General Practice).\nFacility: ENCOMPASS HEALTH REHABILITATION HOSP OF NEW ENGLAN, WOBURN, MA."
+  },
+  {
+    "doc_id": "6fbddf55-7096-b883-5b9a-562e926fba52",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2025-08-19",
+    "section": "Reason for Visit",
+    "title": "Outpatient Procedure Note - Clarinda Farrell - 2025-08-19",
+    "content": "Seen for Contraception care."
+  },
+  {
+    "doc_id": "6fbddf55-7096-b883-5b9a-562e926fba52",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2025-08-19",
+    "section": "Medications",
+    "title": "Outpatient Procedure Note - Clarinda Farrell - 2025-08-19",
+    "content": "Medications prescribed at this visit:\n- {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day], started 2025-08-19; stopped 2026-08-14."
+  }
+]

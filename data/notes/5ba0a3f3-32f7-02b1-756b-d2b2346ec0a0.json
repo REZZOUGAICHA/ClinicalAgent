@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-756b-d2b2346ec0a0",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2021-05-12",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Faustino Langworth - 2021-05-12",
+    "content": "Patient: Faustino Langworth, male, born 1998-06-17 (patient ID 5ba0a3f3-32f7-02b1-ec6a-8f568923954c).\nVisit date: 2021-05-12.\nVisit type: Administration of vaccine to produce active immunity.\nClinician: Floy Greenfelder (General Practice).\nFacility: CAMBRIDGE PUBLIC HEALTH COMMISSION, SOMERVILLE, MA."
+  },
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-756b-d2b2346ec0a0",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2021-05-12",
+    "section": "Immunizations",
+    "title": "Outpatient Procedure Note - Faustino Langworth - 2021-05-12",
+    "content": "- COVID-19 mRNA LNP-S PF 100 mcg/0.5mL dose or 50 mcg/0.25mL dose."
+  }
+]

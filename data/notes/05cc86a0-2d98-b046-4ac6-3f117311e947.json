@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "05cc86a0-2d98-b046-4ac6-3f117311e947",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Urgent Care Note",
+    "date": "2014-06-06",
+    "section": "Visit Information",
+    "title": "Urgent Care Note - Carita Grady - 2014-06-06",
+    "content": "Patient: Carita Grady, female, born 1925-09-18 (patient ID 05cc86a0-2d98-b046-790a-211fd9e1ea92).\nVisit date: 2014-06-06.\nVisit type: Urgent care clinic.\nClinician: Liberty Kihn (General Practice).\nFacility: WOONSOCKET URGENT CARE PC, BELLINGHAM, MA."
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-4ac6-3f117311e947",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Urgent Care Note",
+    "date": "2014-06-06",
+    "section": "Assessment",
+    "title": "Urgent Care Note - Carita Grady - 2014-06-06",
+    "content": "Diagnoses recorded at this visit:\n- Limited social contact (onset 2014-06-06), resolved 2026-07-10."
+  }
+]

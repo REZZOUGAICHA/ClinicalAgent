@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "ba419d35-0dfe-8af7-37d2-6148b7b8a998",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1965-09-24",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Corie Kohler - 1965-09-24",
+    "content": "Patient: Corie Kohler, female, born 1925-09-18 (patient ID ba419d35-0dfe-8af7-347c-eebf02485a56).\nVisit date: 1965-09-24.\nVisit type: General examination of patient.\nClinician: Wynell Mayert (General Practice).\nFacility: WELLNESS ON WHEELS PC, NORTH ATTLEBORO, MA."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-37d2-6148b7b8a998",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1965-09-24",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Corie Kohler - 1965-09-24",
+    "content": "Diagnoses recorded at this visit:\n- Essential hypertension (onset 1965-09-24).\n- Body mass index 30+ - obesity (onset 1965-09-24)."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-37d2-6148b7b8a998",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1965-09-24",
+    "section": "Plan",
+    "title": "Annual Wellness Visit Note - Corie Kohler - 1965-09-24",
+    "content": "- Lifestyle education regarding hypertension for Essential hypertension, started 1965-09-24."
+  }
+]

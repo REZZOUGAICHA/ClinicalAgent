@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "eb5910f1-26e6-bc6f-cff4-7c85d88425f5",
+    "patient_id": "eb5910f1-26e6-bc6f-b300-716eae678d6f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2014-06-24",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Larissa Bins - 2014-06-24",
+    "content": "Patient: Larissa Bins, female, born 1995-04-25 (patient ID eb5910f1-26e6-bc6f-b300-716eae678d6f).\nVisit date: 2014-06-24.\nVisit type: General examination of patient.\nClinician: Jerri Stiedemann (General Practice).\nFacility: GREATER LAWRENCE FAMILY HEALTH CENTER INC, HAVERHILL, MA."
+  },
+  {
+    "doc_id": "eb5910f1-26e6-bc6f-cff4-7c85d88425f5",
+    "patient_id": "eb5910f1-26e6-bc6f-b300-716eae678d6f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2014-06-24",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Larissa Bins - 2014-06-24",
+    "content": "Diagnoses recorded at this visit:\n- Part-time employment (onset 2014-06-24), resolved 2017-06-27."
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "f999ef25-a612-87c9-d14f-f5b4ea77c2cf",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Office Visit Note",
+    "date": "2008-12-12",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Evangeline Ziemann - 2008-12-12",
+    "content": "Patient: Evangeline Ziemann, female, born 1925-09-18 (patient ID f999ef25-a612-87c9-206f-aacc9d469dc8).\nVisit date: 2008-12-12.\nVisit type: Encounter for symptom.\nClinician: Nickolas Schumm (General Practice).\nFacility: ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE, FRAMINGHAM, MA."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-d14f-f5b4ea77c2cf",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Office Visit Note",
+    "date": "2008-12-12",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Evangeline Ziemann - 2008-12-12",
+    "content": "Seen for Streptococcal sore throat."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-d14f-f5b4ea77c2cf",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Office Visit Note",
+    "date": "2008-12-12",
+    "section": "Assessment",
+    "title": "Office Visit Note - Evangeline Ziemann - 2008-12-12",
+    "content": "Diagnoses recorded at this visit:\n- Streptococcal sore throat (onset 2008-12-12), resolved 2008-12-22."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-d14f-f5b4ea77c2cf",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Office Visit Note",
+    "date": "2008-12-12",
+    "section": "Vital Signs",
+    "title": "Office Visit Note - Evangeline Ziemann - 2008-12-12",
+    "content": "- Body temperature: 38.0 \u00b0C"
+  }
+]

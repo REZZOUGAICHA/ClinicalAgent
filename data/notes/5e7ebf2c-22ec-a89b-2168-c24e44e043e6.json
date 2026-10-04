@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-2168-c24e44e043e6",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Office Visit Note",
+    "date": "2017-09-03",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Rosalba Effertz - 2017-09-03",
+    "content": "Patient: Rosalba Effertz, female, born 1973-08-05 (patient ID 5e7ebf2c-22ec-a89b-53ab-38edddd81be9).\nVisit date: 2017-09-03.\nVisit type: Encounter for check up.\nClinician: Saundra Kuphal (General Practice).\nFacility: COOLEY DICKINSON HOSPITAL INC, NORTHAMPTON, MA."
+  },
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-2168-c24e44e043e6",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Office Visit Note",
+    "date": "2017-09-03",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Rosalba Effertz - 2017-09-03",
+    "content": "Seen for Gingivitis."
+  },
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-2168-c24e44e043e6",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Office Visit Note",
+    "date": "2017-09-03",
+    "section": "Procedures",
+    "title": "Office Visit Note - Rosalba Effertz - 2017-09-03",
+    "content": "- Dental consultation and report, for Gingivitis.\n- Dental care, for Gingivitis.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Examination of gingivae, for Gingivitis.\n- Oral health education, for Gingivitis."
+  }
+]

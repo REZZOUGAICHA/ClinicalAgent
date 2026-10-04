@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "35b353dd-402b-571a-5d2a-a3d0c2a27461",
+    "patient_id": "35b353dd-402b-571a-d67a-af0a104d0854",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2021-03-27",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Jody Monahan - 2021-03-27",
+    "content": "Patient: Jody Monahan, male, born 1943-09-18 (patient ID 35b353dd-402b-571a-d67a-af0a104d0854).\nVisit date: 2021-03-27.\nVisit type: Administration of vaccine to produce active immunity.\nClinician: Floy Greenfelder (General Practice).\nFacility: CAMBRIDGE PUBLIC HEALTH COMMISSION, SOMERVILLE, MA."
+  },
+  {
+    "doc_id": "35b353dd-402b-571a-5d2a-a3d0c2a27461",
+    "patient_id": "35b353dd-402b-571a-d67a-af0a104d0854",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2021-03-27",
+    "section": "Immunizations",
+    "title": "Outpatient Procedure Note - Jody Monahan - 2021-03-27",
+    "content": "- COVID-19 mRNA LNP-S PF 100 mcg/0.5mL dose or 50 mcg/0.25mL dose."
+  }
+]

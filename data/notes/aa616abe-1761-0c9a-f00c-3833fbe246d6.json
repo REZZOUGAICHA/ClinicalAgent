@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "aa616abe-1761-0c9a-f00c-3833fbe246d6",
+    "patient_id": "aa616abe-1761-0c9a-7959-07544679dafd",
+    "document_type": "Office Visit Note",
+    "date": "2002-09-07",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Jona Robel - 2002-09-07",
+    "content": "Patient: Jona Robel, female, born 1958-11-15 (patient ID aa616abe-1761-0c9a-7959-07544679dafd).\nVisit date: 2002-09-07.\nVisit type: Prenatal visit.\nClinician: Chanelle Schuster (General Practice).\nFacility: TUFTS MEDICAL CENTER, STONEHAM, MA."
+  },
+  {
+    "doc_id": "aa616abe-1761-0c9a-f00c-3833fbe246d6",
+    "patient_id": "aa616abe-1761-0c9a-7959-07544679dafd",
+    "document_type": "Office Visit Note",
+    "date": "2002-09-07",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Jona Robel - 2002-09-07",
+    "content": "Seen for Normal pregnancy."
+  },
+  {
+    "doc_id": "aa616abe-1761-0c9a-f00c-3833fbe246d6",
+    "patient_id": "aa616abe-1761-0c9a-7959-07544679dafd",
+    "document_type": "Office Visit Note",
+    "date": "2002-09-07",
+    "section": "Procedures",
+    "title": "Office Visit Note - Jona Robel - 2002-09-07",
+    "content": "- Fetal anatomy study, for Normal pregnancy.\n- Alpha-fetoprotein test - antenatal, for Normal pregnancy.\n- Evaluation of uterine fundal height, for Normal pregnancy.\n- Auscultation of the fetal heart, for Normal pregnancy."
+  }
+]

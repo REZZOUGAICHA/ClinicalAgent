@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "150a8a76-1563-717e-5573-67e8d9c0cb8f",
+    "patient_id": "150a8a76-1563-717e-bf0f-f52045675f46",
+    "document_type": "Office Visit Note",
+    "date": "1964-09-14",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Diego Armijo - 1964-09-14",
+    "content": "Patient: Diego Armijo, male, born 1947-03-03 (patient ID 150a8a76-1563-717e-bf0f-f52045675f46).\nVisit date: 1964-09-14.\nVisit type: Encounter for symptom.\nClinician: Zachery Pagac (General Practice).\nFacility: MELROSEWAKEFIELD HEALTHCARE INC, MELROSE, MA."
+  },
+  {
+    "doc_id": "150a8a76-1563-717e-5573-67e8d9c0cb8f",
+    "patient_id": "150a8a76-1563-717e-bf0f-f52045675f46",
+    "document_type": "Office Visit Note",
+    "date": "1964-09-14",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Diego Armijo - 1964-09-14",
+    "content": "Seen for Acute bronchitis."
+  },
+  {
+    "doc_id": "150a8a76-1563-717e-5573-67e8d9c0cb8f",
+    "patient_id": "150a8a76-1563-717e-bf0f-f52045675f46",
+    "document_type": "Office Visit Note",
+    "date": "1964-09-14",
+    "section": "Assessment",
+    "title": "Office Visit Note - Diego Armijo - 1964-09-14",
+    "content": "Diagnoses recorded at this visit:\n- Acute bronchitis (onset 1964-09-14), resolved 1964-09-22."
+  },
+  {
+    "doc_id": "150a8a76-1563-717e-5573-67e8d9c0cb8f",
+    "patient_id": "150a8a76-1563-717e-bf0f-f52045675f46",
+    "document_type": "Office Visit Note",
+    "date": "1964-09-14",
+    "section": "Medications",
+    "title": "Office Visit Note - Diego Armijo - 1964-09-14",
+    "content": "Medications prescribed at this visit:\n- Acetaminophen 325 MG Oral Tablet, started 1964-09-14, for Acute bronchitis; stopped 1964-09-22."
+  },
+  {
+    "doc_id": "150a8a76-1563-717e-5573-67e8d9c0cb8f",
+    "patient_id": "150a8a76-1563-717e-bf0f-f52045675f46",
+    "document_type": "Office Visit Note",
+    "date": "1964-09-14",
+    "section": "Plan",
+    "title": "Office Visit Note - Diego Armijo - 1964-09-14",
+    "content": "- Respiratory therapy, started 1964-09-14, ended 1965-04-26."
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "2d68ad16-268a-478c-853e-bb37055c80b4",
+    "patient_id": "2d68ad16-268a-478c-1f84-d0f1976e1a46",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-04-30",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Mauro Braun - 2021-04-30",
+    "content": "Patient: Mauro Braun, male, born 2020-02-21 (patient ID 2d68ad16-268a-478c-1f84-d0f1976e1a46).\nVisit date: 2021-04-30.\nVisit type: Well child visit.\nClinician: Rolland Lemke (General Practice).\nFacility: QUINCY CENTER PRIMARY CARE PC, QUINCY, MA."
+  },
+  {
+    "doc_id": "2d68ad16-268a-478c-853e-bb37055c80b4",
+    "patient_id": "2d68ad16-268a-478c-1f84-d0f1976e1a46",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-04-30",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Mauro Braun - 2021-04-30",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2021-04-30), resolved 2022-01-28."
+  },
+  {
+    "doc_id": "2d68ad16-268a-478c-853e-bb37055c80b4",
+    "patient_id": "2d68ad16-268a-478c-1f84-d0f1976e1a46",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-04-30",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Mauro Braun - 2021-04-30",
+    "content": "- Body Height: 76.1 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0\n- Body Weight: 10.7 kg\n- Weight-for-length Per age and sex: 80.9 %\n- Head Occipital-frontal circumference Percentile: 24.4 %\n- Head Occipital-frontal circumference: 46.1 cm\n- Diastolic Blood Pressure: 74.0 mm[Hg]\n- Systolic Blood Pressure: 103.0 mm[Hg]\n- Heart rate: 99.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "2d68ad16-268a-478c-853e-bb37055c80b4",
+    "patient_id": "2d68ad16-268a-478c-1f84-d0f1976e1a46",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-04-30",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Mauro Braun - 2021-04-30",
+    "content": "- Hib (PRP-OMP).\n- varicella.\n- MMR.\n- Pneumococcal conjugate PCV 13.\n- Hep A ped/adol 2 dose."
+  }
+]

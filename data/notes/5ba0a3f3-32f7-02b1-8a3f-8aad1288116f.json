@@ -1,0 +1,65 @@
+[
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-8a3f-8aad1288116f",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-08-23",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Faustino Langworth - 2023-08-23",
+    "content": "Patient: Faustino Langworth, male, born 1998-06-17 (patient ID 5ba0a3f3-32f7-02b1-ec6a-8f568923954c).\nVisit date: 2023-08-23.\nVisit type: General examination of patient.\nClinician: Vito Barton (General Practice).\nFacility: DAVIS SQUARE FAMILY PRACTICE, SOMERVILLE, MA."
+  },
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-8a3f-8aad1288116f",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-08-23",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Faustino Langworth - 2023-08-23",
+    "content": "Diagnoses recorded at this visit:\n- Prediabetes (onset 2023-08-23).\n- Anemia (onset 2023-08-23).\n- Full-time employment (onset 2023-08-23).\n- Stress (onset 2023-08-23).\n- Misuses drugs (onset 2023-08-23).\n- Gingivitis (onset 2023-08-23), resolved 2023-09-13."
+  },
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-8a3f-8aad1288116f",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-08-23",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Faustino Langworth - 2023-08-23",
+    "content": "- Body Height: 187.3 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0\n- Body Weight: 95.1 kg\n- Body mass index (BMI) [Ratio]: 27.1 kg/m2\n- Diastolic Blood Pressure: 82.0 mm[Hg]\n- Systolic Blood Pressure: 133.0 mm[Hg]\n- Heart rate: 93.0 /min\n- Respiratory rate: 15.0 /min"
+  },
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-8a3f-8aad1288116f",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-08-23",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Faustino Langworth - 2023-08-23",
+    "content": "- Hemoglobin A1c/Hemoglobin.total in Blood: 6.3 %\n- Glucose [Mass/volume] in Blood: 79.4 mg/dL\n- Urea nitrogen [Mass/volume] in Blood: 14.4 mg/dL\n- Creatinine [Mass/volume] in Blood: 1.5 mg/dL\n- Calcium [Mass/volume] in Blood: 9.9 mg/dL\n- Sodium [Moles/volume] in Blood: 138.6 mmol/L\n- Potassium [Moles/volume] in Blood: 3.8 mmol/L\n- Chloride [Moles/volume] in Blood: 104.9 mmol/L\n- Carbon dioxide  total [Moles/volume] in Blood: 26.9 mmol/L"
+  },
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-8a3f-8aad1288116f",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-08-23",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Faustino Langworth - 2023-08-23",
+    "content": "- Medication reconciliation.\n- Assessment of health and social care needs.\n- Assessment of anxiety.\n- Screening for domestic abuse.\n- Depression screening.\n- Depression screening.\n- Depression screening using Patient Health Questionnaire Nine Item score.\n- Assessment of substance use.\n- Screening for drug abuse.\n- Patient referral for dental care, for Gingivitis."
+  },
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-8a3f-8aad1288116f",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-08-23",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Faustino Langworth - 2023-08-23",
+    "content": "- Influenza split virus trivalent PF."
+  },
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-8a3f-8aad1288116f",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-08-23",
+    "section": "Plan",
+    "title": "Annual Wellness Visit Note - Faustino Langworth - 2023-08-23",
+    "content": "- Diabetes self management plan for Prediabetes, started 2023-08-23."
+  }
+]

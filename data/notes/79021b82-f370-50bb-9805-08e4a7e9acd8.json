@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "79021b82-f370-50bb-9805-08e4a7e9acd8",
+    "patient_id": "79021b82-f370-50bb-c5a1-7333816d683f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-04-09",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Evette Farrell - 2025-04-09",
+    "content": "Patient: Evette Farrell, female, born 2013-03-20 (patient ID 79021b82-f370-50bb-c5a1-7333816d683f).\nVisit date: 2025-04-09.\nVisit type: Well child visit.\nClinician: Elmer Gusikowski (General Practice).\nFacility: WHITLEY WELLNESS LLC, CHARLESTOWN, MA."
+  },
+  {
+    "doc_id": "79021b82-f370-50bb-9805-08e4a7e9acd8",
+    "patient_id": "79021b82-f370-50bb-c5a1-7333816d683f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-04-09",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Evette Farrell - 2025-04-09",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2025-04-09), resolved 2025-04-09."
+  },
+  {
+    "doc_id": "79021b82-f370-50bb-9805-08e4a7e9acd8",
+    "patient_id": "79021b82-f370-50bb-c5a1-7333816d683f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-04-09",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Evette Farrell - 2025-04-09",
+    "content": "- Body Height: 148.8 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0\n- Body Weight: 41.3 kg\n- Body mass index (BMI) [Ratio]: 18.7 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 57.8 %\n- Diastolic Blood Pressure: 82.0 mm[Hg]\n- Systolic Blood Pressure: 98.0 mm[Hg]\n- Heart rate: 90.0 /min\n- Respiratory rate: 12.0 /min"
+  },
+  {
+    "doc_id": "79021b82-f370-50bb-9805-08e4a7e9acd8",
+    "patient_id": "79021b82-f370-50bb-c5a1-7333816d683f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-04-09",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Evette Farrell - 2025-04-09",
+    "content": "- Medication reconciliation.\n- Assessment of anxiety.\n- Depression screening.\n- Depression screening using Patient Health Questionnaire Nine Item score.\n- Assessment of substance use.\n- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test.\n- Anticipatory guidance."
+  },
+  {
+    "doc_id": "79021b82-f370-50bb-9805-08e4a7e9acd8",
+    "patient_id": "79021b82-f370-50bb-c5a1-7333816d683f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-04-09",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Evette Farrell - 2025-04-09",
+    "content": "Medications prescribed at this visit:\n- budesonide 0.25 MG/ML Inhalation Suspension, started 2025-04-09, for Childhood asthma; stopped 2026-04-15.\n- NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir], started 2025-04-09, for Childhood asthma; stopped 2026-04-15."
+  },
+  {
+    "doc_id": "79021b82-f370-50bb-9805-08e4a7e9acd8",
+    "patient_id": "79021b82-f370-50bb-c5a1-7333816d683f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-04-09",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Evette Farrell - 2025-04-09",
+    "content": "- Influenza split virus trivalent PF.\n- HPV quadrivalent."
+  }
+]

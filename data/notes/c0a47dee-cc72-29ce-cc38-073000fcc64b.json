@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "c0a47dee-cc72-29ce-cc38-073000fcc64b",
+    "patient_id": "c0a47dee-cc72-29ce-df5a-ea6d306c36a4",
+    "document_type": "Office Visit Note",
+    "date": "1988-02-11",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Jonathan Carroll - 1988-02-11",
+    "content": "Patient: Jonathan Carroll, male, born 1987-02-23 (patient ID c0a47dee-cc72-29ce-df5a-ea6d306c36a4).\nVisit date: 1988-02-11.\nVisit type: Encounter for problem.\nClinician: Tabatha Roob (General Practice).\nFacility: STEWARD ST. ANNES HOSPITAL CORPORATION, FALL RIVER, MA."
+  },
+  {
+    "doc_id": "c0a47dee-cc72-29ce-cc38-073000fcc64b",
+    "patient_id": "c0a47dee-cc72-29ce-df5a-ea6d306c36a4",
+    "document_type": "Office Visit Note",
+    "date": "1988-02-11",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Jonathan Carroll - 1988-02-11",
+    "content": "Seen for Peanut."
+  },
+  {
+    "doc_id": "c0a47dee-cc72-29ce-cc38-073000fcc64b",
+    "patient_id": "c0a47dee-cc72-29ce-df5a-ea6d306c36a4",
+    "document_type": "Office Visit Note",
+    "date": "1988-02-11",
+    "section": "Plan",
+    "title": "Office Visit Note - Jonathan Carroll - 1988-02-11",
+    "content": "- Self-care interventions, started 1988-02-11."
+  }
+]

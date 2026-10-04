@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "46ee9d82-b52c-856d-2484-31a135f3f625",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "2019-03-22",
+    "section": "Visit Information",
+    "title": "Inpatient Discharge Summary - Shalanda Koepp - 2019-03-22",
+    "content": "Patient: Shalanda Koepp, female, born 1996-06-18 (patient ID 46ee9d82-b52c-856d-069b-5064ff052225).\nVisit date: 2019-03-22.\nVisit type: Admission to surgical department.\nClinician: Alysha Koch (General Practice).\nFacility: TEWKSBURY HOSPITAL, TEWKSBURY, MA."
+  },
+  {
+    "doc_id": "46ee9d82-b52c-856d-2484-31a135f3f625",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "2019-03-22",
+    "section": "Reason for Visit",
+    "title": "Inpatient Discharge Summary - Shalanda Koepp - 2019-03-22",
+    "content": "Seen for Tubal pregnancy."
+  },
+  {
+    "doc_id": "46ee9d82-b52c-856d-2484-31a135f3f625",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "2019-03-22",
+    "section": "Procedures",
+    "title": "Inpatient Discharge Summary - Shalanda Koepp - 2019-03-22",
+    "content": "- Methotrexate injection into tubal pregnancy, for Tubal pregnancy.\n- Postoperative care."
+  }
+]

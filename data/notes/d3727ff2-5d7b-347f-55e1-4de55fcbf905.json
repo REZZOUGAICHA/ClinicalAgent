@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "d3727ff2-5d7b-347f-55e1-4de55fcbf905",
+    "patient_id": "d3727ff2-5d7b-347f-d78c-edc4323cf890",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2014-08-28",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Eunice Fay - 2014-08-28",
+    "content": "Patient: Eunice Fay, female, born 2009-06-18 (patient ID d3727ff2-5d7b-347f-d78c-edc4323cf890).\nVisit date: 2014-08-28.\nVisit type: Encounter for check up.\nClinician: Carmelina Goyette (General Practice).\nFacility: HEBREW SENIORLIFE AFFILIATED MEDICAL GROUP INC, ROSLINDALE, MA."
+  },
+  {
+    "doc_id": "d3727ff2-5d7b-347f-55e1-4de55fcbf905",
+    "patient_id": "d3727ff2-5d7b-347f-d78c-edc4323cf890",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2014-08-28",
+    "section": "Assessment",
+    "title": "Outpatient Procedure Note - Eunice Fay - 2014-08-28",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2014-08-28), resolved 2014-08-28."
+  },
+  {
+    "doc_id": "d3727ff2-5d7b-347f-55e1-4de55fcbf905",
+    "patient_id": "d3727ff2-5d7b-347f-d78c-edc4323cf890",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2014-08-28",
+    "section": "Vital Signs",
+    "title": "Outpatient Procedure Note - Eunice Fay - 2014-08-28",
+    "content": "- Body Height: 110.2 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0\n- Body Weight: 18.7 kg\n- Body mass index (BMI) [Ratio]: 15.4 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 57.5 %\n- Diastolic Blood Pressure: 84.0 mm[Hg]\n- Systolic Blood Pressure: 98.0 mm[Hg]\n- Heart rate: 76.0 /min\n- Respiratory rate: 14.0 /min"
+  },
+  {
+    "doc_id": "d3727ff2-5d7b-347f-55e1-4de55fcbf905",
+    "patient_id": "d3727ff2-5d7b-347f-d78c-edc4323cf890",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2014-08-28",
+    "section": "Laboratory Results",
+    "title": "Outpatient Procedure Note - Eunice Fay - 2014-08-28",
+    "content": "- Leukocytes [#/volume] in Blood by Automated count: 4.0 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 4.4 10*6/uL\n- Hemoglobin [Mass/volume] in Blood: 16.8 g/dL\n- Hematocrit [Volume Fraction] of Blood by Automated count: 49.1 %\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 86.0 fL\n- MCH [Entitic mass] by Automated count: 27.1 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 35.4 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 44.3 fL\n- Platelets [#/volume] in Blood by Automated count: 402.4 10*3/uL\n- Platelet distribution width [Entitic volume] in Blood by Automated count: 9.6 fL\n- Platelet [Entitic mean volume] in Blood by Automated count: 12.2 fL"
+  },
+  {
+    "doc_id": "d3727ff2-5d7b-347f-55e1-4de55fcbf905",
+    "patient_id": "d3727ff2-5d7b-347f-d78c-edc4323cf890",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2014-08-28",
+    "section": "Procedures",
+    "title": "Outpatient Procedure Note - Eunice Fay - 2014-08-28",
+    "content": "- Medication reconciliation."
+  }
+]

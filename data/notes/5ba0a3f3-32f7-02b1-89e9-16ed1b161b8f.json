@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-89e9-16ed1b161b8f",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2016-08-10",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Faustino Langworth - 2016-08-10",
+    "content": "Patient: Faustino Langworth, male, born 1998-06-17 (patient ID 5ba0a3f3-32f7-02b1-ec6a-8f568923954c).\nVisit date: 2016-08-10.\nVisit type: General examination of patient.\nClinician: Vito Barton (General Practice).\nFacility: DAVIS SQUARE FAMILY PRACTICE, SOMERVILLE, MA."
+  },
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-89e9-16ed1b161b8f",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2016-08-10",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Faustino Langworth - 2016-08-10",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2016-08-10), resolved 2017-08-16.\n- Received higher education (onset 2016-08-10).\n- Full-time employment (onset 2016-08-10), resolved 2020-08-19.\n- Stress (onset 2016-08-10), resolved 2020-08-19."
+  }
+]

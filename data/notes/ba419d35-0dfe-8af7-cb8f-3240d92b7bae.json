@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "ba419d35-0dfe-8af7-cb8f-3240d92b7bae",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Office Visit Note",
+    "date": "2011-04-15",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Corie Kohler - 2011-04-15",
+    "content": "Patient: Corie Kohler, female, born 1925-09-18 (patient ID ba419d35-0dfe-8af7-347c-eebf02485a56).\nVisit date: 2011-04-15.\nVisit type: Encounter for check up.\nClinician: Maricarmen Delafuente (General Practice).\nFacility: ARBOUR-FULLER HOSPITAL, SOUTH ATTLEBORO, MA."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-cb8f-3240d92b7bae",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Office Visit Note",
+    "date": "2011-04-15",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Corie Kohler - 2011-04-15",
+    "content": "Seen for Patient referral for dental care."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-cb8f-3240d92b7bae",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Office Visit Note",
+    "date": "2011-04-15",
+    "section": "Procedures",
+    "title": "Office Visit Note - Corie Kohler - 2011-04-15",
+    "content": "- Dental consultation and report, for Patient referral for dental care.\n- Dental care, for Patient referral for dental care.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Examination of gingivae, for Patient referral for dental care.\n- Dental fluoride treatment, for Patient referral for dental care.\n- Oral health education, for Patient referral for dental care."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-cb8f-3240d92b7bae",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Office Visit Note",
+    "date": "2011-04-15",
+    "section": "Medications",
+    "title": "Office Visit Note - Corie Kohler - 2011-04-15",
+    "content": "Medications prescribed at this visit:\n- sodium fluoride 0.0272 MG/MG Oral Gel, started 2011-04-15, for Patient referral for dental care; stopped 2011-04-15."
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "doc_id": "e74367bd-7385-97dc-c474-9f0d8fec22a5",
+    "patient_id": "e74367bd-7385-97dc-2c7f-251b4cd9fe29",
+    "document_type": "Urgent Care Note",
+    "date": "2018-04-21",
+    "section": "Visit Information",
+    "title": "Urgent Care Note - Tennille Jerde - 2018-04-21",
+    "content": "Patient: Tennille Jerde, female, born 1960-09-24 (patient ID e74367bd-7385-97dc-2c7f-251b4cd9fe29).\nVisit date: 2018-04-21.\nVisit type: Urgent care clinic.\nClinician: Tracy Wilderman (General Practice).\nFacility: MASS GENERAL BRIGHAM URGENT CARE LLC, WOBURN, MA."
+  },
+  {
+    "doc_id": "e74367bd-7385-97dc-c474-9f0d8fec22a5",
+    "patient_id": "e74367bd-7385-97dc-2c7f-251b4cd9fe29",
+    "document_type": "Urgent Care Note",
+    "date": "2018-04-21",
+    "section": "Assessment",
+    "title": "Urgent Care Note - Tennille Jerde - 2018-04-21",
+    "content": "Diagnoses recorded at this visit:\n- Unemployed (onset 2018-04-21), resolved 2018-11-10."
+  },
+  {
+    "doc_id": "e74367bd-7385-97dc-c474-9f0d8fec22a5",
+    "patient_id": "e74367bd-7385-97dc-2c7f-251b4cd9fe29",
+    "document_type": "Urgent Care Note",
+    "date": "2018-04-21",
+    "section": "Vital Signs",
+    "title": "Urgent Care Note - Tennille Jerde - 2018-04-21",
+    "content": "- Body Height: 163.0 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0\n- Body Weight: 76.6 kg\n- Body mass index (BMI) [Ratio]: 28.8 kg/m2\n- Diastolic Blood Pressure: 89.0 mm[Hg]\n- Systolic Blood Pressure: 123.0 mm[Hg]\n- Heart rate: 80.0 /min\n- Respiratory rate: 15.0 /min"
+  },
+  {
+    "doc_id": "e74367bd-7385-97dc-c474-9f0d8fec22a5",
+    "patient_id": "e74367bd-7385-97dc-2c7f-251b4cd9fe29",
+    "document_type": "Urgent Care Note",
+    "date": "2018-04-21",
+    "section": "Laboratory Results",
+    "title": "Urgent Care Note - Tennille Jerde - 2018-04-21",
+    "content": "- Hemoglobin A1c/Hemoglobin.total in Blood: 5.9 %\n- Glucose [Mass/volume] in Blood: 69.7 mg/dL\n- Urea nitrogen [Mass/volume] in Blood: 18.7 mg/dL\n- Creatinine [Mass/volume] in Blood: 1.0 mg/dL\n- Calcium [Mass/volume] in Blood: 8.9 mg/dL\n- Sodium [Moles/volume] in Blood: 139.4 mmol/L\n- Potassium [Moles/volume] in Blood: 4.8 mmol/L\n- Chloride [Moles/volume] in Blood: 107.6 mmol/L\n- Carbon dioxide  total [Moles/volume] in Blood: 21.6 mmol/L"
+  },
+  {
+    "doc_id": "e74367bd-7385-97dc-c474-9f0d8fec22a5",
+    "patient_id": "e74367bd-7385-97dc-2c7f-251b4cd9fe29",
+    "document_type": "Urgent Care Note",
+    "date": "2018-04-21",
+    "section": "Procedures",
+    "title": "Urgent Care Note - Tennille Jerde - 2018-04-21",
+    "content": "- Medication reconciliation.\n- Assessment of health and social care needs.\n- Depression screening.\n- Depression screening."
+  },
+  {
+    "doc_id": "e74367bd-7385-97dc-c474-9f0d8fec22a5",
+    "patient_id": "e74367bd-7385-97dc-2c7f-251b4cd9fe29",
+    "document_type": "Urgent Care Note",
+    "date": "2018-04-21",
+    "section": "Medications",
+    "title": "Urgent Care Note - Tennille Jerde - 2018-04-21",
+    "content": "Medications prescribed at this visit:\n- Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet], started 2018-04-21; stopped 2018-04-28.\n- Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin], started 2018-04-21; stopped 2018-04-28.\n- buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet, started 2018-04-21, for Opioid abuse; stopped 2018-04-28.\n- 12 HR Hydrocodone Bitartrate 10 MG Extended Release Oral Capsule, started 2018-04-21; stopped 2018-04-28."
+  },
+  {
+    "doc_id": "e74367bd-7385-97dc-c474-9f0d8fec22a5",
+    "patient_id": "e74367bd-7385-97dc-2c7f-251b4cd9fe29",
+    "document_type": "Urgent Care Note",
+    "date": "2018-04-21",
+    "section": "Immunizations",
+    "title": "Urgent Care Note - Tennille Jerde - 2018-04-21",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

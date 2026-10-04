@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "0f1067c3-9151-8829-13f5-2f52fc8e3697",
+    "patient_id": "0f1067c3-9151-8829-56cd-2eff898db59c",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2021-11-04",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Virgie Aufderhar - 2021-11-04",
+    "content": "Patient: Virgie Aufderhar, female, born 2009-06-18 (patient ID 0f1067c3-9151-8829-56cd-2eff898db59c).\nVisit date: 2021-11-04.\nVisit type: Administration of vaccine to produce active immunity.\nClinician: Antwan Lindgren (General Practice).\nFacility: DR SOLOMON CARTER FULLER MENTAL HEALTH CENTER, BOSTON, MA."
+  },
+  {
+    "doc_id": "0f1067c3-9151-8829-13f5-2f52fc8e3697",
+    "patient_id": "0f1067c3-9151-8829-56cd-2eff898db59c",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2021-11-04",
+    "section": "Immunizations",
+    "title": "Outpatient Procedure Note - Virgie Aufderhar - 2021-11-04",
+    "content": "- COVID-19 mRNA LNP-S PF 30 mcg/0.3 mL dose."
+  }
+]

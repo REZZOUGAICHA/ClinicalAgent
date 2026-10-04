@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-671d-0b85e688f0ba",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Office Visit Note",
+    "date": "2022-04-27",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Lavette Kozey - 2022-04-27",
+    "content": "Patient: Lavette Kozey, female, born 2010-03-24 (patient ID d20bc0bc-3051-ae6f-f391-ceec7ec0370f).\nVisit date: 2022-04-27.\nVisit type: Encounter for check up.\nClinician: Beatriz Monroy (General Practice).\nFacility: FIRST PSYCHIATRIC PLANNERS INC, WOBURN, MA."
+  },
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-671d-0b85e688f0ba",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Office Visit Note",
+    "date": "2022-04-27",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Lavette Kozey - 2022-04-27",
+    "content": "Seen for Gingivitis."
+  },
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-671d-0b85e688f0ba",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Office Visit Note",
+    "date": "2022-04-27",
+    "section": "Procedures",
+    "title": "Office Visit Note - Lavette Kozey - 2022-04-27",
+    "content": "- Dental consultation and report, for Gingivitis.\n- Dental care, for Gingivitis.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Examination of gingivae, for Gingivitis.\n- Dental fluoride treatment, for Gingivitis.\n- Oral health education, for Gingivitis."
+  },
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-671d-0b85e688f0ba",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Office Visit Note",
+    "date": "2022-04-27",
+    "section": "Medications",
+    "title": "Office Visit Note - Lavette Kozey - 2022-04-27",
+    "content": "Medications prescribed at this visit:\n- sodium fluoride 0.0272 MG/MG Oral Gel, started 2022-04-27, for Gingivitis; stopped 2022-04-27."
+  }
+]

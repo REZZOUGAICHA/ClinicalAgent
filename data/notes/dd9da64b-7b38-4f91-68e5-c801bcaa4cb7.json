@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "dd9da64b-7b38-4f91-68e5-c801bcaa4cb7",
+    "patient_id": "dd9da64b-7b38-4f91-e75d-b1268dde60d4",
+    "document_type": "Urgent Care Note",
+    "date": "1997-12-15",
+    "section": "Visit Information",
+    "title": "Urgent Care Note - Donnetta Jenkins - 1997-12-15",
+    "content": "Patient: Donnetta Jenkins, female, born 1987-01-26 (patient ID dd9da64b-7b38-4f91-e75d-b1268dde60d4).\nVisit date: 1997-12-15.\nVisit type: Urgent care clinic.\nClinician: Terrie Ratke (General Practice).\nFacility: MIDDLETON FAMILY MEDICINE URGENT CARE LLC, MIDDLETON, MA."
+  },
+  {
+    "doc_id": "dd9da64b-7b38-4f91-68e5-c801bcaa4cb7",
+    "patient_id": "dd9da64b-7b38-4f91-e75d-b1268dde60d4",
+    "document_type": "Urgent Care Note",
+    "date": "1997-12-15",
+    "section": "Plan",
+    "title": "Urgent Care Note - Donnetta Jenkins - 1997-12-15",
+    "content": "- Weight management program, started 1997-12-15."
+  }
+]

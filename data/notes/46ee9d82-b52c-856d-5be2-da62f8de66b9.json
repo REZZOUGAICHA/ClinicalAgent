@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "46ee9d82-b52c-856d-5be2-da62f8de66b9",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Emergency Department Note",
+    "date": "2025-04-15",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Shalanda Koepp - 2025-04-15",
+    "content": "Patient: Shalanda Koepp, female, born 1996-06-18 (patient ID 46ee9d82-b52c-856d-069b-5064ff052225).\nVisit date: 2025-04-15.\nVisit type: Obstetric emergency hospital admission.\nClinician: Pearlene Towne (General Practice).\nFacility: LOWELL COMMUNITY HEALTH CENTER, LOWELL, MA."
+  },
+  {
+    "doc_id": "46ee9d82-b52c-856d-5be2-da62f8de66b9",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Emergency Department Note",
+    "date": "2025-04-15",
+    "section": "Reason for Visit",
+    "title": "Emergency Department Note - Shalanda Koepp - 2025-04-15",
+    "content": "Seen for Normal pregnancy."
+  },
+  {
+    "doc_id": "46ee9d82-b52c-856d-5be2-da62f8de66b9",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Emergency Department Note",
+    "date": "2025-04-15",
+    "section": "Procedures",
+    "title": "Emergency Department Note - Shalanda Koepp - 2025-04-15",
+    "content": "- Episiotomy, for Normal pregnancy.\n- Cesarean section, for Normal pregnancy."
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "5e688e99-61b3-5c88-1ad2-bb5dc4254422",
+    "patient_id": "5e688e99-61b3-5c88-3f60-21df8aaced27",
+    "document_type": "Office Visit Note",
+    "date": "2022-10-20",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Wallace Effertz - 2022-10-20",
+    "content": "Patient: Wallace Effertz, male, born 2010-01-28 (patient ID 5e688e99-61b3-5c88-3f60-21df8aaced27).\nVisit date: 2022-10-20.\nVisit type: Encounter for symptom.\nClinician: Lorette Hauck (General Practice).\nFacility: WHITTIER REHABILTATION HOSPITAL, LYNN, MA."
+  },
+  {
+    "doc_id": "5e688e99-61b3-5c88-1ad2-bb5dc4254422",
+    "patient_id": "5e688e99-61b3-5c88-3f60-21df8aaced27",
+    "document_type": "Office Visit Note",
+    "date": "2022-10-20",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Wallace Effertz - 2022-10-20",
+    "content": "Seen for Acute bronchitis."
+  },
+  {
+    "doc_id": "5e688e99-61b3-5c88-1ad2-bb5dc4254422",
+    "patient_id": "5e688e99-61b3-5c88-3f60-21df8aaced27",
+    "document_type": "Office Visit Note",
+    "date": "2022-10-20",
+    "section": "Assessment",
+    "title": "Office Visit Note - Wallace Effertz - 2022-10-20",
+    "content": "Diagnoses recorded at this visit:\n- Acute bronchitis (onset 2022-10-20), resolved 2022-10-29."
+  },
+  {
+    "doc_id": "5e688e99-61b3-5c88-1ad2-bb5dc4254422",
+    "patient_id": "5e688e99-61b3-5c88-3f60-21df8aaced27",
+    "document_type": "Office Visit Note",
+    "date": "2022-10-20",
+    "section": "Procedures",
+    "title": "Office Visit Note - Wallace Effertz - 2022-10-20",
+    "content": "- Measurement of respiratory function, for Acute bronchitis."
+  },
+  {
+    "doc_id": "5e688e99-61b3-5c88-1ad2-bb5dc4254422",
+    "patient_id": "5e688e99-61b3-5c88-3f60-21df8aaced27",
+    "document_type": "Office Visit Note",
+    "date": "2022-10-20",
+    "section": "Medications",
+    "title": "Office Visit Note - Wallace Effertz - 2022-10-20",
+    "content": "Medications prescribed at this visit:\n- Acetaminophen 325 MG Oral Tablet, started 2022-10-20, for Acute bronchitis; stopped 2022-10-29."
+  },
+  {
+    "doc_id": "5e688e99-61b3-5c88-1ad2-bb5dc4254422",
+    "patient_id": "5e688e99-61b3-5c88-3f60-21df8aaced27",
+    "document_type": "Office Visit Note",
+    "date": "2022-10-20",
+    "section": "Plan",
+    "title": "Office Visit Note - Wallace Effertz - 2022-10-20",
+    "content": "- Respiratory therapy, started 2022-10-20, ended 2023-02-23."
+  }
+]

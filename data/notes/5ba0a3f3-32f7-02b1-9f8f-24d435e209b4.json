@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-9f8f-24d435e209b4",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Office Visit Note",
+    "date": "2023-09-13",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Faustino Langworth - 2023-09-13",
+    "content": "Patient: Faustino Langworth, male, born 1998-06-17 (patient ID 5ba0a3f3-32f7-02b1-ec6a-8f568923954c).\nVisit date: 2023-09-13.\nVisit type: Encounter for check up.\nClinician: Floy Greenfelder (General Practice).\nFacility: CAMBRIDGE PUBLIC HEALTH COMMISSION, SOMERVILLE, MA."
+  },
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-9f8f-24d435e209b4",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Office Visit Note",
+    "date": "2023-09-13",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Faustino Langworth - 2023-09-13",
+    "content": "Seen for Gingivitis."
+  },
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-9f8f-24d435e209b4",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Office Visit Note",
+    "date": "2023-09-13",
+    "section": "Assessment",
+    "title": "Office Visit Note - Faustino Langworth - 2023-09-13",
+    "content": "Diagnoses recorded at this visit:\n- Primary dental caries (onset 2023-09-13), resolved 2023-09-13."
+  },
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-9f8f-24d435e209b4",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Office Visit Note",
+    "date": "2023-09-13",
+    "section": "Procedures",
+    "title": "Office Visit Note - Faustino Langworth - 2023-09-13",
+    "content": "- Dental consultation and report, for Gingivitis.\n- Dental care, for Gingivitis.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Examination of gingivae, for Gingivitis.\n- Restoration of tooth with coverage of all cusps using dental filling material, for Primary dental caries.\n- Dental fluoride treatment, for Gingivitis.\n- Oral health education, for Gingivitis."
+  },
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-9f8f-24d435e209b4",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Office Visit Note",
+    "date": "2023-09-13",
+    "section": "Medications",
+    "title": "Office Visit Note - Faustino Langworth - 2023-09-13",
+    "content": "Medications prescribed at this visit:\n- sodium fluoride 0.0272 MG/MG Oral Gel, started 2023-09-13, for Gingivitis; stopped 2023-09-13."
+  }
+]

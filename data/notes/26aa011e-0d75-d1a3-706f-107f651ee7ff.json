@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "26aa011e-0d75-d1a3-706f-107f651ee7ff",
+    "patient_id": "26aa011e-0d75-d1a3-3c5a-560a9450cc9d",
+    "document_type": "Office Visit Note",
+    "date": "2026-07-12",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Jesse Wolf - 2026-07-12",
+    "content": "Patient: Jesse Wolf, male, born 2010-04-04 (patient ID 26aa011e-0d75-d1a3-3c5a-560a9450cc9d).\nVisit date: 2026-07-12.\nVisit type: Encounter for symptom.\nClinician: Marcus Schamberger (General Practice).\nFacility: THE LOWELL GENERAL HOSPITAL, WESTFORD, MA."
+  },
+  {
+    "doc_id": "26aa011e-0d75-d1a3-706f-107f651ee7ff",
+    "patient_id": "26aa011e-0d75-d1a3-3c5a-560a9450cc9d",
+    "document_type": "Office Visit Note",
+    "date": "2026-07-12",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Jesse Wolf - 2026-07-12",
+    "content": "Seen for Acute bronchitis."
+  },
+  {
+    "doc_id": "26aa011e-0d75-d1a3-706f-107f651ee7ff",
+    "patient_id": "26aa011e-0d75-d1a3-3c5a-560a9450cc9d",
+    "document_type": "Office Visit Note",
+    "date": "2026-07-12",
+    "section": "Assessment",
+    "title": "Office Visit Note - Jesse Wolf - 2026-07-12",
+    "content": "Diagnoses recorded at this visit:\n- Acute bronchitis (onset 2026-07-12), resolved 2026-07-22."
+  },
+  {
+    "doc_id": "26aa011e-0d75-d1a3-706f-107f651ee7ff",
+    "patient_id": "26aa011e-0d75-d1a3-3c5a-560a9450cc9d",
+    "document_type": "Office Visit Note",
+    "date": "2026-07-12",
+    "section": "Procedures",
+    "title": "Office Visit Note - Jesse Wolf - 2026-07-12",
+    "content": "- Measurement of respiratory function, for Acute bronchitis."
+  },
+  {
+    "doc_id": "26aa011e-0d75-d1a3-706f-107f651ee7ff",
+    "patient_id": "26aa011e-0d75-d1a3-3c5a-560a9450cc9d",
+    "document_type": "Office Visit Note",
+    "date": "2026-07-12",
+    "section": "Medications",
+    "title": "Office Visit Note - Jesse Wolf - 2026-07-12",
+    "content": "Medications prescribed at this visit:\n- Acetaminophen 325 MG Oral Tablet, started 2026-07-12, for Acute bronchitis; stopped 2026-07-22."
+  },
+  {
+    "doc_id": "26aa011e-0d75-d1a3-706f-107f651ee7ff",
+    "patient_id": "26aa011e-0d75-d1a3-3c5a-560a9450cc9d",
+    "document_type": "Office Visit Note",
+    "date": "2026-07-12",
+    "section": "Plan",
+    "title": "Office Visit Note - Jesse Wolf - 2026-07-12",
+    "content": "- Respiratory therapy, started 2026-07-12."
+  }
+]

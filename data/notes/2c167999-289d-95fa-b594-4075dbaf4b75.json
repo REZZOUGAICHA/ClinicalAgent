@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "2c167999-289d-95fa-b594-4075dbaf4b75",
+    "patient_id": "2c167999-289d-95fa-5c27-7d8b8d35348c",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2016-06-11",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Eliseo Nader - 2016-06-11",
+    "content": "Patient: Eliseo Nader, male, born 1974-01-12 (patient ID 2c167999-289d-95fa-5c27-7d8b8d35348c).\nVisit date: 2016-06-11.\nVisit type: Encounter for check up.\nClinician: Willian Batz (General Practice).\nFacility: BOSTON MEDICAL CENTER CORPORATION-, WINTHROP, MA."
+  },
+  {
+    "doc_id": "2c167999-289d-95fa-b594-4075dbaf4b75",
+    "patient_id": "2c167999-289d-95fa-5c27-7d8b8d35348c",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2016-06-11",
+    "section": "Assessment",
+    "title": "Outpatient Procedure Note - Eliseo Nader - 2016-06-11",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2016-06-11), resolved 2017-05-06.\n- Reports of violence in the environment (onset 2016-06-11), resolved 2017-05-06."
+  },
+  {
+    "doc_id": "2c167999-289d-95fa-b594-4075dbaf4b75",
+    "patient_id": "2c167999-289d-95fa-5c27-7d8b8d35348c",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2016-06-11",
+    "section": "Medications",
+    "title": "Outpatient Procedure Note - Eliseo Nader - 2016-06-11",
+    "content": "Medications prescribed at this visit:\n- Hydrochlorothiazide 25 MG Oral Tablet, started 2016-06-11, for Essential hypertension; stopped 2017-05-06.\n- amLODIPine 2.5 MG Oral Tablet, started 2016-06-11, for Essential hypertension; stopped 2017-05-06."
+  }
+]

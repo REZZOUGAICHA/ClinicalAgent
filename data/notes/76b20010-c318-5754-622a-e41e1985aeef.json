@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "76b20010-c318-5754-622a-e41e1985aeef",
+    "patient_id": "76b20010-c318-5754-8c85-983aa538522f",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2022-07-26",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Jody Hickle - 2022-07-26",
+    "content": "Patient: Jody Hickle, male, born 2018-03-19 (patient ID 76b20010-c318-5754-8c85-983aa538522f).\nVisit date: 2022-07-26.\nVisit type: Encounter for symptom.\nClinician: Tracie Lesch (General Practice).\nFacility: ANNA JAQUES HOSPITAL SUBACUTE UNIT, NEWBURYPORT, MA."
+  },
+  {
+    "doc_id": "76b20010-c318-5754-622a-e41e1985aeef",
+    "patient_id": "76b20010-c318-5754-8c85-983aa538522f",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2022-07-26",
+    "section": "Reason for Visit",
+    "title": "Outpatient Procedure Note - Jody Hickle - 2022-07-26",
+    "content": "Seen for Otitis media."
+  },
+  {
+    "doc_id": "76b20010-c318-5754-622a-e41e1985aeef",
+    "patient_id": "76b20010-c318-5754-8c85-983aa538522f",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2022-07-26",
+    "section": "Assessment",
+    "title": "Outpatient Procedure Note - Jody Hickle - 2022-07-26",
+    "content": "Diagnoses recorded at this visit:\n- Otitis media (onset 2022-07-26), resolved 2023-02-27."
+  },
+  {
+    "doc_id": "76b20010-c318-5754-622a-e41e1985aeef",
+    "patient_id": "76b20010-c318-5754-8c85-983aa538522f",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2022-07-26",
+    "section": "Medications",
+    "title": "Outpatient Procedure Note - Jody Hickle - 2022-07-26",
+    "content": "Medications prescribed at this visit:\n- Amoxicillin 500 MG Oral Tablet, started 2022-07-26; stopped 2022-08-09.\n- Ibuprofen 100 MG Oral Tablet, started 2022-07-26; stopped 2022-08-09."
+  }
+]

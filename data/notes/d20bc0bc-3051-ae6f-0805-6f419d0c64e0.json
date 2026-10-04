@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-0805-6f419d0c64e0",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Office Visit Note",
+    "date": "2011-02-17",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Lavette Kozey - 2011-02-17",
+    "content": "Patient: Lavette Kozey, female, born 2010-03-24 (patient ID d20bc0bc-3051-ae6f-f391-ceec7ec0370f).\nVisit date: 2011-02-17.\nVisit type: Encounter for problem.\nClinician: Beatriz Monroy (General Practice).\nFacility: FIRST PSYCHIATRIC PLANNERS INC, WOBURN, MA."
+  },
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-0805-6f419d0c64e0",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Office Visit Note",
+    "date": "2011-02-17",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Lavette Kozey - 2011-02-17",
+    "content": "Seen for Allergic disposition."
+  },
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-0805-6f419d0c64e0",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Office Visit Note",
+    "date": "2011-02-17",
+    "section": "Allergies",
+    "title": "Office Visit Note - Lavette Kozey - 2011-02-17",
+    "content": "- Allergic disposition (environment allergy).\n- Wheat (food allergy); reaction: eruption of skin, moderate."
+  },
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-0805-6f419d0c64e0",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Office Visit Note",
+    "date": "2011-02-17",
+    "section": "Medications",
+    "title": "Office Visit Note - Lavette Kozey - 2011-02-17",
+    "content": "Medications prescribed at this visit:\n- Loratadine 5 MG Chewable Tablet, started 2011-02-17; no stop date recorded.\n- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector, started 2011-02-17; no stop date recorded."
+  }
+]

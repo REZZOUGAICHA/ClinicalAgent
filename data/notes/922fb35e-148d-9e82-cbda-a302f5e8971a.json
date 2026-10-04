@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "922fb35e-148d-9e82-cbda-a302f5e8971a",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Office Visit Note",
+    "date": "2019-05-17",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Agnes Weber - 2019-05-17",
+    "content": "Patient: Agnes Weber, female, born 1986-12-19 (patient ID 922fb35e-148d-9e82-7e65-bfa05e3b3515).\nVisit date: 2019-05-17.\nVisit type: Encounter for check up.\nClinician: Chanell Robel (General Practice).\nFacility: WHITTIER REHABILITATION HOSPITAL - BRADFORD, WESTBOROUGH, MA."
+  },
+  {
+    "doc_id": "922fb35e-148d-9e82-cbda-a302f5e8971a",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Office Visit Note",
+    "date": "2019-05-17",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Agnes Weber - 2019-05-17",
+    "content": "Seen for Gingivitis."
+  },
+  {
+    "doc_id": "922fb35e-148d-9e82-cbda-a302f5e8971a",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Office Visit Note",
+    "date": "2019-05-17",
+    "section": "Assessment",
+    "title": "Office Visit Note - Agnes Weber - 2019-05-17",
+    "content": "Diagnoses recorded at this visit:\n- Loose dental filling (onset 2019-05-17), resolved 2019-05-17."
+  },
+  {
+    "doc_id": "922fb35e-148d-9e82-cbda-a302f5e8971a",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Office Visit Note",
+    "date": "2019-05-17",
+    "section": "Procedures",
+    "title": "Office Visit Note - Agnes Weber - 2019-05-17",
+    "content": "- Dental consultation and report, for Gingivitis.\n- Dental care, for Gingivitis.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Examination of gingivae, for Gingivitis.\n- Restoration of tooth with coverage of all cusps using dental filling material, for Loose dental filling.\n- Oral health education, for Gingivitis."
+  }
+]

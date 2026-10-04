@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "aa616abe-1761-0c9a-d339-7c01bb6d840e",
+    "patient_id": "aa616abe-1761-0c9a-7959-07544679dafd",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "2004-07-21",
+    "section": "Visit Information",
+    "title": "Inpatient Discharge Summary - Jona Robel - 2004-07-21",
+    "content": "Patient: Jona Robel, female, born 1958-11-15 (patient ID aa616abe-1761-0c9a-7959-07544679dafd).\nVisit date: 2004-07-21.\nVisit type: Non-urgent orthopedic admission.\nClinician: Chanelle Schuster (General Practice).\nFacility: TUFTS MEDICAL CENTER, STONEHAM, MA."
+  },
+  {
+    "doc_id": "aa616abe-1761-0c9a-d339-7c01bb6d840e",
+    "patient_id": "aa616abe-1761-0c9a-7959-07544679dafd",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "2004-07-21",
+    "section": "Reason for Visit",
+    "title": "Inpatient Discharge Summary - Jona Robel - 2004-07-21",
+    "content": "Seen for Rupture of patellar tendon."
+  },
+  {
+    "doc_id": "aa616abe-1761-0c9a-d339-7c01bb6d840e",
+    "patient_id": "aa616abe-1761-0c9a-7959-07544679dafd",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "2004-07-21",
+    "section": "Procedures",
+    "title": "Inpatient Discharge Summary - Jona Robel - 2004-07-21",
+    "content": "- Surgical manipulation of joint of knee, for Rupture of patellar tendon.\n- Postoperative care, for Rupture of patellar tendon."
+  },
+  {
+    "doc_id": "aa616abe-1761-0c9a-d339-7c01bb6d840e",
+    "patient_id": "aa616abe-1761-0c9a-7959-07544679dafd",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "2004-07-21",
+    "section": "Medications",
+    "title": "Inpatient Discharge Summary - Jona Robel - 2004-07-21",
+    "content": "Medications prescribed at this visit:\n- Meperidine Hydrochloride 50 MG Oral Tablet, started 2004-07-21; stopped 2004-08-18."
+  }
+]

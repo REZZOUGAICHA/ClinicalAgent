@@ -1,0 +1,65 @@
+[
+  {
+    "doc_id": "080b069b-5108-46b6-53e8-542c6d0d941c",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2019-12-10",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Chester Aufderhar - 2019-12-10",
+    "content": "Patient: Chester Aufderhar, male, born 1966-11-22 (patient ID 080b069b-5108-46b6-ecef-6aacd3b9ef3f).\nVisit date: 2019-12-10.\nVisit type: Encounter for check up.\nClinician: Harland Ryan (General Practice).\nFacility: SOUTHCOAST HOSPITAL GROUP INC, WAREHAM, MA."
+  },
+  {
+    "doc_id": "080b069b-5108-46b6-53e8-542c6d0d941c",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2019-12-10",
+    "section": "Assessment",
+    "title": "Outpatient Procedure Note - Chester Aufderhar - 2019-12-10",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2019-12-10), resolved 2020-01-28.\n- Part-time employment (onset 2019-12-11), resolved 2020-01-29."
+  },
+  {
+    "doc_id": "080b069b-5108-46b6-53e8-542c6d0d941c",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2019-12-10",
+    "section": "Vital Signs",
+    "title": "Outpatient Procedure Note - Chester Aufderhar - 2019-12-10",
+    "content": "- Body Height: 186.4 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0\n- Body Weight: 96.4 kg\n- Body mass index (BMI) [Ratio]: 27.8 kg/m2\n- Diastolic Blood Pressure: 83.0 mm[Hg]\n- Systolic Blood Pressure: 96.0 mm[Hg]\n- Heart rate: 83.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "080b069b-5108-46b6-53e8-542c6d0d941c",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2019-12-10",
+    "section": "Laboratory Results",
+    "title": "Outpatient Procedure Note - Chester Aufderhar - 2019-12-10",
+    "content": "- Hemoglobin A1c/Hemoglobin.total in Blood: 6.3 %\n- Glucose [Mass/volume] in Blood: 87.3 mg/dL\n- Urea nitrogen [Mass/volume] in Blood: 10.5 mg/dL\n- Creatinine [Mass/volume] in Blood: 1.2 mg/dL\n- Calcium [Mass/volume] in Blood: 9.0 mg/dL\n- Sodium [Moles/volume] in Blood: 141.2 mmol/L\n- Potassium [Moles/volume] in Blood: 4.4 mmol/L\n- Chloride [Moles/volume] in Blood: 108.6 mmol/L\n- Carbon dioxide  total [Moles/volume] in Blood: 21.9 mmol/L"
+  },
+  {
+    "doc_id": "080b069b-5108-46b6-53e8-542c6d0d941c",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2019-12-10",
+    "section": "Procedures",
+    "title": "Outpatient Procedure Note - Chester Aufderhar - 2019-12-10",
+    "content": "- Assessment of health and social care needs.\n- Assessment of anxiety.\n- Depression screening.\n- Depression screening.\n- Patient referral for dental care."
+  },
+  {
+    "doc_id": "080b069b-5108-46b6-53e8-542c6d0d941c",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2019-12-10",
+    "section": "Medications",
+    "title": "Outpatient Procedure Note - Chester Aufderhar - 2019-12-10",
+    "content": "Medications prescribed at this visit:\n- Hydrochlorothiazide 25 MG Oral Tablet, started 2019-12-10, for Essential hypertension; stopped 2020-01-28.\n- lisinopril 10 MG Oral Tablet, started 2019-12-10, for Essential hypertension; stopped 2020-01-28.\n- amLODIPine 2.5 MG Oral Tablet, started 2019-12-10, for Essential hypertension; stopped 2020-01-28."
+  },
+  {
+    "doc_id": "080b069b-5108-46b6-53e8-542c6d0d941c",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2019-12-10",
+    "section": "Immunizations",
+    "title": "Outpatient Procedure Note - Chester Aufderhar - 2019-12-10",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

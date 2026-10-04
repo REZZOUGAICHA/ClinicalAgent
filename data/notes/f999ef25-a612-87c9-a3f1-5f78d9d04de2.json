@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "f999ef25-a612-87c9-a3f1-5f78d9d04de2",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Office Visit Note",
+    "date": "2016-12-26",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Evangeline Ziemann - 2016-12-26",
+    "content": "Patient: Evangeline Ziemann, female, born 1925-09-18 (patient ID f999ef25-a612-87c9-206f-aacc9d469dc8).\nVisit date: 2016-12-26.\nVisit type: Follow-up encounter.\nClinician: Nickolas Schumm (General Practice).\nFacility: ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE, FRAMINGHAM, MA."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-a3f1-5f78d9d04de2",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Office Visit Note",
+    "date": "2016-12-26",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Evangeline Ziemann - 2016-12-26",
+    "content": "Seen for Hyperlipidemia."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-a3f1-5f78d9d04de2",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Office Visit Note",
+    "date": "2016-12-26",
+    "section": "Laboratory Results",
+    "title": "Office Visit Note - Evangeline Ziemann - 2016-12-26",
+    "content": "- Glucose [Mass/volume] in Blood: 85.6 mg/dL\n- Urea nitrogen [Mass/volume] in Blood: 9.0 mg/dL\n- Creatinine [Mass/volume] in Blood: 2.6 mg/dL\n- Calcium [Mass/volume] in Blood: 9.6 mg/dL\n- Sodium [Moles/volume] in Blood: 142.4 mmol/L\n- Potassium [Moles/volume] in Blood: 4.3 mmol/L\n- Chloride [Moles/volume] in Blood: 102.8 mmol/L\n- Carbon dioxide  total [Moles/volume] in Blood: 26.4 mmol/L\n- Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M: 72.1 mL/min\n- Protein [Mass/volume] in Serum or Plasma: 7.8 g/dL\n- Albumin [Mass/volume] in Serum or Plasma: 5.4 g/dL\n- Globulin [Mass/volume] in Serum by calculation: 2.2 g/L\n- Bilirubin.total [Mass/volume] in Serum or Plasma: 0.9 mg/dL\n- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 57.9 U/L\n- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 20.7 U/L\n- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 30.1 U/L\n- Cholesterol [Mass/volume] in Serum or Plasma: 157.3 mg/dL\n- Triglyceride [Mass/volume] in Serum or Plasma: 115.4 mg/dL\n- Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay: 111.8 mg/dL\n- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 58.8 mg/dL"
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-a3f1-5f78d9d04de2",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Office Visit Note",
+    "date": "2016-12-26",
+    "section": "Medications",
+    "title": "Office Visit Note - Evangeline Ziemann - 2016-12-26",
+    "content": "Medications prescribed at this visit:\n- Simvastatin 10 MG Oral Tablet, started 2016-12-26, for Hyperlipidemia; stopped 2017-12-26."
+  }
+]

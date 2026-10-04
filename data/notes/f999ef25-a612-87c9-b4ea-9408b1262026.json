@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "f999ef25-a612-87c9-b4ea-9408b1262026",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "2013-04-28",
+    "section": "Visit Information",
+    "title": "Inpatient Discharge Summary - Evangeline Ziemann - 2013-04-28",
+    "content": "Patient: Evangeline Ziemann, female, born 1925-09-18 (patient ID f999ef25-a612-87c9-206f-aacc9d469dc8).\nVisit date: 2013-04-28.\nVisit type: Drug rehabilitation and detoxification.\nClinician: Nickolas Schumm (General Practice).\nFacility: ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE, FRAMINGHAM, MA."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-b4ea-9408b1262026",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "2013-04-28",
+    "section": "Reason for Visit",
+    "title": "Inpatient Discharge Summary - Evangeline Ziemann - 2013-04-28",
+    "content": "Seen for Dependent drug abuse."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-b4ea-9408b1262026",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "2013-04-28",
+    "section": "Vital Signs",
+    "title": "Inpatient Discharge Summary - Evangeline Ziemann - 2013-04-28",
+    "content": "- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 7.0"
+  }
+]

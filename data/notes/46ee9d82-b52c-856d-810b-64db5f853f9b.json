@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "46ee9d82-b52c-856d-810b-64db5f853f9b",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Office Visit Note",
+    "date": "2017-12-26",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Shalanda Koepp - 2017-12-26",
+    "content": "Patient: Shalanda Koepp, female, born 1996-06-18 (patient ID 46ee9d82-b52c-856d-069b-5064ff052225).\nVisit date: 2017-12-26.\nVisit type: Encounter for symptom.\nClinician: Alysha Koch (General Practice).\nFacility: TEWKSBURY HOSPITAL, TEWKSBURY, MA."
+  },
+  {
+    "doc_id": "46ee9d82-b52c-856d-810b-64db5f853f9b",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Office Visit Note",
+    "date": "2017-12-26",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Shalanda Koepp - 2017-12-26",
+    "content": "Seen for Acute viral pharyngitis."
+  },
+  {
+    "doc_id": "46ee9d82-b52c-856d-810b-64db5f853f9b",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Office Visit Note",
+    "date": "2017-12-26",
+    "section": "Assessment",
+    "title": "Office Visit Note - Shalanda Koepp - 2017-12-26",
+    "content": "Diagnoses recorded at this visit:\n- Acute viral pharyngitis (onset 2017-12-26), resolved 2018-01-05."
+  },
+  {
+    "doc_id": "46ee9d82-b52c-856d-810b-64db5f853f9b",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Office Visit Note",
+    "date": "2017-12-26",
+    "section": "Vital Signs",
+    "title": "Office Visit Note - Shalanda Koepp - 2017-12-26",
+    "content": "- Body temperature: 37.6 \u00b0C"
+  }
+]

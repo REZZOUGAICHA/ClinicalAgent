@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "2d68ad16-268a-478c-dab1-96d2c6d71ae5",
+    "patient_id": "2d68ad16-268a-478c-1f84-d0f1976e1a46",
+    "document_type": "Office Visit Note",
+    "date": "2020-09-23",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Mauro Braun - 2020-09-23",
+    "content": "Patient: Mauro Braun, male, born 2020-02-21 (patient ID 2d68ad16-268a-478c-1f84-d0f1976e1a46).\nVisit date: 2020-09-23.\nVisit type: Encounter for symptom.\nClinician: Xochitl Haley (General Practice).\nFacility: ARBOUR HOSPITAL THE, QUINCY, MA."
+  },
+  {
+    "doc_id": "2d68ad16-268a-478c-dab1-96d2c6d71ae5",
+    "patient_id": "2d68ad16-268a-478c-1f84-d0f1976e1a46",
+    "document_type": "Office Visit Note",
+    "date": "2020-09-23",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Mauro Braun - 2020-09-23",
+    "content": "Seen for Acute viral pharyngitis."
+  },
+  {
+    "doc_id": "2d68ad16-268a-478c-dab1-96d2c6d71ae5",
+    "patient_id": "2d68ad16-268a-478c-1f84-d0f1976e1a46",
+    "document_type": "Office Visit Note",
+    "date": "2020-09-23",
+    "section": "Assessment",
+    "title": "Office Visit Note - Mauro Braun - 2020-09-23",
+    "content": "Diagnoses recorded at this visit:\n- Acute viral pharyngitis (onset 2020-09-23), resolved 2020-10-07."
+  },
+  {
+    "doc_id": "2d68ad16-268a-478c-dab1-96d2c6d71ae5",
+    "patient_id": "2d68ad16-268a-478c-1f84-d0f1976e1a46",
+    "document_type": "Office Visit Note",
+    "date": "2020-09-23",
+    "section": "Vital Signs",
+    "title": "Office Visit Note - Mauro Braun - 2020-09-23",
+    "content": "- Body temperature: 37.8 \u00b0C"
+  },
+  {
+    "doc_id": "2d68ad16-268a-478c-dab1-96d2c6d71ae5",
+    "patient_id": "2d68ad16-268a-478c-1f84-d0f1976e1a46",
+    "document_type": "Office Visit Note",
+    "date": "2020-09-23",
+    "section": "Procedures",
+    "title": "Office Visit Note - Mauro Braun - 2020-09-23",
+    "content": "- Throat culture, for Acute viral pharyngitis."
+  }
+]

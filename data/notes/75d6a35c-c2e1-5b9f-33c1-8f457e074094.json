@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "75d6a35c-c2e1-5b9f-33c1-8f457e074094",
+    "patient_id": "75d6a35c-c2e1-5b9f-e7f8-6a5b05af8fc8",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-01-18",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Hiram Batz - 2019-01-18",
+    "content": "Patient: Hiram Batz, male, born 2013-02-01 (patient ID 75d6a35c-c2e1-5b9f-e7f8-6a5b05af8fc8).\nVisit date: 2019-01-18.\nVisit type: Well child visit.\nClinician: Shaquita Graham (General Practice).\nFacility: HOPKINTON MEDICAL CARE P.C., HOPKINTON, MA."
+  },
+  {
+    "doc_id": "75d6a35c-c2e1-5b9f-33c1-8f457e074094",
+    "patient_id": "75d6a35c-c2e1-5b9f-e7f8-6a5b05af8fc8",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-01-18",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Hiram Batz - 2019-01-18",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2019-01-18), resolved 2023-02-10."
+  },
+  {
+    "doc_id": "75d6a35c-c2e1-5b9f-33c1-8f457e074094",
+    "patient_id": "75d6a35c-c2e1-5b9f-e7f8-6a5b05af8fc8",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-01-18",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Hiram Batz - 2019-01-18",
+    "content": "- Body Height: 119.3 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0\n- Body Weight: 24.7 kg\n- Body mass index (BMI) [Ratio]: 17.4 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 88.8 %\n- Diastolic Blood Pressure: 70.0 mm[Hg]\n- Systolic Blood Pressure: 93.0 mm[Hg]\n- Heart rate: 96.0 /min\n- Respiratory rate: 15.0 /min"
+  },
+  {
+    "doc_id": "75d6a35c-c2e1-5b9f-33c1-8f457e074094",
+    "patient_id": "75d6a35c-c2e1-5b9f-e7f8-6a5b05af8fc8",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-01-18",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Hiram Batz - 2019-01-18",
+    "content": "- Leukocytes [#/volume] in Blood by Automated count: 7.6 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 4.8 10*6/uL\n- Hemoglobin [Mass/volume] in Blood: 16.2 g/dL\n- Hematocrit [Volume Fraction] of Blood by Automated count: 43.0 %\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 89.4 fL\n- MCH [Entitic mass] by Automated count: 29.6 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 33.2 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 40.6 fL\n- Platelets [#/volume] in Blood by Automated count: 335.7 10*3/uL\n- Platelet distribution width [Entitic volume] in Blood by Automated count: 14.6 fL\n- Platelet [Entitic mean volume] in Blood by Automated count: 9.9 fL"
+  },
+  {
+    "doc_id": "75d6a35c-c2e1-5b9f-33c1-8f457e074094",
+    "patient_id": "75d6a35c-c2e1-5b9f-e7f8-6a5b05af8fc8",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-01-18",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Hiram Batz - 2019-01-18",
+    "content": "- Patient referral for dental care."
+  },
+  {
+    "doc_id": "75d6a35c-c2e1-5b9f-33c1-8f457e074094",
+    "patient_id": "75d6a35c-c2e1-5b9f-e7f8-6a5b05af8fc8",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-01-18",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Hiram Batz - 2019-01-18",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

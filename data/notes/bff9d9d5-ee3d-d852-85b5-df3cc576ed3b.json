@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "bff9d9d5-ee3d-d852-85b5-df3cc576ed3b",
+    "patient_id": "bff9d9d5-ee3d-d852-9c67-36d8361a4a4a",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-07-14",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Rosario Ortiz - 2024-07-14",
+    "content": "Patient: Rosario Ortiz, male, born 1945-01-28 (patient ID bff9d9d5-ee3d-d852-9c67-36d8361a4a4a).\nVisit date: 2024-07-14.\nVisit type: General examination of patient.\nClinician: Cedrick Gleason (General Practice).\nFacility: WELLESLEY FAMILY CARE ASSOCIATES PC, WELLESLEY, MA."
+  },
+  {
+    "doc_id": "bff9d9d5-ee3d-d852-85b5-df3cc576ed3b",
+    "patient_id": "bff9d9d5-ee3d-d852-9c67-36d8361a4a4a",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-07-14",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Rosario Ortiz - 2024-07-14",
+    "content": "Diagnoses recorded at this visit:\n- Full-time employment (onset 2024-07-14).\n- Gingivitis (onset 2024-07-14), resolved 2024-07-28."
+  },
+  {
+    "doc_id": "bff9d9d5-ee3d-d852-85b5-df3cc576ed3b",
+    "patient_id": "bff9d9d5-ee3d-d852-9c67-36d8361a4a4a",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-07-14",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Rosario Ortiz - 2024-07-14",
+    "content": "- Body Height: 180.8 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0\n- Body Weight: 90.0 kg\n- Body mass index (BMI) [Ratio]: 27.5 kg/m2\n- Diastolic Blood Pressure: 92.0 mm[Hg]\n- Systolic Blood Pressure: 122.0 mm[Hg]\n- Heart rate: 89.0 /min\n- Respiratory rate: 14.0 /min"
+  },
+  {
+    "doc_id": "bff9d9d5-ee3d-d852-85b5-df3cc576ed3b",
+    "patient_id": "bff9d9d5-ee3d-d852-9c67-36d8361a4a4a",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-07-14",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Rosario Ortiz - 2024-07-14",
+    "content": "- Hemoglobin A1c/Hemoglobin.total in Blood: 6.2 %\n- Glucose [Mass/volume] in Blood: 81.3 mg/dL\n- Urea nitrogen [Mass/volume] in Blood: 14.5 mg/dL\n- Creatinine [Mass/volume] in Blood: 0.8 mg/dL\n- Calcium [Mass/volume] in Blood: 8.7 mg/dL\n- Sodium [Moles/volume] in Blood: 141.7 mmol/L\n- Potassium [Moles/volume] in Blood: 4.3 mmol/L\n- Chloride [Moles/volume] in Blood: 104.9 mmol/L\n- Carbon dioxide  total [Moles/volume] in Blood: 25.1 mmol/L"
+  },
+  {
+    "doc_id": "bff9d9d5-ee3d-d852-85b5-df3cc576ed3b",
+    "patient_id": "bff9d9d5-ee3d-d852-9c67-36d8361a4a4a",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-07-14",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Rosario Ortiz - 2024-07-14",
+    "content": "- Medication reconciliation.\n- Assessment of health and social care needs.\n- Assessment of substance use.\n- Assessment using Alcohol Use Disorders Identification Test - Consumption.\n- Patient referral for dental care, for Gingivitis."
+  },
+  {
+    "doc_id": "bff9d9d5-ee3d-d852-85b5-df3cc576ed3b",
+    "patient_id": "bff9d9d5-ee3d-d852-9c67-36d8361a4a4a",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-07-14",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Rosario Ortiz - 2024-07-14",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

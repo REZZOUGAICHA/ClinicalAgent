@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-537d-227c55c141f3",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Emergency Department Note",
+    "date": "1990-10-30",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Rosalba Effertz - 1990-10-30",
+    "content": "Patient: Rosalba Effertz, female, born 1973-08-05 (patient ID 5e7ebf2c-22ec-a89b-53ab-38edddd81be9).\nVisit date: 1990-10-30.\nVisit type: Emergency hospital admission.\nClinician: Terence Conn (General Practice).\nFacility: HOLYOKE VISITING NURSE ASSOC, HOLYOKE, MA."
+  },
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-537d-227c55c141f3",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Emergency Department Note",
+    "date": "1990-10-30",
+    "section": "Reason for Visit",
+    "title": "Emergency Department Note - Rosalba Effertz - 1990-10-30",
+    "content": "Seen for Chronic pain."
+  },
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-537d-227c55c141f3",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Emergency Department Note",
+    "date": "1990-10-30",
+    "section": "Assessment",
+    "title": "Emergency Department Note - Rosalba Effertz - 1990-10-30",
+    "content": "Diagnoses recorded at this visit:\n- Chronic pain (onset 1990-10-30)."
+  }
+]

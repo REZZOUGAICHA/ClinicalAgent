@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "dd9da64b-7b38-4f91-a0fa-1c8584005840",
+    "patient_id": "dd9da64b-7b38-4f91-e75d-b1268dde60d4",
+    "document_type": "Office Visit Note",
+    "date": "2024-03-11",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Donnetta Jenkins - 2024-03-11",
+    "content": "Patient: Donnetta Jenkins, female, born 1987-01-26 (patient ID dd9da64b-7b38-4f91-e75d-b1268dde60d4).\nVisit date: 2024-03-11.\nVisit type: Prenatal initial visit.\nClinician: Gaston Grimes (General Practice).\nFacility: ANNA JAQUES HOSPITAL SUBACUTE UNIT, NEWBURYPORT, MA."
+  },
+  {
+    "doc_id": "dd9da64b-7b38-4f91-a0fa-1c8584005840",
+    "patient_id": "dd9da64b-7b38-4f91-e75d-b1268dde60d4",
+    "document_type": "Office Visit Note",
+    "date": "2024-03-11",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Donnetta Jenkins - 2024-03-11",
+    "content": "Seen for Normal pregnancy."
+  },
+  {
+    "doc_id": "dd9da64b-7b38-4f91-a0fa-1c8584005840",
+    "patient_id": "dd9da64b-7b38-4f91-e75d-b1268dde60d4",
+    "document_type": "Office Visit Note",
+    "date": "2024-03-11",
+    "section": "Assessment",
+    "title": "Office Visit Note - Donnetta Jenkins - 2024-03-11",
+    "content": "Diagnoses recorded at this visit:\n- Normal pregnancy (onset 2024-03-11), resolved 2024-03-19.\n- Miscarriage in first trimester (onset 2024-03-11), resolved 2024-03-19.\n- Complete miscarriage (onset 2024-03-11), resolved 2024-03-19."
+  },
+  {
+    "doc_id": "dd9da64b-7b38-4f91-a0fa-1c8584005840",
+    "patient_id": "dd9da64b-7b38-4f91-e75d-b1268dde60d4",
+    "document_type": "Office Visit Note",
+    "date": "2024-03-11",
+    "section": "Procedures",
+    "title": "Office Visit Note - Donnetta Jenkins - 2024-03-11",
+    "content": "- Standard pregnancy test, for Normal pregnancy.\n- Ultrasound scan for fetal viability, for Normal pregnancy."
+  }
+]

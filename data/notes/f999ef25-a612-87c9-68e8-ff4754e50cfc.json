@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "f999ef25-a612-87c9-68e8-ff4754e50cfc",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Office Visit Note",
+    "date": "2012-09-26",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Evangeline Ziemann - 2012-09-26",
+    "content": "Patient: Evangeline Ziemann, female, born 1925-09-18 (patient ID f999ef25-a612-87c9-206f-aacc9d469dc8).\nVisit date: 2012-09-26.\nVisit type: Encounter for symptom.\nClinician: Nickolas Schumm (General Practice).\nFacility: ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE, FRAMINGHAM, MA."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-68e8-ff4754e50cfc",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Office Visit Note",
+    "date": "2012-09-26",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Evangeline Ziemann - 2012-09-26",
+    "content": "Seen for Acute bronchitis."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-68e8-ff4754e50cfc",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Office Visit Note",
+    "date": "2012-09-26",
+    "section": "Assessment",
+    "title": "Office Visit Note - Evangeline Ziemann - 2012-09-26",
+    "content": "Diagnoses recorded at this visit:\n- Acute bronchitis (onset 2012-09-26), resolved 2012-10-09."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-68e8-ff4754e50cfc",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Office Visit Note",
+    "date": "2012-09-26",
+    "section": "Medications",
+    "title": "Office Visit Note - Evangeline Ziemann - 2012-09-26",
+    "content": "Medications prescribed at this visit:\n- Acetaminophen 325 MG Oral Tablet, started 2012-09-26, for Acute bronchitis; stopped 2012-10-09."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-68e8-ff4754e50cfc",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Office Visit Note",
+    "date": "2012-09-26",
+    "section": "Plan",
+    "title": "Office Visit Note - Evangeline Ziemann - 2012-09-26",
+    "content": "- Respiratory therapy, started 2012-09-26, ended 2012-10-09."
+  }
+]

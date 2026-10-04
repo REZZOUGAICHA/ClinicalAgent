@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "76b20010-c318-5754-8283-493693157ccd",
+    "patient_id": "76b20010-c318-5754-8c85-983aa538522f",
+    "document_type": "Office Visit Note",
+    "date": "2018-07-02",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Jody Hickle - 2018-07-02",
+    "content": "Patient: Jody Hickle, male, born 2018-03-19 (patient ID 76b20010-c318-5754-8c85-983aa538522f).\nVisit date: 2018-07-02.\nVisit type: Encounter for symptom.\nClinician: Gaston Grimes (General Practice).\nFacility: ANNA JAQUES HOSPITAL SUBACUTE UNIT, NEWBURYPORT, MA."
+  },
+  {
+    "doc_id": "76b20010-c318-5754-8283-493693157ccd",
+    "patient_id": "76b20010-c318-5754-8c85-983aa538522f",
+    "document_type": "Office Visit Note",
+    "date": "2018-07-02",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Jody Hickle - 2018-07-02",
+    "content": "Seen for Acute bronchitis."
+  },
+  {
+    "doc_id": "76b20010-c318-5754-8283-493693157ccd",
+    "patient_id": "76b20010-c318-5754-8c85-983aa538522f",
+    "document_type": "Office Visit Note",
+    "date": "2018-07-02",
+    "section": "Assessment",
+    "title": "Office Visit Note - Jody Hickle - 2018-07-02",
+    "content": "Diagnoses recorded at this visit:\n- Acute bronchitis (onset 2018-07-02), resolved 2018-07-18."
+  },
+  {
+    "doc_id": "76b20010-c318-5754-8283-493693157ccd",
+    "patient_id": "76b20010-c318-5754-8c85-983aa538522f",
+    "document_type": "Office Visit Note",
+    "date": "2018-07-02",
+    "section": "Procedures",
+    "title": "Office Visit Note - Jody Hickle - 2018-07-02",
+    "content": "- Measurement of respiratory function, for Acute bronchitis."
+  },
+  {
+    "doc_id": "76b20010-c318-5754-8283-493693157ccd",
+    "patient_id": "76b20010-c318-5754-8c85-983aa538522f",
+    "document_type": "Office Visit Note",
+    "date": "2018-07-02",
+    "section": "Medications",
+    "title": "Office Visit Note - Jody Hickle - 2018-07-02",
+    "content": "Medications prescribed at this visit:\n- Acetaminophen 325 MG Oral Tablet, started 2018-07-02, for Acute bronchitis; stopped 2018-07-18."
+  },
+  {
+    "doc_id": "76b20010-c318-5754-8283-493693157ccd",
+    "patient_id": "76b20010-c318-5754-8c85-983aa538522f",
+    "document_type": "Office Visit Note",
+    "date": "2018-07-02",
+    "section": "Plan",
+    "title": "Office Visit Note - Jody Hickle - 2018-07-02",
+    "content": "- Respiratory therapy, started 2018-07-02, ended 2018-08-27."
+  }
+]

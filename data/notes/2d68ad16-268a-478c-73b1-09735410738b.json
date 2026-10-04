@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "2d68ad16-268a-478c-73b1-09735410738b",
+    "patient_id": "2d68ad16-268a-478c-1f84-d0f1976e1a46",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-02-21",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Mauro Braun - 2020-02-21",
+    "content": "Patient: Mauro Braun, male, born 2020-02-21 (patient ID 2d68ad16-268a-478c-1f84-d0f1976e1a46).\nVisit date: 2020-02-21.\nVisit type: Well child visit.\nClinician: Rolland Lemke (General Practice).\nFacility: QUINCY CENTER PRIMARY CARE PC, QUINCY, MA."
+  },
+  {
+    "doc_id": "2d68ad16-268a-478c-73b1-09735410738b",
+    "patient_id": "2d68ad16-268a-478c-1f84-d0f1976e1a46",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-02-21",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Mauro Braun - 2020-02-21",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2020-02-21), resolved 2020-02-21."
+  },
+  {
+    "doc_id": "2d68ad16-268a-478c-73b1-09735410738b",
+    "patient_id": "2d68ad16-268a-478c-1f84-d0f1976e1a46",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-02-21",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Mauro Braun - 2020-02-21",
+    "content": "- Body Height: 50.7 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0\n- Body Weight: 3.8 kg\n- Weight-for-length Per age and sex: 57.9 %\n- Head Occipital-frontal circumference Percentile: 24.4 %\n- Head Occipital-frontal circumference: 34.4 cm\n- Diastolic Blood Pressure: 74.0 mm[Hg]\n- Systolic Blood Pressure: 100.0 mm[Hg]\n- Heart rate: 72.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "2d68ad16-268a-478c-73b1-09735410738b",
+    "patient_id": "2d68ad16-268a-478c-1f84-d0f1976e1a46",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-02-21",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Mauro Braun - 2020-02-21",
+    "content": "- Leukocytes [#/volume] in Blood by Automated count: 4.0 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 5.0 10*6/uL\n- Hemoglobin [Mass/volume] in Blood: 13.9 g/dL\n- Hematocrit [Volume Fraction] of Blood by Automated count: 46.5 %\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 82.9 fL\n- MCH [Entitic mass] by Automated count: 27.8 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 35.3 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 39.1 fL\n- Platelets [#/volume] in Blood by Automated count: 160.3 10*3/uL\n- Platelet distribution width [Entitic volume] in Blood by Automated count: 11.8 fL\n- Platelet [Entitic mean volume] in Blood by Automated count: 9.6 fL"
+  },
+  {
+    "doc_id": "2d68ad16-268a-478c-73b1-09735410738b",
+    "patient_id": "2d68ad16-268a-478c-1f84-d0f1976e1a46",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-02-21",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Mauro Braun - 2020-02-21",
+    "content": "- Medication reconciliation."
+  },
+  {
+    "doc_id": "2d68ad16-268a-478c-73b1-09735410738b",
+    "patient_id": "2d68ad16-268a-478c-1f84-d0f1976e1a46",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-02-21",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Mauro Braun - 2020-02-21",
+    "content": "- Hep B adolescent or pediatric."
+  }
+]

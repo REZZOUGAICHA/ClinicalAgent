@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "62f60bdb-cc5c-8305-ed06-36f60aea3c71",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2024-08-17",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Angel Frami - 2024-08-17",
+    "content": "Patient: Angel Frami, female, born 1975-10-22 (patient ID 62f60bdb-cc5c-8305-b98b-f2b229a55eca).\nVisit date: 2024-08-17.\nVisit type: Consultation for treatment.\nClinician: Ollie Dooley (General Practice).\nFacility: DR JOHN C CORRIGAN MENTAL HEALTH CENTER, FALL RIVER, MA."
+  },
+  {
+    "doc_id": "62f60bdb-cc5c-8305-ed06-36f60aea3c71",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2024-08-17",
+    "section": "Reason for Visit",
+    "title": "Outpatient Procedure Note - Angel Frami - 2024-08-17",
+    "content": "Seen for Contraception care."
+  },
+  {
+    "doc_id": "62f60bdb-cc5c-8305-ed06-36f60aea3c71",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2024-08-17",
+    "section": "Medications",
+    "title": "Outpatient Procedure Note - Angel Frami - 2024-08-17",
+    "content": "Medications prescribed at this visit:\n- {7 (ethinyl estradiol 0.01 MG Oral Tablet) / 84 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) } Pack [Seasonique], started 2024-08-17; stopped 2025-08-12."
+  }
+]

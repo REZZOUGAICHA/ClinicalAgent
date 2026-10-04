@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "f95a6723-14a5-c4b6-4321-51e4a52cbf6b",
+    "patient_id": "f95a6723-14a5-c4b6-78df-fa97f7ab361c",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2025-08-02",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Roxann Sauer - 2025-08-02",
+    "content": "Patient: Roxann Sauer, female, born 1986-08-23 (patient ID f95a6723-14a5-c4b6-78df-fa97f7ab361c).\nVisit date: 2025-08-02.\nVisit type: Patient encounter procedure.\nClinician: Chu Weber (General Practice).\nFacility: STURDY MEMORIAL HOSPITAL INC, ATTLEBORO, MA."
+  },
+  {
+    "doc_id": "f95a6723-14a5-c4b6-4321-51e4a52cbf6b",
+    "patient_id": "f95a6723-14a5-c4b6-78df-fa97f7ab361c",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2025-08-02",
+    "section": "Reason for Visit",
+    "title": "Outpatient Procedure Note - Roxann Sauer - 2025-08-02",
+    "content": "Seen for Contraception care."
+  },
+  {
+    "doc_id": "f95a6723-14a5-c4b6-4321-51e4a52cbf6b",
+    "patient_id": "f95a6723-14a5-c4b6-78df-fa97f7ab361c",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2025-08-02",
+    "section": "Procedures",
+    "title": "Outpatient Procedure Note - Roxann Sauer - 2025-08-02",
+    "content": "- Replacement of contraceptive intrauterine device."
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "6f45f2e9-a617-570a-4dde-54488dba77d2",
+    "patient_id": "6f45f2e9-a617-570a-8867-dec1260088bb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2015-06-04",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Carey Mraz - 2015-06-04",
+    "content": "Patient: Carey Mraz, male, born 2013-06-27 (patient ID 6f45f2e9-a617-570a-8867-dec1260088bb).\nVisit date: 2015-06-04.\nVisit type: Well child visit.\nClinician: Ulysses Ziemann (General Practice).\nFacility: CENTER FOR DIGESTIVE WELLNESS PC, LEOMINSTER, MA."
+  },
+  {
+    "doc_id": "6f45f2e9-a617-570a-4dde-54488dba77d2",
+    "patient_id": "6f45f2e9-a617-570a-8867-dec1260088bb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2015-06-04",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Carey Mraz - 2015-06-04",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2015-06-04), resolved 2021-06-24."
+  }
+]

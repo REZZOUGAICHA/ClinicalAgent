@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "62f60bdb-cc5c-8305-076e-3848d36d2488",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Office Visit Note",
+    "date": "2019-11-13",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Angel Frami - 2019-11-13",
+    "content": "Patient: Angel Frami, female, born 1975-10-22 (patient ID 62f60bdb-cc5c-8305-b98b-f2b229a55eca).\nVisit date: 2019-11-13.\nVisit type: Prenatal initial visit.\nClinician: Ollie Dooley (General Practice).\nFacility: DR JOHN C CORRIGAN MENTAL HEALTH CENTER, FALL RIVER, MA."
+  },
+  {
+    "doc_id": "62f60bdb-cc5c-8305-076e-3848d36d2488",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Office Visit Note",
+    "date": "2019-11-13",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Angel Frami - 2019-11-13",
+    "content": "Seen for Normal pregnancy."
+  },
+  {
+    "doc_id": "62f60bdb-cc5c-8305-076e-3848d36d2488",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Office Visit Note",
+    "date": "2019-11-13",
+    "section": "Assessment",
+    "title": "Office Visit Note - Angel Frami - 2019-11-13",
+    "content": "Diagnoses recorded at this visit:\n- Normal pregnancy (onset 2019-11-13), resolved 2020-06-19.\n- Anemia (onset 2019-11-13), resolved 2020-06-19."
+  },
+  {
+    "doc_id": "62f60bdb-cc5c-8305-076e-3848d36d2488",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Office Visit Note",
+    "date": "2019-11-13",
+    "section": "Procedures",
+    "title": "Office Visit Note - Angel Frami - 2019-11-13",
+    "content": "- Standard pregnancy test, for Normal pregnancy.\n- Ultrasound scan for fetal viability, for Normal pregnancy.\n- Evaluation of uterine fundal height, for Normal pregnancy.\n- Auscultation of the fetal heart, for Normal pregnancy.\n- Blood group typing, for Normal pregnancy.\n- Hemogram  automated  with red blood cells  white blood cells  hemoglobin  hematocrit  indices  platelet count  and manual white blood cell differential, for Normal pregnancy.\n- Hepatitis B surface antigen measurement, for Normal pregnancy.\n- Human immunodeficiency virus antigen test, for Normal pregnancy.\n- Chlamydia antigen test, for Normal pregnancy.\n- Gonorrhea infection titer test, for Normal pregnancy.\n- Syphilis infectious titer test, for Normal pregnancy.\n- Urine culture, for Normal pregnancy.\n- Cytopathology procedure  preparation of smear  genital source, for Normal pregnancy.\n- Urine screening test for diabetes, for Normal pregnancy.\n- Hepatitis C antibody  confirmatory test, for Normal pregnancy.\n- Rubella screening test, for Normal pregnancy.\n- Measurement of Varicella-zoster virus antibody, for Normal pregnancy.\n- Skin test for tuberculosis  Tine test, for Normal pregnancy.\n- Urinalysis  protein  qualitative, for Normal pregnancy.\n- Physical examination procedure, for Normal pregnancy."
+  },
+  {
+    "doc_id": "62f60bdb-cc5c-8305-076e-3848d36d2488",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Office Visit Note",
+    "date": "2019-11-13",
+    "section": "Plan",
+    "title": "Office Visit Note - Angel Frami - 2019-11-13",
+    "content": "- Routine antenatal care, started 2019-11-13, ended 2020-06-19."
+  }
+]

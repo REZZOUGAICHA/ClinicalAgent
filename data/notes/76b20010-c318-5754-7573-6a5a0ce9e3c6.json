@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "76b20010-c318-5754-7573-6a5a0ce9e3c6",
+    "patient_id": "76b20010-c318-5754-8c85-983aa538522f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-08-26",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Jody Hickle - 2019-08-26",
+    "content": "Patient: Jody Hickle, male, born 2018-03-19 (patient ID 76b20010-c318-5754-8c85-983aa538522f).\nVisit date: 2019-08-26.\nVisit type: Well child visit.\nClinician: Dane Tromp (General Practice).\nFacility: NEWBURYPORT FAMILY PRACTICE P.C., NEWBURYPORT, MA."
+  },
+  {
+    "doc_id": "76b20010-c318-5754-7573-6a5a0ce9e3c6",
+    "patient_id": "76b20010-c318-5754-8c85-983aa538522f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-08-26",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Jody Hickle - 2019-08-26",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2019-08-26), resolved 2019-08-26."
+  },
+  {
+    "doc_id": "76b20010-c318-5754-7573-6a5a0ce9e3c6",
+    "patient_id": "76b20010-c318-5754-8c85-983aa538522f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-08-26",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Jody Hickle - 2019-08-26",
+    "content": "- Body Height: 81.9 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0\n- Body Weight: 11.3 kg\n- Weight-for-length Per age and sex: 48.1 %\n- Head Occipital-frontal circumference Percentile: 58.8 %\n- Head Occipital-frontal circumference: 48.0 cm\n- Diastolic Blood Pressure: 89.0 mm[Hg]\n- Systolic Blood Pressure: 119.0 mm[Hg]\n- Heart rate: 82.0 /min\n- Respiratory rate: 16.0 /min"
+  },
+  {
+    "doc_id": "76b20010-c318-5754-7573-6a5a0ce9e3c6",
+    "patient_id": "76b20010-c318-5754-8c85-983aa538522f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-08-26",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Jody Hickle - 2019-08-26",
+    "content": "- Medication reconciliation."
+  },
+  {
+    "doc_id": "76b20010-c318-5754-7573-6a5a0ce9e3c6",
+    "patient_id": "76b20010-c318-5754-8c85-983aa538522f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-08-26",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Jody Hickle - 2019-08-26",
+    "content": "- DTaP."
+  }
+]

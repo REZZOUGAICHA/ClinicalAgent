@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "47d390c6-a1a2-1a80-60b2-612077da1275",
+    "patient_id": "47d390c6-a1a2-1a80-dd1d-9722c7b24159",
+    "document_type": "Office Visit Note",
+    "date": "2020-03-28",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Demarcus Jones - 2020-03-28",
+    "content": "Patient: Demarcus Jones, male, born 2009-03-07 (patient ID 47d390c6-a1a2-1a80-dd1d-9722c7b24159).\nVisit date: 2020-03-28.\nVisit type: Encounter for check up.\nClinician: Jackelyn Pacocha (General Practice).\nFacility: WP ACQUISITION SUB LLC, HAVERHILL, MA."
+  },
+  {
+    "doc_id": "47d390c6-a1a2-1a80-60b2-612077da1275",
+    "patient_id": "47d390c6-a1a2-1a80-dd1d-9722c7b24159",
+    "document_type": "Office Visit Note",
+    "date": "2020-03-28",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Demarcus Jones - 2020-03-28",
+    "content": "Seen for Gingivitis."
+  },
+  {
+    "doc_id": "47d390c6-a1a2-1a80-60b2-612077da1275",
+    "patient_id": "47d390c6-a1a2-1a80-dd1d-9722c7b24159",
+    "document_type": "Office Visit Note",
+    "date": "2020-03-28",
+    "section": "Assessment",
+    "title": "Office Visit Note - Demarcus Jones - 2020-03-28",
+    "content": "Diagnoses recorded at this visit:\n- Gingival disease (onset 2020-03-28), resolved 2020-03-28."
+  },
+  {
+    "doc_id": "47d390c6-a1a2-1a80-60b2-612077da1275",
+    "patient_id": "47d390c6-a1a2-1a80-dd1d-9722c7b24159",
+    "document_type": "Office Visit Note",
+    "date": "2020-03-28",
+    "section": "Procedures",
+    "title": "Office Visit Note - Demarcus Jones - 2020-03-28",
+    "content": "- Dental consultation and report, for Gingivitis.\n- Dental care, for Gingivitis.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Dental plain X-ray bitewing.\n- Examination of gingivae, for Gingivitis.\n- Dental surgical procedure, for Gingival disease.\n- Dental application of desensitizing medicament, for Gingival disease.\n- Gingivectomy or gingivoplasty  per tooth, for Gingival disease.\n- Postoperative care for dental procedure.\n- Oral health education, for Gingivitis."
+  }
+]

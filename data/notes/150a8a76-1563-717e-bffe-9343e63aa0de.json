@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "150a8a76-1563-717e-bffe-9343e63aa0de",
+    "patient_id": "150a8a76-1563-717e-bf0f-f52045675f46",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1958-03-17",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Diego Armijo - 1958-03-17",
+    "content": "Patient: Diego Armijo, male, born 1947-03-03 (patient ID 150a8a76-1563-717e-bf0f-f52045675f46).\nVisit date: 1958-03-17.\nVisit type: Well child visit.\nClinician: Elijah White (General Practice).\nFacility: MELROSE FAMILY OPTICIANS LLC, MELROSE, MA."
+  },
+  {
+    "doc_id": "150a8a76-1563-717e-bffe-9343e63aa0de",
+    "patient_id": "150a8a76-1563-717e-bf0f-f52045675f46",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1958-03-17",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Diego Armijo - 1958-03-17",
+    "content": "- Body Height: 135.6 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0\n- Body Weight: 31.5 kg\n- Body mass index (BMI) [Ratio]: 17.1 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 48.8 %\n- Diastolic Blood Pressure: 73.0 mm[Hg]\n- Systolic Blood Pressure: 97.0 mm[Hg]\n- Heart rate: 61.0 /min\n- Respiratory rate: 15.0 /min"
+  },
+  {
+    "doc_id": "150a8a76-1563-717e-bffe-9343e63aa0de",
+    "patient_id": "150a8a76-1563-717e-bf0f-f52045675f46",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1958-03-17",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Diego Armijo - 1958-03-17",
+    "content": "- Leukocytes [#/volume] in Blood by Automated count: 4.5 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 5.4 10*6/uL\n- Hemoglobin [Mass/volume] in Blood: 12.5 g/dL\n- Hematocrit [Volume Fraction] of Blood by Automated count: 43.5 %\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 93.6 fL\n- MCH [Entitic mass] by Automated count: 29.8 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 34.1 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 39.1 fL\n- Platelets [#/volume] in Blood by Automated count: 264.4 10*3/uL\n- Platelet distribution width [Entitic volume] in Blood by Automated count: 16.5 fL\n- Platelet [Entitic mean volume] in Blood by Automated count: 12.2 fL"
+  },
+  {
+    "doc_id": "150a8a76-1563-717e-bffe-9343e63aa0de",
+    "patient_id": "150a8a76-1563-717e-bf0f-f52045675f46",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1958-03-17",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Diego Armijo - 1958-03-17",
+    "content": "- Patient referral for dental care."
+  },
+  {
+    "doc_id": "150a8a76-1563-717e-bffe-9343e63aa0de",
+    "patient_id": "150a8a76-1563-717e-bf0f-f52045675f46",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1958-03-17",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Diego Armijo - 1958-03-17",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

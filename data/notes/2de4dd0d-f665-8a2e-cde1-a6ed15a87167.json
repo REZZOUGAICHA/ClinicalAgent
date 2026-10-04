@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-cde1-a6ed15a87167",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2016-11-19",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Aron Hammes - 2016-11-19",
+    "content": "Patient: Aron Hammes, male, born 2002-10-19 (patient ID 2de4dd0d-f665-8a2e-4c6b-997735e14ace).\nVisit date: 2016-11-19.\nVisit type: Well child visit.\nClinician: Lola Orosco (General Practice).\nFacility: FAIRVIEW HOSPITAL, WILLIAMSTOWN, MA."
+  },
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-cde1-a6ed15a87167",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2016-11-19",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Aron Hammes - 2016-11-19",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2016-11-19), resolved 2017-11-25."
+  },
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-cde1-a6ed15a87167",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2016-11-19",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Aron Hammes - 2016-11-19",
+    "content": "- Body Height: 156.3 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0\n- Body Weight: 44.5 kg\n- Body mass index (BMI) [Ratio]: 18.3 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 34.2 %\n- Diastolic Blood Pressure: 68.0 mm[Hg]\n- Systolic Blood Pressure: 129.0 mm[Hg]\n- Heart rate: 98.0 /min\n- Respiratory rate: 16.0 /min"
+  },
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-cde1-a6ed15a87167",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2016-11-19",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Aron Hammes - 2016-11-19",
+    "content": "- Assessment of anxiety.\n- Assessment of substance use.\n- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test.\n- Health risks education, for Risk activity involvement.\n- Patient referral for dental care."
+  },
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-cde1-a6ed15a87167",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2016-11-19",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Aron Hammes - 2016-11-19",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

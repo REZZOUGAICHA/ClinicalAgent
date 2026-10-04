@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "982750f4-569b-5949-b2e8-5526e6169cc6",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Office Visit Note",
+    "date": "2019-02-20",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Dwana Wolf - 2019-02-20",
+    "content": "Patient: Dwana Wolf, female, born 1986-11-12 (patient ID 982750f4-569b-5949-196b-60699bdda3fb).\nVisit date: 2019-02-20.\nVisit type: Prenatal visit.\nClinician: Marcus Schamberger (General Practice).\nFacility: THE LOWELL GENERAL HOSPITAL, WESTFORD, MA."
+  },
+  {
+    "doc_id": "982750f4-569b-5949-b2e8-5526e6169cc6",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Office Visit Note",
+    "date": "2019-02-20",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Dwana Wolf - 2019-02-20",
+    "content": "Seen for Normal pregnancy."
+  },
+  {
+    "doc_id": "982750f4-569b-5949-b2e8-5526e6169cc6",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Office Visit Note",
+    "date": "2019-02-20",
+    "section": "Procedures",
+    "title": "Office Visit Note - Dwana Wolf - 2019-02-20",
+    "content": "- Streptococcus pneumoniae group B antigen assay, for Normal pregnancy.\n- Evaluation of uterine fundal height, for Normal pregnancy.\n- Auscultation of the fetal heart, for Normal pregnancy."
+  }
+]

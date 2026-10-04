@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "14a5a697-29a3-48b2-0258-7ac663d4bae7",
+    "patient_id": "14a5a697-29a3-48b2-969a-3ceefe74a700",
+    "document_type": "Office Visit Note",
+    "date": "2025-03-01",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Drusilla Schumm - 2025-03-01",
+    "content": "Patient: Drusilla Schumm, female, born 1958-11-15 (patient ID 14a5a697-29a3-48b2-969a-3ceefe74a700).\nVisit date: 2025-03-01.\nVisit type: Encounter for check up.\nClinician: Bennie Abbott (General Practice).\nFacility: LAHEY HOSPITAL & MEDICAL CENTER BURLINGTON, PEABODY, MA."
+  },
+  {
+    "doc_id": "14a5a697-29a3-48b2-0258-7ac663d4bae7",
+    "patient_id": "14a5a697-29a3-48b2-969a-3ceefe74a700",
+    "document_type": "Office Visit Note",
+    "date": "2025-03-01",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Drusilla Schumm - 2025-03-01",
+    "content": "Seen for Gingivitis."
+  },
+  {
+    "doc_id": "14a5a697-29a3-48b2-0258-7ac663d4bae7",
+    "patient_id": "14a5a697-29a3-48b2-969a-3ceefe74a700",
+    "document_type": "Office Visit Note",
+    "date": "2025-03-01",
+    "section": "Assessment",
+    "title": "Office Visit Note - Drusilla Schumm - 2025-03-01",
+    "content": "Diagnoses recorded at this visit:\n- Gingival disease (onset 2025-03-01), resolved 2025-03-01."
+  },
+  {
+    "doc_id": "14a5a697-29a3-48b2-0258-7ac663d4bae7",
+    "patient_id": "14a5a697-29a3-48b2-969a-3ceefe74a700",
+    "document_type": "Office Visit Note",
+    "date": "2025-03-01",
+    "section": "Procedures",
+    "title": "Office Visit Note - Drusilla Schumm - 2025-03-01",
+    "content": "- Dental consultation and report, for Gingivitis.\n- Dental care, for Gingivitis.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Dental plain X-ray bitewing.\n- Examination of gingivae, for Gingivitis.\n- Dental surgical procedure, for Gingival disease.\n- Dental application of desensitizing medicament, for Gingival disease.\n- Gingivectomy or gingivoplasty  per tooth, for Gingival disease.\n- Postoperative care for dental procedure.\n- Dental fluoride treatment, for Gingivitis.\n- Oral health education, for Gingivitis."
+  },
+  {
+    "doc_id": "14a5a697-29a3-48b2-0258-7ac663d4bae7",
+    "patient_id": "14a5a697-29a3-48b2-969a-3ceefe74a700",
+    "document_type": "Office Visit Note",
+    "date": "2025-03-01",
+    "section": "Medications",
+    "title": "Office Visit Note - Drusilla Schumm - 2025-03-01",
+    "content": "Medications prescribed at this visit:\n- sodium fluoride 0.0272 MG/MG Oral Gel, started 2025-03-01, for Gingivitis; stopped 2025-03-01."
+  }
+]

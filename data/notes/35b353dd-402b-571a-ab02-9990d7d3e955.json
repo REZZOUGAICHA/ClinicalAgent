@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "35b353dd-402b-571a-ab02-9990d7d3e955",
+    "patient_id": "35b353dd-402b-571a-d67a-af0a104d0854",
+    "document_type": "Office Visit Note",
+    "date": "2025-03-15",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Jody Monahan - 2025-03-15",
+    "content": "Patient: Jody Monahan, male, born 1943-09-18 (patient ID 35b353dd-402b-571a-d67a-af0a104d0854).\nVisit date: 2025-03-15.\nVisit type: Encounter for check up.\nClinician: Floy Greenfelder (General Practice).\nFacility: CAMBRIDGE PUBLIC HEALTH COMMISSION, SOMERVILLE, MA."
+  },
+  {
+    "doc_id": "35b353dd-402b-571a-ab02-9990d7d3e955",
+    "patient_id": "35b353dd-402b-571a-d67a-af0a104d0854",
+    "document_type": "Office Visit Note",
+    "date": "2025-03-15",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Jody Monahan - 2025-03-15",
+    "content": "Seen for Gingivitis."
+  },
+  {
+    "doc_id": "35b353dd-402b-571a-ab02-9990d7d3e955",
+    "patient_id": "35b353dd-402b-571a-d67a-af0a104d0854",
+    "document_type": "Office Visit Note",
+    "date": "2025-03-15",
+    "section": "Assessment",
+    "title": "Office Visit Note - Jody Monahan - 2025-03-15",
+    "content": "Diagnoses recorded at this visit:\n- Primary dental caries (onset 2025-03-15), resolved 2025-03-15."
+  },
+  {
+    "doc_id": "35b353dd-402b-571a-ab02-9990d7d3e955",
+    "patient_id": "35b353dd-402b-571a-d67a-af0a104d0854",
+    "document_type": "Office Visit Note",
+    "date": "2025-03-15",
+    "section": "Procedures",
+    "title": "Office Visit Note - Jody Monahan - 2025-03-15",
+    "content": "- Dental consultation and report, for Gingivitis.\n- Dental care, for Gingivitis.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Examination of gingivae, for Gingivitis.\n- Restoration of tooth with coverage of all cusps using dental filling material, for Primary dental caries.\n- Oral health education, for Gingivitis."
+  }
+]

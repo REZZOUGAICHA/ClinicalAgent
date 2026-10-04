@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-500b-9c14d37a1099",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2024-06-19",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Lavette Kozey - 2024-06-19",
+    "content": "Patient: Lavette Kozey, female, born 2010-03-24 (patient ID d20bc0bc-3051-ae6f-f391-ceec7ec0370f).\nVisit date: 2024-06-19.\nVisit type: Encounter for check up.\nClinician: Beatriz Monroy (General Practice).\nFacility: FIRST PSYCHIATRIC PLANNERS INC, WOBURN, MA."
+  },
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-500b-9c14d37a1099",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2024-06-19",
+    "section": "Assessment",
+    "title": "Outpatient Procedure Note - Lavette Kozey - 2024-06-19",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2024-06-19).\n- Gingivitis (onset 2024-06-19), resolved 2024-07-03."
+  },
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-500b-9c14d37a1099",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2024-06-19",
+    "section": "Vital Signs",
+    "title": "Outpatient Procedure Note - Lavette Kozey - 2024-06-19",
+    "content": "- Body Height: 162.3 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0\n- Body Weight: 59.5 kg\n- Body mass index (BMI) [Ratio]: 22.6 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 80.3 %\n- Diastolic Blood Pressure: 74.0 mm[Hg]\n- Systolic Blood Pressure: 105.0 mm[Hg]\n- Heart rate: 61.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-500b-9c14d37a1099",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2024-06-19",
+    "section": "Procedures",
+    "title": "Outpatient Procedure Note - Lavette Kozey - 2024-06-19",
+    "content": "- Assessment using Morse Fall Scale.\n- Depression screening.\n- Depression screening using Patient Health Questionnaire Nine Item score.\n- Assessment of substance use.\n- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test.\n- Anticipatory guidance.\n- Patient referral for dental care, for Gingivitis."
+  }
+]

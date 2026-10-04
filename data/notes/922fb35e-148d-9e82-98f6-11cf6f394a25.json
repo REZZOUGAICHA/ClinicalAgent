@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "922fb35e-148d-9e82-98f6-11cf6f394a25",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2007-02-23",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Agnes Weber - 2007-02-23",
+    "content": "Patient: Agnes Weber, female, born 1986-12-19 (patient ID 922fb35e-148d-9e82-7e65-bfa05e3b3515).\nVisit date: 2007-02-23.\nVisit type: General examination of patient.\nClinician: Valentine Leannon (General Practice).\nFacility: SUNRISE HEALTHCARE LLC, SHREWSBURY, MA."
+  },
+  {
+    "doc_id": "922fb35e-148d-9e82-98f6-11cf6f394a25",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2007-02-23",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Agnes Weber - 2007-02-23",
+    "content": "Diagnoses recorded at this visit:\n- Asthma (onset 2007-02-23)."
+  }
+]

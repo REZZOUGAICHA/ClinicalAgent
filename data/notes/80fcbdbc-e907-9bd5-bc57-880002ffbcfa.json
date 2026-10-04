@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "80fcbdbc-e907-9bd5-bc57-880002ffbcfa",
+    "patient_id": "80fcbdbc-e907-9bd5-2644-ad9ef5d6545b",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2011-05-23",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Jaime Aponte - 2011-05-23",
+    "content": "Patient: Jaime Aponte, male, born 1947-03-03 (patient ID 80fcbdbc-e907-9bd5-2644-ad9ef5d6545b).\nVisit date: 2011-05-23.\nVisit type: General examination of patient.\nClinician: Nicholle Satterfield (General Practice).\nFacility: MELROSE INTERNAL MEDICINE ASSOC PC, MELROSE, MA."
+  },
+  {
+    "doc_id": "80fcbdbc-e907-9bd5-bc57-880002ffbcfa",
+    "patient_id": "80fcbdbc-e907-9bd5-2644-ad9ef5d6545b",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2011-05-23",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Jaime Aponte - 2011-05-23",
+    "content": "Diagnoses recorded at this visit:\n- Ischemic heart disease (onset 2011-05-23)."
+  },
+  {
+    "doc_id": "80fcbdbc-e907-9bd5-bc57-880002ffbcfa",
+    "patient_id": "80fcbdbc-e907-9bd5-2644-ad9ef5d6545b",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2011-05-23",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Jaime Aponte - 2011-05-23",
+    "content": "Medications prescribed at this visit:\n- Clopidogrel 75 MG Oral Tablet, started 2011-05-30; no stop date recorded.\n- Simvastatin 20 MG Oral Tablet, started 2011-05-30; no stop date recorded.\n- 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet, started 2011-05-30; no stop date recorded.\n- Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray, started 2011-05-30; no stop date recorded."
+  }
+]

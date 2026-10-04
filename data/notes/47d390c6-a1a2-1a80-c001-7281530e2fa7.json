@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "47d390c6-a1a2-1a80-c001-7281530e2fa7",
+    "patient_id": "47d390c6-a1a2-1a80-dd1d-9722c7b24159",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-03-04",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Demarcus Jones - 2017-03-04",
+    "content": "Patient: Demarcus Jones, male, born 2009-03-07 (patient ID 47d390c6-a1a2-1a80-dd1d-9722c7b24159).\nVisit date: 2017-03-04.\nVisit type: Well child visit.\nClinician: Francene Halvorson (General Practice).\nFacility: HAVERHILL FAMILY OFFICE LLC, HAVERHILL, MA."
+  },
+  {
+    "doc_id": "47d390c6-a1a2-1a80-c001-7281530e2fa7",
+    "patient_id": "47d390c6-a1a2-1a80-dd1d-9722c7b24159",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-03-04",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Demarcus Jones - 2017-03-04",
+    "content": "- Body Height: 130.8 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0\n- Body Weight: 27.5 kg\n- Body mass index (BMI) [Ratio]: 16.1 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 57.1 %\n- Diastolic Blood Pressure: 93.0 mm[Hg]\n- Systolic Blood Pressure: 119.0 mm[Hg]\n- Heart rate: 83.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "47d390c6-a1a2-1a80-c001-7281530e2fa7",
+    "patient_id": "47d390c6-a1a2-1a80-dd1d-9722c7b24159",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-03-04",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Demarcus Jones - 2017-03-04",
+    "content": "- Medication reconciliation.\n- Patient referral for dental care."
+  }
+]

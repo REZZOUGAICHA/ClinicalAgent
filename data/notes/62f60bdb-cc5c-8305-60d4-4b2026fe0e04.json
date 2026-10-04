@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "62f60bdb-cc5c-8305-60d4-4b2026fe0e04",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Office Visit Note",
+    "date": "2023-04-19",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Angel Frami - 2023-04-19",
+    "content": "Patient: Angel Frami, female, born 1975-10-22 (patient ID 62f60bdb-cc5c-8305-b98b-f2b229a55eca).\nVisit date: 2023-04-19.\nVisit type: Encounter for check up.\nClinician: Ollie Dooley (General Practice).\nFacility: DR JOHN C CORRIGAN MENTAL HEALTH CENTER, FALL RIVER, MA."
+  },
+  {
+    "doc_id": "62f60bdb-cc5c-8305-60d4-4b2026fe0e04",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Office Visit Note",
+    "date": "2023-04-19",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Angel Frami - 2023-04-19",
+    "content": "Seen for Gingivitis."
+  },
+  {
+    "doc_id": "62f60bdb-cc5c-8305-60d4-4b2026fe0e04",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Office Visit Note",
+    "date": "2023-04-19",
+    "section": "Assessment",
+    "title": "Office Visit Note - Angel Frami - 2023-04-19",
+    "content": "Diagnoses recorded at this visit:\n- Primary dental caries (onset 2023-04-20), resolved 2023-04-20."
+  },
+  {
+    "doc_id": "62f60bdb-cc5c-8305-60d4-4b2026fe0e04",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Office Visit Note",
+    "date": "2023-04-19",
+    "section": "Procedures",
+    "title": "Office Visit Note - Angel Frami - 2023-04-19",
+    "content": "- Dental consultation and report, for Gingivitis.\n- Dental care, for Gingivitis.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Dental plain X-ray bitewing.\n- Examination of gingivae, for Gingivitis.\n- Restoration of tooth with coverage of all cusps using dental filling material, for Primary dental caries.\n- Oral health education, for Gingivitis."
+  }
+]

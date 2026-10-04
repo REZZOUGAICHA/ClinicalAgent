@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-c3cd-af282b7cdb20",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Office Visit Note",
+    "date": "2001-01-08",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Faustino Langworth - 2001-01-08",
+    "content": "Patient: Faustino Langworth, male, born 1998-06-17 (patient ID 5ba0a3f3-32f7-02b1-ec6a-8f568923954c).\nVisit date: 2001-01-08.\nVisit type: Encounter for symptom.\nClinician: Floy Greenfelder (General Practice).\nFacility: CAMBRIDGE PUBLIC HEALTH COMMISSION, SOMERVILLE, MA."
+  },
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-c3cd-af282b7cdb20",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Office Visit Note",
+    "date": "2001-01-08",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Faustino Langworth - 2001-01-08",
+    "content": "Seen for Sinusitis."
+  },
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-c3cd-af282b7cdb20",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Office Visit Note",
+    "date": "2001-01-08",
+    "section": "Assessment",
+    "title": "Office Visit Note - Faustino Langworth - 2001-01-08",
+    "content": "Diagnoses recorded at this visit:\n- Chronic sinusitis (onset 2001-01-08)."
+  }
+]

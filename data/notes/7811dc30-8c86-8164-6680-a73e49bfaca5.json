@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "7811dc30-8c86-8164-6680-a73e49bfaca5",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "2005-06-01",
+    "section": "Visit Information",
+    "title": "Inpatient Discharge Summary - Mignon Rau - 2005-06-01",
+    "content": "Patient: Mignon Rau, female, born 1970-04-21 (patient ID 7811dc30-8c86-8164-6c33-6b6f464745ef).\nVisit date: 2005-06-01.\nVisit type: Admission to surgical department.\nClinician: Rudolf Vandervort (General Practice).\nFacility: BETH ISRAEL DEACONESS HOSPITAL MILTON INC, MILTON, MA."
+  },
+  {
+    "doc_id": "7811dc30-8c86-8164-6680-a73e49bfaca5",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "2005-06-01",
+    "section": "Reason for Visit",
+    "title": "Inpatient Discharge Summary - Mignon Rau - 2005-06-01",
+    "content": "Seen for Sterilization requested."
+  },
+  {
+    "doc_id": "7811dc30-8c86-8164-6680-a73e49bfaca5",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "2005-06-01",
+    "section": "Assessment",
+    "title": "Inpatient Discharge Summary - Mignon Rau - 2005-06-01",
+    "content": "Diagnoses recorded at this visit:\n- History of tubal ligation (onset 2005-06-01)."
+  }
+]

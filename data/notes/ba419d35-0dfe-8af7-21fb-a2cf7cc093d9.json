@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "ba419d35-0dfe-8af7-21fb-a2cf7cc093d9",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Office Visit Note",
+    "date": "2015-05-22",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Corie Kohler - 2015-05-22",
+    "content": "Patient: Corie Kohler, female, born 1925-09-18 (patient ID ba419d35-0dfe-8af7-347c-eebf02485a56).\nVisit date: 2015-05-22.\nVisit type: Encounter for symptom.\nClinician: Maricarmen Delafuente (General Practice).\nFacility: ARBOUR-FULLER HOSPITAL, SOUTH ATTLEBORO, MA."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-21fb-a2cf7cc093d9",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Office Visit Note",
+    "date": "2015-05-22",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Corie Kohler - 2015-05-22",
+    "content": "Seen for Acute bronchitis."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-21fb-a2cf7cc093d9",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Office Visit Note",
+    "date": "2015-05-22",
+    "section": "Assessment",
+    "title": "Office Visit Note - Corie Kohler - 2015-05-22",
+    "content": "Diagnoses recorded at this visit:\n- Acute bronchitis (onset 2015-05-22), resolved 2015-06-07."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-21fb-a2cf7cc093d9",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Office Visit Note",
+    "date": "2015-05-22",
+    "section": "Procedures",
+    "title": "Office Visit Note - Corie Kohler - 2015-05-22",
+    "content": "- Sputum examination, for Acute bronchitis."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-21fb-a2cf7cc093d9",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Office Visit Note",
+    "date": "2015-05-22",
+    "section": "Medications",
+    "title": "Office Visit Note - Corie Kohler - 2015-05-22",
+    "content": "Medications prescribed at this visit:\n- Acetaminophen 325 MG Oral Tablet, started 2015-05-22, for Acute bronchitis; stopped 2015-06-07."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-21fb-a2cf7cc093d9",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Office Visit Note",
+    "date": "2015-05-22",
+    "section": "Plan",
+    "title": "Office Visit Note - Corie Kohler - 2015-05-22",
+    "content": "- Respiratory therapy, started 2015-05-22, ended 2015-07-10."
+  }
+]

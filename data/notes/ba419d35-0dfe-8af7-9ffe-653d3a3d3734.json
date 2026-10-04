@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "ba419d35-0dfe-8af7-9ffe-653d3a3d3734",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Emergency Department Note",
+    "date": "1990-04-24",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Corie Kohler - 1990-04-24",
+    "content": "Patient: Corie Kohler, female, born 1925-09-18 (patient ID ba419d35-0dfe-8af7-347c-eebf02485a56).\nVisit date: 1990-04-24.\nVisit type: Emergency room admission.\nClinician: Javier Collier (General Practice).\nFacility: SERENITY HILL NURSING CENTER, WRENTHAM, MA."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-9ffe-653d3a3d3734",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Emergency Department Note",
+    "date": "1990-04-24",
+    "section": "Reason for Visit",
+    "title": "Emergency Department Note - Corie Kohler - 1990-04-24",
+    "content": "Seen for Impacted molars."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-9ffe-653d3a3d3734",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Emergency Department Note",
+    "date": "1990-04-24",
+    "section": "Assessment",
+    "title": "Emergency Department Note - Corie Kohler - 1990-04-24",
+    "content": "Diagnoses recorded at this visit:\n- Impacted molars (onset 1990-04-24)."
+  }
+]

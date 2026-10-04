@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "5e688e99-61b3-5c88-3936-921f1b587f27",
+    "patient_id": "5e688e99-61b3-5c88-3f60-21df8aaced27",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2022-10-13",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Wallace Effertz - 2022-10-13",
+    "content": "Patient: Wallace Effertz, male, born 2010-01-28 (patient ID 5e688e99-61b3-5c88-3f60-21df8aaced27).\nVisit date: 2022-10-13.\nVisit type: Encounter for check up.\nClinician: Lorette Hauck (General Practice).\nFacility: WHITTIER REHABILTATION HOSPITAL, LYNN, MA."
+  },
+  {
+    "doc_id": "5e688e99-61b3-5c88-3936-921f1b587f27",
+    "patient_id": "5e688e99-61b3-5c88-3f60-21df8aaced27",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2022-10-13",
+    "section": "Assessment",
+    "title": "Outpatient Procedure Note - Wallace Effertz - 2022-10-13",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2022-10-13), resolved 2022-10-13.\n- Gingivitis (onset 2022-10-13), resolved 2022-10-27."
+  },
+  {
+    "doc_id": "5e688e99-61b3-5c88-3936-921f1b587f27",
+    "patient_id": "5e688e99-61b3-5c88-3f60-21df8aaced27",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2022-10-13",
+    "section": "Vital Signs",
+    "title": "Outpatient Procedure Note - Wallace Effertz - 2022-10-13",
+    "content": "- Body Height: 150.7 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0\n- Body Weight: 52.2 kg\n- Body mass index (BMI) [Ratio]: 23.0 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 90.9 %\n- Diastolic Blood Pressure: 89.0 mm[Hg]\n- Systolic Blood Pressure: 125.0 mm[Hg]\n- Heart rate: 61.0 /min\n- Respiratory rate: 12.0 /min"
+  },
+  {
+    "doc_id": "5e688e99-61b3-5c88-3936-921f1b587f27",
+    "patient_id": "5e688e99-61b3-5c88-3f60-21df8aaced27",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2022-10-13",
+    "section": "Procedures",
+    "title": "Outpatient Procedure Note - Wallace Effertz - 2022-10-13",
+    "content": "- Medication reconciliation.\n- Depression screening.\n- Depression screening using Patient Health Questionnaire Nine Item score.\n- Assessment of substance use.\n- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test.\n- Health risks education, for Risk activity involvement.\n- Patient referral for dental care, for Gingivitis."
+  },
+  {
+    "doc_id": "5e688e99-61b3-5c88-3936-921f1b587f27",
+    "patient_id": "5e688e99-61b3-5c88-3f60-21df8aaced27",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2022-10-13",
+    "section": "Immunizations",
+    "title": "Outpatient Procedure Note - Wallace Effertz - 2022-10-13",
+    "content": "- Influenza split virus trivalent PF.\n- HPV quadrivalent."
+  }
+]

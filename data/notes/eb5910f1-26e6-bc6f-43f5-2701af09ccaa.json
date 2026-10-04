@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "eb5910f1-26e6-bc6f-43f5-2701af09ccaa",
+    "patient_id": "eb5910f1-26e6-bc6f-b300-716eae678d6f",
+    "document_type": "Office Visit Note",
+    "date": "2016-05-03",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Larissa Bins - 2016-05-03",
+    "content": "Patient: Larissa Bins, female, born 1995-04-25 (patient ID eb5910f1-26e6-bc6f-b300-716eae678d6f).\nVisit date: 2016-05-03.\nVisit type: Prenatal initial visit.\nClinician: Jackelyn Pacocha (General Practice).\nFacility: WP ACQUISITION SUB LLC, HAVERHILL, MA."
+  },
+  {
+    "doc_id": "eb5910f1-26e6-bc6f-43f5-2701af09ccaa",
+    "patient_id": "eb5910f1-26e6-bc6f-b300-716eae678d6f",
+    "document_type": "Office Visit Note",
+    "date": "2016-05-03",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Larissa Bins - 2016-05-03",
+    "content": "Seen for Normal pregnancy."
+  },
+  {
+    "doc_id": "eb5910f1-26e6-bc6f-43f5-2701af09ccaa",
+    "patient_id": "eb5910f1-26e6-bc6f-b300-716eae678d6f",
+    "document_type": "Office Visit Note",
+    "date": "2016-05-03",
+    "section": "Assessment",
+    "title": "Office Visit Note - Larissa Bins - 2016-05-03",
+    "content": "Diagnoses recorded at this visit:\n- Normal pregnancy (onset 2016-05-03), resolved 2016-12-13."
+  },
+  {
+    "doc_id": "eb5910f1-26e6-bc6f-43f5-2701af09ccaa",
+    "patient_id": "eb5910f1-26e6-bc6f-b300-716eae678d6f",
+    "document_type": "Office Visit Note",
+    "date": "2016-05-03",
+    "section": "Plan",
+    "title": "Office Visit Note - Larissa Bins - 2016-05-03",
+    "content": "- Routine antenatal care, started 2016-05-03, ended 2016-12-13."
+  }
+]

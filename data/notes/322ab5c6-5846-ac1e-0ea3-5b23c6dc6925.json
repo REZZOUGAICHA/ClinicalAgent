@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "322ab5c6-5846-ac1e-0ea3-5b23c6dc6925",
+    "patient_id": "322ab5c6-5846-ac1e-38cc-48b8cb441e20",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2007-03-09",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Lena Cummings - 2007-03-09",
+    "content": "Patient: Lena Cummings, female, born 1965-02-26 (patient ID 322ab5c6-5846-ac1e-38cc-48b8cb441e20).\nVisit date: 2007-03-09.\nVisit type: General examination of patient.\nClinician: Anh Schroeder (General Practice).\nFacility: FAMILY PRACTICE GROUP PC, ARLINGTON, MA."
+  },
+  {
+    "doc_id": "322ab5c6-5846-ac1e-0ea3-5b23c6dc6925",
+    "patient_id": "322ab5c6-5846-ac1e-38cc-48b8cb441e20",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2007-03-09",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Lena Cummings - 2007-03-09",
+    "content": "Diagnoses recorded at this visit:\n- Social isolation (onset 2007-03-09), resolved 2017-03-10."
+  }
+]

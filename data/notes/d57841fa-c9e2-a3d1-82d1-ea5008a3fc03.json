@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "d57841fa-c9e2-a3d1-82d1-ea5008a3fc03",
+    "patient_id": "d57841fa-c9e2-a3d1-0e78-09bdbe4eed66",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-08-06",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Jessica McKenzie - 2018-08-06",
+    "content": "Patient: Jessica McKenzie, female, born 1965-07-19 (patient ID d57841fa-c9e2-a3d1-0e78-09bdbe4eed66).\nVisit date: 2018-08-06.\nVisit type: General examination of patient.\nClinician: Leonie Wunsch (General Practice).\nFacility: SOUTH SHORE CENTER FOR WELLNESS LTD, NORWELL, MA."
+  },
+  {
+    "doc_id": "d57841fa-c9e2-a3d1-82d1-ea5008a3fc03",
+    "patient_id": "d57841fa-c9e2-a3d1-0e78-09bdbe4eed66",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-08-06",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Jessica McKenzie - 2018-08-06",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2018-08-06), resolved 2018-08-06.\n- Full-time employment (onset 2018-08-06), resolved 2021-08-23.\n- Unhealthy alcohol drinking behavior (onset 2018-08-06), resolved 2019-08-12."
+  },
+  {
+    "doc_id": "d57841fa-c9e2-a3d1-82d1-ea5008a3fc03",
+    "patient_id": "d57841fa-c9e2-a3d1-0e78-09bdbe4eed66",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-08-06",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Jessica McKenzie - 2018-08-06",
+    "content": "- Body Height: 160.8 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0\n- Body Weight: 75.3 kg\n- Body mass index (BMI) [Ratio]: 29.1 kg/m2\n- Diastolic Blood Pressure: 74.0 mm[Hg]\n- Systolic Blood Pressure: 141.0 mm[Hg]\n- Heart rate: 94.0 /min\n- Respiratory rate: 15.0 /min"
+  },
+  {
+    "doc_id": "d57841fa-c9e2-a3d1-82d1-ea5008a3fc03",
+    "patient_id": "d57841fa-c9e2-a3d1-0e78-09bdbe4eed66",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-08-06",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Jessica McKenzie - 2018-08-06",
+    "content": "- Hemoglobin A1c/Hemoglobin.total in Blood: 6.2 %\n- Glucose [Mass/volume] in Blood: 79.7 mg/dL\n- Urea nitrogen [Mass/volume] in Blood: 13.1 mg/dL\n- Creatinine [Mass/volume] in Blood: 0.8 mg/dL\n- Calcium [Mass/volume] in Blood: 10.0 mg/dL\n- Sodium [Moles/volume] in Blood: 140.7 mmol/L\n- Potassium [Moles/volume] in Blood: 5.1 mmol/L\n- Chloride [Moles/volume] in Blood: 103.1 mmol/L\n- Carbon dioxide  total [Moles/volume] in Blood: 21.1 mmol/L"
+  },
+  {
+    "doc_id": "d57841fa-c9e2-a3d1-82d1-ea5008a3fc03",
+    "patient_id": "d57841fa-c9e2-a3d1-0e78-09bdbe4eed66",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-08-06",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Jessica McKenzie - 2018-08-06",
+    "content": "- Medication reconciliation.\n- Assessment of health and social care needs.\n- Assessment of anxiety.\n- Depression screening.\n- Depression screening.\n- Assessment of substance use.\n- Assessment using Alcohol Use Disorders Identification Test - Consumption."
+  },
+  {
+    "doc_id": "d57841fa-c9e2-a3d1-82d1-ea5008a3fc03",
+    "patient_id": "d57841fa-c9e2-a3d1-0e78-09bdbe4eed66",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-08-06",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Jessica McKenzie - 2018-08-06",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

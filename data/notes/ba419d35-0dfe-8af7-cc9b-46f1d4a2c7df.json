@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "ba419d35-0dfe-8af7-cc9b-46f1d4a2c7df",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2016-03-11",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Corie Kohler - 2016-03-11",
+    "content": "Patient: Corie Kohler, female, born 1925-09-18 (patient ID ba419d35-0dfe-8af7-347c-eebf02485a56).\nVisit date: 2016-03-11.\nVisit type: Encounter for check up.\nClinician: Maricarmen Delafuente (General Practice).\nFacility: ARBOUR-FULLER HOSPITAL, SOUTH ATTLEBORO, MA."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-cc9b-46f1d4a2c7df",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2016-03-11",
+    "section": "Assessment",
+    "title": "Outpatient Procedure Note - Corie Kohler - 2016-03-11",
+    "content": "Diagnoses recorded at this visit:\n- Stress (onset 2016-03-11), resolved 2016-06-24.\n- Gingivitis (onset 2016-03-11), resolved 2016-04-09."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-cc9b-46f1d4a2c7df",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2016-03-11",
+    "section": "Vital Signs",
+    "title": "Outpatient Procedure Note - Corie Kohler - 2016-03-11",
+    "content": "- Body Height: 164.1 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0\n- Body Weight: 82.0 kg\n- Body mass index (BMI) [Ratio]: 30.5 kg/m2\n- Diastolic Blood Pressure: 74.0 mm[Hg]\n- Systolic Blood Pressure: 112.0 mm[Hg]\n- Heart rate: 81.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-cc9b-46f1d4a2c7df",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2016-03-11",
+    "section": "Procedures",
+    "title": "Outpatient Procedure Note - Corie Kohler - 2016-03-11",
+    "content": "- Assessment of health and social care needs.\n- Assessment using Morse Fall Scale.\n- Depression screening.\n- Depression screening.\n- Patient referral for dental care, for Gingivitis."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-cc9b-46f1d4a2c7df",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2016-03-11",
+    "section": "Medications",
+    "title": "Outpatient Procedure Note - Corie Kohler - 2016-03-11",
+    "content": "Medications prescribed at this visit:\n- lisinopril 10 MG Oral Tablet, started 2016-03-11, for Essential hypertension; stopped 2016-04-01."
+  }
+]

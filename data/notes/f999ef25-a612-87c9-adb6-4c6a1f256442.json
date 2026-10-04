@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "f999ef25-a612-87c9-adb6-4c6a1f256442",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1943-11-12",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Evangeline Ziemann - 1943-11-12",
+    "content": "Patient: Evangeline Ziemann, female, born 1925-09-18 (patient ID f999ef25-a612-87c9-206f-aacc9d469dc8).\nVisit date: 1943-11-12.\nVisit type: General examination of patient.\nClinician: Sharron Okuneva (General Practice).\nFacility: A&A HEALTHCARE LLC, MILFORD, MA."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-adb6-4c6a1f256442",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1943-11-12",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Evangeline Ziemann - 1943-11-12",
+    "content": "Diagnoses recorded at this visit:\n- Educated to high school level (onset 1943-11-12)."
+  }
+]

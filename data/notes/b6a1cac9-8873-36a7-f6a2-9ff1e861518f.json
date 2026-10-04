@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "b6a1cac9-8873-36a7-f6a2-9ff1e861518f",
+    "patient_id": "b6a1cac9-8873-36a7-e726-4aad8a07d44d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-06-26",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Renaldo Crist - 2024-06-26",
+    "content": "Patient: Renaldo Crist, male, born 1993-04-14 (patient ID b6a1cac9-8873-36a7-e726-4aad8a07d44d).\nVisit date: 2024-06-26.\nVisit type: General examination of patient.\nClinician: Sandie Rodriguez (General Practice).\nFacility: CLASSIC HEALTHCARE MEDICAL GROUP LLC, NEEDHAM, MA."
+  },
+  {
+    "doc_id": "b6a1cac9-8873-36a7-f6a2-9ff1e861518f",
+    "patient_id": "b6a1cac9-8873-36a7-e726-4aad8a07d44d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-06-26",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Renaldo Crist - 2024-06-26",
+    "content": "Diagnoses recorded at this visit:\n- Stress (onset 2024-06-26), resolved 2024-11-20."
+  },
+  {
+    "doc_id": "b6a1cac9-8873-36a7-f6a2-9ff1e861518f",
+    "patient_id": "b6a1cac9-8873-36a7-e726-4aad8a07d44d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-06-26",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Renaldo Crist - 2024-06-26",
+    "content": "- Body Height: 177.2 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0\n- Body Weight: 86.6 kg\n- Body mass index (BMI) [Ratio]: 27.6 kg/m2\n- Diastolic Blood Pressure: 76.0 mm[Hg]\n- Systolic Blood Pressure: 121.0 mm[Hg]\n- Heart rate: 86.0 /min\n- Respiratory rate: 15.0 /min"
+  },
+  {
+    "doc_id": "b6a1cac9-8873-36a7-f6a2-9ff1e861518f",
+    "patient_id": "b6a1cac9-8873-36a7-e726-4aad8a07d44d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-06-26",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Renaldo Crist - 2024-06-26",
+    "content": "- Cholesterol [Mass/volume] in Serum or Plasma: 210.1 mg/dL\n- Triglyceride [Mass/volume] in Serum or Plasma: 149.0 mg/dL\n- Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay: 128.2 mg/dL\n- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 52.1 mg/dL"
+  },
+  {
+    "doc_id": "b6a1cac9-8873-36a7-f6a2-9ff1e861518f",
+    "patient_id": "b6a1cac9-8873-36a7-e726-4aad8a07d44d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-06-26",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Renaldo Crist - 2024-06-26",
+    "content": "- Assessment of health and social care needs.\n- Assessment of anxiety.\n- Screening for domestic abuse.\n- Depression screening.\n- Depression screening."
+  },
+  {
+    "doc_id": "b6a1cac9-8873-36a7-f6a2-9ff1e861518f",
+    "patient_id": "b6a1cac9-8873-36a7-e726-4aad8a07d44d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-06-26",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Renaldo Crist - 2024-06-26",
+    "content": "- Influenza split virus trivalent PF.\n- Td (adult) 5 Lf tetanus toxoid preservative free adsorbed."
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "doc_id": "c86c400e-ff88-a1e3-6965-43c6146881f0",
+    "patient_id": "c86c400e-ff88-a1e3-2e23-caa4d8311f47",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1987-03-09",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Cristobal Montero - 1987-03-09",
+    "content": "Patient: Cristobal Montero, male, born 1947-03-03 (patient ID c86c400e-ff88-a1e3-2e23-caa4d8311f47).\nVisit date: 1987-03-09.\nVisit type: General examination of patient.\nClinician: Eddie Keeling (General Practice).\nFacility: PRIMARY CARE NORTH PC, LYNN, MA."
+  },
+  {
+    "doc_id": "c86c400e-ff88-a1e3-6965-43c6146881f0",
+    "patient_id": "c86c400e-ff88-a1e3-2e23-caa4d8311f47",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1987-03-09",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Cristobal Montero - 1987-03-09",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 1987-03-09), resolved 1987-03-09.\n- Reports of violence in the environment (onset 1987-03-09)."
+  },
+  {
+    "doc_id": "c86c400e-ff88-a1e3-6965-43c6146881f0",
+    "patient_id": "c86c400e-ff88-a1e3-2e23-caa4d8311f47",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1987-03-09",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Cristobal Montero - 1987-03-09",
+    "content": "- Body Height: 185.2 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0\n- Body Weight: 94.1 kg\n- Body mass index (BMI) [Ratio]: 27.4 kg/m2\n- Diastolic Blood Pressure: 83.0 mm[Hg]\n- Systolic Blood Pressure: 110.0 mm[Hg]\n- Heart rate: 66.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "c86c400e-ff88-a1e3-6965-43c6146881f0",
+    "patient_id": "c86c400e-ff88-a1e3-2e23-caa4d8311f47",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1987-03-09",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Cristobal Montero - 1987-03-09",
+    "content": "- Leukocytes [#/volume] in Blood by Automated count: 8.8 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 4.1 10*6/uL\n- Hemoglobin [Mass/volume] in Blood: 14.8 g/dL\n- Hematocrit [Volume Fraction] of Blood by Automated count: 48.7 %\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 89.9 fL\n- MCH [Entitic mass] by Automated count: 31.6 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 34.3 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 40.2 fL\n- Platelets [#/volume] in Blood by Automated count: 285.8 10*3/uL\n- Platelet distribution width [Entitic volume] in Blood by Automated count: 16.2 fL\n- Platelet [Entitic mean volume] in Blood by Automated count: 11.9 fL"
+  },
+  {
+    "doc_id": "c86c400e-ff88-a1e3-6965-43c6146881f0",
+    "patient_id": "c86c400e-ff88-a1e3-2e23-caa4d8311f47",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1987-03-09",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Cristobal Montero - 1987-03-09",
+    "content": "- Medication reconciliation.\n- Assessment of health and social care needs.\n- Depression screening.\n- Depression screening.\n- Assessment of substance use.\n- Screening for drug abuse."
+  },
+  {
+    "doc_id": "c86c400e-ff88-a1e3-6965-43c6146881f0",
+    "patient_id": "c86c400e-ff88-a1e3-2e23-caa4d8311f47",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1987-03-09",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Cristobal Montero - 1987-03-09",
+    "content": "Medications prescribed at this visit:\n- Diazepam 5 MG Oral Tablet, started 1987-03-09, for Seizure disorder; no stop date recorded."
+  },
+  {
+    "doc_id": "c86c400e-ff88-a1e3-6965-43c6146881f0",
+    "patient_id": "c86c400e-ff88-a1e3-2e23-caa4d8311f47",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1987-03-09",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Cristobal Montero - 1987-03-09",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "79021b82-f370-50bb-24c8-831143cf373e",
+    "patient_id": "79021b82-f370-50bb-c5a1-7333816d683f",
+    "document_type": "Office Visit Note",
+    "date": "2019-11-27",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Evette Farrell - 2019-11-27",
+    "content": "Patient: Evette Farrell, female, born 2013-03-20 (patient ID 79021b82-f370-50bb-c5a1-7333816d683f).\nVisit date: 2019-11-27.\nVisit type: Encounter for check up.\nClinician: Willian Batz (General Practice).\nFacility: BOSTON MEDICAL CENTER CORPORATION-, WINTHROP, MA."
+  },
+  {
+    "doc_id": "79021b82-f370-50bb-24c8-831143cf373e",
+    "patient_id": "79021b82-f370-50bb-c5a1-7333816d683f",
+    "document_type": "Office Visit Note",
+    "date": "2019-11-27",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Evette Farrell - 2019-11-27",
+    "content": "Seen for Patient referral for dental care."
+  },
+  {
+    "doc_id": "79021b82-f370-50bb-24c8-831143cf373e",
+    "patient_id": "79021b82-f370-50bb-c5a1-7333816d683f",
+    "document_type": "Office Visit Note",
+    "date": "2019-11-27",
+    "section": "Procedures",
+    "title": "Office Visit Note - Evette Farrell - 2019-11-27",
+    "content": "- Dental consultation and report, for Patient referral for dental care.\n- Dental care, for Patient referral for dental care.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Examination of gingivae, for Patient referral for dental care.\n- Oral health education, for Patient referral for dental care."
+  }
+]

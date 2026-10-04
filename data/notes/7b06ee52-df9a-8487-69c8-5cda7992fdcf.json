@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "7b06ee52-df9a-8487-69c8-5cda7992fdcf",
+    "patient_id": "7b06ee52-df9a-8487-0be6-dff27cc7d519",
+    "document_type": "Office Visit Note",
+    "date": "2023-12-25",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Ressie Nader - 2023-12-25",
+    "content": "Patient: Ressie Nader, female, born 2001-08-06 (patient ID 7b06ee52-df9a-8487-0be6-dff27cc7d519).\nVisit date: 2023-12-25.\nVisit type: Prenatal visit.\nClinician: Maricarmen Delafuente (General Practice).\nFacility: ARBOUR-FULLER HOSPITAL, SOUTH ATTLEBORO, MA."
+  },
+  {
+    "doc_id": "7b06ee52-df9a-8487-69c8-5cda7992fdcf",
+    "patient_id": "7b06ee52-df9a-8487-0be6-dff27cc7d519",
+    "document_type": "Office Visit Note",
+    "date": "2023-12-25",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Ressie Nader - 2023-12-25",
+    "content": "Seen for Normal pregnancy."
+  },
+  {
+    "doc_id": "7b06ee52-df9a-8487-69c8-5cda7992fdcf",
+    "patient_id": "7b06ee52-df9a-8487-0be6-dff27cc7d519",
+    "document_type": "Office Visit Note",
+    "date": "2023-12-25",
+    "section": "Procedures",
+    "title": "Office Visit Note - Ressie Nader - 2023-12-25",
+    "content": "- Fetal anatomy study, for Normal pregnancy.\n- Alpha-fetoprotein test - antenatal, for Normal pregnancy.\n- Evaluation of uterine fundal height, for Normal pregnancy.\n- Auscultation of the fetal heart, for Normal pregnancy."
+  }
+]

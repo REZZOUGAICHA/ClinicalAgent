@@ -1,0 +1,65 @@
+[
+  {
+    "doc_id": "62f60bdb-cc5c-8305-92b9-4998c85ee124",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2025-12-31",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Angel Frami - 2025-12-31",
+    "content": "Patient: Angel Frami, female, born 1975-10-22 (patient ID 62f60bdb-cc5c-8305-b98b-f2b229a55eca).\nVisit date: 2025-12-31.\nVisit type: Encounter for check up.\nClinician: Ollie Dooley (General Practice).\nFacility: DR JOHN C CORRIGAN MENTAL HEALTH CENTER, FALL RIVER, MA."
+  },
+  {
+    "doc_id": "62f60bdb-cc5c-8305-92b9-4998c85ee124",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2025-12-31",
+    "section": "Assessment",
+    "title": "Outpatient Procedure Note - Angel Frami - 2025-12-31",
+    "content": "Diagnoses recorded at this visit:\n- Stress (onset 2025-12-31).\n- Reports of violence in the environment (onset 2025-12-31), resolved 2026-04-22."
+  },
+  {
+    "doc_id": "62f60bdb-cc5c-8305-92b9-4998c85ee124",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2025-12-31",
+    "section": "Vital Signs",
+    "title": "Outpatient Procedure Note - Angel Frami - 2025-12-31",
+    "content": "- Body Height: 152.6 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0\n- Body Weight: 50.7 kg\n- Body mass index (BMI) [Ratio]: 21.8 kg/m2\n- Diastolic Blood Pressure: 82.0 mm[Hg]\n- Systolic Blood Pressure: 120.0 mm[Hg]\n- Heart rate: 61.0 /min\n- Respiratory rate: 16.0 /min"
+  },
+  {
+    "doc_id": "62f60bdb-cc5c-8305-92b9-4998c85ee124",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2025-12-31",
+    "section": "Laboratory Results",
+    "title": "Outpatient Procedure Note - Angel Frami - 2025-12-31",
+    "content": "- Hemoglobin A1c/Hemoglobin.total in Blood: 6.3 %\n- Glucose [Mass/volume] in Blood: 72.8 mg/dL\n- Urea nitrogen [Mass/volume] in Blood: 17.2 mg/dL\n- Creatinine [Mass/volume] in Blood: 0.5 mg/dL\n- Calcium [Mass/volume] in Blood: 9.6 mg/dL\n- Sodium [Moles/volume] in Blood: 139.1 mmol/L\n- Potassium [Moles/volume] in Blood: 4.3 mmol/L\n- Chloride [Moles/volume] in Blood: 109.9 mmol/L\n- Carbon dioxide  total [Moles/volume] in Blood: 21.8 mmol/L"
+  },
+  {
+    "doc_id": "62f60bdb-cc5c-8305-92b9-4998c85ee124",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2025-12-31",
+    "section": "Procedures",
+    "title": "Outpatient Procedure Note - Angel Frami - 2025-12-31",
+    "content": "- Assessment of health and social care needs.\n- Depression screening.\n- Depression screening.\n- Assessment of substance use.\n- Screening for drug abuse.\n- Patient referral for dental care."
+  },
+  {
+    "doc_id": "62f60bdb-cc5c-8305-92b9-4998c85ee124",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2025-12-31",
+    "section": "Medications",
+    "title": "Outpatient Procedure Note - Angel Frami - 2025-12-31",
+    "content": "Medications prescribed at this visit:\n- Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet, started 2025-12-31; stopped 2026-04-22.\n- Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin], started 2025-12-31; stopped 2026-04-22.\n- 72 HR Fentanyl 0.025 MG/HR Transdermal System, started 2025-12-31; stopped 2026-04-22."
+  },
+  {
+    "doc_id": "62f60bdb-cc5c-8305-92b9-4998c85ee124",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2025-12-31",
+    "section": "Immunizations",
+    "title": "Outpatient Procedure Note - Angel Frami - 2025-12-31",
+    "content": "- zoster vaccine live.\n- Influenza split virus trivalent PF."
+  }
+]

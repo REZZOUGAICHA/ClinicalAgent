@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "75d6a35c-c2e1-5b9f-902d-6bb210ce8c16",
+    "patient_id": "75d6a35c-c2e1-5b9f-e7f8-6a5b05af8fc8",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-02-10",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Hiram Batz - 2023-02-10",
+    "content": "Patient: Hiram Batz, male, born 2013-02-01 (patient ID 75d6a35c-c2e1-5b9f-e7f8-6a5b05af8fc8).\nVisit date: 2023-02-10.\nVisit type: Well child visit.\nClinician: Shaquita Graham (General Practice).\nFacility: HOPKINTON MEDICAL CARE P.C., HOPKINTON, MA."
+  },
+  {
+    "doc_id": "75d6a35c-c2e1-5b9f-902d-6bb210ce8c16",
+    "patient_id": "75d6a35c-c2e1-5b9f-e7f8-6a5b05af8fc8",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-02-10",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Hiram Batz - 2023-02-10",
+    "content": "- Body Height: 144.4 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0\n- Body Weight: 41.4 kg\n- Body mass index (BMI) [Ratio]: 19.9 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 87.7 %\n- Diastolic Blood Pressure: 73.0 mm[Hg]\n- Systolic Blood Pressure: 96.0 mm[Hg]\n- Heart rate: 64.0 /min\n- Respiratory rate: 15.0 /min"
+  },
+  {
+    "doc_id": "75d6a35c-c2e1-5b9f-902d-6bb210ce8c16",
+    "patient_id": "75d6a35c-c2e1-5b9f-e7f8-6a5b05af8fc8",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-02-10",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Hiram Batz - 2023-02-10",
+    "content": "- Medication reconciliation."
+  },
+  {
+    "doc_id": "75d6a35c-c2e1-5b9f-902d-6bb210ce8c16",
+    "patient_id": "75d6a35c-c2e1-5b9f-e7f8-6a5b05af8fc8",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-02-10",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Hiram Batz - 2023-02-10",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

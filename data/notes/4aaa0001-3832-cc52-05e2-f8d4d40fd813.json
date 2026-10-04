@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "4aaa0001-3832-cc52-05e2-f8d4d40fd813",
+    "patient_id": "4aaa0001-3832-cc52-e2f3-47aad08f4284",
+    "document_type": "Office Visit Note",
+    "date": "2020-03-22",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Marvin Weissnat - 2020-03-22",
+    "content": "Patient: Marvin Weissnat, male, born 2006-02-05 (patient ID 4aaa0001-3832-cc52-e2f3-47aad08f4284).\nVisit date: 2020-03-22.\nVisit type: Encounter for check up.\nClinician: Alysha Koch (General Practice).\nFacility: TEWKSBURY HOSPITAL, TEWKSBURY, MA."
+  },
+  {
+    "doc_id": "4aaa0001-3832-cc52-05e2-f8d4d40fd813",
+    "patient_id": "4aaa0001-3832-cc52-e2f3-47aad08f4284",
+    "document_type": "Office Visit Note",
+    "date": "2020-03-22",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Marvin Weissnat - 2020-03-22",
+    "content": "Seen for Patient referral for dental care."
+  },
+  {
+    "doc_id": "4aaa0001-3832-cc52-05e2-f8d4d40fd813",
+    "patient_id": "4aaa0001-3832-cc52-e2f3-47aad08f4284",
+    "document_type": "Office Visit Note",
+    "date": "2020-03-22",
+    "section": "Assessment",
+    "title": "Office Visit Note - Marvin Weissnat - 2020-03-22",
+    "content": "Diagnoses recorded at this visit:\n- Primary dental caries (onset 2020-03-23), resolved 2020-03-23."
+  },
+  {
+    "doc_id": "4aaa0001-3832-cc52-05e2-f8d4d40fd813",
+    "patient_id": "4aaa0001-3832-cc52-e2f3-47aad08f4284",
+    "document_type": "Office Visit Note",
+    "date": "2020-03-22",
+    "section": "Procedures",
+    "title": "Office Visit Note - Marvin Weissnat - 2020-03-22",
+    "content": "- Dental consultation and report, for Patient referral for dental care.\n- Dental care, for Patient referral for dental care.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Examination of gingivae, for Patient referral for dental care.\n- Application of composite dental filling material to dentin of tooth following fracture of tooth, for Primary dental caries.\n- Oral health education, for Patient referral for dental care."
+  }
+]

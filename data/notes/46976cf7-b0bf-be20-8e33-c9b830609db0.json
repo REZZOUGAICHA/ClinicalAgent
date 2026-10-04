@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "46976cf7-b0bf-be20-8e33-c9b830609db0",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-11-07",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Lindsay Zieme - 2025-11-07",
+    "content": "Patient: Lindsay Zieme, female, born 2007-09-14 (patient ID 46976cf7-b0bf-be20-39a5-9f425a52886d).\nVisit date: 2025-11-07.\nVisit type: General examination of patient.\nClinician: Levi Abbott (General Practice).\nFacility: TREE OF LIFE HEALTHCARE ASSOCIATES, WORCESTER, MA."
+  },
+  {
+    "doc_id": "46976cf7-b0bf-be20-8e33-c9b830609db0",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-11-07",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Lindsay Zieme - 2025-11-07",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2025-11-07), resolved 2025-11-07.\n- Housing unsatisfactory (onset 2025-11-07).\n- Educated to high school level (onset 2025-11-07).\n- Full-time employment (onset 2025-11-07).\n- Stress (onset 2025-11-07)."
+  },
+  {
+    "doc_id": "46976cf7-b0bf-be20-8e33-c9b830609db0",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-11-07",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Lindsay Zieme - 2025-11-07",
+    "content": "- Body Height: 163.1 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0\n- Body Weight: 58.7 kg\n- Body mass index (BMI) [Ratio]: 22.1 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 58.9 %\n- Diastolic Blood Pressure: 93.0 mm[Hg]\n- Systolic Blood Pressure: 108.0 mm[Hg]\n- Heart rate: 63.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "46976cf7-b0bf-be20-8e33-c9b830609db0",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-11-07",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Lindsay Zieme - 2025-11-07",
+    "content": "- Medication reconciliation.\n- Assessment of health and social care needs."
+  },
+  {
+    "doc_id": "46976cf7-b0bf-be20-8e33-c9b830609db0",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-11-07",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Lindsay Zieme - 2025-11-07",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

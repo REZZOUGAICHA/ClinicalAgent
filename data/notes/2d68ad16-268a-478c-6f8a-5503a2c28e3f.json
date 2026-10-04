@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "2d68ad16-268a-478c-6f8a-5503a2c28e3f",
+    "patient_id": "2d68ad16-268a-478c-1f84-d0f1976e1a46",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-01-31",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Mauro Braun - 2025-01-31",
+    "content": "Patient: Mauro Braun, male, born 2020-02-21 (patient ID 2d68ad16-268a-478c-1f84-d0f1976e1a46).\nVisit date: 2025-01-31.\nVisit type: Well child visit.\nClinician: Rolland Lemke (General Practice).\nFacility: QUINCY CENTER PRIMARY CARE PC, QUINCY, MA."
+  },
+  {
+    "doc_id": "2d68ad16-268a-478c-6f8a-5503a2c28e3f",
+    "patient_id": "2d68ad16-268a-478c-1f84-d0f1976e1a46",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-01-31",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Mauro Braun - 2025-01-31",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2025-01-31), resolved 2026-02-06."
+  },
+  {
+    "doc_id": "2d68ad16-268a-478c-6f8a-5503a2c28e3f",
+    "patient_id": "2d68ad16-268a-478c-1f84-d0f1976e1a46",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-01-31",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Mauro Braun - 2025-01-31",
+    "content": "- Body Height: 105.1 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0\n- Body Weight: 17.5 kg\n- Body mass index (BMI) [Ratio]: 15.8 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 62.8 %\n- Diastolic Blood Pressure: 72.0 mm[Hg]\n- Systolic Blood Pressure: 97.0 mm[Hg]\n- Heart rate: 63.0 /min\n- Respiratory rate: 14.0 /min"
+  },
+  {
+    "doc_id": "2d68ad16-268a-478c-6f8a-5503a2c28e3f",
+    "patient_id": "2d68ad16-268a-478c-1f84-d0f1976e1a46",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-01-31",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Mauro Braun - 2025-01-31",
+    "content": "- varicella.\n- IPV.\n- Influenza split virus trivalent PF.\n- DTaP.\n- MMR."
+  }
+]

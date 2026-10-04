@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "6aed9210-c500-4375-63e0-71669629930b",
+    "patient_id": "6aed9210-c500-4375-b0fc-3374c40b8591",
+    "document_type": "Office Visit Note",
+    "date": "2025-07-15",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Lyman Runte - 2025-07-15",
+    "content": "Patient: Lyman Runte, male, born 1965-07-08 (patient ID 6aed9210-c500-4375-b0fc-3374c40b8591).\nVisit date: 2025-07-15.\nVisit type: Encounter for check up.\nClinician: Arden Bergstrom (General Practice).\nFacility: CAPE COD HOSPITAL INC, HYANNIS, MA."
+  },
+  {
+    "doc_id": "6aed9210-c500-4375-63e0-71669629930b",
+    "patient_id": "6aed9210-c500-4375-b0fc-3374c40b8591",
+    "document_type": "Office Visit Note",
+    "date": "2025-07-15",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Lyman Runte - 2025-07-15",
+    "content": "Seen for Screening for malignant neoplasm of colon."
+  },
+  {
+    "doc_id": "6aed9210-c500-4375-63e0-71669629930b",
+    "patient_id": "6aed9210-c500-4375-b0fc-3374c40b8591",
+    "document_type": "Office Visit Note",
+    "date": "2025-07-15",
+    "section": "Procedures",
+    "title": "Office Visit Note - Lyman Runte - 2025-07-15",
+    "content": "- Colonoscopy."
+  }
+]

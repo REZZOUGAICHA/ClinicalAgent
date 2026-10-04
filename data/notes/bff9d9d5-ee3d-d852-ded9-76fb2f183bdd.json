@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "bff9d9d5-ee3d-d852-ded9-76fb2f183bdd",
+    "patient_id": "bff9d9d5-ee3d-d852-9c67-36d8361a4a4a",
+    "document_type": "Emergency Department Note",
+    "date": "2018-05-29",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Rosario Ortiz - 2018-05-29",
+    "content": "Patient: Rosario Ortiz, male, born 1945-01-28 (patient ID bff9d9d5-ee3d-d852-9c67-36d8361a4a4a).\nVisit date: 2018-05-29.\nVisit type: Emergency room admission.\nClinician: Jennefer Hudson (General Practice).\nFacility: RIVERBEND OF SOUTH NATICK, NATICK, MA."
+  },
+  {
+    "doc_id": "bff9d9d5-ee3d-d852-ded9-76fb2f183bdd",
+    "patient_id": "bff9d9d5-ee3d-d852-9c67-36d8361a4a4a",
+    "document_type": "Emergency Department Note",
+    "date": "2018-05-29",
+    "section": "Reason for Visit",
+    "title": "Emergency Department Note - Rosario Ortiz - 2018-05-29",
+    "content": "Seen for Laceration - injury."
+  },
+  {
+    "doc_id": "bff9d9d5-ee3d-d852-ded9-76fb2f183bdd",
+    "patient_id": "bff9d9d5-ee3d-d852-9c67-36d8361a4a4a",
+    "document_type": "Emergency Department Note",
+    "date": "2018-05-29",
+    "section": "Assessment",
+    "title": "Emergency Department Note - Rosario Ortiz - 2018-05-29",
+    "content": "Diagnoses recorded at this visit:\n- Laceration - injury (onset 2018-05-29), resolved 2018-06-22.\n- Laceration of foot (onset 2018-05-29), resolved 2018-06-22."
+  },
+  {
+    "doc_id": "bff9d9d5-ee3d-d852-ded9-76fb2f183bdd",
+    "patient_id": "bff9d9d5-ee3d-d852-9c67-36d8361a4a4a",
+    "document_type": "Emergency Department Note",
+    "date": "2018-05-29",
+    "section": "Procedures",
+    "title": "Emergency Department Note - Rosario Ortiz - 2018-05-29",
+    "content": "- Suture open wound, for Laceration of foot."
+  },
+  {
+    "doc_id": "bff9d9d5-ee3d-d852-ded9-76fb2f183bdd",
+    "patient_id": "bff9d9d5-ee3d-d852-9c67-36d8361a4a4a",
+    "document_type": "Emergency Department Note",
+    "date": "2018-05-29",
+    "section": "Medications",
+    "title": "Emergency Department Note - Rosario Ortiz - 2018-05-29",
+    "content": "Medications prescribed at this visit:\n- Ibuprofen 200 MG Oral Tablet, started 2018-05-29; stopped 2018-06-22."
+  },
+  {
+    "doc_id": "bff9d9d5-ee3d-d852-ded9-76fb2f183bdd",
+    "patient_id": "bff9d9d5-ee3d-d852-9c67-36d8361a4a4a",
+    "document_type": "Emergency Department Note",
+    "date": "2018-05-29",
+    "section": "Plan",
+    "title": "Emergency Department Note - Rosario Ortiz - 2018-05-29",
+    "content": "- Wound care for Laceration of foot, started 2018-05-29, ended 2018-06-22."
+  }
+]

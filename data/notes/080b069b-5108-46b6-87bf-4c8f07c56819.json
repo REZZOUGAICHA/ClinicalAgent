@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "080b069b-5108-46b6-87bf-4c8f07c56819",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Office Visit Note",
+    "date": "1967-08-31",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Chester Aufderhar - 1967-08-31",
+    "content": "Patient: Chester Aufderhar, male, born 1966-11-22 (patient ID 080b069b-5108-46b6-ecef-6aacd3b9ef3f).\nVisit date: 1967-08-31.\nVisit type: Encounter for problem.\nClinician: Harland Ryan (General Practice).\nFacility: SOUTHCOAST HOSPITAL GROUP INC, WAREHAM, MA."
+  },
+  {
+    "doc_id": "080b069b-5108-46b6-87bf-4c8f07c56819",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Office Visit Note",
+    "date": "1967-08-31",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Chester Aufderhar - 1967-08-31",
+    "content": "Seen for Fish."
+  },
+  {
+    "doc_id": "080b069b-5108-46b6-87bf-4c8f07c56819",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Office Visit Note",
+    "date": "1967-08-31",
+    "section": "Plan",
+    "title": "Office Visit Note - Chester Aufderhar - 1967-08-31",
+    "content": "- Self-care interventions, started 1967-08-31."
+  }
+]

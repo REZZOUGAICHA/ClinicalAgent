@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "0f1067c3-9151-8829-17fb-cc1781f975a5",
+    "patient_id": "0f1067c3-9151-8829-56cd-2eff898db59c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-08-06",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Virgie Aufderhar - 2026-08-06",
+    "content": "Patient: Virgie Aufderhar, female, born 2009-06-18 (patient ID 0f1067c3-9151-8829-56cd-2eff898db59c).\nVisit date: 2026-08-06.\nVisit type: Well child visit.\nClinician: Salvador Homenick (General Practice).\nFacility: HARBOR HEALTH SERVICES INC, DORCHESTER, MA."
+  },
+  {
+    "doc_id": "0f1067c3-9151-8829-17fb-cc1781f975a5",
+    "patient_id": "0f1067c3-9151-8829-56cd-2eff898db59c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-08-06",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Virgie Aufderhar - 2026-08-06",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2026-08-06), resolved 2026-08-06."
+  },
+  {
+    "doc_id": "0f1067c3-9151-8829-17fb-cc1781f975a5",
+    "patient_id": "0f1067c3-9151-8829-56cd-2eff898db59c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-08-06",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Virgie Aufderhar - 2026-08-06",
+    "content": "- Body Height: 172.5 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0\n- Body Weight: 67.5 kg\n- Body mass index (BMI) [Ratio]: 22.7 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 69.1 %\n- Diastolic Blood Pressure: 61.0 mm[Hg]\n- Systolic Blood Pressure: 101.0 mm[Hg]\n- Heart rate: 87.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "0f1067c3-9151-8829-17fb-cc1781f975a5",
+    "patient_id": "0f1067c3-9151-8829-56cd-2eff898db59c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-08-06",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Virgie Aufderhar - 2026-08-06",
+    "content": "- Medication reconciliation.\n- Depression screening.\n- Depression screening using Patient Health Questionnaire Nine Item score.\n- Assessment of substance use.\n- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test.\n- Anticipatory guidance."
+  },
+  {
+    "doc_id": "0f1067c3-9151-8829-17fb-cc1781f975a5",
+    "patient_id": "0f1067c3-9151-8829-56cd-2eff898db59c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-08-06",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Virgie Aufderhar - 2026-08-06",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

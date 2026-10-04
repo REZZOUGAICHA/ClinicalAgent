@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "b6a1cac9-8873-36a7-4cf6-3c63d81b6c85",
+    "patient_id": "b6a1cac9-8873-36a7-e726-4aad8a07d44d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-06-20",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Renaldo Crist - 2018-06-20",
+    "content": "Patient: Renaldo Crist, male, born 1993-04-14 (patient ID b6a1cac9-8873-36a7-e726-4aad8a07d44d).\nVisit date: 2018-06-20.\nVisit type: General examination of patient.\nClinician: Sandie Rodriguez (General Practice).\nFacility: CLASSIC HEALTHCARE MEDICAL GROUP LLC, NEEDHAM, MA."
+  },
+  {
+    "doc_id": "b6a1cac9-8873-36a7-4cf6-3c63d81b6c85",
+    "patient_id": "b6a1cac9-8873-36a7-e726-4aad8a07d44d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-06-20",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Renaldo Crist - 2018-06-20",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2018-06-20), resolved 2024-11-20.\n- Victim of intimate partner abuse (onset 2018-06-20), resolved 2019-01-02.\n- Gingivitis (onset 2018-06-20), resolved 2018-07-04."
+  },
+  {
+    "doc_id": "b6a1cac9-8873-36a7-4cf6-3c63d81b6c85",
+    "patient_id": "b6a1cac9-8873-36a7-e726-4aad8a07d44d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-06-20",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Renaldo Crist - 2018-06-20",
+    "content": "- Body Height: 177.2 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0\n- Body Weight: 86.7 kg\n- Body mass index (BMI) [Ratio]: 27.6 kg/m2\n- Diastolic Blood Pressure: 78.0 mm[Hg]\n- Systolic Blood Pressure: 126.0 mm[Hg]\n- Heart rate: 60.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "b6a1cac9-8873-36a7-4cf6-3c63d81b6c85",
+    "patient_id": "b6a1cac9-8873-36a7-e726-4aad8a07d44d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-06-20",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Renaldo Crist - 2018-06-20",
+    "content": "- Assessment of health and social care needs.\n- Depression screening.\n- Depression screening.\n- Patient referral for dental care, for Gingivitis."
+  },
+  {
+    "doc_id": "b6a1cac9-8873-36a7-4cf6-3c63d81b6c85",
+    "patient_id": "b6a1cac9-8873-36a7-e726-4aad8a07d44d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-06-20",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Renaldo Crist - 2018-06-20",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

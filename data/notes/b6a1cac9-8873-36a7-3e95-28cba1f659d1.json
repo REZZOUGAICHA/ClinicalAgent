@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "b6a1cac9-8873-36a7-3e95-28cba1f659d1",
+    "patient_id": "b6a1cac9-8873-36a7-e726-4aad8a07d44d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-06-23",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Renaldo Crist - 2021-06-23",
+    "content": "Patient: Renaldo Crist, male, born 1993-04-14 (patient ID b6a1cac9-8873-36a7-e726-4aad8a07d44d).\nVisit date: 2021-06-23.\nVisit type: General examination of patient.\nClinician: Sandie Rodriguez (General Practice).\nFacility: CLASSIC HEALTHCARE MEDICAL GROUP LLC, NEEDHAM, MA."
+  },
+  {
+    "doc_id": "b6a1cac9-8873-36a7-3e95-28cba1f659d1",
+    "patient_id": "b6a1cac9-8873-36a7-e726-4aad8a07d44d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-06-23",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Renaldo Crist - 2021-06-23",
+    "content": "- Body Height: 177.2 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0\n- Body Weight: 91.3 kg\n- Body mass index (BMI) [Ratio]: 29.1 kg/m2\n- Diastolic Blood Pressure: 78.0 mm[Hg]\n- Systolic Blood Pressure: 123.0 mm[Hg]\n- Heart rate: 64.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "b6a1cac9-8873-36a7-3e95-28cba1f659d1",
+    "patient_id": "b6a1cac9-8873-36a7-e726-4aad8a07d44d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-06-23",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Renaldo Crist - 2021-06-23",
+    "content": "- Leukocytes [#/volume] in Blood by Automated count: 5.5 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 4.9 10*6/uL\n- Hemoglobin [Mass/volume] in Blood: 13.3 g/dL\n- Hematocrit [Volume Fraction] of Blood by Automated count: 40.8 %\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 90.8 fL\n- MCH [Entitic mass] by Automated count: 28.3 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 33.9 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 39.7 fL\n- Platelets [#/volume] in Blood by Automated count: 212.8 10*3/uL\n- Platelet distribution width [Entitic volume] in Blood by Automated count: 12.5 fL\n- Platelet [Entitic mean volume] in Blood by Automated count: 9.7 fL"
+  },
+  {
+    "doc_id": "b6a1cac9-8873-36a7-3e95-28cba1f659d1",
+    "patient_id": "b6a1cac9-8873-36a7-e726-4aad8a07d44d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-06-23",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Renaldo Crist - 2021-06-23",
+    "content": "- Assessment of health and social care needs.\n- Assessment of anxiety.\n- Screening for domestic abuse.\n- Depression screening.\n- Depression screening."
+  },
+  {
+    "doc_id": "b6a1cac9-8873-36a7-3e95-28cba1f659d1",
+    "patient_id": "b6a1cac9-8873-36a7-e726-4aad8a07d44d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-06-23",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Renaldo Crist - 2021-06-23",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

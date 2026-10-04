@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "080b069b-5108-46b6-b5a3-4849ab215da9",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "2019-02-08",
+    "section": "Visit Information",
+    "title": "Inpatient Discharge Summary - Chester Aufderhar - 2019-02-08",
+    "content": "Patient: Chester Aufderhar, male, born 1966-11-22 (patient ID 080b069b-5108-46b6-ecef-6aacd3b9ef3f).\nVisit date: 2019-02-08.\nVisit type: Admission to ward.\nClinician: Gabriel Reilly (General Practice).\nFacility: Fitchburg Outpatient Clinic, Fitchburg, MA."
+  },
+  {
+    "doc_id": "080b069b-5108-46b6-b5a3-4849ab215da9",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "2019-02-08",
+    "section": "Reason for Visit",
+    "title": "Inpatient Discharge Summary - Chester Aufderhar - 2019-02-08",
+    "content": "Seen for History of coronary artery bypass grafting."
+  },
+  {
+    "doc_id": "080b069b-5108-46b6-b5a3-4849ab215da9",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "2019-02-08",
+    "section": "Procedures",
+    "title": "Inpatient Discharge Summary - Chester Aufderhar - 2019-02-08",
+    "content": "- Postoperative procedure education, for History of coronary artery bypass grafting.\n- Walking exercise test, for History of coronary artery bypass grafting.\n- Stair-climbing test, for History of coronary artery bypass grafting.\n- Discharge from hospital, for History of coronary artery bypass grafting."
+  }
+]

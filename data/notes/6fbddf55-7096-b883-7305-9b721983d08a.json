@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "6fbddf55-7096-b883-7305-9b721983d08a",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2023-08-30",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Clarinda Farrell - 2023-08-30",
+    "content": "Patient: Clarinda Farrell, female, born 1981-07-01 (patient ID 6fbddf55-7096-b883-7cd3-260f27953080).\nVisit date: 2023-08-30.\nVisit type: Consultation for treatment.\nClinician: Luther Jakubowski (General Practice).\nFacility: ENCOMPASS HEALTH REHABILITATION HOSP OF NEW ENGLAN, WOBURN, MA."
+  },
+  {
+    "doc_id": "6fbddf55-7096-b883-7305-9b721983d08a",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2023-08-30",
+    "section": "Reason for Visit",
+    "title": "Outpatient Procedure Note - Clarinda Farrell - 2023-08-30",
+    "content": "Seen for Contraception care."
+  },
+  {
+    "doc_id": "6fbddf55-7096-b883-7305-9b721983d08a",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2023-08-30",
+    "section": "Medications",
+    "title": "Outpatient Procedure Note - Clarinda Farrell - 2023-08-30",
+    "content": "Medications prescribed at this visit:\n- {5 (dienogest 2 MG / estradiol valerate 2 MG Oral Tablet) / 17 (dienogest 3 MG / estradiol valerate 2 MG Oral Tablet) / 2 (estradiol valerate 1 MG Oral Tablet) / 2 (estradiol valerate 3 MG Oral Tablet) / 2 (inert ingredients 1 MG Oral Tablet) } Pack [Natazia 28 Day], started 2023-08-30; stopped 2024-08-24."
+  }
+]

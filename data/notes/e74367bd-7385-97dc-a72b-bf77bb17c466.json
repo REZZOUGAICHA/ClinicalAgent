@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "e74367bd-7385-97dc-a72b-bf77bb17c466",
+    "patient_id": "e74367bd-7385-97dc-2c7f-251b4cd9fe29",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "2017-07-18",
+    "section": "Visit Information",
+    "title": "Inpatient Discharge Summary - Tennille Jerde - 2017-07-18",
+    "content": "Patient: Tennille Jerde, female, born 1960-09-24 (patient ID e74367bd-7385-97dc-2c7f-251b4cd9fe29).\nVisit date: 2017-07-18.\nVisit type: Encounter for problem.\nClinician: Floy Greenfelder (General Practice).\nFacility: CAMBRIDGE PUBLIC HEALTH COMMISSION, SOMERVILLE, MA."
+  },
+  {
+    "doc_id": "e74367bd-7385-97dc-a72b-bf77bb17c466",
+    "patient_id": "e74367bd-7385-97dc-2c7f-251b4cd9fe29",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "2017-07-18",
+    "section": "Reason for Visit",
+    "title": "Inpatient Discharge Summary - Tennille Jerde - 2017-07-18",
+    "content": "Seen for Malignant neoplasm of breast."
+  },
+  {
+    "doc_id": "e74367bd-7385-97dc-a72b-bf77bb17c466",
+    "patient_id": "e74367bd-7385-97dc-2c7f-251b4cd9fe29",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "2017-07-18",
+    "section": "Procedures",
+    "title": "Inpatient Discharge Summary - Tennille Jerde - 2017-07-18",
+    "content": "- Excision of lesion of breast, for Malignant neoplasm of breast."
+  }
+]

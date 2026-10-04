@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "947c82ee-1735-c9ed-1033-79f401bd1b63",
+    "patient_id": "947c82ee-1735-c9ed-8210-38cb93d8070c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-04-25",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Marcell Hammes - 2017-04-25",
+    "content": "Patient: Marcell Hammes, female, born 2016-05-17 (patient ID 947c82ee-1735-c9ed-8210-38cb93d8070c).\nVisit date: 2017-04-25.\nVisit type: Well child visit.\nClinician: Kirby McKenzie (General Practice).\nFacility: BOSTON MEDICAL CENTER CORPORATION-, ROSLINDALE, MA."
+  },
+  {
+    "doc_id": "947c82ee-1735-c9ed-1033-79f401bd1b63",
+    "patient_id": "947c82ee-1735-c9ed-8210-38cb93d8070c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-04-25",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Marcell Hammes - 2017-04-25",
+    "content": "- Body Height: 74.1 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0\n- Body Weight: 8.2 kg\n- Weight-for-length Per age and sex: 4.8 %\n- Head Occipital-frontal circumference Percentile: 64.5 %\n- Head Occipital-frontal circumference: 45.4 cm\n- Diastolic Blood Pressure: 79.0 mm[Hg]\n- Systolic Blood Pressure: 132.0 mm[Hg]\n- Heart rate: 97.0 /min\n- Respiratory rate: 15.0 /min"
+  },
+  {
+    "doc_id": "947c82ee-1735-c9ed-1033-79f401bd1b63",
+    "patient_id": "947c82ee-1735-c9ed-8210-38cb93d8070c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-04-25",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Marcell Hammes - 2017-04-25",
+    "content": "- Medication reconciliation."
+  }
+]

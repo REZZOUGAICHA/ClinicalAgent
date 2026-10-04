@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-9dc7-f7bc6e830918",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Emergency Department Note",
+    "date": "2020-02-24",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Faustino Langworth - 2020-02-24",
+    "content": "Patient: Faustino Langworth, male, born 1998-06-17 (patient ID 5ba0a3f3-32f7-02b1-ec6a-8f568923954c).\nVisit date: 2020-02-24.\nVisit type: Emergency room admission.\nClinician: Judy Gleason (General Practice).\nFacility: CAMBRIDGE REHABILITATION & NURSING CENTER, CAMBRIDGE, MA."
+  },
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-9dc7-f7bc6e830918",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Emergency Department Note",
+    "date": "2020-02-24",
+    "section": "Reason for Visit",
+    "title": "Emergency Department Note - Faustino Langworth - 2020-02-24",
+    "content": "Seen for Fracture of bone."
+  },
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-9dc7-f7bc6e830918",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Emergency Department Note",
+    "date": "2020-02-24",
+    "section": "Assessment",
+    "title": "Emergency Department Note - Faustino Langworth - 2020-02-24",
+    "content": "Diagnoses recorded at this visit:\n- Fracture of bone (onset 2020-02-24), resolved 2020-06-21.\n- Fracture of clavicle (onset 2020-02-24), resolved 2020-06-21."
+  },
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-9dc7-f7bc6e830918",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Emergency Department Note",
+    "date": "2020-02-24",
+    "section": "Procedures",
+    "title": "Emergency Department Note - Faustino Langworth - 2020-02-24",
+    "content": "- Plain X-ray of clavicle.\n- Admission to orthopedic department, for Fracture of clavicle."
+  },
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-9dc7-f7bc6e830918",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Emergency Department Note",
+    "date": "2020-02-24",
+    "section": "Medications",
+    "title": "Emergency Department Note - Faustino Langworth - 2020-02-24",
+    "content": "Medications prescribed at this visit:\n- Naproxen sodium 220 MG Oral Tablet, started 2020-02-24; stopped 2020-06-21."
+  },
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-9dc7-f7bc6e830918",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Emergency Department Note",
+    "date": "2020-02-24",
+    "section": "Plan",
+    "title": "Emergency Department Note - Faustino Langworth - 2020-02-24",
+    "content": "- Fracture care for Fracture of clavicle, started 2020-02-24, ended 2020-06-21."
+  }
+]

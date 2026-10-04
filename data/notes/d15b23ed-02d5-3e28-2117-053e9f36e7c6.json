@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "d15b23ed-02d5-3e28-2117-053e9f36e7c6",
+    "patient_id": "d15b23ed-02d5-3e28-efbd-2604425317c5",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-05-13",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Ivan Goodwin - 2026-05-13",
+    "content": "Patient: Ivan Goodwin, male, born 2026-05-13 (patient ID d15b23ed-02d5-3e28-efbd-2604425317c5).\nVisit date: 2026-05-13.\nVisit type: Well child visit.\nClinician: Astrid Huels (General Practice).\nFacility: SOUTH SHORE INTERNAL MEDICINE ASSOCIATES INC., MILTON, MA."
+  },
+  {
+    "doc_id": "d15b23ed-02d5-3e28-2117-053e9f36e7c6",
+    "patient_id": "d15b23ed-02d5-3e28-efbd-2604425317c5",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-05-13",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Ivan Goodwin - 2026-05-13",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2026-05-13), resolved 2026-08-19."
+  },
+  {
+    "doc_id": "d15b23ed-02d5-3e28-2117-053e9f36e7c6",
+    "patient_id": "d15b23ed-02d5-3e28-efbd-2604425317c5",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-05-13",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Ivan Goodwin - 2026-05-13",
+    "content": "- Body Height: 53.1 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0\n- Body Weight: 4.3 kg\n- Weight-for-length Per age and sex: 57.9 %\n- Head Occipital-frontal circumference Percentile: 59.6 %\n- Head Occipital-frontal circumference: 36.3 cm\n- Diastolic Blood Pressure: 68.0 mm[Hg]\n- Systolic Blood Pressure: 117.0 mm[Hg]\n- Heart rate: 73.0 /min\n- Respiratory rate: 14.0 /min"
+  },
+  {
+    "doc_id": "d15b23ed-02d5-3e28-2117-053e9f36e7c6",
+    "patient_id": "d15b23ed-02d5-3e28-efbd-2604425317c5",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-05-13",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Ivan Goodwin - 2026-05-13",
+    "content": "- Leukocytes [#/volume] in Blood by Automated count: 8.7 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 5.3 10*6/uL\n- Hemoglobin [Mass/volume] in Blood: 15.0 g/dL\n- Hematocrit [Volume Fraction] of Blood by Automated count: 45.1 %\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 82.8 fL\n- MCH [Entitic mass] by Automated count: 30.7 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 34.1 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 43.0 fL\n- Platelets [#/volume] in Blood by Automated count: 183.7 10*3/uL\n- Platelet distribution width [Entitic volume] in Blood by Automated count: 9.6 fL\n- Platelet [Entitic mean volume] in Blood by Automated count: 11.6 fL"
+  },
+  {
+    "doc_id": "d15b23ed-02d5-3e28-2117-053e9f36e7c6",
+    "patient_id": "d15b23ed-02d5-3e28-efbd-2604425317c5",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-05-13",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Ivan Goodwin - 2026-05-13",
+    "content": "- Hep B adolescent or pediatric."
+  }
+]

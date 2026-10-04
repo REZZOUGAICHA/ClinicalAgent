@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "e74367bd-7385-97dc-d2a6-afd65d05b1e3",
+    "patient_id": "e74367bd-7385-97dc-2c7f-251b4cd9fe29",
+    "document_type": "Office Visit Note",
+    "date": "2020-10-01",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Tennille Jerde - 2020-10-01",
+    "content": "Patient: Tennille Jerde, female, born 1960-09-24 (patient ID e74367bd-7385-97dc-2c7f-251b4cd9fe29).\nVisit date: 2020-10-01.\nVisit type: Encounter for check up.\nClinician: Omer Koepp (General Practice).\nFacility: CAMBRIDGE PUBLIC HEALTH COMMISSION, SOMERVILLE, MA."
+  },
+  {
+    "doc_id": "e74367bd-7385-97dc-d2a6-afd65d05b1e3",
+    "patient_id": "e74367bd-7385-97dc-2c7f-251b4cd9fe29",
+    "document_type": "Office Visit Note",
+    "date": "2020-10-01",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Tennille Jerde - 2020-10-01",
+    "content": "Seen for Screening for malignant neoplasm of colon."
+  },
+  {
+    "doc_id": "e74367bd-7385-97dc-d2a6-afd65d05b1e3",
+    "patient_id": "e74367bd-7385-97dc-2c7f-251b4cd9fe29",
+    "document_type": "Office Visit Note",
+    "date": "2020-10-01",
+    "section": "Assessment",
+    "title": "Office Visit Note - Tennille Jerde - 2020-10-01",
+    "content": "Diagnoses recorded at this visit:\n- Polyp of colon (onset 2020-10-01), resolved 2021-10-10."
+  },
+  {
+    "doc_id": "e74367bd-7385-97dc-d2a6-afd65d05b1e3",
+    "patient_id": "e74367bd-7385-97dc-2c7f-251b4cd9fe29",
+    "document_type": "Office Visit Note",
+    "date": "2020-10-01",
+    "section": "Laboratory Results",
+    "title": "Office Visit Note - Tennille Jerde - 2020-10-01",
+    "content": "- Hemoglobin.gastrointestinal.lower [Presence] in Stool by Immunoassay --1st specimen: 13.0 ng/mL"
+  },
+  {
+    "doc_id": "e74367bd-7385-97dc-d2a6-afd65d05b1e3",
+    "patient_id": "e74367bd-7385-97dc-2c7f-251b4cd9fe29",
+    "document_type": "Office Visit Note",
+    "date": "2020-10-01",
+    "section": "Procedures",
+    "title": "Office Visit Note - Tennille Jerde - 2020-10-01",
+    "content": "- Colonoscopy.\n- Screening for occult blood in feces, for Polyp of colon.\n- Rectal polypectomy, for Polyp of colon."
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "79021b82-f370-50bb-1ab1-7cae4aa78c2a",
+    "patient_id": "79021b82-f370-50bb-c5a1-7333816d683f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2013-11-27",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Evette Farrell - 2013-11-27",
+    "content": "Patient: Evette Farrell, female, born 2013-03-20 (patient ID 79021b82-f370-50bb-c5a1-7333816d683f).\nVisit date: 2013-11-27.\nVisit type: Well child visit.\nClinician: Elmer Gusikowski (General Practice).\nFacility: WHITLEY WELLNESS LLC, CHARLESTOWN, MA."
+  },
+  {
+    "doc_id": "79021b82-f370-50bb-1ab1-7cae4aa78c2a",
+    "patient_id": "79021b82-f370-50bb-c5a1-7333816d683f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2013-11-27",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Evette Farrell - 2013-11-27",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2013-11-27), resolved 2017-06-21."
+  }
+]

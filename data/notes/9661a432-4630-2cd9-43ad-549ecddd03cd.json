@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "9661a432-4630-2cd9-43ad-549ecddd03cd",
+    "patient_id": "9661a432-4630-2cd9-142c-386845fae837",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2021-05-04",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Paul Tremblay - 2021-05-04",
+    "content": "Patient: Paul Tremblay, male, born 1978-02-14 (patient ID 9661a432-4630-2cd9-142c-386845fae837).\nVisit date: 2021-05-04.\nVisit type: Administration of vaccine to produce active immunity.\nClinician: Damaris Funk (General Practice).\nFacility: BROCKTON HOSPITAL INC., BROCKTON, MA."
+  },
+  {
+    "doc_id": "9661a432-4630-2cd9-43ad-549ecddd03cd",
+    "patient_id": "9661a432-4630-2cd9-142c-386845fae837",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2021-05-04",
+    "section": "Immunizations",
+    "title": "Outpatient Procedure Note - Paul Tremblay - 2021-05-04",
+    "content": "- COVID-19 mRNA LNP-S PF 30 mcg/0.3 mL dose."
+  }
+]

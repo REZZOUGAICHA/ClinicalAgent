@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "f95a6723-14a5-c4b6-231e-181044512cde",
+    "patient_id": "f95a6723-14a5-c4b6-78df-fa97f7ab361c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2006-10-28",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Roxann Sauer - 2006-10-28",
+    "content": "Patient: Roxann Sauer, female, born 1986-08-23 (patient ID f95a6723-14a5-c4b6-78df-fa97f7ab361c).\nVisit date: 2006-10-28.\nVisit type: General examination of patient.\nClinician: Amado Adams (General Practice).\nFacility: BL HEALTHCARE INC DELEWARE, FOXBOROUGH, MA."
+  },
+  {
+    "doc_id": "f95a6723-14a5-c4b6-231e-181044512cde",
+    "patient_id": "f95a6723-14a5-c4b6-78df-fa97f7ab361c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2006-10-28",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Roxann Sauer - 2006-10-28",
+    "content": "Diagnoses recorded at this visit:\n- Prediabetes (onset 2006-10-28)."
+  },
+  {
+    "doc_id": "f95a6723-14a5-c4b6-231e-181044512cde",
+    "patient_id": "f95a6723-14a5-c4b6-78df-fa97f7ab361c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2006-10-28",
+    "section": "Plan",
+    "title": "Annual Wellness Visit Note - Roxann Sauer - 2006-10-28",
+    "content": "- Diabetes self management plan for Prediabetes, started 2006-10-28."
+  }
+]

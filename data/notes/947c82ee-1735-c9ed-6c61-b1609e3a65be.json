@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "947c82ee-1735-c9ed-6c61-b1609e3a65be",
+    "patient_id": "947c82ee-1735-c9ed-8210-38cb93d8070c",
+    "document_type": "Office Visit Note",
+    "date": "2025-05-27",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Marcell Hammes - 2025-05-27",
+    "content": "Patient: Marcell Hammes, female, born 2016-05-17 (patient ID 947c82ee-1735-c9ed-8210-38cb93d8070c).\nVisit date: 2025-05-27.\nVisit type: Encounter for check up.\nClinician: Carmelina Goyette (General Practice).\nFacility: HEBREW SENIORLIFE AFFILIATED MEDICAL GROUP INC, ROSLINDALE, MA."
+  },
+  {
+    "doc_id": "947c82ee-1735-c9ed-6c61-b1609e3a65be",
+    "patient_id": "947c82ee-1735-c9ed-8210-38cb93d8070c",
+    "document_type": "Office Visit Note",
+    "date": "2025-05-27",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Marcell Hammes - 2025-05-27",
+    "content": "Seen for Gingivitis."
+  },
+  {
+    "doc_id": "947c82ee-1735-c9ed-6c61-b1609e3a65be",
+    "patient_id": "947c82ee-1735-c9ed-8210-38cb93d8070c",
+    "document_type": "Office Visit Note",
+    "date": "2025-05-27",
+    "section": "Procedures",
+    "title": "Office Visit Note - Marcell Hammes - 2025-05-27",
+    "content": "- Dental consultation and report, for Gingivitis.\n- Dental care, for Gingivitis.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Examination of gingivae, for Gingivitis.\n- Oral health education, for Gingivitis."
+  }
+]

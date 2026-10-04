@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-748c-3e826f5dde19",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Office Visit Note",
+    "date": "2019-07-09",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Rosalba Effertz - 2019-07-09",
+    "content": "Patient: Rosalba Effertz, female, born 1973-08-05 (patient ID 5e7ebf2c-22ec-a89b-53ab-38edddd81be9).\nVisit date: 2019-07-09.\nVisit type: Ophthalmic examination and evaluation.\nClinician: Saundra Kuphal (General Practice).\nFacility: COOLEY DICKINSON HOSPITAL INC, NORTHAMPTON, MA."
+  },
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-748c-3e826f5dde19",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Office Visit Note",
+    "date": "2019-07-09",
+    "section": "Assessment",
+    "title": "Office Visit Note - Rosalba Effertz - 2019-07-09",
+    "content": "Diagnoses recorded at this visit:\n- Nonproliferative diabetic retinopathy due to type II diabetes mellitus (onset 2019-07-09).\n- Homeless (onset 2019-07-25), resolved 2021-05-23."
+  },
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-748c-3e826f5dde19",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Office Visit Note",
+    "date": "2019-07-09",
+    "section": "Vital Signs",
+    "title": "Office Visit Note - Rosalba Effertz - 2019-07-09",
+    "content": "- Left eye Intraocular pressure: 18.0 mm[Hg]\n- Right eye Intraocular pressure: 18.0 mm[Hg]"
+  },
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-748c-3e826f5dde19",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Office Visit Note",
+    "date": "2019-07-09",
+    "section": "Procedures",
+    "title": "Office Visit Note - Rosalba Effertz - 2019-07-09",
+    "content": "- Visual acuity testing.\n- Intraocular pressure test.\n- Ocular slit lamp examination, for Diabetes mellitus type 2.\n- Indirect gonioscopy, for Diabetes mellitus type 2.\n- Camera fundoscopy.\n- Diabetic retinal eye exam, for Diabetes mellitus type 2."
+  },
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-748c-3e826f5dde19",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Office Visit Note",
+    "date": "2019-07-09",
+    "section": "Medications",
+    "title": "Office Visit Note - Rosalba Effertz - 2019-07-09",
+    "content": "Medications prescribed at this visit:\n- tropicamide 5 MG/ML Ophthalmic Solution, started 2019-07-09; stopped 2019-07-09."
+  }
+]

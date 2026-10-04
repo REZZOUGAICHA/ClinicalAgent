@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "4aaa0001-3832-cc52-5986-0288bb638bdc",
+    "patient_id": "4aaa0001-3832-cc52-e2f3-47aad08f4284",
+    "document_type": "Office Visit Note",
+    "date": "2021-03-28",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Marvin Weissnat - 2021-03-28",
+    "content": "Patient: Marvin Weissnat, male, born 2006-02-05 (patient ID 4aaa0001-3832-cc52-e2f3-47aad08f4284).\nVisit date: 2021-03-28.\nVisit type: Encounter for check up.\nClinician: Alysha Koch (General Practice).\nFacility: TEWKSBURY HOSPITAL, TEWKSBURY, MA."
+  },
+  {
+    "doc_id": "4aaa0001-3832-cc52-5986-0288bb638bdc",
+    "patient_id": "4aaa0001-3832-cc52-e2f3-47aad08f4284",
+    "document_type": "Office Visit Note",
+    "date": "2021-03-28",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Marvin Weissnat - 2021-03-28",
+    "content": "Seen for Patient referral for dental care."
+  },
+  {
+    "doc_id": "4aaa0001-3832-cc52-5986-0288bb638bdc",
+    "patient_id": "4aaa0001-3832-cc52-e2f3-47aad08f4284",
+    "document_type": "Office Visit Note",
+    "date": "2021-03-28",
+    "section": "Procedures",
+    "title": "Office Visit Note - Marvin Weissnat - 2021-03-28",
+    "content": "- Dental consultation and report, for Patient referral for dental care.\n- Dental care, for Patient referral for dental care.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Dental plain X-ray bitewing.\n- Examination of gingivae, for Patient referral for dental care.\n- Dental fluoride treatment, for Patient referral for dental care.\n- Oral health education, for Patient referral for dental care."
+  },
+  {
+    "doc_id": "4aaa0001-3832-cc52-5986-0288bb638bdc",
+    "patient_id": "4aaa0001-3832-cc52-e2f3-47aad08f4284",
+    "document_type": "Office Visit Note",
+    "date": "2021-03-28",
+    "section": "Medications",
+    "title": "Office Visit Note - Marvin Weissnat - 2021-03-28",
+    "content": "Medications prescribed at this visit:\n- sodium fluoride 0.0272 MG/MG Oral Gel, started 2021-03-28, for Patient referral for dental care; stopped 2021-03-28."
+  }
+]

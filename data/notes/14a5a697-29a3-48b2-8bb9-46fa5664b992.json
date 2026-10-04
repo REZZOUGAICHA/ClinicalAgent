@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "14a5a697-29a3-48b2-8bb9-46fa5664b992",
+    "patient_id": "14a5a697-29a3-48b2-969a-3ceefe74a700",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2021-04-03",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Drusilla Schumm - 2021-04-03",
+    "content": "Patient: Drusilla Schumm, female, born 1958-11-15 (patient ID 14a5a697-29a3-48b2-969a-3ceefe74a700).\nVisit date: 2021-04-03.\nVisit type: Administration of vaccine to produce active immunity.\nClinician: Bennie Abbott (General Practice).\nFacility: LAHEY HOSPITAL & MEDICAL CENTER BURLINGTON, PEABODY, MA."
+  },
+  {
+    "doc_id": "14a5a697-29a3-48b2-8bb9-46fa5664b992",
+    "patient_id": "14a5a697-29a3-48b2-969a-3ceefe74a700",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2021-04-03",
+    "section": "Immunizations",
+    "title": "Outpatient Procedure Note - Drusilla Schumm - 2021-04-03",
+    "content": "- COVID-19 mRNA LNP-S PF 30 mcg/0.3 mL dose."
+  }
+]

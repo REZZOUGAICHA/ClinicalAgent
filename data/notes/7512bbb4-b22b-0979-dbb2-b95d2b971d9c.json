@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "7512bbb4-b22b-0979-dbb2-b95d2b971d9c",
+    "patient_id": "7512bbb4-b22b-0979-6edc-389e16607ac7",
+    "document_type": "Telehealth Visit Note",
+    "date": "2026-03-05",
+    "section": "Visit Information",
+    "title": "Telehealth Visit Note - Tamie Herzog - 2026-03-05",
+    "content": "Patient: Tamie Herzog, female, born 2025-02-23 (patient ID 7512bbb4-b22b-0979-6edc-389e16607ac7).\nVisit date: 2026-03-05.\nVisit type: Encounter for problem.\nClinician: Cletus Paucek (General Practice).\nFacility: ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS, LUDLOW, MA."
+  },
+  {
+    "doc_id": "7512bbb4-b22b-0979-dbb2-b95d2b971d9c",
+    "patient_id": "7512bbb4-b22b-0979-6edc-389e16607ac7",
+    "document_type": "Telehealth Visit Note",
+    "date": "2026-03-05",
+    "section": "Reason for Visit",
+    "title": "Telehealth Visit Note - Tamie Herzog - 2026-03-05",
+    "content": "Seen for Tree nut."
+  },
+  {
+    "doc_id": "7512bbb4-b22b-0979-dbb2-b95d2b971d9c",
+    "patient_id": "7512bbb4-b22b-0979-6edc-389e16607ac7",
+    "document_type": "Telehealth Visit Note",
+    "date": "2026-03-05",
+    "section": "Plan",
+    "title": "Telehealth Visit Note - Tamie Herzog - 2026-03-05",
+    "content": "- Self-care interventions, started 2026-03-05."
+  }
+]

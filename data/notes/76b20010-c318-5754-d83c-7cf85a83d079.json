@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "76b20010-c318-5754-d83c-7cf85a83d079",
+    "patient_id": "76b20010-c318-5754-8c85-983aa538522f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-04-23",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Jody Hickle - 2018-04-23",
+    "content": "Patient: Jody Hickle, male, born 2018-03-19 (patient ID 76b20010-c318-5754-8c85-983aa538522f).\nVisit date: 2018-04-23.\nVisit type: Well child visit.\nClinician: Dane Tromp (General Practice).\nFacility: NEWBURYPORT FAMILY PRACTICE P.C., NEWBURYPORT, MA."
+  },
+  {
+    "doc_id": "76b20010-c318-5754-d83c-7cf85a83d079",
+    "patient_id": "76b20010-c318-5754-8c85-983aa538522f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-04-23",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Jody Hickle - 2018-04-23",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2018-04-23), resolved 2018-06-25."
+  },
+  {
+    "doc_id": "76b20010-c318-5754-d83c-7cf85a83d079",
+    "patient_id": "76b20010-c318-5754-8c85-983aa538522f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-04-23",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Jody Hickle - 2018-04-23",
+    "content": "- Body Height: 57.0 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0\n- Body Weight: 4.7 kg\n- Weight-for-length Per age and sex: 10.0 %\n- Head Occipital-frontal circumference Percentile: 58.8 %\n- Head Occipital-frontal circumference: 39.6 cm\n- Diastolic Blood Pressure: 95.0 mm[Hg]\n- Systolic Blood Pressure: 119.0 mm[Hg]\n- Heart rate: 60.0 /min\n- Respiratory rate: 16.0 /min"
+  },
+  {
+    "doc_id": "76b20010-c318-5754-d83c-7cf85a83d079",
+    "patient_id": "76b20010-c318-5754-8c85-983aa538522f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-04-23",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Jody Hickle - 2018-04-23",
+    "content": "- Hep B adolescent or pediatric."
+  }
+]

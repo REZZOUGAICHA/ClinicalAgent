@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "4aaa0001-3832-cc52-a566-3da726975282",
+    "patient_id": "4aaa0001-3832-cc52-e2f3-47aad08f4284",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2016-12-10",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Marvin Weissnat - 2016-12-10",
+    "content": "Patient: Marvin Weissnat, male, born 2006-02-05 (patient ID 4aaa0001-3832-cc52-e2f3-47aad08f4284).\nVisit date: 2016-12-10.\nVisit type: Encounter for symptom.\nClinician: Alysha Koch (General Practice).\nFacility: TEWKSBURY HOSPITAL, TEWKSBURY, MA."
+  },
+  {
+    "doc_id": "4aaa0001-3832-cc52-a566-3da726975282",
+    "patient_id": "4aaa0001-3832-cc52-e2f3-47aad08f4284",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2016-12-10",
+    "section": "Reason for Visit",
+    "title": "Outpatient Procedure Note - Marvin Weissnat - 2016-12-10",
+    "content": "Seen for Otitis media."
+  },
+  {
+    "doc_id": "4aaa0001-3832-cc52-a566-3da726975282",
+    "patient_id": "4aaa0001-3832-cc52-e2f3-47aad08f4284",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2016-12-10",
+    "section": "Assessment",
+    "title": "Outpatient Procedure Note - Marvin Weissnat - 2016-12-10",
+    "content": "Diagnoses recorded at this visit:\n- Otitis media (onset 2016-12-10), resolved 2017-02-19."
+  },
+  {
+    "doc_id": "4aaa0001-3832-cc52-a566-3da726975282",
+    "patient_id": "4aaa0001-3832-cc52-e2f3-47aad08f4284",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2016-12-10",
+    "section": "Medications",
+    "title": "Outpatient Procedure Note - Marvin Weissnat - 2016-12-10",
+    "content": "Medications prescribed at this visit:\n- Cefuroxime 250 MG Oral Tablet, started 2016-12-10; stopped 2016-12-24.\n- Acetaminophen 160 MG Chewable Tablet, started 2016-12-10; stopped 2016-12-24."
+  }
+]

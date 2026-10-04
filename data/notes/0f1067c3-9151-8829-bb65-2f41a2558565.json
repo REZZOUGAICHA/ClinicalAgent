@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "0f1067c3-9151-8829-bb65-2f41a2558565",
+    "patient_id": "0f1067c3-9151-8829-56cd-2eff898db59c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-06-15",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Virgie Aufderhar - 2017-06-15",
+    "content": "Patient: Virgie Aufderhar, female, born 2009-06-18 (patient ID 0f1067c3-9151-8829-56cd-2eff898db59c).\nVisit date: 2017-06-15.\nVisit type: Well child visit.\nClinician: Salvador Homenick (General Practice).\nFacility: HARBOR HEALTH SERVICES INC, DORCHESTER, MA."
+  },
+  {
+    "doc_id": "0f1067c3-9151-8829-bb65-2f41a2558565",
+    "patient_id": "0f1067c3-9151-8829-56cd-2eff898db59c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-06-15",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Virgie Aufderhar - 2017-06-15",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2017-06-15), resolved 2018-06-21."
+  },
+  {
+    "doc_id": "0f1067c3-9151-8829-bb65-2f41a2558565",
+    "patient_id": "0f1067c3-9151-8829-56cd-2eff898db59c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-06-15",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Virgie Aufderhar - 2017-06-15",
+    "content": "- Body Height: 136.3 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0\n- Body Weight: 30.5 kg\n- Body mass index (BMI) [Ratio]: 16.4 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 62.8 %\n- Diastolic Blood Pressure: 74.0 mm[Hg]\n- Systolic Blood Pressure: 105.0 mm[Hg]\n- Heart rate: 79.0 /min\n- Respiratory rate: 14.0 /min"
+  },
+  {
+    "doc_id": "0f1067c3-9151-8829-bb65-2f41a2558565",
+    "patient_id": "0f1067c3-9151-8829-56cd-2eff898db59c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-06-15",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Virgie Aufderhar - 2017-06-15",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

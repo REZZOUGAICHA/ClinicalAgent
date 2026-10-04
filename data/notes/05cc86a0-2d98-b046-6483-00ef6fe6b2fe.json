@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "05cc86a0-2d98-b046-6483-00ef6fe6b2fe",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "2023-02-24",
+    "section": "Visit Information",
+    "title": "Inpatient Discharge Summary - Carita Grady - 2023-02-24",
+    "content": "Patient: Carita Grady, female, born 1925-09-18 (patient ID 05cc86a0-2d98-b046-790a-211fd9e1ea92).\nVisit date: 2023-02-24.\nVisit type: Drug rehabilitation and detoxification.\nClinician: Nickolas Schumm (General Practice).\nFacility: ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE, FRAMINGHAM, MA."
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-6483-00ef6fe6b2fe",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "2023-02-24",
+    "section": "Reason for Visit",
+    "title": "Inpatient Discharge Summary - Carita Grady - 2023-02-24",
+    "content": "Seen for Dependent drug abuse."
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-6483-00ef6fe6b2fe",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "2023-02-24",
+    "section": "Vital Signs",
+    "title": "Inpatient Discharge Summary - Carita Grady - 2023-02-24",
+    "content": "- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 6.0"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "75d6a35c-c2e1-5b9f-ad07-ac69c98a757b",
+    "patient_id": "75d6a35c-c2e1-5b9f-e7f8-6a5b05af8fc8",
+    "document_type": "Office Visit Note",
+    "date": "2025-04-25",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Hiram Batz - 2025-04-25",
+    "content": "Patient: Hiram Batz, male, born 2013-02-01 (patient ID 75d6a35c-c2e1-5b9f-e7f8-6a5b05af8fc8).\nVisit date: 2025-04-25.\nVisit type: Encounter for check up.\nClinician: Bennett Rippin (General Practice).\nFacility: MILFORD REGIONAL MEDICAL CENTER, UPTON, MA."
+  },
+  {
+    "doc_id": "75d6a35c-c2e1-5b9f-ad07-ac69c98a757b",
+    "patient_id": "75d6a35c-c2e1-5b9f-e7f8-6a5b05af8fc8",
+    "document_type": "Office Visit Note",
+    "date": "2025-04-25",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Hiram Batz - 2025-04-25",
+    "content": "Seen for Gingivitis."
+  },
+  {
+    "doc_id": "75d6a35c-c2e1-5b9f-ad07-ac69c98a757b",
+    "patient_id": "75d6a35c-c2e1-5b9f-e7f8-6a5b05af8fc8",
+    "document_type": "Office Visit Note",
+    "date": "2025-04-25",
+    "section": "Procedures",
+    "title": "Office Visit Note - Hiram Batz - 2025-04-25",
+    "content": "- Dental consultation and report, for Gingivitis.\n- Dental care, for Gingivitis.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Examination of gingivae, for Gingivitis.\n- Oral health education, for Gingivitis."
+  }
+]

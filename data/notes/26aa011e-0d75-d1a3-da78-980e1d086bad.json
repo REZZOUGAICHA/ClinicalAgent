@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "26aa011e-0d75-d1a3-da78-980e1d086bad",
+    "patient_id": "26aa011e-0d75-d1a3-3c5a-560a9450cc9d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2022-04-24",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Jesse Wolf - 2022-04-24",
+    "content": "Patient: Jesse Wolf, male, born 2010-04-04 (patient ID 26aa011e-0d75-d1a3-3c5a-560a9450cc9d).\nVisit date: 2022-04-24.\nVisit type: Well child visit.\nClinician: Odessa Hintz (General Practice).\nFacility: WESTFORD INTERNAL MEDICINE PC, WESTFORD, MA."
+  },
+  {
+    "doc_id": "26aa011e-0d75-d1a3-da78-980e1d086bad",
+    "patient_id": "26aa011e-0d75-d1a3-3c5a-560a9450cc9d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2022-04-24",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Jesse Wolf - 2022-04-24",
+    "content": "- Body Height: 151.4 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0\n- Body Weight: 53.4 kg\n- Body mass index (BMI) [Ratio]: 23.3 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 93.3 %\n- Diastolic Blood Pressure: 67.0 mm[Hg]\n- Systolic Blood Pressure: 123.0 mm[Hg]\n- Heart rate: 65.0 /min\n- Respiratory rate: 12.0 /min"
+  },
+  {
+    "doc_id": "26aa011e-0d75-d1a3-da78-980e1d086bad",
+    "patient_id": "26aa011e-0d75-d1a3-3c5a-560a9450cc9d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2022-04-24",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Jesse Wolf - 2022-04-24",
+    "content": "- Medication reconciliation.\n- Depression screening.\n- Depression screening using Patient Health Questionnaire Nine Item score.\n- Assessment of substance use.\n- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test.\n- Anticipatory guidance."
+  },
+  {
+    "doc_id": "26aa011e-0d75-d1a3-da78-980e1d086bad",
+    "patient_id": "26aa011e-0d75-d1a3-3c5a-560a9450cc9d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2022-04-24",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Jesse Wolf - 2022-04-24",
+    "content": "- Influenza split virus trivalent PF.\n- HPV quadrivalent."
+  }
+]

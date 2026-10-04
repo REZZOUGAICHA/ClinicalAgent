@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "aa616abe-1761-0c9a-9292-3b98dca973ed",
+    "patient_id": "aa616abe-1761-0c9a-7959-07544679dafd",
+    "document_type": "Emergency Department Note",
+    "date": "2003-02-01",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Jona Robel - 2003-02-01",
+    "content": "Patient: Jona Robel, female, born 1958-11-15 (patient ID aa616abe-1761-0c9a-7959-07544679dafd).\nVisit date: 2003-02-01.\nVisit type: Obstetric emergency hospital admission.\nClinician: Lane Gutmann (General Practice).\nFacility: GREENWOOD NURSING & REHABILITATION CENTER, WAKEFIELD, MA."
+  },
+  {
+    "doc_id": "aa616abe-1761-0c9a-9292-3b98dca973ed",
+    "patient_id": "aa616abe-1761-0c9a-7959-07544679dafd",
+    "document_type": "Emergency Department Note",
+    "date": "2003-02-01",
+    "section": "Reason for Visit",
+    "title": "Emergency Department Note - Jona Robel - 2003-02-01",
+    "content": "Seen for Normal pregnancy."
+  },
+  {
+    "doc_id": "aa616abe-1761-0c9a-9292-3b98dca973ed",
+    "patient_id": "aa616abe-1761-0c9a-7959-07544679dafd",
+    "document_type": "Emergency Department Note",
+    "date": "2003-02-01",
+    "section": "Procedures",
+    "title": "Emergency Department Note - Jona Robel - 2003-02-01",
+    "content": "- Episiotomy, for Normal pregnancy.\n- Premature birth of newborn, for Normal pregnancy."
+  }
+]

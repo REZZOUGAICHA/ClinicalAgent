@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "76b20010-c318-5754-57e2-651f596ddb8c",
+    "patient_id": "76b20010-c318-5754-8c85-983aa538522f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-03-19",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Jody Hickle - 2018-03-19",
+    "content": "Patient: Jody Hickle, male, born 2018-03-19 (patient ID 76b20010-c318-5754-8c85-983aa538522f).\nVisit date: 2018-03-19.\nVisit type: Well child visit.\nClinician: Dane Tromp (General Practice).\nFacility: NEWBURYPORT FAMILY PRACTICE P.C., NEWBURYPORT, MA."
+  },
+  {
+    "doc_id": "76b20010-c318-5754-57e2-651f596ddb8c",
+    "patient_id": "76b20010-c318-5754-8c85-983aa538522f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-03-19",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Jody Hickle - 2018-03-19",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2018-03-19), resolved 2018-03-19."
+  },
+  {
+    "doc_id": "76b20010-c318-5754-57e2-651f596ddb8c",
+    "patient_id": "76b20010-c318-5754-8c85-983aa538522f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-03-19",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Jody Hickle - 2018-03-19",
+    "content": "- Body Height: 53.1 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0\n- Body Weight: 3.9 kg\n- Weight-for-length Per age and sex: 21.3 %\n- Head Occipital-frontal circumference Percentile: 58.8 %\n- Head Occipital-frontal circumference: 36.2 cm\n- Diastolic Blood Pressure: 89.0 mm[Hg]\n- Systolic Blood Pressure: 132.0 mm[Hg]\n- Heart rate: 88.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "76b20010-c318-5754-57e2-651f596ddb8c",
+    "patient_id": "76b20010-c318-5754-8c85-983aa538522f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-03-19",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Jody Hickle - 2018-03-19",
+    "content": "- Leukocytes [#/volume] in Blood by Automated count: 9.1 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 4.3 10*6/uL\n- Hemoglobin [Mass/volume] in Blood: 15.2 g/dL\n- Hematocrit [Volume Fraction] of Blood by Automated count: 39.1 %\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 80.6 fL\n- MCH [Entitic mass] by Automated count: 32.8 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 35.0 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 41.8 fL\n- Platelets [#/volume] in Blood by Automated count: 158.1 10*3/uL\n- Platelet distribution width [Entitic volume] in Blood by Automated count: 10.5 fL\n- Platelet [Entitic mean volume] in Blood by Automated count: 10.2 fL"
+  },
+  {
+    "doc_id": "76b20010-c318-5754-57e2-651f596ddb8c",
+    "patient_id": "76b20010-c318-5754-8c85-983aa538522f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-03-19",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Jody Hickle - 2018-03-19",
+    "content": "- Medication reconciliation."
+  },
+  {
+    "doc_id": "76b20010-c318-5754-57e2-651f596ddb8c",
+    "patient_id": "76b20010-c318-5754-8c85-983aa538522f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-03-19",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Jody Hickle - 2018-03-19",
+    "content": "- Hep B adolescent or pediatric."
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "947c82ee-1735-c9ed-8669-700482e90899",
+    "patient_id": "947c82ee-1735-c9ed-8210-38cb93d8070c",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2019-02-01",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Marcell Hammes - 2019-02-01",
+    "content": "Patient: Marcell Hammes, female, born 2016-05-17 (patient ID 947c82ee-1735-c9ed-8210-38cb93d8070c).\nVisit date: 2019-02-01.\nVisit type: Encounter for symptom.\nClinician: Carmelina Goyette (General Practice).\nFacility: HEBREW SENIORLIFE AFFILIATED MEDICAL GROUP INC, ROSLINDALE, MA."
+  },
+  {
+    "doc_id": "947c82ee-1735-c9ed-8669-700482e90899",
+    "patient_id": "947c82ee-1735-c9ed-8210-38cb93d8070c",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2019-02-01",
+    "section": "Reason for Visit",
+    "title": "Outpatient Procedure Note - Marcell Hammes - 2019-02-01",
+    "content": "Seen for Otitis media."
+  },
+  {
+    "doc_id": "947c82ee-1735-c9ed-8669-700482e90899",
+    "patient_id": "947c82ee-1735-c9ed-8210-38cb93d8070c",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2019-02-01",
+    "section": "Assessment",
+    "title": "Outpatient Procedure Note - Marcell Hammes - 2019-02-01",
+    "content": "Diagnoses recorded at this visit:\n- Otitis media (onset 2019-02-01), resolved 2019-04-23."
+  },
+  {
+    "doc_id": "947c82ee-1735-c9ed-8669-700482e90899",
+    "patient_id": "947c82ee-1735-c9ed-8210-38cb93d8070c",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2019-02-01",
+    "section": "Medications",
+    "title": "Outpatient Procedure Note - Marcell Hammes - 2019-02-01",
+    "content": "Medications prescribed at this visit:\n- Acetaminophen 160 MG Chewable Tablet, started 2019-02-01; stopped 2019-02-15."
+  }
+]

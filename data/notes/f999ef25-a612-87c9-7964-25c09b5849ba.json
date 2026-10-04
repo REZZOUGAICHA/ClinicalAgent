@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "f999ef25-a612-87c9-7964-25c09b5849ba",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2005-09-09",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Evangeline Ziemann - 2005-09-09",
+    "content": "Patient: Evangeline Ziemann, female, born 1925-09-18 (patient ID f999ef25-a612-87c9-206f-aacc9d469dc8).\nVisit date: 2005-09-09.\nVisit type: General examination of patient.\nClinician: Sharron Okuneva (General Practice).\nFacility: A&A HEALTHCARE LLC, MILFORD, MA."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-7964-25c09b5849ba",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2005-09-09",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Evangeline Ziemann - 2005-09-09",
+    "content": "Diagnoses recorded at this visit:\n- Social isolation (onset 2005-09-09), resolved 2008-11-14."
+  }
+]

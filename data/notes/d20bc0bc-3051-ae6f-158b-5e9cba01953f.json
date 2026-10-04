@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-158b-5e9cba01953f",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2023-08-13",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Lavette Kozey - 2023-08-13",
+    "content": "Patient: Lavette Kozey, female, born 2010-03-24 (patient ID d20bc0bc-3051-ae6f-f391-ceec7ec0370f).\nVisit date: 2023-08-13.\nVisit type: Encounter for symptom.\nClinician: Beatriz Monroy (General Practice).\nFacility: FIRST PSYCHIATRIC PLANNERS INC, WOBURN, MA."
+  },
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-158b-5e9cba01953f",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2023-08-13",
+    "section": "Reason for Visit",
+    "title": "Outpatient Procedure Note - Lavette Kozey - 2023-08-13",
+    "content": "Seen for Otitis media."
+  },
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-158b-5e9cba01953f",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2023-08-13",
+    "section": "Assessment",
+    "title": "Outpatient Procedure Note - Lavette Kozey - 2023-08-13",
+    "content": "Diagnoses recorded at this visit:\n- Otitis media (onset 2023-08-13), resolved 2024-04-24."
+  },
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-158b-5e9cba01953f",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2023-08-13",
+    "section": "Medications",
+    "title": "Outpatient Procedure Note - Lavette Kozey - 2023-08-13",
+    "content": "Medications prescribed at this visit:\n- Amoxicillin 250 MG Oral Capsule, started 2023-08-13; stopped 2023-08-27.\n- Ibuprofen 200 MG Oral Tablet, started 2023-08-13; stopped 2023-08-27."
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "4f083ce3-f12b-bb4b-0a60-7bad22240b14",
+    "patient_id": "4f083ce3-f12b-bb4b-7353-e17f0cd55b0a",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-03-07",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Ezekiel Walter - 2017-03-07",
+    "content": "Patient: Ezekiel Walter, male, born 1999-01-12 (patient ID 4f083ce3-f12b-bb4b-7353-e17f0cd55b0a).\nVisit date: 2017-03-07.\nVisit type: General examination of patient.\nClinician: Gregorio Ceja (General Practice).\nFacility: MEASURED WELLNESS LLC, BROOKLINE, MA."
+  },
+  {
+    "doc_id": "4f083ce3-f12b-bb4b-0a60-7bad22240b14",
+    "patient_id": "4f083ce3-f12b-bb4b-7353-e17f0cd55b0a",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-03-07",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Ezekiel Walter - 2017-03-07",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2017-03-07).\n- Educated to high school level (onset 2017-03-07).\n- Part-time employment (onset 2017-03-07), resolved 2018-03-13."
+  },
+  {
+    "doc_id": "4f083ce3-f12b-bb4b-0a60-7bad22240b14",
+    "patient_id": "4f083ce3-f12b-bb4b-7353-e17f0cd55b0a",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-03-07",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Ezekiel Walter - 2017-03-07",
+    "content": "- Body Height: 175.3 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0\n- Body Weight: 62.3 kg\n- Body mass index (BMI) [Ratio]: 20.3 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 25.8 %\n- Diastolic Blood Pressure: 86.0 mm[Hg]\n- Systolic Blood Pressure: 129.0 mm[Hg]\n- Heart rate: 98.0 /min\n- Respiratory rate: 15.0 /min"
+  },
+  {
+    "doc_id": "4f083ce3-f12b-bb4b-0a60-7bad22240b14",
+    "patient_id": "4f083ce3-f12b-bb4b-7353-e17f0cd55b0a",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-03-07",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Ezekiel Walter - 2017-03-07",
+    "content": "- Assessment of health and social care needs.\n- Assessment of anxiety.\n- Depression screening.\n- Depression screening.\n- Assessment of substance use.\n- Screening for drug abuse.\n- Patient referral for dental care."
+  },
+  {
+    "doc_id": "4f083ce3-f12b-bb4b-0a60-7bad22240b14",
+    "patient_id": "4f083ce3-f12b-bb4b-7353-e17f0cd55b0a",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-03-07",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Ezekiel Walter - 2017-03-07",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

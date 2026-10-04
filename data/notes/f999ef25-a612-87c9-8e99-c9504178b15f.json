@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "f999ef25-a612-87c9-8e99-c9504178b15f",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Emergency Department Note",
+    "date": "2015-01-17",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Evangeline Ziemann - 2015-01-17",
+    "content": "Patient: Evangeline Ziemann, female, born 1925-09-18 (patient ID f999ef25-a612-87c9-206f-aacc9d469dc8).\nVisit date: 2015-01-17.\nVisit type: Encounter for problem.\nClinician: Gabriel Reilly (General Practice).\nFacility: Fitchburg Outpatient Clinic, Fitchburg, MA."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-8e99-c9504178b15f",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Emergency Department Note",
+    "date": "2015-01-17",
+    "section": "Reason for Visit",
+    "title": "Emergency Department Note - Evangeline Ziemann - 2015-01-17",
+    "content": "Seen for Chronic congestive heart failure."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-8e99-c9504178b15f",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Emergency Department Note",
+    "date": "2015-01-17",
+    "section": "Vital Signs",
+    "title": "Emergency Department Note - Evangeline Ziemann - 2015-01-17",
+    "content": "- Oxygen saturation in Arterial blood: 83.0 %\n- Body Weight: 65.1 kg"
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-8e99-c9504178b15f",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Emergency Department Note",
+    "date": "2015-01-17",
+    "section": "Laboratory Results",
+    "title": "Emergency Department Note - Evangeline Ziemann - 2015-01-17",
+    "content": "- Natriuretic peptide.B prohormone N-Terminal [Mass/volume] in Serum or Plasma: 1224.2 pg/mL\n- Leukocytes [#/volume] in Blood by Automated count: 7.4 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 4.2 10*6/uL\n- Hemoglobin [Mass/volume] in Blood: 17.1 g/dL\n- Hematocrit [Volume Fraction] of Blood by Automated count: 47.0 %\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 81.8 fL\n- MCH [Entitic mass] by Automated count: 32.0 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 34.2 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 13.2 %\n- Platelets [#/volume] in Blood by Automated count: 343.7 10*3/uL\n- Glucose [Mass/volume] in Serum or Plasma: 89.3 mg/dL\n- Urea nitrogen [Mass/volume] in Serum or Plasma: 10.6 mg/dL\n- Creatinine [Mass/volume] in Serum or Plasma: 0.5 mg/dL\n- Calcium [Mass/volume] in Serum or Plasma: 8.8 mg/dL\n- Sodium [Moles/volume] in Serum or Plasma: 139.0 mmol/L\n- Potassium [Moles/volume] in Serum or Plasma: 5.1 mmol/L\n- Chloride [Moles/volume] in Serum or Plasma: 105.5 mmol/L\n- Carbon dioxide  total [Moles/volume] in Serum or Plasma: 22.7 mmol/L\n- Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M: 82.0 mL/min\n- Protein [Mass/volume] in Serum or Plasma: 6.1 g/dL\n- Albumin [Mass/volume] in Serum or Plasma: 4.1 g/dL\n- Bilirubin.total [Mass/volume] in Serum or Plasma: 1.0 mg/dL\n- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 52.3 U/L\n- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 5.8 U/L\n- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 22.8 U/L\n- Magnesium [Mass/volume] in Serum or Plasma: 2.0 mg/dL\n- Cholesterol [Mass/volume] in Serum or Plasma: 201.8 mg/dL\n- Triglyceride [Mass/volume] in Serum or Plasma: 113.5 mg/dL\n- Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay: 128.0 mg/dL\n- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 51.1 mg/dL\n- Hemoglobin A1c/Hemoglobin.total in Blood: 3.8 %\n- Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method: 0.0 pg/mL\n- Ferritin [Mass/volume] in Serum or Plasma: 109.2 ug/L\n- Iron [Mass/volume] in Serum or Plasma: 100.5 ug/dL\n- Iron binding capacity [Mass/volume] in Serum or Plasma: 425.2 ug/dL\n- Iron saturation [Mass Fraction] in Serum or Plasma: 35.4 %"
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-8e99-c9504178b15f",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Emergency Department Note",
+    "date": "2015-01-17",
+    "section": "Procedures",
+    "title": "Emergency Department Note - Evangeline Ziemann - 2015-01-17",
+    "content": "- Oxygen administration by mask.\n- Placing subject in prone position.\n- Plain X-ray of chest."
+  }
+]

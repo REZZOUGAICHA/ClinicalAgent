@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "4aaa0001-3832-cc52-e2cd-d0f4a73ed476",
+    "patient_id": "4aaa0001-3832-cc52-e2f3-47aad08f4284",
+    "document_type": "Office Visit Note",
+    "date": "2020-07-08",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Marvin Weissnat - 2020-07-08",
+    "content": "Patient: Marvin Weissnat, male, born 2006-02-05 (patient ID 4aaa0001-3832-cc52-e2f3-47aad08f4284).\nVisit date: 2020-07-08.\nVisit type: Encounter for symptom.\nClinician: Alysha Koch (General Practice).\nFacility: TEWKSBURY HOSPITAL, TEWKSBURY, MA."
+  },
+  {
+    "doc_id": "4aaa0001-3832-cc52-e2cd-d0f4a73ed476",
+    "patient_id": "4aaa0001-3832-cc52-e2f3-47aad08f4284",
+    "document_type": "Office Visit Note",
+    "date": "2020-07-08",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Marvin Weissnat - 2020-07-08",
+    "content": "Seen for Acute viral pharyngitis."
+  },
+  {
+    "doc_id": "4aaa0001-3832-cc52-e2cd-d0f4a73ed476",
+    "patient_id": "4aaa0001-3832-cc52-e2f3-47aad08f4284",
+    "document_type": "Office Visit Note",
+    "date": "2020-07-08",
+    "section": "Assessment",
+    "title": "Office Visit Note - Marvin Weissnat - 2020-07-08",
+    "content": "Diagnoses recorded at this visit:\n- Acute viral pharyngitis (onset 2020-07-08), resolved 2020-07-17."
+  },
+  {
+    "doc_id": "4aaa0001-3832-cc52-e2cd-d0f4a73ed476",
+    "patient_id": "4aaa0001-3832-cc52-e2f3-47aad08f4284",
+    "document_type": "Office Visit Note",
+    "date": "2020-07-08",
+    "section": "Vital Signs",
+    "title": "Office Visit Note - Marvin Weissnat - 2020-07-08",
+    "content": "- Body temperature: 37.8 \u00b0C"
+  },
+  {
+    "doc_id": "4aaa0001-3832-cc52-e2cd-d0f4a73ed476",
+    "patient_id": "4aaa0001-3832-cc52-e2f3-47aad08f4284",
+    "document_type": "Office Visit Note",
+    "date": "2020-07-08",
+    "section": "Procedures",
+    "title": "Office Visit Note - Marvin Weissnat - 2020-07-08",
+    "content": "- Throat culture, for Acute viral pharyngitis."
+  }
+]

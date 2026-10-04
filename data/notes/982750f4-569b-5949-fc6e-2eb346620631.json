@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "982750f4-569b-5949-fc6e-2eb346620631",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Emergency Department Note",
+    "date": "2019-03-06",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Dwana Wolf - 2019-03-06",
+    "content": "Patient: Dwana Wolf, female, born 1986-11-12 (patient ID 982750f4-569b-5949-196b-60699bdda3fb).\nVisit date: 2019-03-06.\nVisit type: Obstetric emergency hospital admission.\nClinician: Karri Reinger (General Practice).\nFacility: D'YOUVILLE SENIOR CARE, LOWELL, MA."
+  },
+  {
+    "doc_id": "982750f4-569b-5949-fc6e-2eb346620631",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Emergency Department Note",
+    "date": "2019-03-06",
+    "section": "Reason for Visit",
+    "title": "Emergency Department Note - Dwana Wolf - 2019-03-06",
+    "content": "Seen for Normal pregnancy."
+  },
+  {
+    "doc_id": "982750f4-569b-5949-fc6e-2eb346620631",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Emergency Department Note",
+    "date": "2019-03-06",
+    "section": "Procedures",
+    "title": "Emergency Department Note - Dwana Wolf - 2019-03-06",
+    "content": "- Human parturition  function, for Normal pregnancy."
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "ba419d35-0dfe-8af7-4f75-3b227ab884c4",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2016-05-27",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Corie Kohler - 2016-05-27",
+    "content": "Patient: Corie Kohler, female, born 1925-09-18 (patient ID ba419d35-0dfe-8af7-347c-eebf02485a56).\nVisit date: 2016-05-27.\nVisit type: Encounter for check up.\nClinician: Maricarmen Delafuente (General Practice).\nFacility: ARBOUR-FULLER HOSPITAL, SOUTH ATTLEBORO, MA."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-4f75-3b227ab884c4",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2016-05-27",
+    "section": "Assessment",
+    "title": "Outpatient Procedure Note - Corie Kohler - 2016-05-27",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2016-05-27), resolved 2016-05-27.\n- Full-time employment (onset 2016-05-27), resolved 2016-08-19."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-4f75-3b227ab884c4",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2016-05-27",
+    "section": "Vital Signs",
+    "title": "Outpatient Procedure Note - Corie Kohler - 2016-05-27",
+    "content": "- Body Height: 164.1 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0\n- Body Weight: 82.0 kg\n- Body mass index (BMI) [Ratio]: 30.5 kg/m2\n- Diastolic Blood Pressure: 75.0 mm[Hg]\n- Systolic Blood Pressure: 111.0 mm[Hg]\n- Heart rate: 62.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-4f75-3b227ab884c4",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2016-05-27",
+    "section": "Laboratory Results",
+    "title": "Outpatient Procedure Note - Corie Kohler - 2016-05-27",
+    "content": "- Leukocytes [#/volume] in Blood by Automated count: 6.9 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 5.0 10*6/uL\n- Hemoglobin [Mass/volume] in Blood: 13.9 g/dL\n- Hematocrit [Volume Fraction] of Blood by Automated count: 49.1 %\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 83.9 fL\n- MCH [Entitic mass] by Automated count: 29.2 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 34.1 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 39.1 fL\n- Platelets [#/volume] in Blood by Automated count: 299.1 10*3/uL\n- Platelet distribution width [Entitic volume] in Blood by Automated count: 12.6 fL\n- Platelet [Entitic mean volume] in Blood by Automated count: 10.7 fL"
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-4f75-3b227ab884c4",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2016-05-27",
+    "section": "Procedures",
+    "title": "Outpatient Procedure Note - Corie Kohler - 2016-05-27",
+    "content": "- Medication reconciliation.\n- Assessment of health and social care needs.\n- Assessment using Morse Fall Scale.\n- Depression screening.\n- Depression screening."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-4f75-3b227ab884c4",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2016-05-27",
+    "section": "Medications",
+    "title": "Outpatient Procedure Note - Corie Kohler - 2016-05-27",
+    "content": "Medications prescribed at this visit:\n- lisinopril 10 MG Oral Tablet, started 2016-05-27, for Essential hypertension; stopped 2016-06-24."
+  }
+]

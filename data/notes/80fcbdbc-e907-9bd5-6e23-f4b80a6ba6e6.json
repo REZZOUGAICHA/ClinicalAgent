@@ -1,0 +1,65 @@
+[
+  {
+    "doc_id": "80fcbdbc-e907-9bd5-6e23-f4b80a6ba6e6",
+    "patient_id": "80fcbdbc-e907-9bd5-2644-ad9ef5d6545b",
+    "document_type": "Emergency Department Note",
+    "date": "2024-01-18",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Jaime Aponte - 2024-01-18",
+    "content": "Patient: Jaime Aponte, male, born 1947-03-03 (patient ID 80fcbdbc-e907-9bd5-2644-ad9ef5d6545b).\nVisit date: 2024-01-18.\nVisit type: Emergency room admission.\nClinician: Gabriel Reilly (General Practice).\nFacility: Fitchburg Outpatient Clinic, Fitchburg, MA."
+  },
+  {
+    "doc_id": "80fcbdbc-e907-9bd5-6e23-f4b80a6ba6e6",
+    "patient_id": "80fcbdbc-e907-9bd5-2644-ad9ef5d6545b",
+    "document_type": "Emergency Department Note",
+    "date": "2024-01-18",
+    "section": "Reason for Visit",
+    "title": "Emergency Department Note - Jaime Aponte - 2024-01-18",
+    "content": "Seen for Myocardial infarction."
+  },
+  {
+    "doc_id": "80fcbdbc-e907-9bd5-6e23-f4b80a6ba6e6",
+    "patient_id": "80fcbdbc-e907-9bd5-2644-ad9ef5d6545b",
+    "document_type": "Emergency Department Note",
+    "date": "2024-01-18",
+    "section": "Assessment",
+    "title": "Emergency Department Note - Jaime Aponte - 2024-01-18",
+    "content": "Diagnoses recorded at this visit:\n- Myocardial infarction (onset 2024-01-18), resolved 2024-01-18.\n- Acute ST segment elevation myocardial infarction (onset 2024-01-18)."
+  },
+  {
+    "doc_id": "80fcbdbc-e907-9bd5-6e23-f4b80a6ba6e6",
+    "patient_id": "80fcbdbc-e907-9bd5-2644-ad9ef5d6545b",
+    "document_type": "Emergency Department Note",
+    "date": "2024-01-18",
+    "section": "Vital Signs",
+    "title": "Emergency Department Note - Jaime Aponte - 2024-01-18",
+    "content": "- Natriuretic peptide.B prohormone N-Terminal [Mass/volume] in Blood by Immunoassay: 1.2 pg/mL"
+  },
+  {
+    "doc_id": "80fcbdbc-e907-9bd5-6e23-f4b80a6ba6e6",
+    "patient_id": "80fcbdbc-e907-9bd5-2644-ad9ef5d6545b",
+    "document_type": "Emergency Department Note",
+    "date": "2024-01-18",
+    "section": "Laboratory Results",
+    "title": "Emergency Department Note - Jaime Aponte - 2024-01-18",
+    "content": "- Leukocytes [#/volume] in Blood by Automated count: 3.6 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 4.8 10*6/uL\n- Hemoglobin [Mass/volume] in Blood: 13.1 g/dL\n- Hematocrit [Volume Fraction] of Blood by Automated count: 43.3 %\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 91.5 fL\n- MCH [Entitic mass] by Automated count: 27.5 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 32.9 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 13.9 %\n- Platelets [#/volume] in Blood by Automated count: 142.1 10*3/uL\n- Glucose [Mass/volume] in Serum or Plasma: 116.6 mg/dL\n- Urea nitrogen [Mass/volume] in Serum or Plasma: 11.6 mg/dL\n- Creatinine [Mass/volume] in Serum or Plasma: 2.9 mg/dL\n- Calcium [Mass/volume] in Serum or Plasma: 9.3 mg/dL\n- Sodium [Moles/volume] in Serum or Plasma: 136.9 mmol/L\n- Potassium [Moles/volume] in Serum or Plasma: 5.0 mmol/L\n- Chloride [Moles/volume] in Serum or Plasma: 102.7 mmol/L\n- Carbon dioxide  total [Moles/volume] in Serum or Plasma: 20.3 mmol/L\n- Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M: 11.2 mL/min\n- Protein [Mass/volume] in Serum or Plasma: 7.5 g/dL\n- Albumin [Mass/volume] in Serum or Plasma: 3.8 g/dL\n- Bilirubin.total [Mass/volume] in Serum or Plasma: 10.4 mg/dL\n- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 76.2 U/L\n- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 10.9 U/L\n- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 30.1 U/L\n- Magnesium [Mass/volume] in Blood: 2.0 mg/dL\n- Cholesterol [Mass/volume] in Serum or Plasma: 269.5 mg/dL\n- Triglyceride [Mass/volume] in Serum or Plasma: 167.3 mg/dL\n- Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay: 191.8 mg/dL\n- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 28.5 mg/dL\n- Hemoglobin A1c/Hemoglobin.total in Blood: 7.0 %\n- INR in Platelet poor plasma by Coagulation assay: 0.9\n- aPTT in Blood by Coagulation assay: 32.3 s\n- Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method: 66.8 ng/L"
+  },
+  {
+    "doc_id": "80fcbdbc-e907-9bd5-6e23-f4b80a6ba6e6",
+    "patient_id": "80fcbdbc-e907-9bd5-2644-ad9ef5d6545b",
+    "document_type": "Emergency Department Note",
+    "date": "2024-01-18",
+    "section": "Procedures",
+    "title": "Emergency Department Note - Jaime Aponte - 2024-01-18",
+    "content": "- Assessment of cardiac status using monitoring device.\n- Electrocardiographic procedure.\n- Oxygen administration by mask.\n- Laboratory test.\n- Plain X-ray of chest.\n- Diagnostic assessment."
+  },
+  {
+    "doc_id": "80fcbdbc-e907-9bd5-6e23-f4b80a6ba6e6",
+    "patient_id": "80fcbdbc-e907-9bd5-2644-ad9ef5d6545b",
+    "document_type": "Emergency Department Note",
+    "date": "2024-01-18",
+    "section": "Medications",
+    "title": "Emergency Department Note - Jaime Aponte - 2024-01-18",
+    "content": "Medications prescribed at this visit:\n- aspirin 325 MG Oral Tablet, started 2024-01-18; stopped 2024-01-18.\n- nitroglycerin 0.4 MG Sublingual Tablet, started 2024-01-18; stopped 2024-01-18.\n- 2 ML morphine sulfate 1 MG/ML Injection, started 2024-01-18; stopped 2024-01-18."
+  }
+]

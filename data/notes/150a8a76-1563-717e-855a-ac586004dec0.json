@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "150a8a76-1563-717e-855a-ac586004dec0",
+    "patient_id": "150a8a76-1563-717e-bf0f-f52045675f46",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1962-04-09",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Diego Armijo - 1962-04-09",
+    "content": "Patient: Diego Armijo, male, born 1947-03-03 (patient ID 150a8a76-1563-717e-bf0f-f52045675f46).\nVisit date: 1962-04-09.\nVisit type: Well child visit.\nClinician: Elijah White (General Practice).\nFacility: MELROSE FAMILY OPTICIANS LLC, MELROSE, MA."
+  },
+  {
+    "doc_id": "150a8a76-1563-717e-855a-ac586004dec0",
+    "patient_id": "150a8a76-1563-717e-bf0f-f52045675f46",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1962-04-09",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Diego Armijo - 1962-04-09",
+    "content": "- Body Height: 161.1 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0\n- Body Weight: 53.0 kg\n- Body mass index (BMI) [Ratio]: 20.4 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 57.4 %\n- Diastolic Blood Pressure: 65.0 mm[Hg]\n- Systolic Blood Pressure: 96.0 mm[Hg]\n- Heart rate: 94.0 /min\n- Respiratory rate: 15.0 /min"
+  },
+  {
+    "doc_id": "150a8a76-1563-717e-855a-ac586004dec0",
+    "patient_id": "150a8a76-1563-717e-bf0f-f52045675f46",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1962-04-09",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Diego Armijo - 1962-04-09",
+    "content": "- Medication reconciliation.\n- Depression screening.\n- Depression screening using Patient Health Questionnaire Nine Item score.\n- Patient referral for dental care."
+  },
+  {
+    "doc_id": "150a8a76-1563-717e-855a-ac586004dec0",
+    "patient_id": "150a8a76-1563-717e-bf0f-f52045675f46",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1962-04-09",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Diego Armijo - 1962-04-09",
+    "content": "Medications prescribed at this visit:\n- clonazePAM 0.25 MG Oral Tablet, started 1962-04-09, for Seizure disorder; stopped 1962-10-08."
+  },
+  {
+    "doc_id": "150a8a76-1563-717e-855a-ac586004dec0",
+    "patient_id": "150a8a76-1563-717e-bf0f-f52045675f46",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1962-04-09",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Diego Armijo - 1962-04-09",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

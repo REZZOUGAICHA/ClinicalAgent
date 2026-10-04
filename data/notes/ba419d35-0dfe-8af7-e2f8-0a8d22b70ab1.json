@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "ba419d35-0dfe-8af7-e2f8-0a8d22b70ab1",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Emergency Department Note",
+    "date": "2015-03-13",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Corie Kohler - 2015-03-13",
+    "content": "Patient: Corie Kohler, female, born 1925-09-18 (patient ID ba419d35-0dfe-8af7-347c-eebf02485a56).\nVisit date: 2015-03-13.\nVisit type: Emergency room admission.\nClinician: Javier Collier (General Practice).\nFacility: SERENITY HILL NURSING CENTER, WRENTHAM, MA."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-e2f8-0a8d22b70ab1",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Emergency Department Note",
+    "date": "2015-03-13",
+    "section": "Assessment",
+    "title": "Emergency Department Note - Corie Kohler - 2015-03-13",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2015-03-13), resolved 2015-03-13.\n- Gingivitis (onset 2015-03-13), resolved 2015-05-29."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-e2f8-0a8d22b70ab1",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Emergency Department Note",
+    "date": "2015-03-13",
+    "section": "Vital Signs",
+    "title": "Emergency Department Note - Corie Kohler - 2015-03-13",
+    "content": "- Body Height: 164.1 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0\n- Body Weight: 82.0 kg\n- Body mass index (BMI) [Ratio]: 30.5 kg/m2\n- Diastolic Blood Pressure: 75.0 mm[Hg]\n- Systolic Blood Pressure: 114.0 mm[Hg]\n- Heart rate: 86.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-e2f8-0a8d22b70ab1",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Emergency Department Note",
+    "date": "2015-03-13",
+    "section": "Laboratory Results",
+    "title": "Emergency Department Note - Corie Kohler - 2015-03-13",
+    "content": "- Glucose [Mass/volume] in Serum or Plasma: 84.6 mg/dL\n- Urea nitrogen [Mass/volume] in Serum or Plasma: 7.7 mg/dL\n- Creatinine [Mass/volume] in Serum or Plasma: 2.4 mg/dL\n- Calcium [Mass/volume] in Serum or Plasma: 8.6 mg/dL\n- Sodium [Moles/volume] in Serum or Plasma: 143.0 mmol/L\n- Potassium [Moles/volume] in Serum or Plasma: 3.9 mmol/L\n- Chloride [Moles/volume] in Serum or Plasma: 104.1 mmol/L\n- Carbon dioxide  total [Moles/volume] in Serum or Plasma: 27.3 mmol/L\n- Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M: 28.1 mL/min/{1.73_m2}\n- Appearance of Urine: Cloudy urine (finding)\n- Odor of Urine: Urine smell ammoniacal (finding)\n- Clarity of Urine: Translucent (qualifier value)\n- Color of Urine: Brown color (qualifier value)\n- Glucose [Mass/volume] in Urine by Test strip: 1.6 mg/dL\n- Glucose [Presence] in Urine by Test strip: Urine glucose test = ++ (finding)\n- Bilirubin.total [Mass/volume] in Urine by Test strip: 0.4 mg/dL\n- Bilirubin.total [Presence] in Urine by Test strip: Finding of bilirubin in urine (finding)\n- Ketones [Mass/volume] in Urine by Test strip: 19.9 mg/dL\n- Ketones [Presence] in Urine by Test strip: Urine ketone test = +++ (finding)\n- Specific gravity of Urine by Test strip: 1.0\n- pH of Urine by Test strip: 5.7 pH\n- Protein [Mass/volume] in Urine by Test strip: 364.1 mg/dL\n- Protein [Presence] in Urine by Test strip: Urine protein test = +++ (finding)\n- Nitrite [Presence] in Urine by Test strip: Nitrite not detected in urine (finding)\n- Hemoglobin [Presence] in Urine by Test strip: Blood not detected in urine (finding)\n- Leukocyte esterase [Presence] in Urine by Test strip: Urine leukocytes not detected (finding)"
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-e2f8-0a8d22b70ab1",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Emergency Department Note",
+    "date": "2015-03-13",
+    "section": "Procedures",
+    "title": "Emergency Department Note - Corie Kohler - 2015-03-13",
+    "content": "- Medication reconciliation.\n- Assessment of health and social care needs.\n- Screening for domestic abuse.\n- Depression screening.\n- Depression screening.\n- Patient referral for dental care, for Gingivitis."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-e2f8-0a8d22b70ab1",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Emergency Department Note",
+    "date": "2015-03-13",
+    "section": "Medications",
+    "title": "Emergency Department Note - Corie Kohler - 2015-03-13",
+    "content": "Medications prescribed at this visit:\n- lisinopril 10 MG Oral Tablet, started 2015-03-13, for Essential hypertension; stopped 2015-03-20."
+  }
+]

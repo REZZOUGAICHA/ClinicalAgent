@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-ceb6-73ee077c8763",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-08-19",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Faustino Langworth - 2020-08-19",
+    "content": "Patient: Faustino Langworth, male, born 1998-06-17 (patient ID 5ba0a3f3-32f7-02b1-ec6a-8f568923954c).\nVisit date: 2020-08-19.\nVisit type: General examination of patient.\nClinician: Vito Barton (General Practice).\nFacility: DAVIS SQUARE FAMILY PRACTICE, SOMERVILLE, MA."
+  },
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-ceb6-73ee077c8763",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-08-19",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Faustino Langworth - 2020-08-19",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2020-08-19), resolved 2020-08-19.\n- Unemployed (onset 2020-08-19), resolved 2023-08-23."
+  },
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-ceb6-73ee077c8763",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-08-19",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Faustino Langworth - 2020-08-19",
+    "content": "- Body Height: 187.3 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0\n- Body Weight: 89.5 kg\n- Body mass index (BMI) [Ratio]: 25.5 kg/m2\n- Diastolic Blood Pressure: 80.0 mm[Hg]\n- Systolic Blood Pressure: 137.0 mm[Hg]\n- Heart rate: 99.0 /min\n- Respiratory rate: 15.0 /min"
+  },
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-ceb6-73ee077c8763",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-08-19",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Faustino Langworth - 2020-08-19",
+    "content": "- Leukocytes [#/volume] in Blood by Automated count: 9.2 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 4.9 10*6/uL\n- Hemoglobin [Mass/volume] in Blood: 12.2 g/dL\n- Hematocrit [Volume Fraction] of Blood by Automated count: 46.8 %\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 82.2 fL\n- MCH [Entitic mass] by Automated count: 32.9 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 33.3 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 40.4 fL\n- Platelets [#/volume] in Blood by Automated count: 285.3 10*3/uL\n- Platelet distribution width [Entitic volume] in Blood by Automated count: 13.7 fL\n- Platelet [Entitic mean volume] in Blood by Automated count: 11.5 fL"
+  },
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-ceb6-73ee077c8763",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-08-19",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Faustino Langworth - 2020-08-19",
+    "content": "- Medication reconciliation.\n- Assessment of health and social care needs.\n- Depression screening.\n- Depression screening.\n- Assessment of substance use.\n- Assessment using Alcohol Use Disorders Identification Test - Consumption."
+  },
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-ceb6-73ee077c8763",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-08-19",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Faustino Langworth - 2020-08-19",
+    "content": "- Influenza split virus trivalent PF.\n- Td (adult) 5 Lf tetanus toxoid preservative free adsorbed.\n- Hep B adult.\n- meningococcal MCV4P."
+  }
+]

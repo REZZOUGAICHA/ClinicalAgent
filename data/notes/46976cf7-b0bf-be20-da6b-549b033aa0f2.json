@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "46976cf7-b0bf-be20-da6b-549b033aa0f2",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-09-28",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Lindsay Zieme - 2018-09-28",
+    "content": "Patient: Lindsay Zieme, female, born 2007-09-14 (patient ID 46976cf7-b0bf-be20-39a5-9f425a52886d).\nVisit date: 2018-09-28.\nVisit type: Well child visit.\nClinician: Levi Abbott (General Practice).\nFacility: TREE OF LIFE HEALTHCARE ASSOCIATES, WORCESTER, MA."
+  },
+  {
+    "doc_id": "46976cf7-b0bf-be20-da6b-549b033aa0f2",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-09-28",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Lindsay Zieme - 2018-09-28",
+    "content": "- Body Height: 144.3 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0\n- Body Weight: 37.1 kg\n- Body mass index (BMI) [Ratio]: 17.8 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 55.5 %\n- Diastolic Blood Pressure: 92.0 mm[Hg]\n- Systolic Blood Pressure: 117.0 mm[Hg]\n- Heart rate: 61.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "46976cf7-b0bf-be20-da6b-549b033aa0f2",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-09-28",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Lindsay Zieme - 2018-09-28",
+    "content": "- Leukocytes [#/volume] in Blood by Automated count: 8.0 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 5.1 10*6/uL\n- Hemoglobin [Mass/volume] in Blood: 12.2 g/dL\n- Hematocrit [Volume Fraction] of Blood by Automated count: 45.9 %\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 92.1 fL\n- MCH [Entitic mass] by Automated count: 32.8 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 35.4 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 42.2 fL\n- Platelets [#/volume] in Blood by Automated count: 248.9 10*3/uL\n- Platelet distribution width [Entitic volume] in Blood by Automated count: 16.2 fL\n- Platelet [Entitic mean volume] in Blood by Automated count: 9.7 fL"
+  },
+  {
+    "doc_id": "46976cf7-b0bf-be20-da6b-549b033aa0f2",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-09-28",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Lindsay Zieme - 2018-09-28",
+    "content": "- Tdap.\n- Influenza split virus trivalent PF.\n- HPV quadrivalent.\n- meningococcal MCV4P."
+  }
+]

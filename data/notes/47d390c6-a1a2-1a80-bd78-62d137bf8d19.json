@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "47d390c6-a1a2-1a80-bd78-62d137bf8d19",
+    "patient_id": "47d390c6-a1a2-1a80-dd1d-9722c7b24159",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2016-12-03",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Demarcus Jones - 2016-12-03",
+    "content": "Patient: Demarcus Jones, male, born 2009-03-07 (patient ID 47d390c6-a1a2-1a80-dd1d-9722c7b24159).\nVisit date: 2016-12-03.\nVisit type: Encounter for check up.\nClinician: Jackelyn Pacocha (General Practice).\nFacility: WP ACQUISITION SUB LLC, HAVERHILL, MA."
+  },
+  {
+    "doc_id": "47d390c6-a1a2-1a80-bd78-62d137bf8d19",
+    "patient_id": "47d390c6-a1a2-1a80-dd1d-9722c7b24159",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2016-12-03",
+    "section": "Assessment",
+    "title": "Outpatient Procedure Note - Demarcus Jones - 2016-12-03",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2016-12-03), resolved 2017-03-04."
+  },
+  {
+    "doc_id": "47d390c6-a1a2-1a80-bd78-62d137bf8d19",
+    "patient_id": "47d390c6-a1a2-1a80-dd1d-9722c7b24159",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2016-12-03",
+    "section": "Vital Signs",
+    "title": "Outpatient Procedure Note - Demarcus Jones - 2016-12-03",
+    "content": "- Body Height: 129.3 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0\n- Body Weight: 26.8 kg\n- Body mass index (BMI) [Ratio]: 16.0 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 58.0 %\n- Diastolic Blood Pressure: 92.0 mm[Hg]\n- Systolic Blood Pressure: 121.0 mm[Hg]\n- Heart rate: 72.0 /min\n- Respiratory rate: 14.0 /min"
+  }
+]

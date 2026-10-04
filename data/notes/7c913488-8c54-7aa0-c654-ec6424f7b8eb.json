@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "7c913488-8c54-7aa0-c654-ec6424f7b8eb",
+    "patient_id": "7c913488-8c54-7aa0-a452-83dbc3ad8377",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2024-03-15",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Dian Kiehn - 2024-03-15",
+    "content": "Patient: Dian Kiehn, female, born 2012-01-13 (patient ID 7c913488-8c54-7aa0-a452-83dbc3ad8377).\nVisit date: 2024-03-15.\nVisit type: Administration of vaccine to produce active immunity.\nClinician: Vella Ankunding (General Practice).\nFacility: SOUTHCOAST HOSPITALS GROUP INC, FALL RIVER, MA."
+  },
+  {
+    "doc_id": "7c913488-8c54-7aa0-c654-ec6424f7b8eb",
+    "patient_id": "7c913488-8c54-7aa0-a452-83dbc3ad8377",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2024-03-15",
+    "section": "Immunizations",
+    "title": "Outpatient Procedure Note - Dian Kiehn - 2024-03-15",
+    "content": "- COVID-19 vaccine vector-nr rS-Ad26 PF 0.5 mL."
+  }
+]

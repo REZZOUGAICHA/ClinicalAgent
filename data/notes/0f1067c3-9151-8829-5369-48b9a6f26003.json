@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "0f1067c3-9151-8829-5369-48b9a6f26003",
+    "patient_id": "0f1067c3-9151-8829-56cd-2eff898db59c",
+    "document_type": "Office Visit Note",
+    "date": "2025-09-21",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Virgie Aufderhar - 2025-09-21",
+    "content": "Patient: Virgie Aufderhar, female, born 2009-06-18 (patient ID 0f1067c3-9151-8829-56cd-2eff898db59c).\nVisit date: 2025-09-21.\nVisit type: Outpatient procedure.\nClinician: Antwan Lindgren (General Practice).\nFacility: DR SOLOMON CARTER FULLER MENTAL HEALTH CENTER, BOSTON, MA."
+  },
+  {
+    "doc_id": "0f1067c3-9151-8829-5369-48b9a6f26003",
+    "patient_id": "0f1067c3-9151-8829-56cd-2eff898db59c",
+    "document_type": "Office Visit Note",
+    "date": "2025-09-21",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Virgie Aufderhar - 2025-09-21",
+    "content": "Seen for Allergic disposition."
+  },
+  {
+    "doc_id": "0f1067c3-9151-8829-5369-48b9a6f26003",
+    "patient_id": "0f1067c3-9151-8829-56cd-2eff898db59c",
+    "document_type": "Office Visit Note",
+    "date": "2025-09-21",
+    "section": "Assessment",
+    "title": "Office Visit Note - Virgie Aufderhar - 2025-09-21",
+    "content": "Diagnoses recorded at this visit:\n- Acute infective cystitis (onset 2025-10-13), resolved 2025-10-15."
+  },
+  {
+    "doc_id": "0f1067c3-9151-8829-5369-48b9a6f26003",
+    "patient_id": "0f1067c3-9151-8829-56cd-2eff898db59c",
+    "document_type": "Office Visit Note",
+    "date": "2025-09-21",
+    "section": "Procedures",
+    "title": "Office Visit Note - Virgie Aufderhar - 2025-09-21",
+    "content": "- Subcutaneous immunotherapy."
+  }
+]

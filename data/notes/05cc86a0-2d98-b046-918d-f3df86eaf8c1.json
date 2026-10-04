@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "05cc86a0-2d98-b046-918d-f3df86eaf8c1",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1971-10-08",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Carita Grady - 1971-10-08",
+    "content": "Patient: Carita Grady, female, born 1925-09-18 (patient ID 05cc86a0-2d98-b046-790a-211fd9e1ea92).\nVisit date: 1971-10-08.\nVisit type: General examination of patient.\nClinician: Zachery Rau (General Practice).\nFacility: WALPOLE MEDICAL CENTER PC, WALPOLE, MA."
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-918d-f3df86eaf8c1",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1971-10-08",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Carita Grady - 1971-10-08",
+    "content": "Diagnoses recorded at this visit:\n- Prediabetes (onset 1971-10-08).\n- Ischemic heart disease (onset 1971-10-08)."
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-918d-f3df86eaf8c1",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1971-10-08",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Carita Grady - 1971-10-08",
+    "content": "Medications prescribed at this visit:\n- Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray, started 1971-10-15; no stop date recorded."
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-918d-f3df86eaf8c1",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1971-10-08",
+    "section": "Plan",
+    "title": "Annual Wellness Visit Note - Carita Grady - 1971-10-08",
+    "content": "- Diabetes self management plan for Prediabetes, started 1971-10-08."
+  }
+]

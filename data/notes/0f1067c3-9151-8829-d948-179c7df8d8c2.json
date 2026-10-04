@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "0f1067c3-9151-8829-d948-179c7df8d8c2",
+    "patient_id": "0f1067c3-9151-8829-56cd-2eff898db59c",
+    "document_type": "Office Visit Note",
+    "date": "2016-11-24",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Virgie Aufderhar - 2016-11-24",
+    "content": "Patient: Virgie Aufderhar, female, born 2009-06-18 (patient ID 0f1067c3-9151-8829-56cd-2eff898db59c).\nVisit date: 2016-11-24.\nVisit type: Encounter for symptom.\nClinician: Antwan Lindgren (General Practice).\nFacility: DR SOLOMON CARTER FULLER MENTAL HEALTH CENTER, BOSTON, MA."
+  },
+  {
+    "doc_id": "0f1067c3-9151-8829-d948-179c7df8d8c2",
+    "patient_id": "0f1067c3-9151-8829-56cd-2eff898db59c",
+    "document_type": "Office Visit Note",
+    "date": "2016-11-24",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Virgie Aufderhar - 2016-11-24",
+    "content": "Seen for Viral sinusitis."
+  },
+  {
+    "doc_id": "0f1067c3-9151-8829-d948-179c7df8d8c2",
+    "patient_id": "0f1067c3-9151-8829-56cd-2eff898db59c",
+    "document_type": "Office Visit Note",
+    "date": "2016-11-24",
+    "section": "Assessment",
+    "title": "Office Visit Note - Virgie Aufderhar - 2016-11-24",
+    "content": "Diagnoses recorded at this visit:\n- Viral sinusitis (onset 2016-11-24), resolved 2016-12-02."
+  }
+]

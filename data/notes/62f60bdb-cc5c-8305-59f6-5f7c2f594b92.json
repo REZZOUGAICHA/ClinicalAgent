@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "62f60bdb-cc5c-8305-59f6-5f7c2f594b92",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Office Visit Note",
+    "date": "2020-02-06",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Angel Frami - 2020-02-06",
+    "content": "Patient: Angel Frami, female, born 1975-10-22 (patient ID 62f60bdb-cc5c-8305-b98b-f2b229a55eca).\nVisit date: 2020-02-06.\nVisit type: Prenatal visit.\nClinician: Ollie Dooley (General Practice).\nFacility: DR JOHN C CORRIGAN MENTAL HEALTH CENTER, FALL RIVER, MA."
+  },
+  {
+    "doc_id": "62f60bdb-cc5c-8305-59f6-5f7c2f594b92",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Office Visit Note",
+    "date": "2020-02-06",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Angel Frami - 2020-02-06",
+    "content": "Seen for Normal pregnancy."
+  },
+  {
+    "doc_id": "62f60bdb-cc5c-8305-59f6-5f7c2f594b92",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Office Visit Note",
+    "date": "2020-02-06",
+    "section": "Procedures",
+    "title": "Office Visit Note - Angel Frami - 2020-02-06",
+    "content": "- Evaluation of uterine fundal height, for Normal pregnancy.\n- Auscultation of the fetal heart, for Normal pregnancy."
+  }
+]

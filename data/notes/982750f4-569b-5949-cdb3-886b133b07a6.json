@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "982750f4-569b-5949-cdb3-886b133b07a6",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2016-12-28",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Dwana Wolf - 2016-12-28",
+    "content": "Patient: Dwana Wolf, female, born 1986-11-12 (patient ID 982750f4-569b-5949-196b-60699bdda3fb).\nVisit date: 2016-12-28.\nVisit type: Patient encounter procedure.\nClinician: Marcus Schamberger (General Practice).\nFacility: THE LOWELL GENERAL HOSPITAL, WESTFORD, MA."
+  },
+  {
+    "doc_id": "982750f4-569b-5949-cdb3-886b133b07a6",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2016-12-28",
+    "section": "Reason for Visit",
+    "title": "Outpatient Procedure Note - Dwana Wolf - 2016-12-28",
+    "content": "Seen for Contraception care."
+  },
+  {
+    "doc_id": "982750f4-569b-5949-cdb3-886b133b07a6",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2016-12-28",
+    "section": "Procedures",
+    "title": "Outpatient Procedure Note - Dwana Wolf - 2016-12-28",
+    "content": "- Intramuscular injection."
+  }
+]

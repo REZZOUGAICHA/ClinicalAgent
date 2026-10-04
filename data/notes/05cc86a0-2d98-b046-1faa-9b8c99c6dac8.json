@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "05cc86a0-2d98-b046-1faa-9b8c99c6dac8",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "1961-08-09",
+    "section": "Visit Information",
+    "title": "Inpatient Discharge Summary - Carita Grady - 1961-08-09",
+    "content": "Patient: Carita Grady, female, born 1925-09-18 (patient ID 05cc86a0-2d98-b046-790a-211fd9e1ea92).\nVisit date: 1961-08-09.\nVisit type: Admission to surgical department.\nClinician: Nickolas Schumm (General Practice).\nFacility: ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE, FRAMINGHAM, MA."
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-1faa-9b8c99c6dac8",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "1961-08-09",
+    "section": "Reason for Visit",
+    "title": "Inpatient Discharge Summary - Carita Grady - 1961-08-09",
+    "content": "Seen for Sterilization requested."
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-1faa-9b8c99c6dac8",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "1961-08-09",
+    "section": "Assessment",
+    "title": "Inpatient Discharge Summary - Carita Grady - 1961-08-09",
+    "content": "Diagnoses recorded at this visit:\n- History of tubal ligation (onset 1961-08-09)."
+  }
+]

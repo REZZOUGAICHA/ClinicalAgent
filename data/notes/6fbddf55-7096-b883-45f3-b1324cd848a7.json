@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "6fbddf55-7096-b883-45f3-b1324cd848a7",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2022-07-09",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Clarinda Farrell - 2022-07-09",
+    "content": "Patient: Clarinda Farrell, female, born 1981-07-01 (patient ID 6fbddf55-7096-b883-7cd3-260f27953080).\nVisit date: 2022-07-09.\nVisit type: Consultation for treatment.\nClinician: Luther Jakubowski (General Practice).\nFacility: ENCOMPASS HEALTH REHABILITATION HOSP OF NEW ENGLAN, WOBURN, MA."
+  },
+  {
+    "doc_id": "6fbddf55-7096-b883-45f3-b1324cd848a7",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2022-07-09",
+    "section": "Reason for Visit",
+    "title": "Outpatient Procedure Note - Clarinda Farrell - 2022-07-09",
+    "content": "Seen for Contraception care."
+  },
+  {
+    "doc_id": "6fbddf55-7096-b883-45f3-b1324cd848a7",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2022-07-09",
+    "section": "Medications",
+    "title": "Outpatient Procedure Note - Clarinda Farrell - 2022-07-09",
+    "content": "Medications prescribed at this visit:\n- {7 (ethinyl estradiol 0.01 MG Oral Tablet) / 84 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) } Pack [Seasonique], started 2022-07-09; stopped 2023-07-04."
+  }
+]

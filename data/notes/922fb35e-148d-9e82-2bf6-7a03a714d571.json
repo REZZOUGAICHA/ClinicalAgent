@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "922fb35e-148d-9e82-2bf6-7a03a714d571",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Office Visit Note",
+    "date": "1990-12-26",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Agnes Weber - 1990-12-26",
+    "content": "Patient: Agnes Weber, female, born 1986-12-19 (patient ID 922fb35e-148d-9e82-7e65-bfa05e3b3515).\nVisit date: 1990-12-26.\nVisit type: Encounter for symptom.\nClinician: Chanell Robel (General Practice).\nFacility: WHITTIER REHABILITATION HOSPITAL - BRADFORD, WESTBOROUGH, MA."
+  },
+  {
+    "doc_id": "922fb35e-148d-9e82-2bf6-7a03a714d571",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Office Visit Note",
+    "date": "1990-12-26",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Agnes Weber - 1990-12-26",
+    "content": "Seen for Childhood asthma."
+  },
+  {
+    "doc_id": "922fb35e-148d-9e82-2bf6-7a03a714d571",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Office Visit Note",
+    "date": "1990-12-26",
+    "section": "Plan",
+    "title": "Office Visit Note - Agnes Weber - 1990-12-26",
+    "content": "- Asthma self management for Childhood asthma, started 1990-12-26."
+  }
+]

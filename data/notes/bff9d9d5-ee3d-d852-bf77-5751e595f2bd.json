@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "bff9d9d5-ee3d-d852-bf77-5751e595f2bd",
+    "patient_id": "bff9d9d5-ee3d-d852-9c67-36d8361a4a4a",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2022-07-03",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Rosario Ortiz - 2022-07-03",
+    "content": "Patient: Rosario Ortiz, male, born 1945-01-28 (patient ID bff9d9d5-ee3d-d852-9c67-36d8361a4a4a).\nVisit date: 2022-07-03.\nVisit type: General examination of patient.\nClinician: Cedrick Gleason (General Practice).\nFacility: WELLESLEY FAMILY CARE ASSOCIATES PC, WELLESLEY, MA."
+  },
+  {
+    "doc_id": "bff9d9d5-ee3d-d852-bf77-5751e595f2bd",
+    "patient_id": "bff9d9d5-ee3d-d852-9c67-36d8361a4a4a",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2022-07-03",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Rosario Ortiz - 2022-07-03",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2022-07-03), resolved 2022-07-03.\n- Gingivitis (onset 2022-07-03), resolved 2022-07-17."
+  },
+  {
+    "doc_id": "bff9d9d5-ee3d-d852-bf77-5751e595f2bd",
+    "patient_id": "bff9d9d5-ee3d-d852-9c67-36d8361a4a4a",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2022-07-03",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Rosario Ortiz - 2022-07-03",
+    "content": "- Body Height: 180.8 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0\n- Body Weight: 97.4 kg\n- Body mass index (BMI) [Ratio]: 29.8 kg/m2\n- Diastolic Blood Pressure: 90.0 mm[Hg]\n- Systolic Blood Pressure: 117.0 mm[Hg]\n- Heart rate: 91.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "bff9d9d5-ee3d-d852-bf77-5751e595f2bd",
+    "patient_id": "bff9d9d5-ee3d-d852-9c67-36d8361a4a4a",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2022-07-03",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Rosario Ortiz - 2022-07-03",
+    "content": "- Hemoglobin A1c/Hemoglobin.total in Blood: 6.2 %\n- Glucose [Mass/volume] in Blood: 89.4 mg/dL\n- Urea nitrogen [Mass/volume] in Blood: 7.6 mg/dL\n- Creatinine [Mass/volume] in Blood: 0.9 mg/dL\n- Calcium [Mass/volume] in Blood: 8.6 mg/dL\n- Sodium [Moles/volume] in Blood: 136.7 mmol/L\n- Potassium [Moles/volume] in Blood: 4.9 mmol/L\n- Chloride [Moles/volume] in Blood: 105.7 mmol/L\n- Carbon dioxide  total [Moles/volume] in Blood: 27.1 mmol/L\n- Cholesterol [Mass/volume] in Serum or Plasma: 158.6 mg/dL\n- Triglyceride [Mass/volume] in Serum or Plasma: 109.1 mg/dL\n- Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay: 80.0 mg/dL\n- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 56.7 mg/dL\n- Leukocytes [#/volume] in Blood by Automated count: 10.1 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 5.3 10*6/uL\n- Hemoglobin [Mass/volume] in Blood: 15.9 g/dL\n- Hematocrit [Volume Fraction] of Blood by Automated count: 41.1 %\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 83.7 fL\n- MCH [Entitic mass] by Automated count: 29.8 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 33.9 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 40.4 fL\n- Platelets [#/volume] in Blood by Automated count: 407.3 10*3/uL\n- Platelet distribution width [Entitic volume] in Blood by Automated count: 14.1 fL\n- Platelet [Entitic mean volume] in Blood by Automated count: 10.6 fL"
+  },
+  {
+    "doc_id": "bff9d9d5-ee3d-d852-bf77-5751e595f2bd",
+    "patient_id": "bff9d9d5-ee3d-d852-9c67-36d8361a4a4a",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2022-07-03",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Rosario Ortiz - 2022-07-03",
+    "content": "- Medication reconciliation.\n- Assessment of health and social care needs.\n- Assessment of anxiety.\n- Screening for domestic abuse.\n- Depression screening.\n- Depression screening.\n- Assessment of substance use.\n- Assessment using Alcohol Use Disorders Identification Test - Consumption.\n- Patient referral for dental care, for Gingivitis."
+  },
+  {
+    "doc_id": "bff9d9d5-ee3d-d852-bf77-5751e595f2bd",
+    "patient_id": "bff9d9d5-ee3d-d852-9c67-36d8361a4a4a",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2022-07-03",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Rosario Ortiz - 2022-07-03",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

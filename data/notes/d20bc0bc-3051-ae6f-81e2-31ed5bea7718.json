@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-81e2-31ed5bea7718",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Office Visit Note",
+    "date": "2021-01-10",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Lavette Kozey - 2021-01-10",
+    "content": "Patient: Lavette Kozey, female, born 2010-03-24 (patient ID d20bc0bc-3051-ae6f-f391-ceec7ec0370f).\nVisit date: 2021-01-10.\nVisit type: Encounter for symptom.\nClinician: Beatriz Monroy (General Practice).\nFacility: FIRST PSYCHIATRIC PLANNERS INC, WOBURN, MA."
+  },
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-81e2-31ed5bea7718",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Office Visit Note",
+    "date": "2021-01-10",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Lavette Kozey - 2021-01-10",
+    "content": "Seen for Streptococcal sore throat."
+  },
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-81e2-31ed5bea7718",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Office Visit Note",
+    "date": "2021-01-10",
+    "section": "Assessment",
+    "title": "Office Visit Note - Lavette Kozey - 2021-01-10",
+    "content": "Diagnoses recorded at this visit:\n- Streptococcal sore throat (onset 2021-01-10), resolved 2021-01-23."
+  },
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-81e2-31ed5bea7718",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Office Visit Note",
+    "date": "2021-01-10",
+    "section": "Vital Signs",
+    "title": "Office Visit Note - Lavette Kozey - 2021-01-10",
+    "content": "- Body temperature: 38.5 \u00b0C"
+  },
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-81e2-31ed5bea7718",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Office Visit Note",
+    "date": "2021-01-10",
+    "section": "Medications",
+    "title": "Office Visit Note - Lavette Kozey - 2021-01-10",
+    "content": "Medications prescribed at this visit:\n- Penicillin V Potassium 250 MG Oral Tablet, started 2021-01-10, for Streptococcal sore throat; stopped 2021-01-23."
+  }
+]

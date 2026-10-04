@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "05cc86a0-2d98-b046-4d40-bf9525165545",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Office Visit Note",
+    "date": "1971-10-17",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Carita Grady - 1971-10-17",
+    "content": "Patient: Carita Grady, female, born 1925-09-18 (patient ID 05cc86a0-2d98-b046-790a-211fd9e1ea92).\nVisit date: 1971-10-17.\nVisit type: Encounter for problem.\nClinician: Gabriel Reilly (General Practice).\nFacility: Fitchburg Outpatient Clinic, Fitchburg, MA."
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-4d40-bf9525165545",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Office Visit Note",
+    "date": "1971-10-17",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Carita Grady - 1971-10-17",
+    "content": "Seen for Ischemic heart disease."
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-4d40-bf9525165545",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Office Visit Note",
+    "date": "1971-10-17",
+    "section": "Assessment",
+    "title": "Office Visit Note - Carita Grady - 1971-10-17",
+    "content": "Diagnoses recorded at this visit:\n- Abnormal findings diagnostic imaging heart+coronary circulat (onset 1971-10-17)."
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "947c82ee-1735-c9ed-eaae-1607b733c6d9",
+    "patient_id": "947c82ee-1735-c9ed-8210-38cb93d8070c",
+    "document_type": "Office Visit Note",
+    "date": "2026-09-05",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Marcell Hammes - 2026-09-05",
+    "content": "Patient: Marcell Hammes, female, born 2016-05-17 (patient ID 947c82ee-1735-c9ed-8210-38cb93d8070c).\nVisit date: 2026-09-05.\nVisit type: Encounter for symptom.\nClinician: Carmelina Goyette (General Practice).\nFacility: HEBREW SENIORLIFE AFFILIATED MEDICAL GROUP INC, ROSLINDALE, MA."
+  },
+  {
+    "doc_id": "947c82ee-1735-c9ed-eaae-1607b733c6d9",
+    "patient_id": "947c82ee-1735-c9ed-8210-38cb93d8070c",
+    "document_type": "Office Visit Note",
+    "date": "2026-09-05",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Marcell Hammes - 2026-09-05",
+    "content": "Seen for Acute viral pharyngitis."
+  },
+  {
+    "doc_id": "947c82ee-1735-c9ed-eaae-1607b733c6d9",
+    "patient_id": "947c82ee-1735-c9ed-8210-38cb93d8070c",
+    "document_type": "Office Visit Note",
+    "date": "2026-09-05",
+    "section": "Assessment",
+    "title": "Office Visit Note - Marcell Hammes - 2026-09-05",
+    "content": "Diagnoses recorded at this visit:\n- Acute viral pharyngitis (onset 2026-09-05), resolved 2026-09-15."
+  },
+  {
+    "doc_id": "947c82ee-1735-c9ed-eaae-1607b733c6d9",
+    "patient_id": "947c82ee-1735-c9ed-8210-38cb93d8070c",
+    "document_type": "Office Visit Note",
+    "date": "2026-09-05",
+    "section": "Vital Signs",
+    "title": "Office Visit Note - Marcell Hammes - 2026-09-05",
+    "content": "- Body temperature: 37.6 \u00b0C"
+  }
+]

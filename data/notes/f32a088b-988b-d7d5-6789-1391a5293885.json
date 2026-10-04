@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "f32a088b-988b-d7d5-6789-1391a5293885",
+    "patient_id": "f32a088b-988b-d7d5-008b-89ea4ed1fc48",
+    "document_type": "Office Visit Note",
+    "date": "2022-08-27",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Wayne McLaughlin - 2022-08-27",
+    "content": "Patient: Wayne McLaughlin, male, born 2006-08-16 (patient ID f32a088b-988b-d7d5-008b-89ea4ed1fc48).\nVisit date: 2022-08-27.\nVisit type: Outpatient procedure.\nClinician: Chantell Krajcik (General Practice).\nFacility: FRANCISCAN HOSPITAL FOR CHILDREN INC, BOSTON, MA."
+  },
+  {
+    "doc_id": "f32a088b-988b-d7d5-6789-1391a5293885",
+    "patient_id": "f32a088b-988b-d7d5-008b-89ea4ed1fc48",
+    "document_type": "Office Visit Note",
+    "date": "2022-08-27",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Wayne McLaughlin - 2022-08-27",
+    "content": "Seen for Allergic disposition."
+  },
+  {
+    "doc_id": "f32a088b-988b-d7d5-6789-1391a5293885",
+    "patient_id": "f32a088b-988b-d7d5-008b-89ea4ed1fc48",
+    "document_type": "Office Visit Note",
+    "date": "2022-08-27",
+    "section": "Procedures",
+    "title": "Office Visit Note - Wayne McLaughlin - 2022-08-27",
+    "content": "- Subcutaneous immunotherapy."
+  }
+]

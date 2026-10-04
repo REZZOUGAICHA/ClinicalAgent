@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "f999ef25-a612-87c9-f1ab-858d49078b55",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Office Visit Note",
+    "date": "2006-09-22",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Evangeline Ziemann - 2006-09-22",
+    "content": "Patient: Evangeline Ziemann, female, born 1925-09-18 (patient ID f999ef25-a612-87c9-206f-aacc9d469dc8).\nVisit date: 2006-09-22.\nVisit type: Encounter for problem.\nClinician: Gabriel Reilly (General Practice).\nFacility: Fitchburg Outpatient Clinic, Fitchburg, MA."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-f1ab-858d49078b55",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Office Visit Note",
+    "date": "2006-09-22",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Evangeline Ziemann - 2006-09-22",
+    "content": "Seen for Ischemic heart disease."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-f1ab-858d49078b55",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Office Visit Note",
+    "date": "2006-09-22",
+    "section": "Assessment",
+    "title": "Office Visit Note - Evangeline Ziemann - 2006-09-22",
+    "content": "Diagnoses recorded at this visit:\n- Abnormal findings diagnostic imaging heart+coronary circulat (onset 2006-09-22)."
+  }
+]

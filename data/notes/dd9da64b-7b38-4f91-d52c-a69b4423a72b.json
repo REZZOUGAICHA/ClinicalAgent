@@ -1,0 +1,65 @@
+[
+  {
+    "doc_id": "dd9da64b-7b38-4f91-d52c-a69b4423a72b",
+    "patient_id": "dd9da64b-7b38-4f91-e75d-b1268dde60d4",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-07-20",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Donnetta Jenkins - 2026-07-20",
+    "content": "Patient: Donnetta Jenkins, female, born 1987-01-26 (patient ID dd9da64b-7b38-4f91-e75d-b1268dde60d4).\nVisit date: 2026-07-20.\nVisit type: General examination of patient.\nClinician: Son MacGyver (General Practice).\nFacility: HOLISTIC FAMILY PRACTICE INC., NEWBURY, MA."
+  },
+  {
+    "doc_id": "dd9da64b-7b38-4f91-d52c-a69b4423a72b",
+    "patient_id": "dd9da64b-7b38-4f91-e75d-b1268dde60d4",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-07-20",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Donnetta Jenkins - 2026-07-20",
+    "content": "Diagnoses recorded at this visit:\n- Full-time employment (onset 2026-07-20)."
+  },
+  {
+    "doc_id": "dd9da64b-7b38-4f91-d52c-a69b4423a72b",
+    "patient_id": "dd9da64b-7b38-4f91-e75d-b1268dde60d4",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-07-20",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Donnetta Jenkins - 2026-07-20",
+    "content": "- Body Height: 156.3 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0\n- Body Weight: 81.3 kg\n- Body mass index (BMI) [Ratio]: 33.3 kg/m2\n- Diastolic Blood Pressure: 83.0 mm[Hg]\n- Systolic Blood Pressure: 116.0 mm[Hg]\n- Heart rate: 70.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "dd9da64b-7b38-4f91-d52c-a69b4423a72b",
+    "patient_id": "dd9da64b-7b38-4f91-e75d-b1268dde60d4",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-07-20",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Donnetta Jenkins - 2026-07-20",
+    "content": "- Hemoglobin A1c/Hemoglobin.total in Blood: 6.1 %\n- Glucose [Mass/volume] in Blood: 67.7 mg/dL\n- Urea nitrogen [Mass/volume] in Blood: 13.3 mg/dL\n- Creatinine [Mass/volume] in Blood: 1.2 mg/dL\n- Calcium [Mass/volume] in Blood: 9.5 mg/dL\n- Sodium [Moles/volume] in Blood: 138.0 mmol/L\n- Potassium [Moles/volume] in Blood: 4.9 mmol/L\n- Chloride [Moles/volume] in Blood: 108.2 mmol/L\n- Carbon dioxide  total [Moles/volume] in Blood: 25.2 mmol/L\n- Cholesterol [Mass/volume] in Serum or Plasma: 141.6 mg/dL\n- Triglyceride [Mass/volume] in Serum or Plasma: 118.6 mg/dL\n- Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay: 66.2 mg/dL\n- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 51.6 mg/dL"
+  },
+  {
+    "doc_id": "dd9da64b-7b38-4f91-d52c-a69b4423a72b",
+    "patient_id": "dd9da64b-7b38-4f91-e75d-b1268dde60d4",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-07-20",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Donnetta Jenkins - 2026-07-20",
+    "content": "- Assessment of health and social care needs.\n- Assessment of substance use.\n- Screening for drug abuse."
+  },
+  {
+    "doc_id": "dd9da64b-7b38-4f91-d52c-a69b4423a72b",
+    "patient_id": "dd9da64b-7b38-4f91-e75d-b1268dde60d4",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-07-20",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Donnetta Jenkins - 2026-07-20",
+    "content": "Medications prescribed at this visit:\n- budesonide 0.25 MG/ML Inhalation Suspension, started 2026-07-20, for Childhood asthma; no stop date recorded.\n- NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir], started 2026-07-20, for Childhood asthma; no stop date recorded."
+  },
+  {
+    "doc_id": "dd9da64b-7b38-4f91-d52c-a69b4423a72b",
+    "patient_id": "dd9da64b-7b38-4f91-e75d-b1268dde60d4",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-07-20",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Donnetta Jenkins - 2026-07-20",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

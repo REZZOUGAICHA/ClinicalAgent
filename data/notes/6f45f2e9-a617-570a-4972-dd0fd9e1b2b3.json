@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "6f45f2e9-a617-570a-4972-dd0fd9e1b2b3",
+    "patient_id": "6f45f2e9-a617-570a-8867-dec1260088bb",
+    "document_type": "Office Visit Note",
+    "date": "2023-10-22",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Carey Mraz - 2023-10-22",
+    "content": "Patient: Carey Mraz, male, born 2013-06-27 (patient ID 6f45f2e9-a617-570a-8867-dec1260088bb).\nVisit date: 2023-10-22.\nVisit type: Encounter for symptom.\nClinician: Jules Emard (General Practice).\nFacility: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC, LEOMINSTER, MA."
+  },
+  {
+    "doc_id": "6f45f2e9-a617-570a-4972-dd0fd9e1b2b3",
+    "patient_id": "6f45f2e9-a617-570a-8867-dec1260088bb",
+    "document_type": "Office Visit Note",
+    "date": "2023-10-22",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Carey Mraz - 2023-10-22",
+    "content": "Seen for Acute viral pharyngitis."
+  },
+  {
+    "doc_id": "6f45f2e9-a617-570a-4972-dd0fd9e1b2b3",
+    "patient_id": "6f45f2e9-a617-570a-8867-dec1260088bb",
+    "document_type": "Office Visit Note",
+    "date": "2023-10-22",
+    "section": "Assessment",
+    "title": "Office Visit Note - Carey Mraz - 2023-10-22",
+    "content": "Diagnoses recorded at this visit:\n- Acute viral pharyngitis (onset 2023-10-22), resolved 2023-11-02."
+  },
+  {
+    "doc_id": "6f45f2e9-a617-570a-4972-dd0fd9e1b2b3",
+    "patient_id": "6f45f2e9-a617-570a-8867-dec1260088bb",
+    "document_type": "Office Visit Note",
+    "date": "2023-10-22",
+    "section": "Vital Signs",
+    "title": "Office Visit Note - Carey Mraz - 2023-10-22",
+    "content": "- Body temperature: 37.9 \u00b0C"
+  },
+  {
+    "doc_id": "6f45f2e9-a617-570a-4972-dd0fd9e1b2b3",
+    "patient_id": "6f45f2e9-a617-570a-8867-dec1260088bb",
+    "document_type": "Office Visit Note",
+    "date": "2023-10-22",
+    "section": "Procedures",
+    "title": "Office Visit Note - Carey Mraz - 2023-10-22",
+    "content": "- Throat culture, for Acute viral pharyngitis."
+  }
+]

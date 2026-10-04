@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "4aaa0001-3832-cc52-ccfd-a4346308d781",
+    "patient_id": "4aaa0001-3832-cc52-e2f3-47aad08f4284",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2014-02-02",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Marvin Weissnat - 2014-02-02",
+    "content": "Patient: Marvin Weissnat, male, born 2006-02-05 (patient ID 4aaa0001-3832-cc52-e2f3-47aad08f4284).\nVisit date: 2014-02-02.\nVisit type: Well child visit.\nClinician: Benita VonRueden (General Practice).\nFacility: GREATER LAWRENCE FAMILY HEALTH CENTER INC, ANDOVER, MA."
+  },
+  {
+    "doc_id": "4aaa0001-3832-cc52-ccfd-a4346308d781",
+    "patient_id": "4aaa0001-3832-cc52-e2f3-47aad08f4284",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2014-02-02",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Marvin Weissnat - 2014-02-02",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2014-02-02), resolved 2017-02-19."
+  }
+]

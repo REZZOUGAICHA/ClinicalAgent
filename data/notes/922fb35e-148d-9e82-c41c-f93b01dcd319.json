@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "922fb35e-148d-9e82-c41c-f93b01dcd319",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2016-07-15",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Agnes Weber - 2016-07-15",
+    "content": "Patient: Agnes Weber, female, born 1986-12-19 (patient ID 922fb35e-148d-9e82-7e65-bfa05e3b3515).\nVisit date: 2016-07-15.\nVisit type: Encounter for check up.\nClinician: Chanell Robel (General Practice).\nFacility: WHITTIER REHABILITATION HOSPITAL - BRADFORD, WESTBOROUGH, MA."
+  },
+  {
+    "doc_id": "922fb35e-148d-9e82-c41c-f93b01dcd319",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2016-07-15",
+    "section": "Medications",
+    "title": "Outpatient Procedure Note - Agnes Weber - 2016-07-15",
+    "content": "Medications prescribed at this visit:\n- budesonide 0.25 MG/ML Inhalation Suspension, started 2016-07-15, for Childhood asthma; stopped 2017-04-21.\n- albuterol 0.21 MG/ML Inhalation Solution, started 2016-07-15, for Childhood asthma; stopped 2017-04-21."
+  }
+]

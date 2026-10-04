@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "26aa011e-0d75-d1a3-5816-8edc738fd7b1",
+    "patient_id": "26aa011e-0d75-d1a3-3c5a-560a9450cc9d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-05-17",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Jesse Wolf - 2026-05-17",
+    "content": "Patient: Jesse Wolf, male, born 2010-04-04 (patient ID 26aa011e-0d75-d1a3-3c5a-560a9450cc9d).\nVisit date: 2026-05-17.\nVisit type: Well child visit.\nClinician: Odessa Hintz (General Practice).\nFacility: WESTFORD INTERNAL MEDICINE PC, WESTFORD, MA."
+  },
+  {
+    "doc_id": "26aa011e-0d75-d1a3-5816-8edc738fd7b1",
+    "patient_id": "26aa011e-0d75-d1a3-3c5a-560a9450cc9d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-05-17",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Jesse Wolf - 2026-05-17",
+    "content": "Diagnoses recorded at this visit:\n- Gingivitis (onset 2026-05-17), resolved 2026-05-31."
+  },
+  {
+    "doc_id": "26aa011e-0d75-d1a3-5816-8edc738fd7b1",
+    "patient_id": "26aa011e-0d75-d1a3-3c5a-560a9450cc9d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-05-17",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Jesse Wolf - 2026-05-17",
+    "content": "- Body Height: 175.9 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0\n- Body Weight: 102.1 kg\n- Body mass index (BMI) [Ratio]: 33.0 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 98.8 %\n- Diastolic Blood Pressure: 73.0 mm[Hg]\n- Systolic Blood Pressure: 111.0 mm[Hg]\n- Heart rate: 86.0 /min\n- Respiratory rate: 14.0 /min"
+  },
+  {
+    "doc_id": "26aa011e-0d75-d1a3-5816-8edc738fd7b1",
+    "patient_id": "26aa011e-0d75-d1a3-3c5a-560a9450cc9d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-05-17",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Jesse Wolf - 2026-05-17",
+    "content": "- Leukocytes [#/volume] in Blood by Automated count: 7.8 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 5.3 10*6/uL\n- Hemoglobin [Mass/volume] in Blood: 16.2 g/dL\n- Hematocrit [Volume Fraction] of Blood by Automated count: 43.1 %\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 94.3 fL\n- MCH [Entitic mass] by Automated count: 27.7 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 34.6 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 42.9 fL\n- Platelets [#/volume] in Blood by Automated count: 439.6 10*3/uL\n- Platelet distribution width [Entitic volume] in Blood by Automated count: 15.3 fL\n- Platelet [Entitic mean volume] in Blood by Automated count: 11.7 fL"
+  },
+  {
+    "doc_id": "26aa011e-0d75-d1a3-5816-8edc738fd7b1",
+    "patient_id": "26aa011e-0d75-d1a3-3c5a-560a9450cc9d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-05-17",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Jesse Wolf - 2026-05-17",
+    "content": "- Depression screening.\n- Depression screening using Patient Health Questionnaire Nine Item score.\n- Patient referral for dental care, for Gingivitis."
+  },
+  {
+    "doc_id": "26aa011e-0d75-d1a3-5816-8edc738fd7b1",
+    "patient_id": "26aa011e-0d75-d1a3-3c5a-560a9450cc9d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-05-17",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Jesse Wolf - 2026-05-17",
+    "content": "- Influenza split virus trivalent PF.\n- meningococcal MCV4P."
+  }
+]

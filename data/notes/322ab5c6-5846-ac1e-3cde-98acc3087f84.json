@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "322ab5c6-5846-ac1e-3cde-98acc3087f84",
+    "patient_id": "322ab5c6-5846-ac1e-38cc-48b8cb441e20",
+    "document_type": "Office Visit Note",
+    "date": "2020-03-05",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Lena Cummings - 2020-03-05",
+    "content": "Patient: Lena Cummings, female, born 1965-02-26 (patient ID 322ab5c6-5846-ac1e-38cc-48b8cb441e20).\nVisit date: 2020-03-05.\nVisit type: Encounter for check up.\nClinician: Beatriz Monroy (General Practice).\nFacility: FIRST PSYCHIATRIC PLANNERS INC, WOBURN, MA."
+  },
+  {
+    "doc_id": "322ab5c6-5846-ac1e-3cde-98acc3087f84",
+    "patient_id": "322ab5c6-5846-ac1e-38cc-48b8cb441e20",
+    "document_type": "Office Visit Note",
+    "date": "2020-03-05",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Lena Cummings - 2020-03-05",
+    "content": "Seen for Screening for malignant neoplasm of colon."
+  },
+  {
+    "doc_id": "322ab5c6-5846-ac1e-3cde-98acc3087f84",
+    "patient_id": "322ab5c6-5846-ac1e-38cc-48b8cb441e20",
+    "document_type": "Office Visit Note",
+    "date": "2020-03-05",
+    "section": "Procedures",
+    "title": "Office Visit Note - Lena Cummings - 2020-03-05",
+    "content": "- Colonoscopy."
+  }
+]

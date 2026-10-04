@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "947c82ee-1735-c9ed-ccb1-c09147eab0d3",
+    "patient_id": "947c82ee-1735-c9ed-8210-38cb93d8070c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-04-21",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Marcell Hammes - 2020-04-21",
+    "content": "Patient: Marcell Hammes, female, born 2016-05-17 (patient ID 947c82ee-1735-c9ed-8210-38cb93d8070c).\nVisit date: 2020-04-21.\nVisit type: Well child visit.\nClinician: Kirby McKenzie (General Practice).\nFacility: BOSTON MEDICAL CENTER CORPORATION-, ROSLINDALE, MA."
+  },
+  {
+    "doc_id": "947c82ee-1735-c9ed-ccb1-c09147eab0d3",
+    "patient_id": "947c82ee-1735-c9ed-8210-38cb93d8070c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-04-21",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Marcell Hammes - 2020-04-21",
+    "content": "- Body Height: 101.8 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0\n- Body Weight: 15.4 kg\n- Weight-for-length Per age and sex: 25.9 %\n- Head Occipital-frontal circumference Percentile: 64.5 %\n- Head Occipital-frontal circumference: 49.2 cm\n- Body mass index (BMI) [Ratio]: 14.8 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 33.4 %\n- Diastolic Blood Pressure: 86.0 mm[Hg]\n- Systolic Blood Pressure: 127.0 mm[Hg]\n- Heart rate: 76.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "947c82ee-1735-c9ed-ccb1-c09147eab0d3",
+    "patient_id": "947c82ee-1735-c9ed-8210-38cb93d8070c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-04-21",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Marcell Hammes - 2020-04-21",
+    "content": "- Medication reconciliation."
+  },
+  {
+    "doc_id": "947c82ee-1735-c9ed-ccb1-c09147eab0d3",
+    "patient_id": "947c82ee-1735-c9ed-8210-38cb93d8070c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-04-21",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Marcell Hammes - 2020-04-21",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

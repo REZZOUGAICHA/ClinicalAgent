@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-ffa6-3de733ac9b2b",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Office Visit Note",
+    "date": "2024-06-11",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Lavette Kozey - 2024-06-11",
+    "content": "Patient: Lavette Kozey, female, born 2010-03-24 (patient ID d20bc0bc-3051-ae6f-f391-ceec7ec0370f).\nVisit date: 2024-06-11.\nVisit type: Encounter for symptom.\nClinician: Beatriz Monroy (General Practice).\nFacility: FIRST PSYCHIATRIC PLANNERS INC, WOBURN, MA."
+  },
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-ffa6-3de733ac9b2b",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Office Visit Note",
+    "date": "2024-06-11",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Lavette Kozey - 2024-06-11",
+    "content": "Seen for Acute bronchitis."
+  },
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-ffa6-3de733ac9b2b",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Office Visit Note",
+    "date": "2024-06-11",
+    "section": "Assessment",
+    "title": "Office Visit Note - Lavette Kozey - 2024-06-11",
+    "content": "Diagnoses recorded at this visit:\n- Acute bronchitis (onset 2024-06-11), resolved 2024-06-20."
+  },
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-ffa6-3de733ac9b2b",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Office Visit Note",
+    "date": "2024-06-11",
+    "section": "Medications",
+    "title": "Office Visit Note - Lavette Kozey - 2024-06-11",
+    "content": "Medications prescribed at this visit:\n- Acetaminophen 325 MG Oral Tablet, started 2024-06-11, for Acute bronchitis; stopped 2024-06-20."
+  },
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-ffa6-3de733ac9b2b",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Office Visit Note",
+    "date": "2024-06-11",
+    "section": "Plan",
+    "title": "Office Visit Note - Lavette Kozey - 2024-06-11",
+    "content": "- Respiratory therapy, started 2024-06-11, ended 2025-04-30."
+  }
+]

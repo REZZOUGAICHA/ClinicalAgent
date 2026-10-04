@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "f95a6723-14a5-c4b6-643e-c833d543757b",
+    "patient_id": "f95a6723-14a5-c4b6-78df-fa97f7ab361c",
+    "document_type": "Emergency Department Note",
+    "date": "2022-02-08",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Roxann Sauer - 2022-02-08",
+    "content": "Patient: Roxann Sauer, female, born 1986-08-23 (patient ID f95a6723-14a5-c4b6-78df-fa97f7ab361c).\nVisit date: 2022-02-08.\nVisit type: Emergency hospital admission for asthma.\nClinician: Javier Collier (General Practice).\nFacility: SERENITY HILL NURSING CENTER, WRENTHAM, MA."
+  },
+  {
+    "doc_id": "f95a6723-14a5-c4b6-643e-c833d543757b",
+    "patient_id": "f95a6723-14a5-c4b6-78df-fa97f7ab361c",
+    "document_type": "Emergency Department Note",
+    "date": "2022-02-08",
+    "section": "Reason for Visit",
+    "title": "Emergency Department Note - Roxann Sauer - 2022-02-08",
+    "content": "Seen for Asthma."
+  }
+]

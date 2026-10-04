@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "080b069b-5108-46b6-8c5f-296d079ca61e",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Office Visit Note",
+    "date": "2025-03-11",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Chester Aufderhar - 2025-03-11",
+    "content": "Patient: Chester Aufderhar, male, born 1966-11-22 (patient ID 080b069b-5108-46b6-ecef-6aacd3b9ef3f).\nVisit date: 2025-03-11.\nVisit type: Encounter for check up.\nClinician: Harland Ryan (General Practice).\nFacility: SOUTHCOAST HOSPITAL GROUP INC, WAREHAM, MA."
+  },
+  {
+    "doc_id": "080b069b-5108-46b6-8c5f-296d079ca61e",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Office Visit Note",
+    "date": "2025-03-11",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Chester Aufderhar - 2025-03-11",
+    "content": "Seen for Patient referral for dental care."
+  },
+  {
+    "doc_id": "080b069b-5108-46b6-8c5f-296d079ca61e",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Office Visit Note",
+    "date": "2025-03-11",
+    "section": "Procedures",
+    "title": "Office Visit Note - Chester Aufderhar - 2025-03-11",
+    "content": "- Dental consultation and report, for Patient referral for dental care.\n- Dental care, for Patient referral for dental care.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Examination of gingivae, for Patient referral for dental care.\n- Dental fluoride treatment, for Patient referral for dental care.\n- Oral health education, for Patient referral for dental care."
+  },
+  {
+    "doc_id": "080b069b-5108-46b6-8c5f-296d079ca61e",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Office Visit Note",
+    "date": "2025-03-11",
+    "section": "Medications",
+    "title": "Office Visit Note - Chester Aufderhar - 2025-03-11",
+    "content": "Medications prescribed at this visit:\n- sodium fluoride 0.0272 MG/MG Oral Gel, started 2025-03-12, for Patient referral for dental care; stopped 2025-03-12."
+  }
+]

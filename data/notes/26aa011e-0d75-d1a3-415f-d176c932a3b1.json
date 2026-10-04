@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "26aa011e-0d75-d1a3-415f-d176c932a3b1",
+    "patient_id": "26aa011e-0d75-d1a3-3c5a-560a9450cc9d",
+    "document_type": "Emergency Department Note",
+    "date": "2019-01-04",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Jesse Wolf - 2019-01-04",
+    "content": "Patient: Jesse Wolf, male, born 2010-04-04 (patient ID 26aa011e-0d75-d1a3-3c5a-560a9450cc9d).\nVisit date: 2019-01-04.\nVisit type: Emergency room admission.\nClinician: Joslyn Friesen (General Practice).\nFacility: PALM SKILLED NRSING CR & CTR FOR REHAB EXCELLENCE, CHELMSFORD, MA."
+  },
+  {
+    "doc_id": "26aa011e-0d75-d1a3-415f-d176c932a3b1",
+    "patient_id": "26aa011e-0d75-d1a3-3c5a-560a9450cc9d",
+    "document_type": "Emergency Department Note",
+    "date": "2019-01-04",
+    "section": "Reason for Visit",
+    "title": "Emergency Department Note - Jesse Wolf - 2019-01-04",
+    "content": "Seen for Sprain (morphologic abnormality)."
+  },
+  {
+    "doc_id": "26aa011e-0d75-d1a3-415f-d176c932a3b1",
+    "patient_id": "26aa011e-0d75-d1a3-3c5a-560a9450cc9d",
+    "document_type": "Emergency Department Note",
+    "date": "2019-01-04",
+    "section": "Assessment",
+    "title": "Emergency Department Note - Jesse Wolf - 2019-01-04",
+    "content": "Diagnoses recorded at this visit:\n- Sprain (morphologic abnormality) (onset 2019-01-04), resolved 2019-01-23.\n- Sprain of ankle (onset 2019-01-04), resolved 2019-01-23."
+  },
+  {
+    "doc_id": "26aa011e-0d75-d1a3-415f-d176c932a3b1",
+    "patient_id": "26aa011e-0d75-d1a3-3c5a-560a9450cc9d",
+    "document_type": "Emergency Department Note",
+    "date": "2019-01-04",
+    "section": "Medications",
+    "title": "Emergency Department Note - Jesse Wolf - 2019-01-04",
+    "content": "Medications prescribed at this visit:\n- Acetaminophen 160 MG Chewable Tablet, started 2019-01-04; stopped 2019-01-23."
+  },
+  {
+    "doc_id": "26aa011e-0d75-d1a3-415f-d176c932a3b1",
+    "patient_id": "26aa011e-0d75-d1a3-3c5a-560a9450cc9d",
+    "document_type": "Emergency Department Note",
+    "date": "2019-01-04",
+    "section": "Plan",
+    "title": "Emergency Department Note - Jesse Wolf - 2019-01-04",
+    "content": "- Physiotherapy care plan for Sprain of ankle, started 2019-01-04, ended 2019-01-23."
+  }
+]

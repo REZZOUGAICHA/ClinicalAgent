@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "f95a6723-14a5-c4b6-b67a-3a9de0193923",
+    "patient_id": "f95a6723-14a5-c4b6-78df-fa97f7ab361c",
+    "document_type": "Office Visit Note",
+    "date": "1987-06-29",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Roxann Sauer - 1987-06-29",
+    "content": "Patient: Roxann Sauer, female, born 1986-08-23 (patient ID f95a6723-14a5-c4b6-78df-fa97f7ab361c).\nVisit date: 1987-06-29.\nVisit type: Encounter for problem.\nClinician: Chu Weber (General Practice).\nFacility: STURDY MEMORIAL HOSPITAL INC, ATTLEBORO, MA."
+  },
+  {
+    "doc_id": "f95a6723-14a5-c4b6-b67a-3a9de0193923",
+    "patient_id": "f95a6723-14a5-c4b6-78df-fa97f7ab361c",
+    "document_type": "Office Visit Note",
+    "date": "1987-06-29",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Roxann Sauer - 1987-06-29",
+    "content": "Seen for Allergic disposition."
+  },
+  {
+    "doc_id": "f95a6723-14a5-c4b6-b67a-3a9de0193923",
+    "patient_id": "f95a6723-14a5-c4b6-78df-fa97f7ab361c",
+    "document_type": "Office Visit Note",
+    "date": "1987-06-29",
+    "section": "Allergies",
+    "title": "Office Visit Note - Roxann Sauer - 1987-06-29",
+    "content": "- Allergic disposition (environment allergy).\n- Mold (environment allergy).\n- House dust mite (environment allergy).\n- Animal dander (environment allergy); reaction: rhinoconjunctivitis, moderate.\n- Grass pollen (environment allergy).\n- Tree pollen (environment allergy).\n- Shellfish (food allergy); reaction: eruption of skin, moderate.\n- Fish (food allergy); reaction: dyspnea, moderate."
+  },
+  {
+    "doc_id": "f95a6723-14a5-c4b6-b67a-3a9de0193923",
+    "patient_id": "f95a6723-14a5-c4b6-78df-fa97f7ab361c",
+    "document_type": "Office Visit Note",
+    "date": "1987-06-29",
+    "section": "Medications",
+    "title": "Office Visit Note - Roxann Sauer - 1987-06-29",
+    "content": "Medications prescribed at this visit:\n- Astemizole 10 MG Oral Tablet, started 1987-06-30; no stop date recorded.\n- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector, started 1987-06-30; no stop date recorded."
+  }
+]

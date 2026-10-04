@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "322ab5c6-5846-ac1e-a8d1-f3e1d33aa390",
+    "patient_id": "322ab5c6-5846-ac1e-38cc-48b8cb441e20",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2022-04-08",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Lena Cummings - 2022-04-08",
+    "content": "Patient: Lena Cummings, female, born 1965-02-26 (patient ID 322ab5c6-5846-ac1e-38cc-48b8cb441e20).\nVisit date: 2022-04-08.\nVisit type: General examination of patient.\nClinician: Anh Schroeder (General Practice).\nFacility: FAMILY PRACTICE GROUP PC, ARLINGTON, MA."
+  },
+  {
+    "doc_id": "322ab5c6-5846-ac1e-a8d1-f3e1d33aa390",
+    "patient_id": "322ab5c6-5846-ac1e-38cc-48b8cb441e20",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2022-04-08",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Lena Cummings - 2022-04-08",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2022-04-08), resolved 2024-04-19.\n- Limited social contact (onset 2022-04-08), resolved 2023-04-14."
+  },
+  {
+    "doc_id": "322ab5c6-5846-ac1e-a8d1-f3e1d33aa390",
+    "patient_id": "322ab5c6-5846-ac1e-38cc-48b8cb441e20",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2022-04-08",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Lena Cummings - 2022-04-08",
+    "content": "- Body Height: 159.6 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0\n- Body Weight: 73.9 kg\n- Body mass index (BMI) [Ratio]: 29.0 kg/m2\n- Diastolic Blood Pressure: 76.0 mm[Hg]\n- Systolic Blood Pressure: 112.0 mm[Hg]\n- Heart rate: 73.0 /min\n- Respiratory rate: 15.0 /min"
+  },
+  {
+    "doc_id": "322ab5c6-5846-ac1e-a8d1-f3e1d33aa390",
+    "patient_id": "322ab5c6-5846-ac1e-38cc-48b8cb441e20",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2022-04-08",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Lena Cummings - 2022-04-08",
+    "content": "- Leukocytes [#/volume] in Blood by Automated count: 9.3 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 4.6 10*6/uL\n- Hemoglobin [Mass/volume] in Blood: 13.2 g/dL\n- Hematocrit [Volume Fraction] of Blood by Automated count: 48.6 %\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 89.2 fL\n- MCH [Entitic mass] by Automated count: 32.3 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 33.7 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 44.5 fL\n- Platelets [#/volume] in Blood by Automated count: 150.7 10*3/uL\n- Platelet distribution width [Entitic volume] in Blood by Automated count: 14.6 fL\n- Platelet [Entitic mean volume] in Blood by Automated count: 10.9 fL"
+  },
+  {
+    "doc_id": "322ab5c6-5846-ac1e-a8d1-f3e1d33aa390",
+    "patient_id": "322ab5c6-5846-ac1e-38cc-48b8cb441e20",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2022-04-08",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Lena Cummings - 2022-04-08",
+    "content": "- Assessment of health and social care needs.\n- Assessment of anxiety."
+  },
+  {
+    "doc_id": "322ab5c6-5846-ac1e-a8d1-f3e1d33aa390",
+    "patient_id": "322ab5c6-5846-ac1e-38cc-48b8cb441e20",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2022-04-08",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Lena Cummings - 2022-04-08",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

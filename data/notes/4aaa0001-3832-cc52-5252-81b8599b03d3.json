@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "4aaa0001-3832-cc52-5252-81b8599b03d3",
+    "patient_id": "4aaa0001-3832-cc52-e2f3-47aad08f4284",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2021-09-05",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Marvin Weissnat - 2021-09-05",
+    "content": "Patient: Marvin Weissnat, male, born 2006-02-05 (patient ID 4aaa0001-3832-cc52-e2f3-47aad08f4284).\nVisit date: 2021-09-05.\nVisit type: Administration of vaccine to produce active immunity.\nClinician: Alysha Koch (General Practice).\nFacility: TEWKSBURY HOSPITAL, TEWKSBURY, MA."
+  },
+  {
+    "doc_id": "4aaa0001-3832-cc52-5252-81b8599b03d3",
+    "patient_id": "4aaa0001-3832-cc52-e2f3-47aad08f4284",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2021-09-05",
+    "section": "Immunizations",
+    "title": "Outpatient Procedure Note - Marvin Weissnat - 2021-09-05",
+    "content": "- COVID-19 mRNA LNP-S PF 100 mcg/0.5mL dose or 50 mcg/0.25mL dose."
+  }
+]

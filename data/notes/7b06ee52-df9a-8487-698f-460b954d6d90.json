@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "7b06ee52-df9a-8487-698f-460b954d6d90",
+    "patient_id": "7b06ee52-df9a-8487-0be6-dff27cc7d519",
+    "document_type": "Office Visit Note",
+    "date": "2017-08-24",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Ressie Nader - 2017-08-24",
+    "content": "Patient: Ressie Nader, female, born 2001-08-06 (patient ID 7b06ee52-df9a-8487-0be6-dff27cc7d519).\nVisit date: 2017-08-24.\nVisit type: Encounter for problem.\nClinician: Maricarmen Delafuente (General Practice).\nFacility: ARBOUR-FULLER HOSPITAL, SOUTH ATTLEBORO, MA."
+  },
+  {
+    "doc_id": "7b06ee52-df9a-8487-698f-460b954d6d90",
+    "patient_id": "7b06ee52-df9a-8487-0be6-dff27cc7d519",
+    "document_type": "Office Visit Note",
+    "date": "2017-08-24",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Ressie Nader - 2017-08-24",
+    "content": "Seen for Anemia."
+  },
+  {
+    "doc_id": "7b06ee52-df9a-8487-698f-460b954d6d90",
+    "patient_id": "7b06ee52-df9a-8487-0be6-dff27cc7d519",
+    "document_type": "Office Visit Note",
+    "date": "2017-08-24",
+    "section": "Laboratory Results",
+    "title": "Office Visit Note - Ressie Nader - 2017-08-24",
+    "content": "- Hemoglobin [Mass/volume] in Blood: 11.4 g/dL\n- Hematocrit [Volume Fraction] of Blood by calculation: 34.7 %\n- Leukocytes [#/volume] in Blood by Automated count: 9.2 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 5.1 10*6/uL\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 85.1 fL\n- MCH [Entitic mass] by Automated count: 29.2 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 34.4 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 43.9 fL\n- Platelets [#/volume] in Blood by Automated count: 349.8 10*3/uL\n- Platelet distribution width [Entitic volume] in Blood by Automated count: 10.0 fL\n- Platelet [Entitic mean volume] in Blood by Automated count: 10.9 fL"
+  },
+  {
+    "doc_id": "7b06ee52-df9a-8487-698f-460b954d6d90",
+    "patient_id": "7b06ee52-df9a-8487-0be6-dff27cc7d519",
+    "document_type": "Office Visit Note",
+    "date": "2017-08-24",
+    "section": "Procedures",
+    "title": "Office Visit Note - Ressie Nader - 2017-08-24",
+    "content": "- Peripheral blood smear interpretation.\n- Review of systems.\n- Medication reconciliation.\n- Brief general examination."
+  }
+]

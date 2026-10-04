@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "ba419d35-0dfe-8af7-4d35-cd4dbac7c890",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Urgent Care Note",
+    "date": "2016-11-04",
+    "section": "Visit Information",
+    "title": "Urgent Care Note - Corie Kohler - 2016-11-04",
+    "content": "Patient: Corie Kohler, female, born 1925-09-18 (patient ID ba419d35-0dfe-8af7-347c-eebf02485a56).\nVisit date: 2016-11-04.\nVisit type: Urgent care clinic.\nClinician: Lorenzo Casta\u00f1eda (General Practice).\nFacility: WOONSOCKET URGENT CARE PC, NORTH ATTLEBORO, MA."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-4d35-cd4dbac7c890",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Urgent Care Note",
+    "date": "2016-11-04",
+    "section": "Vital Signs",
+    "title": "Urgent Care Note - Corie Kohler - 2016-11-04",
+    "content": "- Body Height: 164.1 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0\n- Body Weight: 82.0 kg\n- Body mass index (BMI) [Ratio]: 30.5 kg/m2\n- Diastolic Blood Pressure: 69.0 mm[Hg]\n- Systolic Blood Pressure: 111.0 mm[Hg]\n- Heart rate: 89.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-4d35-cd4dbac7c890",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Urgent Care Note",
+    "date": "2016-11-04",
+    "section": "Procedures",
+    "title": "Urgent Care Note - Corie Kohler - 2016-11-04",
+    "content": "- Medication reconciliation.\n- Assessment of health and social care needs.\n- Assessment of anxiety.\n- Depression screening.\n- Depression screening."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-4d35-cd4dbac7c890",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Urgent Care Note",
+    "date": "2016-11-04",
+    "section": "Medications",
+    "title": "Urgent Care Note - Corie Kohler - 2016-11-04",
+    "content": "Medications prescribed at this visit:\n- 24 HR tacrolimus 1 MG Extended Release Oral Tablet [Envarsus], started 2016-11-04, for History of renal transplant; stopped 2016-11-18.\n- lisinopril 10 MG Oral Tablet, started 2016-11-04, for Essential hypertension; stopped 2017-07-21."
+  }
+]

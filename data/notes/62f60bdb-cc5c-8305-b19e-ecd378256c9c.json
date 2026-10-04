@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "62f60bdb-cc5c-8305-b19e-ecd378256c9c",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2022-08-28",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Angel Frami - 2022-08-28",
+    "content": "Patient: Angel Frami, female, born 1975-10-22 (patient ID 62f60bdb-cc5c-8305-b98b-f2b229a55eca).\nVisit date: 2022-08-28.\nVisit type: Consultation for treatment.\nClinician: Ollie Dooley (General Practice).\nFacility: DR JOHN C CORRIGAN MENTAL HEALTH CENTER, FALL RIVER, MA."
+  },
+  {
+    "doc_id": "62f60bdb-cc5c-8305-b19e-ecd378256c9c",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2022-08-28",
+    "section": "Reason for Visit",
+    "title": "Outpatient Procedure Note - Angel Frami - 2022-08-28",
+    "content": "Seen for Contraception care."
+  },
+  {
+    "doc_id": "62f60bdb-cc5c-8305-b19e-ecd378256c9c",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2022-08-28",
+    "section": "Medications",
+    "title": "Outpatient Procedure Note - Angel Frami - 2022-08-28",
+    "content": "Medications prescribed at this visit:\n- {5 (dienogest 2 MG / estradiol valerate 2 MG Oral Tablet) / 17 (dienogest 3 MG / estradiol valerate 2 MG Oral Tablet) / 2 (estradiol valerate 1 MG Oral Tablet) / 2 (estradiol valerate 3 MG Oral Tablet) / 2 (inert ingredients 1 MG Oral Tablet) } Pack [Natazia 28 Day], started 2022-08-28; stopped 2023-08-23."
+  }
+]

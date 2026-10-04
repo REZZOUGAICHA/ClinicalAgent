@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "322ab5c6-5846-ac1e-f17d-6fca37ea0a84",
+    "patient_id": "322ab5c6-5846-ac1e-38cc-48b8cb441e20",
+    "document_type": "Office Visit Note",
+    "date": "2020-04-10",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Lena Cummings - 2020-04-10",
+    "content": "Patient: Lena Cummings, female, born 1965-02-26 (patient ID 322ab5c6-5846-ac1e-38cc-48b8cb441e20).\nVisit date: 2020-04-10.\nVisit type: Encounter for check up.\nClinician: Beatriz Monroy (General Practice).\nFacility: FIRST PSYCHIATRIC PLANNERS INC, WOBURN, MA."
+  },
+  {
+    "doc_id": "322ab5c6-5846-ac1e-f17d-6fca37ea0a84",
+    "patient_id": "322ab5c6-5846-ac1e-38cc-48b8cb441e20",
+    "document_type": "Office Visit Note",
+    "date": "2020-04-10",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Lena Cummings - 2020-04-10",
+    "content": "Seen for Patient referral for dental care."
+  },
+  {
+    "doc_id": "322ab5c6-5846-ac1e-f17d-6fca37ea0a84",
+    "patient_id": "322ab5c6-5846-ac1e-38cc-48b8cb441e20",
+    "document_type": "Office Visit Note",
+    "date": "2020-04-10",
+    "section": "Procedures",
+    "title": "Office Visit Note - Lena Cummings - 2020-04-10",
+    "content": "- Dental consultation and report, for Patient referral for dental care.\n- Dental care, for Patient referral for dental care.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Dental plain X-ray bitewing.\n- Examination of gingivae, for Patient referral for dental care.\n- Oral health education, for Patient referral for dental care."
+  }
+]

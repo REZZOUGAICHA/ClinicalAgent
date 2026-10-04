@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-29bb-c209333afe27",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2026-01-11",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Rosalba Effertz - 2026-01-11",
+    "content": "Patient: Rosalba Effertz, female, born 1973-08-05 (patient ID 5e7ebf2c-22ec-a89b-53ab-38edddd81be9).\nVisit date: 2026-01-11.\nVisit type: Encounter for check up.\nClinician: Saundra Kuphal (General Practice).\nFacility: COOLEY DICKINSON HOSPITAL INC, NORTHAMPTON, MA."
+  },
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-29bb-c209333afe27",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2026-01-11",
+    "section": "Assessment",
+    "title": "Outpatient Procedure Note - Rosalba Effertz - 2026-01-11",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2026-01-11), resolved 2026-08-30."
+  },
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-29bb-c209333afe27",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2026-01-11",
+    "section": "Laboratory Results",
+    "title": "Outpatient Procedure Note - Rosalba Effertz - 2026-01-11",
+    "content": "- Hemoglobin A1c/Hemoglobin.total in Blood: 6.9 %"
+  }
+]

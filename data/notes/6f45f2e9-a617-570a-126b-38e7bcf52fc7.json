@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "6f45f2e9-a617-570a-126b-38e7bcf52fc7",
+    "patient_id": "6f45f2e9-a617-570a-8867-dec1260088bb",
+    "document_type": "Office Visit Note",
+    "date": "2018-08-08",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Carey Mraz - 2018-08-08",
+    "content": "Patient: Carey Mraz, male, born 2013-06-27 (patient ID 6f45f2e9-a617-570a-8867-dec1260088bb).\nVisit date: 2018-08-08.\nVisit type: Encounter for symptom.\nClinician: Jules Emard (General Practice).\nFacility: UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC, LEOMINSTER, MA."
+  },
+  {
+    "doc_id": "6f45f2e9-a617-570a-126b-38e7bcf52fc7",
+    "patient_id": "6f45f2e9-a617-570a-8867-dec1260088bb",
+    "document_type": "Office Visit Note",
+    "date": "2018-08-08",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Carey Mraz - 2018-08-08",
+    "content": "Seen for Viral sinusitis."
+  },
+  {
+    "doc_id": "6f45f2e9-a617-570a-126b-38e7bcf52fc7",
+    "patient_id": "6f45f2e9-a617-570a-8867-dec1260088bb",
+    "document_type": "Office Visit Note",
+    "date": "2018-08-08",
+    "section": "Assessment",
+    "title": "Office Visit Note - Carey Mraz - 2018-08-08",
+    "content": "Diagnoses recorded at this visit:\n- Viral sinusitis (onset 2018-08-08), resolved 2018-08-22."
+  }
+]

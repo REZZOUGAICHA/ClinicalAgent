@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "05cc86a0-2d98-b046-5efc-80f2529e0808",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Emergency Department Note",
+    "date": "2018-06-12",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Carita Grady - 2018-06-12",
+    "content": "Patient: Carita Grady, female, born 1925-09-18 (patient ID 05cc86a0-2d98-b046-790a-211fd9e1ea92).\nVisit date: 2018-06-12.\nVisit type: Emergency room admission.\nClinician: Javier Collier (General Practice).\nFacility: SERENITY HILL NURSING CENTER, WRENTHAM, MA."
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-5efc-80f2529e0808",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Emergency Department Note",
+    "date": "2018-06-12",
+    "section": "Reason for Visit",
+    "title": "Emergency Department Note - Carita Grady - 2018-06-12",
+    "content": "Seen for Overdose."
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-5efc-80f2529e0808",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Emergency Department Note",
+    "date": "2018-06-12",
+    "section": "Assessment",
+    "title": "Emergency Department Note - Carita Grady - 2018-06-12",
+    "content": "Diagnoses recorded at this visit:\n- Overdose (onset 2018-06-12), resolved 2018-06-12."
+  }
+]

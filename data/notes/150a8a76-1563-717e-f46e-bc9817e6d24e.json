@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "150a8a76-1563-717e-f46e-bc9817e6d24e",
+    "patient_id": "150a8a76-1563-717e-bf0f-f52045675f46",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1956-03-05",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Diego Armijo - 1956-03-05",
+    "content": "Patient: Diego Armijo, male, born 1947-03-03 (patient ID 150a8a76-1563-717e-bf0f-f52045675f46).\nVisit date: 1956-03-05.\nVisit type: Well child visit.\nClinician: Elijah White (General Practice).\nFacility: MELROSE FAMILY OPTICIANS LLC, MELROSE, MA."
+  },
+  {
+    "doc_id": "150a8a76-1563-717e-f46e-bc9817e6d24e",
+    "patient_id": "150a8a76-1563-717e-bf0f-f52045675f46",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1956-03-05",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Diego Armijo - 1956-03-05",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 1956-03-05), resolved 1962-04-09."
+  }
+]

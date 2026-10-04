@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "f999ef25-a612-87c9-f573-0687ad41138a",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Office Visit Note",
+    "date": "2008-04-25",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Evangeline Ziemann - 2008-04-25",
+    "content": "Patient: Evangeline Ziemann, female, born 1925-09-18 (patient ID f999ef25-a612-87c9-206f-aacc9d469dc8).\nVisit date: 2008-04-25.\nVisit type: Encounter for symptom.\nClinician: Nickolas Schumm (General Practice).\nFacility: ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE, FRAMINGHAM, MA."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-f573-0687ad41138a",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Office Visit Note",
+    "date": "2008-04-25",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Evangeline Ziemann - 2008-04-25",
+    "content": "Seen for Acute viral pharyngitis."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-f573-0687ad41138a",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Office Visit Note",
+    "date": "2008-04-25",
+    "section": "Assessment",
+    "title": "Office Visit Note - Evangeline Ziemann - 2008-04-25",
+    "content": "Diagnoses recorded at this visit:\n- Acute viral pharyngitis (onset 2008-04-25), resolved 2008-05-08."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-f573-0687ad41138a",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Office Visit Note",
+    "date": "2008-04-25",
+    "section": "Vital Signs",
+    "title": "Office Visit Note - Evangeline Ziemann - 2008-04-25",
+    "content": "- Body temperature: 37.7 \u00b0C"
+  }
+]

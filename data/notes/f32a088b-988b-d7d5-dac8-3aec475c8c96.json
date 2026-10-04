@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "f32a088b-988b-d7d5-dac8-3aec475c8c96",
+    "patient_id": "f32a088b-988b-d7d5-008b-89ea4ed1fc48",
+    "document_type": "Office Visit Note",
+    "date": "2019-09-25",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Wayne McLaughlin - 2019-09-25",
+    "content": "Patient: Wayne McLaughlin, male, born 2006-08-16 (patient ID f32a088b-988b-d7d5-008b-89ea4ed1fc48).\nVisit date: 2019-09-25.\nVisit type: Encounter for check up.\nClinician: Chantell Krajcik (General Practice).\nFacility: FRANCISCAN HOSPITAL FOR CHILDREN INC, BOSTON, MA."
+  },
+  {
+    "doc_id": "f32a088b-988b-d7d5-dac8-3aec475c8c96",
+    "patient_id": "f32a088b-988b-d7d5-008b-89ea4ed1fc48",
+    "document_type": "Office Visit Note",
+    "date": "2019-09-25",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Wayne McLaughlin - 2019-09-25",
+    "content": "Seen for Gingivitis."
+  },
+  {
+    "doc_id": "f32a088b-988b-d7d5-dac8-3aec475c8c96",
+    "patient_id": "f32a088b-988b-d7d5-008b-89ea4ed1fc48",
+    "document_type": "Office Visit Note",
+    "date": "2019-09-25",
+    "section": "Assessment",
+    "title": "Office Visit Note - Wayne McLaughlin - 2019-09-25",
+    "content": "Diagnoses recorded at this visit:\n- Gingival disease (onset 2019-09-25), resolved 2019-09-25.\n- Loose dental filling (onset 2019-09-25), resolved 2019-09-25."
+  },
+  {
+    "doc_id": "f32a088b-988b-d7d5-dac8-3aec475c8c96",
+    "patient_id": "f32a088b-988b-d7d5-008b-89ea4ed1fc48",
+    "document_type": "Office Visit Note",
+    "date": "2019-09-25",
+    "section": "Procedures",
+    "title": "Office Visit Note - Wayne McLaughlin - 2019-09-25",
+    "content": "- Dental consultation and report, for Gingivitis.\n- Dental care, for Gingivitis.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Examination of gingivae, for Gingivitis.\n- Dental surgical procedure, for Gingival disease.\n- Dental application of desensitizing medicament, for Gingival disease.\n- Gingivectomy or gingivoplasty  per tooth, for Gingival disease.\n- Postoperative care for dental procedure.\n- Restoration of tooth with coverage of all cusps using dental filling material, for Loose dental filling.\n- Oral health education, for Gingivitis."
+  }
+]

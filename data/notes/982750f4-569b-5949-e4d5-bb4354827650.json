@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "982750f4-569b-5949-e4d5-bb4354827650",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2025-08-20",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Dwana Wolf - 2025-08-20",
+    "content": "Patient: Dwana Wolf, female, born 1986-11-12 (patient ID 982750f4-569b-5949-196b-60699bdda3fb).\nVisit date: 2025-08-20.\nVisit type: Consultation for treatment.\nClinician: Marcus Schamberger (General Practice).\nFacility: THE LOWELL GENERAL HOSPITAL, WESTFORD, MA."
+  },
+  {
+    "doc_id": "982750f4-569b-5949-e4d5-bb4354827650",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2025-08-20",
+    "section": "Reason for Visit",
+    "title": "Outpatient Procedure Note - Dwana Wolf - 2025-08-20",
+    "content": "Seen for Contraception care."
+  },
+  {
+    "doc_id": "982750f4-569b-5949-e4d5-bb4354827650",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2025-08-20",
+    "section": "Medications",
+    "title": "Outpatient Procedure Note - Dwana Wolf - 2025-08-20",
+    "content": "Medications prescribed at this visit:\n- {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day], started 2025-08-20; stopped 2026-08-15."
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "6fbddf55-7096-b883-6f9a-d5ffe442a92e",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2022-09-07",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Clarinda Farrell - 2022-09-07",
+    "content": "Patient: Clarinda Farrell, female, born 1981-07-01 (patient ID 6fbddf55-7096-b883-7cd3-260f27953080).\nVisit date: 2022-09-07.\nVisit type: Encounter for check up.\nClinician: Luther Jakubowski (General Practice).\nFacility: ENCOMPASS HEALTH REHABILITATION HOSP OF NEW ENGLAN, WOBURN, MA."
+  },
+  {
+    "doc_id": "6fbddf55-7096-b883-6f9a-d5ffe442a92e",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2022-09-07",
+    "section": "Assessment",
+    "title": "Outpatient Procedure Note - Clarinda Farrell - 2022-09-07",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2022-09-07).\n- Full-time employment (onset 2022-09-07).\n- Stress (onset 2022-09-07), resolved 2023-07-12."
+  },
+  {
+    "doc_id": "6fbddf55-7096-b883-6f9a-d5ffe442a92e",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2022-09-07",
+    "section": "Vital Signs",
+    "title": "Outpatient Procedure Note - Clarinda Farrell - 2022-09-07",
+    "content": "- Body Height: 164.8 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0\n- Body Weight: 76.3 kg\n- Body mass index (BMI) [Ratio]: 28.1 kg/m2\n- Diastolic Blood Pressure: 83.0 mm[Hg]\n- Systolic Blood Pressure: 107.0 mm[Hg]\n- Heart rate: 71.0 /min\n- Respiratory rate: 16.0 /min"
+  },
+  {
+    "doc_id": "6fbddf55-7096-b883-6f9a-d5ffe442a92e",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2022-09-07",
+    "section": "Laboratory Results",
+    "title": "Outpatient Procedure Note - Clarinda Farrell - 2022-09-07",
+    "content": "- Cholesterol [Mass/volume] in Serum or Plasma: 208.6 mg/dL\n- Triglyceride [Mass/volume] in Serum or Plasma: 147.5 mg/dL\n- Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay: 127.9 mg/dL\n- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 51.2 mg/dL"
+  },
+  {
+    "doc_id": "6fbddf55-7096-b883-6f9a-d5ffe442a92e",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2022-09-07",
+    "section": "Procedures",
+    "title": "Outpatient Procedure Note - Clarinda Farrell - 2022-09-07",
+    "content": "- Assessment of health and social care needs.\n- Depression screening.\n- Depression screening.\n- Depression screening using Patient Health Questionnaire Nine Item score.\n- Assessment of substance use.\n- Assessment using Alcohol Use Disorders Identification Test - Consumption."
+  },
+  {
+    "doc_id": "6fbddf55-7096-b883-6f9a-d5ffe442a92e",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2022-09-07",
+    "section": "Immunizations",
+    "title": "Outpatient Procedure Note - Clarinda Farrell - 2022-09-07",
+    "content": "- Influenza split virus trivalent PF.\n- Td (adult) 5 Lf tetanus toxoid preservative free adsorbed.\n- Hep A adult."
+  }
+]

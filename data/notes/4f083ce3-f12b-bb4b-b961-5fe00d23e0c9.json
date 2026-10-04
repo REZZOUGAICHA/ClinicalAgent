@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "4f083ce3-f12b-bb4b-b961-5fe00d23e0c9",
+    "patient_id": "4f083ce3-f12b-bb4b-7353-e17f0cd55b0a",
+    "document_type": "Emergency Department Note",
+    "date": "2022-03-14",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Ezekiel Walter - 2022-03-14",
+    "content": "Patient: Ezekiel Walter, male, born 1999-01-12 (patient ID 4f083ce3-f12b-bb4b-7353-e17f0cd55b0a).\nVisit date: 2022-03-14.\nVisit type: Emergency room admission.\nClinician: Henry Ebert (General Practice).\nFacility: BRIGHTON HOUSE REHABILITATION & NURSING CENTER, BRIGHTON, MA."
+  },
+  {
+    "doc_id": "4f083ce3-f12b-bb4b-b961-5fe00d23e0c9",
+    "patient_id": "4f083ce3-f12b-bb4b-7353-e17f0cd55b0a",
+    "document_type": "Emergency Department Note",
+    "date": "2022-03-14",
+    "section": "Reason for Visit",
+    "title": "Emergency Department Note - Ezekiel Walter - 2022-03-14",
+    "content": "Seen for Laceration - injury."
+  },
+  {
+    "doc_id": "4f083ce3-f12b-bb4b-b961-5fe00d23e0c9",
+    "patient_id": "4f083ce3-f12b-bb4b-7353-e17f0cd55b0a",
+    "document_type": "Emergency Department Note",
+    "date": "2022-03-14",
+    "section": "Assessment",
+    "title": "Emergency Department Note - Ezekiel Walter - 2022-03-14",
+    "content": "Diagnoses recorded at this visit:\n- Laceration - injury (onset 2022-03-14), resolved 2022-04-03.\n- Laceration of hand (onset 2022-03-14), resolved 2022-04-03."
+  },
+  {
+    "doc_id": "4f083ce3-f12b-bb4b-b961-5fe00d23e0c9",
+    "patient_id": "4f083ce3-f12b-bb4b-7353-e17f0cd55b0a",
+    "document_type": "Emergency Department Note",
+    "date": "2022-03-14",
+    "section": "Procedures",
+    "title": "Emergency Department Note - Ezekiel Walter - 2022-03-14",
+    "content": "- Suture open wound, for Laceration of hand."
+  },
+  {
+    "doc_id": "4f083ce3-f12b-bb4b-b961-5fe00d23e0c9",
+    "patient_id": "4f083ce3-f12b-bb4b-7353-e17f0cd55b0a",
+    "document_type": "Emergency Department Note",
+    "date": "2022-03-14",
+    "section": "Medications",
+    "title": "Emergency Department Note - Ezekiel Walter - 2022-03-14",
+    "content": "Medications prescribed at this visit:\n- Naproxen sodium 220 MG Oral Tablet, started 2022-03-14; stopped 2022-04-03."
+  },
+  {
+    "doc_id": "4f083ce3-f12b-bb4b-b961-5fe00d23e0c9",
+    "patient_id": "4f083ce3-f12b-bb4b-7353-e17f0cd55b0a",
+    "document_type": "Emergency Department Note",
+    "date": "2022-03-14",
+    "section": "Plan",
+    "title": "Emergency Department Note - Ezekiel Walter - 2022-03-14",
+    "content": "- Wound care for Laceration of hand, started 2022-03-14, ended 2022-04-03."
+  }
+]

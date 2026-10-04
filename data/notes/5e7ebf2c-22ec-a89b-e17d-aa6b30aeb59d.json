@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-e17d-aa6b30aeb59d",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Emergency Department Note",
+    "date": "2019-05-16",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Rosalba Effertz - 2019-05-16",
+    "content": "Patient: Rosalba Effertz, female, born 1973-08-05 (patient ID 5e7ebf2c-22ec-a89b-53ab-38edddd81be9).\nVisit date: 2019-05-16.\nVisit type: Emergency room admission.\nClinician: Terence Conn (General Practice).\nFacility: HOLYOKE VISITING NURSE ASSOC, HOLYOKE, MA."
+  },
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-e17d-aa6b30aeb59d",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Emergency Department Note",
+    "date": "2019-05-16",
+    "section": "Reason for Visit",
+    "title": "Emergency Department Note - Rosalba Effertz - 2019-05-16",
+    "content": "Seen for Overdose."
+  },
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-e17d-aa6b30aeb59d",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Emergency Department Note",
+    "date": "2019-05-16",
+    "section": "Assessment",
+    "title": "Emergency Department Note - Rosalba Effertz - 2019-05-16",
+    "content": "Diagnoses recorded at this visit:\n- Overdose (onset 2019-05-16), resolved 2019-05-16."
+  }
+]

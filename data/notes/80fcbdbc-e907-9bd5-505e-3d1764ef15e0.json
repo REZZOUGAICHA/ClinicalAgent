@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "80fcbdbc-e907-9bd5-505e-3d1764ef15e0",
+    "patient_id": "80fcbdbc-e907-9bd5-2644-ad9ef5d6545b",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1981-05-18",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Jaime Aponte - 1981-05-18",
+    "content": "Patient: Jaime Aponte, male, born 1947-03-03 (patient ID 80fcbdbc-e907-9bd5-2644-ad9ef5d6545b).\nVisit date: 1981-05-18.\nVisit type: General examination of patient.\nClinician: Nicholle Satterfield (General Practice).\nFacility: MELROSE INTERNAL MEDICINE ASSOC PC, MELROSE, MA."
+  },
+  {
+    "doc_id": "80fcbdbc-e907-9bd5-505e-3d1764ef15e0",
+    "patient_id": "80fcbdbc-e907-9bd5-2644-ad9ef5d6545b",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1981-05-18",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Jaime Aponte - 1981-05-18",
+    "content": "Diagnoses recorded at this visit:\n- Refugee (onset 1981-05-18)."
+  }
+]

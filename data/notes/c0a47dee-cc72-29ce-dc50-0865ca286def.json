@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "c0a47dee-cc72-29ce-dc50-0865ca286def",
+    "patient_id": "c0a47dee-cc72-29ce-df5a-ea6d306c36a4",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-05-10",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Jonathan Carroll - 2021-05-10",
+    "content": "Patient: Jonathan Carroll, male, born 1987-02-23 (patient ID c0a47dee-cc72-29ce-df5a-ea6d306c36a4).\nVisit date: 2021-05-10.\nVisit type: General examination of patient.\nClinician: Theo Hammes (General Practice).\nFacility: STANLEY STREET TREATMENT AND RESOURCES INC, FALL RIVER, MA."
+  },
+  {
+    "doc_id": "c0a47dee-cc72-29ce-dc50-0865ca286def",
+    "patient_id": "c0a47dee-cc72-29ce-df5a-ea6d306c36a4",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-05-10",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Jonathan Carroll - 2021-05-10",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2021-05-10), resolved 2021-05-10.\n- Unemployed (onset 2021-05-10), resolved 2024-05-13.\n- Reports of violence in the environment (onset 2021-05-10), resolved 2024-05-13."
+  },
+  {
+    "doc_id": "c0a47dee-cc72-29ce-dc50-0865ca286def",
+    "patient_id": "c0a47dee-cc72-29ce-df5a-ea6d306c36a4",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-05-10",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Jonathan Carroll - 2021-05-10",
+    "content": "- Body Height: 177.4 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0\n- Body Weight: 93.1 kg\n- Body mass index (BMI) [Ratio]: 29.6 kg/m2\n- Diastolic Blood Pressure: 81.0 mm[Hg]\n- Systolic Blood Pressure: 114.0 mm[Hg]\n- Heart rate: 64.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "c0a47dee-cc72-29ce-dc50-0865ca286def",
+    "patient_id": "c0a47dee-cc72-29ce-df5a-ea6d306c36a4",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-05-10",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Jonathan Carroll - 2021-05-10",
+    "content": "- Cholesterol [Mass/volume] in Serum or Plasma: 166.4 mg/dL\n- Triglyceride [Mass/volume] in Serum or Plasma: 120.7 mg/dL\n- Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay: 87.6 mg/dL\n- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 54.7 mg/dL\n- Leukocytes [#/volume] in Blood by Automated count: 9.9 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 5.1 10*6/uL\n- Hemoglobin [Mass/volume] in Blood: 16.8 g/dL\n- Hematocrit [Volume Fraction] of Blood by Automated count: 42.6 %\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 80.7 fL\n- MCH [Entitic mass] by Automated count: 31.2 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 34.4 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 40.2 fL\n- Platelets [#/volume] in Blood by Automated count: 210.8 10*3/uL\n- Platelet distribution width [Entitic volume] in Blood by Automated count: 10.0 fL\n- Platelet [Entitic mean volume] in Blood by Automated count: 9.7 fL"
+  },
+  {
+    "doc_id": "c0a47dee-cc72-29ce-dc50-0865ca286def",
+    "patient_id": "c0a47dee-cc72-29ce-df5a-ea6d306c36a4",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-05-10",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Jonathan Carroll - 2021-05-10",
+    "content": "- Medication reconciliation.\n- Assessment of health and social care needs.\n- Assessment of anxiety.\n- Depression screening.\n- Depression screening.\n- Assessment of substance use.\n- Assessment using Alcohol Use Disorders Identification Test - Consumption."
+  },
+  {
+    "doc_id": "c0a47dee-cc72-29ce-dc50-0865ca286def",
+    "patient_id": "c0a47dee-cc72-29ce-df5a-ea6d306c36a4",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-05-10",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Jonathan Carroll - 2021-05-10",
+    "content": "- Influenza split virus trivalent PF.\n- COVID-19 mRNA LNP-S PF 100 mcg/0.5mL dose or 50 mcg/0.25mL dose."
+  }
+]

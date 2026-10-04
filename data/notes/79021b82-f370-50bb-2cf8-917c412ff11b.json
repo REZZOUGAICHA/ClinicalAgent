@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "79021b82-f370-50bb-2cf8-917c412ff11b",
+    "patient_id": "79021b82-f370-50bb-c5a1-7333816d683f",
+    "document_type": "Office Visit Note",
+    "date": "2021-07-21",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Evette Farrell - 2021-07-21",
+    "content": "Patient: Evette Farrell, female, born 2013-03-20 (patient ID 79021b82-f370-50bb-c5a1-7333816d683f).\nVisit date: 2021-07-21.\nVisit type: Encounter for problem.\nClinician: Willian Batz (General Practice).\nFacility: BOSTON MEDICAL CENTER CORPORATION-, WINTHROP, MA."
+  },
+  {
+    "doc_id": "79021b82-f370-50bb-2cf8-917c412ff11b",
+    "patient_id": "79021b82-f370-50bb-c5a1-7333816d683f",
+    "document_type": "Office Visit Note",
+    "date": "2021-07-21",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Evette Farrell - 2021-07-21",
+    "content": "Seen for Child attention deficit disorder."
+  },
+  {
+    "doc_id": "79021b82-f370-50bb-2cf8-917c412ff11b",
+    "patient_id": "79021b82-f370-50bb-c5a1-7333816d683f",
+    "document_type": "Office Visit Note",
+    "date": "2021-07-21",
+    "section": "Procedures",
+    "title": "Office Visit Note - Evette Farrell - 2021-07-21",
+    "content": "- Cognitive and behavioral therapy, for Child attention deficit disorder."
+  }
+]

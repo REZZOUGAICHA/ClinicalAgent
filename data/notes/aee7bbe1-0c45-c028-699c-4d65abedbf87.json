@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "aee7bbe1-0c45-c028-699c-4d65abedbf87",
+    "patient_id": "aee7bbe1-0c45-c028-1e62-1f4cdb30c273",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-01-12",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Wilfredo Fritsch - 2023-01-12",
+    "content": "Patient: Wilfredo Fritsch, male, born 2010-12-23 (patient ID aee7bbe1-0c45-c028-1e62-1f4cdb30c273).\nVisit date: 2023-01-12.\nVisit type: Well child visit.\nClinician: Victoria Roob (General Practice).\nFacility: DILIGENCEHEALTHCARE, BROCKTON, MA."
+  },
+  {
+    "doc_id": "aee7bbe1-0c45-c028-699c-4d65abedbf87",
+    "patient_id": "aee7bbe1-0c45-c028-1e62-1f4cdb30c273",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-01-12",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Wilfredo Fritsch - 2023-01-12",
+    "content": "- Body Height: 153.9 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0\n- Body Weight: 53.8 kg\n- Body mass index (BMI) [Ratio]: 22.7 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 91.8 %\n- Diastolic Blood Pressure: 95.0 mm[Hg]\n- Systolic Blood Pressure: 124.0 mm[Hg]\n- Heart rate: 88.0 /min\n- Respiratory rate: 15.0 /min"
+  },
+  {
+    "doc_id": "aee7bbe1-0c45-c028-699c-4d65abedbf87",
+    "patient_id": "aee7bbe1-0c45-c028-1e62-1f4cdb30c273",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-01-12",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Wilfredo Fritsch - 2023-01-12",
+    "content": "- Patient referral for dental care."
+  },
+  {
+    "doc_id": "aee7bbe1-0c45-c028-699c-4d65abedbf87",
+    "patient_id": "aee7bbe1-0c45-c028-1e62-1f4cdb30c273",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-01-12",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Wilfredo Fritsch - 2023-01-12",
+    "content": "- Influenza split virus trivalent PF.\n- HPV quadrivalent."
+  }
+]

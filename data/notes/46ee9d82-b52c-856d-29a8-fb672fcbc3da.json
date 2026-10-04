@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "46ee9d82-b52c-856d-29a8-fb672fcbc3da",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Office Visit Note",
+    "date": "2018-11-13",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Shalanda Koepp - 2018-11-13",
+    "content": "Patient: Shalanda Koepp, female, born 1996-06-18 (patient ID 46ee9d82-b52c-856d-069b-5064ff052225).\nVisit date: 2018-11-13.\nVisit type: Postnatal visit.\nClinician: Alysha Koch (General Practice).\nFacility: TEWKSBURY HOSPITAL, TEWKSBURY, MA."
+  },
+  {
+    "doc_id": "46ee9d82-b52c-856d-29a8-fb672fcbc3da",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Office Visit Note",
+    "date": "2018-11-13",
+    "section": "Procedures",
+    "title": "Office Visit Note - Shalanda Koepp - 2018-11-13",
+    "content": "- Physical examination procedure.\n- Depression screening."
+  }
+]

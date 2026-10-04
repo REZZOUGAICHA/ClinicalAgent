@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "c86c400e-ff88-a1e3-1041-4500a9612058",
+    "patient_id": "c86c400e-ff88-a1e3-2e23-caa4d8311f47",
+    "document_type": "Outpatient Procedure Note",
+    "date": "1981-02-19",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Cristobal Montero - 1981-02-19",
+    "content": "Patient: Cristobal Montero, male, born 1947-03-03 (patient ID c86c400e-ff88-a1e3-2e23-caa4d8311f47).\nVisit date: 1981-02-19.\nVisit type: Patient encounter procedure.\nClinician: Lorette Hauck (General Practice).\nFacility: WHITTIER REHABILTATION HOSPITAL, LYNN, MA."
+  },
+  {
+    "doc_id": "c86c400e-ff88-a1e3-1041-4500a9612058",
+    "patient_id": "c86c400e-ff88-a1e3-2e23-caa4d8311f47",
+    "document_type": "Outpatient Procedure Note",
+    "date": "1981-02-19",
+    "section": "Reason for Visit",
+    "title": "Outpatient Procedure Note - Cristobal Montero - 1981-02-19",
+    "content": "Seen for Sterilization requested."
+  },
+  {
+    "doc_id": "c86c400e-ff88-a1e3-1041-4500a9612058",
+    "patient_id": "c86c400e-ff88-a1e3-2e23-caa4d8311f47",
+    "document_type": "Outpatient Procedure Note",
+    "date": "1981-02-19",
+    "section": "Procedures",
+    "title": "Outpatient Procedure Note - Cristobal Montero - 1981-02-19",
+    "content": "- Vasectomy."
+  },
+  {
+    "doc_id": "c86c400e-ff88-a1e3-1041-4500a9612058",
+    "patient_id": "c86c400e-ff88-a1e3-2e23-caa4d8311f47",
+    "document_type": "Outpatient Procedure Note",
+    "date": "1981-02-19",
+    "section": "Plan",
+    "title": "Outpatient Procedure Note - Cristobal Montero - 1981-02-19",
+    "content": "- Minor surgery care management, started 1981-02-19, ended 1981-02-26."
+  }
+]

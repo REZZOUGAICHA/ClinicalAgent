@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "46ee9d82-b52c-856d-b13b-fd942018bd29",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Office Visit Note",
+    "date": "2018-05-01",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Shalanda Koepp - 2018-05-01",
+    "content": "Patient: Shalanda Koepp, female, born 1996-06-18 (patient ID 46ee9d82-b52c-856d-069b-5064ff052225).\nVisit date: 2018-05-01.\nVisit type: Prenatal visit.\nClinician: Alysha Koch (General Practice).\nFacility: TEWKSBURY HOSPITAL, TEWKSBURY, MA."
+  },
+  {
+    "doc_id": "46ee9d82-b52c-856d-b13b-fd942018bd29",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Office Visit Note",
+    "date": "2018-05-01",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Shalanda Koepp - 2018-05-01",
+    "content": "Seen for Normal pregnancy."
+  },
+  {
+    "doc_id": "46ee9d82-b52c-856d-b13b-fd942018bd29",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Office Visit Note",
+    "date": "2018-05-01",
+    "section": "Procedures",
+    "title": "Office Visit Note - Shalanda Koepp - 2018-05-01",
+    "content": "- Evaluation of uterine fundal height, for Normal pregnancy.\n- Auscultation of the fetal heart, for Normal pregnancy."
+  }
+]

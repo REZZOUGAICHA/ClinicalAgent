@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "4aaa0001-3832-cc52-3a3e-0a59fcf416d7",
+    "patient_id": "4aaa0001-3832-cc52-e2f3-47aad08f4284",
+    "document_type": "Office Visit Note",
+    "date": "2022-11-13",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Marvin Weissnat - 2022-11-13",
+    "content": "Patient: Marvin Weissnat, male, born 2006-02-05 (patient ID 4aaa0001-3832-cc52-e2f3-47aad08f4284).\nVisit date: 2022-11-13.\nVisit type: Encounter for symptom.\nClinician: Alysha Koch (General Practice).\nFacility: TEWKSBURY HOSPITAL, TEWKSBURY, MA."
+  },
+  {
+    "doc_id": "4aaa0001-3832-cc52-3a3e-0a59fcf416d7",
+    "patient_id": "4aaa0001-3832-cc52-e2f3-47aad08f4284",
+    "document_type": "Office Visit Note",
+    "date": "2022-11-13",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Marvin Weissnat - 2022-11-13",
+    "content": "Seen for Acute bronchitis."
+  },
+  {
+    "doc_id": "4aaa0001-3832-cc52-3a3e-0a59fcf416d7",
+    "patient_id": "4aaa0001-3832-cc52-e2f3-47aad08f4284",
+    "document_type": "Office Visit Note",
+    "date": "2022-11-13",
+    "section": "Assessment",
+    "title": "Office Visit Note - Marvin Weissnat - 2022-11-13",
+    "content": "Diagnoses recorded at this visit:\n- Acute bronchitis (onset 2022-11-13), resolved 2022-11-23."
+  },
+  {
+    "doc_id": "4aaa0001-3832-cc52-3a3e-0a59fcf416d7",
+    "patient_id": "4aaa0001-3832-cc52-e2f3-47aad08f4284",
+    "document_type": "Office Visit Note",
+    "date": "2022-11-13",
+    "section": "Medications",
+    "title": "Office Visit Note - Marvin Weissnat - 2022-11-13",
+    "content": "Medications prescribed at this visit:\n- Acetaminophen 325 MG Oral Tablet, started 2022-11-13, for Acute bronchitis; stopped 2022-11-23."
+  },
+  {
+    "doc_id": "4aaa0001-3832-cc52-3a3e-0a59fcf416d7",
+    "patient_id": "4aaa0001-3832-cc52-e2f3-47aad08f4284",
+    "document_type": "Office Visit Note",
+    "date": "2022-11-13",
+    "section": "Plan",
+    "title": "Office Visit Note - Marvin Weissnat - 2022-11-13",
+    "content": "- Respiratory therapy, started 2022-11-13, ended 2023-03-26."
+  }
+]

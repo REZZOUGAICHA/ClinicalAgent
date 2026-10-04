@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "d57841fa-c9e2-a3d1-dfe2-2f17902902b6",
+    "patient_id": "d57841fa-c9e2-a3d1-0e78-09bdbe4eed66",
+    "document_type": "Office Visit Note",
+    "date": "2020-07-26",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Jessica McKenzie - 2020-07-26",
+    "content": "Patient: Jessica McKenzie, female, born 1965-07-19 (patient ID d57841fa-c9e2-a3d1-0e78-09bdbe4eed66).\nVisit date: 2020-07-26.\nVisit type: Encounter for check up.\nClinician: Miguel Roberts (General Practice).\nFacility: SOUTH SHORE HOSPITAL INC., WEYMOUTH, MA."
+  },
+  {
+    "doc_id": "d57841fa-c9e2-a3d1-dfe2-2f17902902b6",
+    "patient_id": "d57841fa-c9e2-a3d1-0e78-09bdbe4eed66",
+    "document_type": "Office Visit Note",
+    "date": "2020-07-26",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Jessica McKenzie - 2020-07-26",
+    "content": "Seen for Screening for malignant neoplasm of colon."
+  },
+  {
+    "doc_id": "d57841fa-c9e2-a3d1-dfe2-2f17902902b6",
+    "patient_id": "d57841fa-c9e2-a3d1-0e78-09bdbe4eed66",
+    "document_type": "Office Visit Note",
+    "date": "2020-07-26",
+    "section": "Procedures",
+    "title": "Office Visit Note - Jessica McKenzie - 2020-07-26",
+    "content": "- Colonoscopy."
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "7c913488-8c54-7aa0-ca9f-604a0190e594",
+    "patient_id": "7c913488-8c54-7aa0-a452-83dbc3ad8377",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-01-10",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Dian Kiehn - 2020-01-10",
+    "content": "Patient: Dian Kiehn, female, born 2012-01-13 (patient ID 7c913488-8c54-7aa0-a452-83dbc3ad8377).\nVisit date: 2020-01-10.\nVisit type: Well child visit.\nClinician: Adela King (General Practice).\nFacility: FAMILY SERVICE ASSOCIATION OF GREATER FALL RIVER INC, FALL RIVER, MA."
+  },
+  {
+    "doc_id": "7c913488-8c54-7aa0-ca9f-604a0190e594",
+    "patient_id": "7c913488-8c54-7aa0-a452-83dbc3ad8377",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-01-10",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Dian Kiehn - 2020-01-10",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2020-01-10), resolved 2020-04-10."
+  },
+  {
+    "doc_id": "7c913488-8c54-7aa0-ca9f-604a0190e594",
+    "patient_id": "7c913488-8c54-7aa0-a452-83dbc3ad8377",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-01-10",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Dian Kiehn - 2020-01-10",
+    "content": "- Body Height: 135.5 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0\n- Body Weight: 39.2 kg\n- Body mass index (BMI) [Ratio]: 21.3 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 96.3 %\n- Diastolic Blood Pressure: 68.0 mm[Hg]\n- Systolic Blood Pressure: 119.0 mm[Hg]\n- Heart rate: 77.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "7c913488-8c54-7aa0-ca9f-604a0190e594",
+    "patient_id": "7c913488-8c54-7aa0-a452-83dbc3ad8377",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-01-10",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Dian Kiehn - 2020-01-10",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

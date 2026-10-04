@@ -1,0 +1,65 @@
+[
+  {
+    "doc_id": "080b069b-5108-46b6-576a-a4c6f899fcb1",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-02-25",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Chester Aufderhar - 2025-02-25",
+    "content": "Patient: Chester Aufderhar, male, born 1966-11-22 (patient ID 080b069b-5108-46b6-ecef-6aacd3b9ef3f).\nVisit date: 2025-02-25.\nVisit type: General examination of patient.\nClinician: Sharyl Williamson (General Practice).\nFacility: COMPASSIONATE HEALTH CARE GROUP LLC, WAREHAM, MA."
+  },
+  {
+    "doc_id": "080b069b-5108-46b6-576a-a4c6f899fcb1",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-02-25",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Chester Aufderhar - 2025-02-25",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2025-02-25), resolved 2026-03-03.\n- Part-time employment (onset 2025-02-26), resolved 2026-03-03."
+  },
+  {
+    "doc_id": "080b069b-5108-46b6-576a-a4c6f899fcb1",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-02-25",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Chester Aufderhar - 2025-02-25",
+    "content": "- Body Height: 186.4 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0\n- Body Weight: 96.4 kg\n- Body mass index (BMI) [Ratio]: 27.8 kg/m2\n- Diastolic Blood Pressure: 85.0 mm[Hg]\n- Systolic Blood Pressure: 103.0 mm[Hg]\n- Heart rate: 70.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "080b069b-5108-46b6-576a-a4c6f899fcb1",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-02-25",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Chester Aufderhar - 2025-02-25",
+    "content": "- Hemoglobin A1c/Hemoglobin.total in Blood: 5.8 %\n- Glucose [Mass/volume] in Blood: 98.3 mg/dL\n- Urea nitrogen [Mass/volume] in Blood: 16.4 mg/dL\n- Creatinine [Mass/volume] in Blood: 1.1 mg/dL\n- Calcium [Mass/volume] in Blood: 10.2 mg/dL\n- Sodium [Moles/volume] in Blood: 143.2 mmol/L\n- Potassium [Moles/volume] in Blood: 4.4 mmol/L\n- Chloride [Moles/volume] in Blood: 110.5 mmol/L\n- Carbon dioxide  total [Moles/volume] in Blood: 22.6 mmol/L"
+  },
+  {
+    "doc_id": "080b069b-5108-46b6-576a-a4c6f899fcb1",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-02-25",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Chester Aufderhar - 2025-02-25",
+    "content": "- Assessment of health and social care needs.\n- Screening for domestic abuse.\n- Depression screening.\n- Depression screening.\n- Assessment of substance use.\n- Assessment using Alcohol Use Disorders Identification Test - Consumption.\n- Patient referral for dental care."
+  },
+  {
+    "doc_id": "080b069b-5108-46b6-576a-a4c6f899fcb1",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-02-25",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Chester Aufderhar - 2025-02-25",
+    "content": "Medications prescribed at this visit:\n- Hydrochlorothiazide 25 MG Oral Tablet, started 2025-02-25, for Essential hypertension; stopped 2026-03-03.\n- lisinopril 10 MG Oral Tablet, started 2025-02-25, for Essential hypertension; stopped 2026-03-03.\n- amLODIPine 2.5 MG Oral Tablet, started 2025-02-25, for Essential hypertension; stopped 2026-03-03."
+  },
+  {
+    "doc_id": "080b069b-5108-46b6-576a-a4c6f899fcb1",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-02-25",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Chester Aufderhar - 2025-02-25",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

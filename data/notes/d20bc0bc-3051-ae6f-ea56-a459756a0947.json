@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-ea56-a459756a0947",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Emergency Department Note",
+    "date": "2023-04-26",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Lavette Kozey - 2023-04-26",
+    "content": "Patient: Lavette Kozey, female, born 2010-03-24 (patient ID d20bc0bc-3051-ae6f-f391-ceec7ec0370f).\nVisit date: 2023-04-26.\nVisit type: Emergency room admission.\nClinician: Barton Hahn (General Practice).\nFacility: MEDFORD REHABILITATION AND NURSING CENTER, MEDFORD, MA."
+  },
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-ea56-a459756a0947",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Emergency Department Note",
+    "date": "2023-04-26",
+    "section": "Reason for Visit",
+    "title": "Emergency Department Note - Lavette Kozey - 2023-04-26",
+    "content": "Seen for Sprain (morphologic abnormality)."
+  },
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-ea56-a459756a0947",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Emergency Department Note",
+    "date": "2023-04-26",
+    "section": "Assessment",
+    "title": "Emergency Department Note - Lavette Kozey - 2023-04-26",
+    "content": "Diagnoses recorded at this visit:\n- Sprain (morphologic abnormality) (onset 2023-04-26), resolved 2023-05-10.\n- Sprain of wrist (onset 2023-04-26), resolved 2023-05-10."
+  },
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-ea56-a459756a0947",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Emergency Department Note",
+    "date": "2023-04-26",
+    "section": "Medications",
+    "title": "Emergency Department Note - Lavette Kozey - 2023-04-26",
+    "content": "Medications prescribed at this visit:\n- Naproxen sodium 220 MG Oral Tablet, started 2023-04-26; stopped 2023-05-10."
+  },
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-ea56-a459756a0947",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Emergency Department Note",
+    "date": "2023-04-26",
+    "section": "Plan",
+    "title": "Emergency Department Note - Lavette Kozey - 2023-04-26",
+    "content": "- Physiotherapy care plan for Sprain of wrist, started 2023-04-26, ended 2023-05-10."
+  }
+]

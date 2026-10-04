@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-bb6d-eabad0aabca3",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Office Visit Note",
+    "date": "2023-08-30",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Faustino Langworth - 2023-08-30",
+    "content": "Patient: Faustino Langworth, male, born 1998-06-17 (patient ID 5ba0a3f3-32f7-02b1-ec6a-8f568923954c).\nVisit date: 2023-08-30.\nVisit type: Encounter for problem.\nClinician: Floy Greenfelder (General Practice).\nFacility: CAMBRIDGE PUBLIC HEALTH COMMISSION, SOMERVILLE, MA."
+  },
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-bb6d-eabad0aabca3",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Office Visit Note",
+    "date": "2023-08-30",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Faustino Langworth - 2023-08-30",
+    "content": "Seen for Anemia."
+  },
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-bb6d-eabad0aabca3",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Office Visit Note",
+    "date": "2023-08-30",
+    "section": "Laboratory Results",
+    "title": "Office Visit Note - Faustino Langworth - 2023-08-30",
+    "content": "- Hemoglobin [Mass/volume] in Blood: 10.9 g/dL\n- Hematocrit [Volume Fraction] of Blood by calculation: 31.7 %\n- Leukocytes [#/volume] in Blood by Automated count: 6.6 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 4.1 10*6/uL\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 80.2 fL\n- MCH [Entitic mass] by Automated count: 31.1 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 35.1 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 43.7 fL\n- Platelets [#/volume] in Blood by Automated count: 402.2 10*3/uL\n- Platelet distribution width [Entitic volume] in Blood by Automated count: 10.6 fL\n- Platelet [Entitic mean volume] in Blood by Automated count: 10.8 fL"
+  },
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-bb6d-eabad0aabca3",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Office Visit Note",
+    "date": "2023-08-30",
+    "section": "Procedures",
+    "title": "Office Visit Note - Faustino Langworth - 2023-08-30",
+    "content": "- Peripheral blood smear interpretation.\n- Review of systems.\n- Medication reconciliation.\n- Brief general examination."
+  },
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-bb6d-eabad0aabca3",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Office Visit Note",
+    "date": "2023-08-30",
+    "section": "Medications",
+    "title": "Office Visit Note - Faustino Langworth - 2023-08-30",
+    "content": "Medications prescribed at this visit:\n- Vitamin B12 5 MG/ML Injectable Solution, started 2023-08-30; no stop date recorded."
+  }
+]

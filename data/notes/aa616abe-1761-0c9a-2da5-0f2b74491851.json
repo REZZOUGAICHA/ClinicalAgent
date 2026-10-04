@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "aa616abe-1761-0c9a-2da5-0f2b74491851",
+    "patient_id": "aa616abe-1761-0c9a-7959-07544679dafd",
+    "document_type": "Office Visit Note",
+    "date": "2008-11-22",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Jona Robel - 2008-11-22",
+    "content": "Patient: Jona Robel, female, born 1958-11-15 (patient ID aa616abe-1761-0c9a-7959-07544679dafd).\nVisit date: 2008-11-22.\nVisit type: Encounter for check up.\nClinician: Chanelle Schuster (General Practice).\nFacility: TUFTS MEDICAL CENTER, STONEHAM, MA."
+  },
+  {
+    "doc_id": "aa616abe-1761-0c9a-2da5-0f2b74491851",
+    "patient_id": "aa616abe-1761-0c9a-7959-07544679dafd",
+    "document_type": "Office Visit Note",
+    "date": "2008-11-22",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Jona Robel - 2008-11-22",
+    "content": "Seen for Screening for malignant neoplasm of colon."
+  },
+  {
+    "doc_id": "aa616abe-1761-0c9a-2da5-0f2b74491851",
+    "patient_id": "aa616abe-1761-0c9a-7959-07544679dafd",
+    "document_type": "Office Visit Note",
+    "date": "2008-11-22",
+    "section": "Assessment",
+    "title": "Office Visit Note - Jona Robel - 2008-11-22",
+    "content": "Diagnoses recorded at this visit:\n- Polyp of colon (onset 2008-11-22)."
+  },
+  {
+    "doc_id": "aa616abe-1761-0c9a-2da5-0f2b74491851",
+    "patient_id": "aa616abe-1761-0c9a-7959-07544679dafd",
+    "document_type": "Office Visit Note",
+    "date": "2008-11-22",
+    "section": "Laboratory Results",
+    "title": "Office Visit Note - Jona Robel - 2008-11-22",
+    "content": "- Hemoglobin.gastrointestinal.lower [Presence] in Stool by Immunoassay --1st specimen: 12.4 ng/mL"
+  },
+  {
+    "doc_id": "aa616abe-1761-0c9a-2da5-0f2b74491851",
+    "patient_id": "aa616abe-1761-0c9a-7959-07544679dafd",
+    "document_type": "Office Visit Note",
+    "date": "2008-11-22",
+    "section": "Procedures",
+    "title": "Office Visit Note - Jona Robel - 2008-11-22",
+    "content": "- Colonoscopy.\n- Screening for occult blood in feces, for Polyp of colon.\n- Rectal polypectomy, for Polyp of colon."
+  }
+]

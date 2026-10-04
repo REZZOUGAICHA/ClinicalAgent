@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "947c82ee-1735-c9ed-61c3-baef1fb3235e",
+    "patient_id": "947c82ee-1735-c9ed-8210-38cb93d8070c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-05-14",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Marcell Hammes - 2024-05-14",
+    "content": "Patient: Marcell Hammes, female, born 2016-05-17 (patient ID 947c82ee-1735-c9ed-8210-38cb93d8070c).\nVisit date: 2024-05-14.\nVisit type: Well child visit.\nClinician: Kirby McKenzie (General Practice).\nFacility: BOSTON MEDICAL CENTER CORPORATION-, ROSLINDALE, MA."
+  },
+  {
+    "doc_id": "947c82ee-1735-c9ed-61c3-baef1fb3235e",
+    "patient_id": "947c82ee-1735-c9ed-8210-38cb93d8070c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-05-14",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Marcell Hammes - 2024-05-14",
+    "content": "- Body Height: 129.2 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0\n- Body Weight: 23.2 kg\n- Body mass index (BMI) [Ratio]: 13.9 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 10.1 %\n- Diastolic Blood Pressure: 85.0 mm[Hg]\n- Systolic Blood Pressure: 138.0 mm[Hg]\n- Heart rate: 96.0 /min\n- Respiratory rate: 15.0 /min"
+  },
+  {
+    "doc_id": "947c82ee-1735-c9ed-61c3-baef1fb3235e",
+    "patient_id": "947c82ee-1735-c9ed-8210-38cb93d8070c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-05-14",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Marcell Hammes - 2024-05-14",
+    "content": "- Medication reconciliation.\n- Patient referral for dental care."
+  },
+  {
+    "doc_id": "947c82ee-1735-c9ed-61c3-baef1fb3235e",
+    "patient_id": "947c82ee-1735-c9ed-8210-38cb93d8070c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-05-14",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Marcell Hammes - 2024-05-14",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

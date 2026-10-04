@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "9661a432-4630-2cd9-0554-88260b38644b",
+    "patient_id": "9661a432-4630-2cd9-142c-386845fae837",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2011-05-10",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Paul Tremblay - 2011-05-10",
+    "content": "Patient: Paul Tremblay, male, born 1978-02-14 (patient ID 9661a432-4630-2cd9-142c-386845fae837).\nVisit date: 2011-05-10.\nVisit type: General examination of patient.\nClinician: Idella Runte (General Practice).\nFacility: SIGNATURE HEALTHCARE MEDICAL GROUP INC, WEST BRIDGEWATER, MA."
+  },
+  {
+    "doc_id": "9661a432-4630-2cd9-0554-88260b38644b",
+    "patient_id": "9661a432-4630-2cd9-142c-386845fae837",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2011-05-10",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Paul Tremblay - 2011-05-10",
+    "content": "Diagnoses recorded at this visit:\n- Prediabetes (onset 2011-05-10).\n- Anemia (onset 2011-05-10)."
+  },
+  {
+    "doc_id": "9661a432-4630-2cd9-0554-88260b38644b",
+    "patient_id": "9661a432-4630-2cd9-142c-386845fae837",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2011-05-10",
+    "section": "Plan",
+    "title": "Annual Wellness Visit Note - Paul Tremblay - 2011-05-10",
+    "content": "- Diabetes self management plan for Prediabetes, started 2011-05-10."
+  }
+]

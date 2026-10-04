@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "14a5a697-29a3-48b2-db2d-65d38c398c2b",
+    "patient_id": "14a5a697-29a3-48b2-969a-3ceefe74a700",
+    "document_type": "Office Visit Note",
+    "date": "2016-11-15",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Drusilla Schumm - 2016-11-15",
+    "content": "Patient: Drusilla Schumm, female, born 1958-11-15 (patient ID 14a5a697-29a3-48b2-969a-3ceefe74a700).\nVisit date: 2016-11-15.\nVisit type: Gynecology service (qualifier value).\nClinician: Bennie Abbott (General Practice).\nFacility: LAHEY HOSPITAL & MEDICAL CENTER BURLINGTON, PEABODY, MA."
+  },
+  {
+    "doc_id": "14a5a697-29a3-48b2-db2d-65d38c398c2b",
+    "patient_id": "14a5a697-29a3-48b2-969a-3ceefe74a700",
+    "document_type": "Office Visit Note",
+    "date": "2016-11-15",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Drusilla Schumm - 2016-11-15",
+    "content": "Seen for Malignant neoplasm of breast."
+  },
+  {
+    "doc_id": "14a5a697-29a3-48b2-db2d-65d38c398c2b",
+    "patient_id": "14a5a697-29a3-48b2-969a-3ceefe74a700",
+    "document_type": "Office Visit Note",
+    "date": "2016-11-15",
+    "section": "Procedures",
+    "title": "Office Visit Note - Drusilla Schumm - 2016-11-15",
+    "content": "- Manual pelvic examination, for Malignant neoplasm of breast.\n- Cytopathology procedure  preparation of smear  genital source, for Malignant neoplasm of breast."
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "5e688e99-61b3-5c88-7045-e1f08dfd3230",
+    "patient_id": "5e688e99-61b3-5c88-3f60-21df8aaced27",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-01-31",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Wallace Effertz - 2019-01-31",
+    "content": "Patient: Wallace Effertz, male, born 2010-01-28 (patient ID 5e688e99-61b3-5c88-3f60-21df8aaced27).\nVisit date: 2019-01-31.\nVisit type: Well child visit.\nClinician: Daniel Cas\u00e1rez (General Practice).\nFacility: LYNN COMMUNITY HEALTH, LYNN, MA."
+  },
+  {
+    "doc_id": "5e688e99-61b3-5c88-7045-e1f08dfd3230",
+    "patient_id": "5e688e99-61b3-5c88-3f60-21df8aaced27",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-01-31",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Wallace Effertz - 2019-01-31",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2019-01-31), resolved 2019-01-31."
+  },
+  {
+    "doc_id": "5e688e99-61b3-5c88-7045-e1f08dfd3230",
+    "patient_id": "5e688e99-61b3-5c88-3f60-21df8aaced27",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-01-31",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Wallace Effertz - 2019-01-31",
+    "content": "- Body Height: 131.2 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0\n- Body Weight: 40.3 kg\n- Body mass index (BMI) [Ratio]: 23.4 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 97.8 %\n- Diastolic Blood Pressure: 89.0 mm[Hg]\n- Systolic Blood Pressure: 127.0 mm[Hg]\n- Heart rate: 70.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "5e688e99-61b3-5c88-7045-e1f08dfd3230",
+    "patient_id": "5e688e99-61b3-5c88-3f60-21df8aaced27",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-01-31",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Wallace Effertz - 2019-01-31",
+    "content": "- Medication reconciliation.\n- Patient referral for dental care."
+  },
+  {
+    "doc_id": "5e688e99-61b3-5c88-7045-e1f08dfd3230",
+    "patient_id": "5e688e99-61b3-5c88-3f60-21df8aaced27",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-01-31",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Wallace Effertz - 2019-01-31",
+    "content": "- Influenza split virus trivalent PF."
+  },
+  {
+    "doc_id": "5e688e99-61b3-5c88-7045-e1f08dfd3230",
+    "patient_id": "5e688e99-61b3-5c88-3f60-21df8aaced27",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-01-31",
+    "section": "Plan",
+    "title": "Annual Wellness Visit Note - Wallace Effertz - 2019-01-31",
+    "content": "- Weight management program, started 2019-01-31."
+  }
+]

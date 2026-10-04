@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "c053e996-a4c4-6c02-5970-0aafbba3032c",
+    "patient_id": "c053e996-a4c4-6c02-e2b6-284227156c67",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-11-22",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Sharyn Hagenes - 2024-11-22",
+    "content": "Patient: Sharyn Hagenes, female, born 2023-09-15 (patient ID c053e996-a4c4-6c02-e2b6-284227156c67).\nVisit date: 2024-11-22.\nVisit type: Well child visit.\nClinician: Colin Witting (General Practice).\nFacility: PALMER FAMILY SERVICES LLC, MILFORD, MA."
+  },
+  {
+    "doc_id": "c053e996-a4c4-6c02-5970-0aafbba3032c",
+    "patient_id": "c053e996-a4c4-6c02-e2b6-284227156c67",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-11-22",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Sharyn Hagenes - 2024-11-22",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2024-11-22), resolved 2025-02-21."
+  },
+  {
+    "doc_id": "c053e996-a4c4-6c02-5970-0aafbba3032c",
+    "patient_id": "c053e996-a4c4-6c02-e2b6-284227156c67",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-11-22",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Sharyn Hagenes - 2024-11-22",
+    "content": "- Body Height: 78.8 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0\n- Body Weight: 11.3 kg\n- Weight-for-length Per age and sex: 82.1 %\n- Head Occipital-frontal circumference Percentile: 78.1 %\n- Head Occipital-frontal circumference: 46.8 cm\n- Diastolic Blood Pressure: 86.0 mm[Hg]\n- Systolic Blood Pressure: 145.0 mm[Hg]\n- Heart rate: 76.0 /min\n- Respiratory rate: 15.0 /min"
+  },
+  {
+    "doc_id": "c053e996-a4c4-6c02-5970-0aafbba3032c",
+    "patient_id": "c053e996-a4c4-6c02-e2b6-284227156c67",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-11-22",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Sharyn Hagenes - 2024-11-22",
+    "content": "- Hib (PRP-OMP).\n- varicella.\n- MMR.\n- Pneumococcal conjugate PCV 13.\n- Hep A ped/adol 2 dose."
+  }
+]

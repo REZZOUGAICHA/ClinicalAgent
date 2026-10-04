@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "bff9d9d5-ee3d-d852-2046-9d8a76dd47b7",
+    "patient_id": "bff9d9d5-ee3d-d852-9c67-36d8361a4a4a",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2013-05-12",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Rosario Ortiz - 2013-05-12",
+    "content": "Patient: Rosario Ortiz, male, born 1945-01-28 (patient ID bff9d9d5-ee3d-d852-9c67-36d8361a4a4a).\nVisit date: 2013-05-12.\nVisit type: General examination of patient.\nClinician: Cedrick Gleason (General Practice).\nFacility: WELLESLEY FAMILY CARE ASSOCIATES PC, WELLESLEY, MA."
+  },
+  {
+    "doc_id": "bff9d9d5-ee3d-d852-2046-9d8a76dd47b7",
+    "patient_id": "bff9d9d5-ee3d-d852-9c67-36d8361a4a4a",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2013-05-12",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Rosario Ortiz - 2013-05-12",
+    "content": "Diagnoses recorded at this visit:\n- Victim of intimate partner abuse (onset 2013-05-12)."
+  }
+]

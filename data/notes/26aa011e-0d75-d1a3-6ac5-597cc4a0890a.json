@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "26aa011e-0d75-d1a3-6ac5-597cc4a0890a",
+    "patient_id": "26aa011e-0d75-d1a3-3c5a-560a9450cc9d",
+    "document_type": "Office Visit Note",
+    "date": "2017-04-02",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Jesse Wolf - 2017-04-02",
+    "content": "Patient: Jesse Wolf, male, born 2010-04-04 (patient ID 26aa011e-0d75-d1a3-3c5a-560a9450cc9d).\nVisit date: 2017-04-02.\nVisit type: Encounter for check up.\nClinician: Marcus Schamberger (General Practice).\nFacility: THE LOWELL GENERAL HOSPITAL, WESTFORD, MA."
+  },
+  {
+    "doc_id": "26aa011e-0d75-d1a3-6ac5-597cc4a0890a",
+    "patient_id": "26aa011e-0d75-d1a3-3c5a-560a9450cc9d",
+    "document_type": "Office Visit Note",
+    "date": "2017-04-02",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Jesse Wolf - 2017-04-02",
+    "content": "Seen for Patient referral for dental care."
+  },
+  {
+    "doc_id": "26aa011e-0d75-d1a3-6ac5-597cc4a0890a",
+    "patient_id": "26aa011e-0d75-d1a3-3c5a-560a9450cc9d",
+    "document_type": "Office Visit Note",
+    "date": "2017-04-02",
+    "section": "Assessment",
+    "title": "Office Visit Note - Jesse Wolf - 2017-04-02",
+    "content": "Diagnoses recorded at this visit:\n- Primary dental caries (onset 2017-04-02), resolved 2017-04-02."
+  },
+  {
+    "doc_id": "26aa011e-0d75-d1a3-6ac5-597cc4a0890a",
+    "patient_id": "26aa011e-0d75-d1a3-3c5a-560a9450cc9d",
+    "document_type": "Office Visit Note",
+    "date": "2017-04-02",
+    "section": "Procedures",
+    "title": "Office Visit Note - Jesse Wolf - 2017-04-02",
+    "content": "- Dental consultation and report, for Patient referral for dental care.\n- Dental care, for Patient referral for dental care.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Dental plain X-ray bitewing.\n- Examination of gingivae, for Patient referral for dental care.\n- Restoration of tooth with coverage of all cusps using dental filling material, for Primary dental caries.\n- Dental fluoride treatment, for Patient referral for dental care.\n- Oral health education, for Patient referral for dental care."
+  },
+  {
+    "doc_id": "26aa011e-0d75-d1a3-6ac5-597cc4a0890a",
+    "patient_id": "26aa011e-0d75-d1a3-3c5a-560a9450cc9d",
+    "document_type": "Office Visit Note",
+    "date": "2017-04-02",
+    "section": "Medications",
+    "title": "Office Visit Note - Jesse Wolf - 2017-04-02",
+    "content": "Medications prescribed at this visit:\n- sodium fluoride 0.0272 MG/MG Oral Gel, started 2017-04-02, for Patient referral for dental care; stopped 2017-04-02."
+  }
+]

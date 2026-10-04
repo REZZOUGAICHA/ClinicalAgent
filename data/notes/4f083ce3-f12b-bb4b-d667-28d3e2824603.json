@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "4f083ce3-f12b-bb4b-d667-28d3e2824603",
+    "patient_id": "4f083ce3-f12b-bb4b-7353-e17f0cd55b0a",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-03-19",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Ezekiel Walter - 2024-03-19",
+    "content": "Patient: Ezekiel Walter, male, born 1999-01-12 (patient ID 4f083ce3-f12b-bb4b-7353-e17f0cd55b0a).\nVisit date: 2024-03-19.\nVisit type: General examination of patient.\nClinician: Gregorio Ceja (General Practice).\nFacility: MEASURED WELLNESS LLC, BROOKLINE, MA."
+  },
+  {
+    "doc_id": "4f083ce3-f12b-bb4b-d667-28d3e2824603",
+    "patient_id": "4f083ce3-f12b-bb4b-7353-e17f0cd55b0a",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-03-19",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Ezekiel Walter - 2024-03-19",
+    "content": "Diagnoses recorded at this visit:\n- Full-time employment (onset 2024-03-19)."
+  },
+  {
+    "doc_id": "4f083ce3-f12b-bb4b-d667-28d3e2824603",
+    "patient_id": "4f083ce3-f12b-bb4b-7353-e17f0cd55b0a",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-03-19",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Ezekiel Walter - 2024-03-19",
+    "content": "- Body Height: 175.9 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0\n- Body Weight: 73.1 kg\n- Body mass index (BMI) [Ratio]: 23.6 kg/m2\n- Diastolic Blood Pressure: 84.0 mm[Hg]\n- Systolic Blood Pressure: 137.0 mm[Hg]\n- Heart rate: 100.0 /min\n- Respiratory rate: 14.0 /min"
+  },
+  {
+    "doc_id": "4f083ce3-f12b-bb4b-d667-28d3e2824603",
+    "patient_id": "4f083ce3-f12b-bb4b-7353-e17f0cd55b0a",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-03-19",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Ezekiel Walter - 2024-03-19",
+    "content": "- Hemoglobin A1c/Hemoglobin.total in Blood: 6.0 %\n- Glucose [Mass/volume] in Blood: 75.1 mg/dL\n- Urea nitrogen [Mass/volume] in Blood: 11.8 mg/dL\n- Creatinine [Mass/volume] in Blood: 1.2 mg/dL\n- Calcium [Mass/volume] in Blood: 9.2 mg/dL\n- Sodium [Moles/volume] in Blood: 143.7 mmol/L\n- Potassium [Moles/volume] in Blood: 4.5 mmol/L\n- Chloride [Moles/volume] in Blood: 103.1 mmol/L\n- Carbon dioxide  total [Moles/volume] in Blood: 24.1 mmol/L"
+  },
+  {
+    "doc_id": "4f083ce3-f12b-bb4b-d667-28d3e2824603",
+    "patient_id": "4f083ce3-f12b-bb4b-7353-e17f0cd55b0a",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-03-19",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Ezekiel Walter - 2024-03-19",
+    "content": "- Assessment of health and social care needs.\n- Depression screening.\n- Depression screening.\n- Assessment of substance use.\n- Screening for drug abuse.\n- Patient referral for dental care."
+  },
+  {
+    "doc_id": "4f083ce3-f12b-bb4b-d667-28d3e2824603",
+    "patient_id": "4f083ce3-f12b-bb4b-7353-e17f0cd55b0a",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-03-19",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Ezekiel Walter - 2024-03-19",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

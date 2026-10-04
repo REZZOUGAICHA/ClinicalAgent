@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "0f1067c3-9151-8829-c23d-03d660036fc7",
+    "patient_id": "0f1067c3-9151-8829-56cd-2eff898db59c",
+    "document_type": "Office Visit Note",
+    "date": "2015-01-31",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Virgie Aufderhar - 2015-01-31",
+    "content": "Patient: Virgie Aufderhar, female, born 2009-06-18 (patient ID 0f1067c3-9151-8829-56cd-2eff898db59c).\nVisit date: 2015-01-31.\nVisit type: Encounter for problem.\nClinician: Antwan Lindgren (General Practice).\nFacility: DR SOLOMON CARTER FULLER MENTAL HEALTH CENTER, BOSTON, MA."
+  },
+  {
+    "doc_id": "0f1067c3-9151-8829-c23d-03d660036fc7",
+    "patient_id": "0f1067c3-9151-8829-56cd-2eff898db59c",
+    "document_type": "Office Visit Note",
+    "date": "2015-01-31",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Virgie Aufderhar - 2015-01-31",
+    "content": "Seen for Allergic disposition."
+  },
+  {
+    "doc_id": "0f1067c3-9151-8829-c23d-03d660036fc7",
+    "patient_id": "0f1067c3-9151-8829-56cd-2eff898db59c",
+    "document_type": "Office Visit Note",
+    "date": "2015-01-31",
+    "section": "Allergies",
+    "title": "Office Visit Note - Virgie Aufderhar - 2015-01-31",
+    "content": "- Allergic disposition (environment allergy).\n- Mold (environment allergy); reaction: cutaneous hypersensitivity, mild.\n- Aspirin (medication allergy); reaction: abdominal pain, moderate."
+  },
+  {
+    "doc_id": "0f1067c3-9151-8829-c23d-03d660036fc7",
+    "patient_id": "0f1067c3-9151-8829-56cd-2eff898db59c",
+    "document_type": "Office Visit Note",
+    "date": "2015-01-31",
+    "section": "Medications",
+    "title": "Office Visit Note - Virgie Aufderhar - 2015-01-31",
+    "content": "Medications prescribed at this visit:\n- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector, started 2015-01-31; no stop date recorded."
+  },
+  {
+    "doc_id": "0f1067c3-9151-8829-c23d-03d660036fc7",
+    "patient_id": "0f1067c3-9151-8829-56cd-2eff898db59c",
+    "document_type": "Office Visit Note",
+    "date": "2015-01-31",
+    "section": "Plan",
+    "title": "Office Visit Note - Virgie Aufderhar - 2015-01-31",
+    "content": "- Self-care interventions, started 2015-01-31."
+  }
+]

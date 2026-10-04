@@ -1,0 +1,65 @@
+[
+  {
+    "doc_id": "f95a6723-14a5-c4b6-a697-e34ff43a2a11",
+    "patient_id": "f95a6723-14a5-c4b6-78df-fa97f7ab361c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-02-14",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Roxann Sauer - 2026-02-14",
+    "content": "Patient: Roxann Sauer, female, born 1986-08-23 (patient ID f95a6723-14a5-c4b6-78df-fa97f7ab361c).\nVisit date: 2026-02-14.\nVisit type: General examination of patient.\nClinician: Amado Adams (General Practice).\nFacility: BL HEALTHCARE INC DELEWARE, FOXBOROUGH, MA."
+  },
+  {
+    "doc_id": "f95a6723-14a5-c4b6-a697-e34ff43a2a11",
+    "patient_id": "f95a6723-14a5-c4b6-78df-fa97f7ab361c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-02-14",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Roxann Sauer - 2026-02-14",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2026-02-14).\n- Full-time employment (onset 2026-02-14)."
+  },
+  {
+    "doc_id": "f95a6723-14a5-c4b6-a697-e34ff43a2a11",
+    "patient_id": "f95a6723-14a5-c4b6-78df-fa97f7ab361c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-02-14",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Roxann Sauer - 2026-02-14",
+    "content": "- Body Height: 163.2 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0\n- Body Weight: 80.8 kg\n- Body mass index (BMI) [Ratio]: 30.3 kg/m2\n- Diastolic Blood Pressure: 105.0 mm[Hg]\n- Systolic Blood Pressure: 168.0 mm[Hg]\n- Heart rate: 61.0 /min\n- Respiratory rate: 15.0 /min"
+  },
+  {
+    "doc_id": "f95a6723-14a5-c4b6-a697-e34ff43a2a11",
+    "patient_id": "f95a6723-14a5-c4b6-78df-fa97f7ab361c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-02-14",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Roxann Sauer - 2026-02-14",
+    "content": "- Hemoglobin A1c/Hemoglobin.total in Blood: 6.0 %\n- Glucose [Mass/volume] in Blood: 74.1 mg/dL\n- Urea nitrogen [Mass/volume] in Blood: 11.0 mg/dL\n- Creatinine [Mass/volume] in Blood: 1.0 mg/dL\n- Calcium [Mass/volume] in Blood: 10.1 mg/dL\n- Sodium [Moles/volume] in Blood: 139.8 mmol/L\n- Potassium [Moles/volume] in Blood: 4.4 mmol/L\n- Chloride [Moles/volume] in Blood: 109.2 mmol/L\n- Carbon dioxide  total [Moles/volume] in Blood: 22.5 mmol/L\n- Cholesterol [Mass/volume] in Serum or Plasma: 186.3 mg/dL\n- Triglyceride [Mass/volume] in Serum or Plasma: 125.1 mg/dL\n- Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay: 104.3 mg/dL\n- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 57.0 mg/dL"
+  },
+  {
+    "doc_id": "f95a6723-14a5-c4b6-a697-e34ff43a2a11",
+    "patient_id": "f95a6723-14a5-c4b6-78df-fa97f7ab361c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-02-14",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Roxann Sauer - 2026-02-14",
+    "content": "- Sleep apnea assessment, for Sleep disorder.\n- Assessment of health and social care needs.\n- Assessment of anxiety."
+  },
+  {
+    "doc_id": "f95a6723-14a5-c4b6-a697-e34ff43a2a11",
+    "patient_id": "f95a6723-14a5-c4b6-78df-fa97f7ab361c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-02-14",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Roxann Sauer - 2026-02-14",
+    "content": "Medications prescribed at this visit:\n- 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent], started 2026-02-14, for Childhood asthma; no stop date recorded.\n- albuterol 0.83 MG/ML Inhalation Solution, started 2026-02-14, for Childhood asthma; no stop date recorded."
+  },
+  {
+    "doc_id": "f95a6723-14a5-c4b6-a697-e34ff43a2a11",
+    "patient_id": "f95a6723-14a5-c4b6-78df-fa97f7ab361c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-02-14",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Roxann Sauer - 2026-02-14",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

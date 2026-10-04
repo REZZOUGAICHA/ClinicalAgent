@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "62f60bdb-cc5c-8305-927e-5eefc5df06b2",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2021-12-15",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Angel Frami - 2021-12-15",
+    "content": "Patient: Angel Frami, female, born 1975-10-22 (patient ID 62f60bdb-cc5c-8305-b98b-f2b229a55eca).\nVisit date: 2021-12-15.\nVisit type: Patient encounter procedure.\nClinician: Ollie Dooley (General Practice).\nFacility: DR JOHN C CORRIGAN MENTAL HEALTH CENTER, FALL RIVER, MA."
+  },
+  {
+    "doc_id": "62f60bdb-cc5c-8305-927e-5eefc5df06b2",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2021-12-15",
+    "section": "Reason for Visit",
+    "title": "Outpatient Procedure Note - Angel Frami - 2021-12-15",
+    "content": "Seen for Contraception care."
+  },
+  {
+    "doc_id": "62f60bdb-cc5c-8305-927e-5eefc5df06b2",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2021-12-15",
+    "section": "Procedures",
+    "title": "Outpatient Procedure Note - Angel Frami - 2021-12-15",
+    "content": "- Intramuscular injection."
+  }
+]

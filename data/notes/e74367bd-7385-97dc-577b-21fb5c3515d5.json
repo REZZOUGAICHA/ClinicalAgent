@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "e74367bd-7385-97dc-577b-21fb5c3515d5",
+    "patient_id": "e74367bd-7385-97dc-2c7f-251b4cd9fe29",
+    "document_type": "Office Visit Note",
+    "date": "2017-12-26",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Tennille Jerde - 2017-12-26",
+    "content": "Patient: Tennille Jerde, female, born 1960-09-24 (patient ID e74367bd-7385-97dc-2c7f-251b4cd9fe29).\nVisit date: 2017-12-26.\nVisit type: Encounter for problem.\nClinician: Omer Koepp (General Practice).\nFacility: CAMBRIDGE PUBLIC HEALTH COMMISSION, SOMERVILLE, MA."
+  },
+  {
+    "doc_id": "e74367bd-7385-97dc-577b-21fb5c3515d5",
+    "patient_id": "e74367bd-7385-97dc-2c7f-251b4cd9fe29",
+    "document_type": "Office Visit Note",
+    "date": "2017-12-26",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Tennille Jerde - 2017-12-26",
+    "content": "Seen for Malignant neoplasm of breast."
+  },
+  {
+    "doc_id": "e74367bd-7385-97dc-577b-21fb5c3515d5",
+    "patient_id": "e74367bd-7385-97dc-2c7f-251b4cd9fe29",
+    "document_type": "Office Visit Note",
+    "date": "2017-12-26",
+    "section": "Medications",
+    "title": "Office Visit Note - Tennille Jerde - 2017-12-26",
+    "content": "Medications prescribed at this visit:\n- 5 ML fulvestrant 50 MG/ML Prefilled Syringe, started 2017-12-26, for Malignant neoplasm of breast; stopped 2017-12-26.\n- abemaciclib 100 MG Oral Tablet [Verzenio], started 2017-12-26, for Malignant neoplasm of breast; stopped 2017-12-26."
+  }
+]

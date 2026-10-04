@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "0f1067c3-9151-8829-5199-f3432095d706",
+    "patient_id": "0f1067c3-9151-8829-56cd-2eff898db59c",
+    "document_type": "Office Visit Note",
+    "date": "2019-03-28",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Virgie Aufderhar - 2019-03-28",
+    "content": "Patient: Virgie Aufderhar, female, born 2009-06-18 (patient ID 0f1067c3-9151-8829-56cd-2eff898db59c).\nVisit date: 2019-03-28.\nVisit type: Encounter for symptom.\nClinician: Antwan Lindgren (General Practice).\nFacility: DR SOLOMON CARTER FULLER MENTAL HEALTH CENTER, BOSTON, MA."
+  },
+  {
+    "doc_id": "0f1067c3-9151-8829-5199-f3432095d706",
+    "patient_id": "0f1067c3-9151-8829-56cd-2eff898db59c",
+    "document_type": "Office Visit Note",
+    "date": "2019-03-28",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Virgie Aufderhar - 2019-03-28",
+    "content": "Seen for Viral sinusitis."
+  },
+  {
+    "doc_id": "0f1067c3-9151-8829-5199-f3432095d706",
+    "patient_id": "0f1067c3-9151-8829-56cd-2eff898db59c",
+    "document_type": "Office Visit Note",
+    "date": "2019-03-28",
+    "section": "Assessment",
+    "title": "Office Visit Note - Virgie Aufderhar - 2019-03-28",
+    "content": "Diagnoses recorded at this visit:\n- Viral sinusitis (onset 2019-03-28), resolved 2019-04-19."
+  },
+  {
+    "doc_id": "0f1067c3-9151-8829-5199-f3432095d706",
+    "patient_id": "0f1067c3-9151-8829-56cd-2eff898db59c",
+    "document_type": "Office Visit Note",
+    "date": "2019-03-28",
+    "section": "Medications",
+    "title": "Office Visit Note - Virgie Aufderhar - 2019-03-28",
+    "content": "Medications prescribed at this visit:\n- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet, started 2019-03-28, for Viral sinusitis; stopped 2019-04-19."
+  }
+]

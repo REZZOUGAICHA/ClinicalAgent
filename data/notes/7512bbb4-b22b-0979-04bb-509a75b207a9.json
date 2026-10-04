@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "7512bbb4-b22b-0979-04bb-509a75b207a9",
+    "patient_id": "7512bbb4-b22b-0979-6edc-389e16607ac7",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-08-02",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Tamie Herzog - 2026-08-02",
+    "content": "Patient: Tamie Herzog, female, born 2025-02-23 (patient ID 7512bbb4-b22b-0979-6edc-389e16607ac7).\nVisit date: 2026-08-02.\nVisit type: Well child visit.\nClinician: Carlota Maya (General Practice).\nFacility: RIVER'S EDGE PRIMARY CARE LLC, CHICOPEE, MA."
+  },
+  {
+    "doc_id": "7512bbb4-b22b-0979-04bb-509a75b207a9",
+    "patient_id": "7512bbb4-b22b-0979-6edc-389e16607ac7",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-08-02",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Tamie Herzog - 2026-08-02",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2026-08-02)."
+  },
+  {
+    "doc_id": "7512bbb4-b22b-0979-04bb-509a75b207a9",
+    "patient_id": "7512bbb4-b22b-0979-6edc-389e16607ac7",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-08-02",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Tamie Herzog - 2026-08-02",
+    "content": "- Body Height: 79.2 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0\n- Body Weight: 12.3 kg\n- Weight-for-length Per age and sex: 96.9 %\n- Head Occipital-frontal circumference Percentile: 44.6 %\n- Head Occipital-frontal circumference: 46.2 cm\n- Diastolic Blood Pressure: 85.0 mm[Hg]\n- Systolic Blood Pressure: 109.0 mm[Hg]\n- Heart rate: 62.0 /min\n- Respiratory rate: 15.0 /min"
+  },
+  {
+    "doc_id": "7512bbb4-b22b-0979-04bb-509a75b207a9",
+    "patient_id": "7512bbb4-b22b-0979-6edc-389e16607ac7",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-08-02",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Tamie Herzog - 2026-08-02",
+    "content": "- DTaP."
+  }
+]

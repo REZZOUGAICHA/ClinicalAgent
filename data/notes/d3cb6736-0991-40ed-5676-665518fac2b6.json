@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "d3cb6736-0991-40ed-5676-665518fac2b6",
+    "patient_id": "d3cb6736-0991-40ed-a220-7c714aba4c37",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2021-04-18",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Tristan Reichel - 2021-04-18",
+    "content": "Patient: Tristan Reichel, male, born 1982-08-01 (patient ID d3cb6736-0991-40ed-a220-7c714aba4c37).\nVisit date: 2021-04-18.\nVisit type: Administration of vaccine to produce active immunity.\nClinician: Beatriz Monroy (General Practice).\nFacility: FIRST PSYCHIATRIC PLANNERS INC, WOBURN, MA."
+  },
+  {
+    "doc_id": "d3cb6736-0991-40ed-5676-665518fac2b6",
+    "patient_id": "d3cb6736-0991-40ed-a220-7c714aba4c37",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2021-04-18",
+    "section": "Immunizations",
+    "title": "Outpatient Procedure Note - Tristan Reichel - 2021-04-18",
+    "content": "- COVID-19 mRNA LNP-S PF 30 mcg/0.3 mL dose."
+  }
+]

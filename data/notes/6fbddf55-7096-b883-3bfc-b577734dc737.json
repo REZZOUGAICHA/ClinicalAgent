@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "6fbddf55-7096-b883-3bfc-b577734dc737",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2018-11-28",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Clarinda Farrell - 2018-11-28",
+    "content": "Patient: Clarinda Farrell, female, born 1981-07-01 (patient ID 6fbddf55-7096-b883-7cd3-260f27953080).\nVisit date: 2018-11-28.\nVisit type: Encounter for check up.\nClinician: Luther Jakubowski (General Practice).\nFacility: ENCOMPASS HEALTH REHABILITATION HOSP OF NEW ENGLAN, WOBURN, MA."
+  },
+  {
+    "doc_id": "6fbddf55-7096-b883-3bfc-b577734dc737",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2018-11-28",
+    "section": "Assessment",
+    "title": "Outpatient Procedure Note - Clarinda Farrell - 2018-11-28",
+    "content": "Diagnoses recorded at this visit:\n- Part-time employment (onset 2018-11-28), resolved 2022-09-07."
+  },
+  {
+    "doc_id": "6fbddf55-7096-b883-3bfc-b577734dc737",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2018-11-28",
+    "section": "Vital Signs",
+    "title": "Outpatient Procedure Note - Clarinda Farrell - 2018-11-28",
+    "content": "- Body Height: 164.8 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0\n- Body Weight: 78.9 kg\n- Body mass index (BMI) [Ratio]: 29.0 kg/m2\n- Diastolic Blood Pressure: 85.0 mm[Hg]\n- Systolic Blood Pressure: 103.0 mm[Hg]\n- Heart rate: 63.0 /min\n- Respiratory rate: 15.0 /min"
+  },
+  {
+    "doc_id": "6fbddf55-7096-b883-3bfc-b577734dc737",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2018-11-28",
+    "section": "Procedures",
+    "title": "Outpatient Procedure Note - Clarinda Farrell - 2018-11-28",
+    "content": "- Assessment of health and social care needs.\n- Assessment of anxiety.\n- Depression screening.\n- Depression screening.\n- Assessment of substance use.\n- Assessment using Alcohol Use Disorders Identification Test - Consumption."
+  },
+  {
+    "doc_id": "6fbddf55-7096-b883-3bfc-b577734dc737",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2018-11-28",
+    "section": "Immunizations",
+    "title": "Outpatient Procedure Note - Clarinda Farrell - 2018-11-28",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

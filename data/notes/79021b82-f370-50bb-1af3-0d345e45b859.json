@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "79021b82-f370-50bb-1af3-0d345e45b859",
+    "patient_id": "79021b82-f370-50bb-c5a1-7333816d683f",
+    "document_type": "Office Visit Note",
+    "date": "2026-04-29",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Evette Farrell - 2026-04-29",
+    "content": "Patient: Evette Farrell, female, born 2013-03-20 (patient ID 79021b82-f370-50bb-c5a1-7333816d683f).\nVisit date: 2026-04-29.\nVisit type: Encounter for check up.\nClinician: Willian Batz (General Practice).\nFacility: BOSTON MEDICAL CENTER CORPORATION-, WINTHROP, MA."
+  },
+  {
+    "doc_id": "79021b82-f370-50bb-1af3-0d345e45b859",
+    "patient_id": "79021b82-f370-50bb-c5a1-7333816d683f",
+    "document_type": "Office Visit Note",
+    "date": "2026-04-29",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Evette Farrell - 2026-04-29",
+    "content": "Seen for Gingivitis."
+  },
+  {
+    "doc_id": "79021b82-f370-50bb-1af3-0d345e45b859",
+    "patient_id": "79021b82-f370-50bb-c5a1-7333816d683f",
+    "document_type": "Office Visit Note",
+    "date": "2026-04-29",
+    "section": "Procedures",
+    "title": "Office Visit Note - Evette Farrell - 2026-04-29",
+    "content": "- Dental consultation and report, for Gingivitis.\n- Dental care, for Gingivitis.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Dental plain X-ray bitewing.\n- Examination of gingivae, for Gingivitis.\n- Oral health education, for Gingivitis."
+  }
+]

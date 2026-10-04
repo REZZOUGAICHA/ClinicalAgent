@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "9661a432-4630-2cd9-711f-828349ca289c",
+    "patient_id": "9661a432-4630-2cd9-142c-386845fae837",
+    "document_type": "Office Visit Note",
+    "date": "2019-07-09",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Paul Tremblay - 2019-07-09",
+    "content": "Patient: Paul Tremblay, male, born 1978-02-14 (patient ID 9661a432-4630-2cd9-142c-386845fae837).\nVisit date: 2019-07-09.\nVisit type: Encounter for check up.\nClinician: Damaris Funk (General Practice).\nFacility: BROCKTON HOSPITAL INC., BROCKTON, MA."
+  },
+  {
+    "doc_id": "9661a432-4630-2cd9-711f-828349ca289c",
+    "patient_id": "9661a432-4630-2cd9-142c-386845fae837",
+    "document_type": "Office Visit Note",
+    "date": "2019-07-09",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Paul Tremblay - 2019-07-09",
+    "content": "Seen for Gingivitis."
+  },
+  {
+    "doc_id": "9661a432-4630-2cd9-711f-828349ca289c",
+    "patient_id": "9661a432-4630-2cd9-142c-386845fae837",
+    "document_type": "Office Visit Note",
+    "date": "2019-07-09",
+    "section": "Assessment",
+    "title": "Office Visit Note - Paul Tremblay - 2019-07-09",
+    "content": "Diagnoses recorded at this visit:\n- Fractured dental filling (onset 2019-07-09), resolved 2019-07-09."
+  },
+  {
+    "doc_id": "9661a432-4630-2cd9-711f-828349ca289c",
+    "patient_id": "9661a432-4630-2cd9-142c-386845fae837",
+    "document_type": "Office Visit Note",
+    "date": "2019-07-09",
+    "section": "Procedures",
+    "title": "Office Visit Note - Paul Tremblay - 2019-07-09",
+    "content": "- Dental consultation and report, for Gingivitis.\n- Dental care, for Gingivitis.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Examination of gingivae, for Gingivitis.\n- Application of composite dental filling material to dentin of tooth following fracture of tooth, for Fractured dental filling.\n- Oral health education, for Gingivitis."
+  }
+]

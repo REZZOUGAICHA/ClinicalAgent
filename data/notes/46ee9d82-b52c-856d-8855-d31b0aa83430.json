@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "46ee9d82-b52c-856d-8855-d31b0aa83430",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Office Visit Note",
+    "date": "2026-01-19",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Shalanda Koepp - 2026-01-19",
+    "content": "Patient: Shalanda Koepp, female, born 1996-06-18 (patient ID 46ee9d82-b52c-856d-069b-5064ff052225).\nVisit date: 2026-01-19.\nVisit type: Patient-initiated encounter.\nClinician: Alysha Koch (General Practice).\nFacility: TEWKSBURY HOSPITAL, TEWKSBURY, MA."
+  },
+  {
+    "doc_id": "46ee9d82-b52c-856d-8855-d31b0aa83430",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Office Visit Note",
+    "date": "2026-01-19",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Shalanda Koepp - 2026-01-19",
+    "content": "Seen for Normal pregnancy."
+  },
+  {
+    "doc_id": "46ee9d82-b52c-856d-8855-d31b0aa83430",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Office Visit Note",
+    "date": "2026-01-19",
+    "section": "Procedures",
+    "title": "Office Visit Note - Shalanda Koepp - 2026-01-19",
+    "content": "- Counseling for termination of pregnancy, for Normal pregnancy.\n- Induced termination of pregnancy, for Normal pregnancy."
+  }
+]

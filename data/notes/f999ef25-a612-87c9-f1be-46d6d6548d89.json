@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "f999ef25-a612-87c9-f1be-46d6d6548d89",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "1951-09-03",
+    "section": "Visit Information",
+    "title": "Inpatient Discharge Summary - Evangeline Ziemann - 1951-09-03",
+    "content": "Patient: Evangeline Ziemann, female, born 1925-09-18 (patient ID f999ef25-a612-87c9-206f-aacc9d469dc8).\nVisit date: 1951-09-03.\nVisit type: Admission to surgical department.\nClinician: Nickolas Schumm (General Practice).\nFacility: ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE, FRAMINGHAM, MA."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-f1be-46d6d6548d89",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "1951-09-03",
+    "section": "Reason for Visit",
+    "title": "Inpatient Discharge Summary - Evangeline Ziemann - 1951-09-03",
+    "content": "Seen for Sterilization requested."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-f1be-46d6d6548d89",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "1951-09-03",
+    "section": "Assessment",
+    "title": "Inpatient Discharge Summary - Evangeline Ziemann - 1951-09-03",
+    "content": "Diagnoses recorded at this visit:\n- History of tubal ligation (onset 1951-09-03)."
+  }
+]

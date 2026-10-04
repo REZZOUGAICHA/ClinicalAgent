@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "7811dc30-8c86-8164-e41f-911d3b017fb6",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Office Visit Note",
+    "date": "2024-01-16",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Mignon Rau - 2024-01-16",
+    "content": "Patient: Mignon Rau, female, born 1970-04-21 (patient ID 7811dc30-8c86-8164-6c33-6b6f464745ef).\nVisit date: 2024-01-16.\nVisit type: Encounter for check up.\nClinician: Rudolf Vandervort (General Practice).\nFacility: BETH ISRAEL DEACONESS HOSPITAL MILTON INC, MILTON, MA."
+  },
+  {
+    "doc_id": "7811dc30-8c86-8164-e41f-911d3b017fb6",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Office Visit Note",
+    "date": "2024-01-16",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Mignon Rau - 2024-01-16",
+    "content": "Seen for Gingivitis."
+  },
+  {
+    "doc_id": "7811dc30-8c86-8164-e41f-911d3b017fb6",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Office Visit Note",
+    "date": "2024-01-16",
+    "section": "Procedures",
+    "title": "Office Visit Note - Mignon Rau - 2024-01-16",
+    "content": "- Dental consultation and report, for Gingivitis.\n- Dental care, for Gingivitis.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Dental plain X-ray bitewing.\n- Examination of gingivae, for Gingivitis.\n- Oral health education, for Gingivitis."
+  }
+]

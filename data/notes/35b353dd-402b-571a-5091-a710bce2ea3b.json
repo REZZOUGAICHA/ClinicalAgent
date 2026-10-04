@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "35b353dd-402b-571a-5091-a710bce2ea3b",
+    "patient_id": "35b353dd-402b-571a-d67a-af0a104d0854",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1961-11-11",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Jody Monahan - 1961-11-11",
+    "content": "Patient: Jody Monahan, male, born 1943-09-18 (patient ID 35b353dd-402b-571a-d67a-af0a104d0854).\nVisit date: 1961-11-11.\nVisit type: General examination of patient.\nClinician: Georgianne Howe (General Practice).\nFacility: WOODLAND INTERNISTS P.C., STONEHAM, MA."
+  },
+  {
+    "doc_id": "35b353dd-402b-571a-5091-a710bce2ea3b",
+    "patient_id": "35b353dd-402b-571a-d67a-af0a104d0854",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1961-11-11",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Jody Monahan - 1961-11-11",
+    "content": "Diagnoses recorded at this visit:\n- Housing unsatisfactory (onset 1961-11-11).\n- Received higher education (onset 1961-11-11)."
+  }
+]

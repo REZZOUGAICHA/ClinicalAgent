@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "f999ef25-a612-87c9-bff7-c9062a5dad3f",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Office Visit Note",
+    "date": "1974-04-12",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Evangeline Ziemann - 1974-04-12",
+    "content": "Patient: Evangeline Ziemann, female, born 1925-09-18 (patient ID f999ef25-a612-87c9-206f-aacc9d469dc8).\nVisit date: 1974-04-12.\nVisit type: Encounter for problem.\nClinician: Nickolas Schumm (General Practice).\nFacility: ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE, FRAMINGHAM, MA."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-bff7-c9062a5dad3f",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Office Visit Note",
+    "date": "1974-04-12",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Evangeline Ziemann - 1974-04-12",
+    "content": "Seen for Loss of teeth."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-bff7-c9062a5dad3f",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Office Visit Note",
+    "date": "1974-04-12",
+    "section": "Assessment",
+    "title": "Office Visit Note - Evangeline Ziemann - 1974-04-12",
+    "content": "Diagnoses recorded at this visit:\n- Loss of teeth (onset 1974-04-12)."
+  }
+]

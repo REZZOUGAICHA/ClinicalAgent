@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "f32a088b-988b-d7d5-865b-dd3f0a84a16d",
+    "patient_id": "f32a088b-988b-d7d5-008b-89ea4ed1fc48",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2018-02-14",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Wayne McLaughlin - 2018-02-14",
+    "content": "Patient: Wayne McLaughlin, male, born 2006-08-16 (patient ID f32a088b-988b-d7d5-008b-89ea4ed1fc48).\nVisit date: 2018-02-14.\nVisit type: Encounter for check up.\nClinician: Chantell Krajcik (General Practice).\nFacility: FRANCISCAN HOSPITAL FOR CHILDREN INC, BOSTON, MA."
+  },
+  {
+    "doc_id": "f32a088b-988b-d7d5-865b-dd3f0a84a16d",
+    "patient_id": "f32a088b-988b-d7d5-008b-89ea4ed1fc48",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2018-02-14",
+    "section": "Assessment",
+    "title": "Outpatient Procedure Note - Wayne McLaughlin - 2018-02-14",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2018-02-14), resolved 2018-02-14."
+  },
+  {
+    "doc_id": "f32a088b-988b-d7d5-865b-dd3f0a84a16d",
+    "patient_id": "f32a088b-988b-d7d5-008b-89ea4ed1fc48",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2018-02-14",
+    "section": "Vital Signs",
+    "title": "Outpatient Procedure Note - Wayne McLaughlin - 2018-02-14",
+    "content": "- Body Height: 149.3 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0\n- Body Weight: 48.5 kg\n- Body mass index (BMI) [Ratio]: 21.7 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 90.5 %\n- Diastolic Blood Pressure: 99.0 mm[Hg]\n- Systolic Blood Pressure: 109.0 mm[Hg]\n- Heart rate: 68.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "f32a088b-988b-d7d5-865b-dd3f0a84a16d",
+    "patient_id": "f32a088b-988b-d7d5-008b-89ea4ed1fc48",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2018-02-14",
+    "section": "Procedures",
+    "title": "Outpatient Procedure Note - Wayne McLaughlin - 2018-02-14",
+    "content": "- Medication reconciliation."
+  },
+  {
+    "doc_id": "f32a088b-988b-d7d5-865b-dd3f0a84a16d",
+    "patient_id": "f32a088b-988b-d7d5-008b-89ea4ed1fc48",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2018-02-14",
+    "section": "Medications",
+    "title": "Outpatient Procedure Note - Wayne McLaughlin - 2018-02-14",
+    "content": "Medications prescribed at this visit:\n- 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent], started 2018-02-14, for Childhood asthma; stopped 2018-07-25.\n- albuterol 0.83 MG/ML Inhalation Solution, started 2018-02-14, for Childhood asthma; stopped 2018-07-25."
+  }
+]

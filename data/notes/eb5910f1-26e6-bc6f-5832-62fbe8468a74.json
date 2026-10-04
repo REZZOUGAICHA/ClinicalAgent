@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "eb5910f1-26e6-bc6f-5832-62fbe8468a74",
+    "patient_id": "eb5910f1-26e6-bc6f-b300-716eae678d6f",
+    "document_type": "Office Visit Note",
+    "date": "2024-10-01",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Larissa Bins - 2024-10-01",
+    "content": "Patient: Larissa Bins, female, born 1995-04-25 (patient ID eb5910f1-26e6-bc6f-b300-716eae678d6f).\nVisit date: 2024-10-01.\nVisit type: Prenatal initial visit.\nClinician: Jackelyn Pacocha (General Practice).\nFacility: WP ACQUISITION SUB LLC, HAVERHILL, MA."
+  },
+  {
+    "doc_id": "eb5910f1-26e6-bc6f-5832-62fbe8468a74",
+    "patient_id": "eb5910f1-26e6-bc6f-b300-716eae678d6f",
+    "document_type": "Office Visit Note",
+    "date": "2024-10-01",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Larissa Bins - 2024-10-01",
+    "content": "Seen for Normal pregnancy."
+  },
+  {
+    "doc_id": "eb5910f1-26e6-bc6f-5832-62fbe8468a74",
+    "patient_id": "eb5910f1-26e6-bc6f-b300-716eae678d6f",
+    "document_type": "Office Visit Note",
+    "date": "2024-10-01",
+    "section": "Assessment",
+    "title": "Office Visit Note - Larissa Bins - 2024-10-01",
+    "content": "Diagnoses recorded at this visit:\n- Normal pregnancy (onset 2024-10-01), resolved 2025-05-13."
+  },
+  {
+    "doc_id": "eb5910f1-26e6-bc6f-5832-62fbe8468a74",
+    "patient_id": "eb5910f1-26e6-bc6f-b300-716eae678d6f",
+    "document_type": "Office Visit Note",
+    "date": "2024-10-01",
+    "section": "Procedures",
+    "title": "Office Visit Note - Larissa Bins - 2024-10-01",
+    "content": "- Standard pregnancy test, for Normal pregnancy.\n- Ultrasound scan for fetal viability, for Normal pregnancy.\n- Evaluation of uterine fundal height, for Normal pregnancy.\n- Auscultation of the fetal heart, for Normal pregnancy.\n- Blood group typing, for Normal pregnancy.\n- Hemogram  automated  with red blood cells  white blood cells  hemoglobin  hematocrit  indices  platelet count  and manual white blood cell differential, for Normal pregnancy.\n- Hepatitis B surface antigen measurement, for Normal pregnancy.\n- Human immunodeficiency virus antigen test, for Normal pregnancy.\n- Chlamydia antigen test, for Normal pregnancy.\n- Gonorrhea infection titer test, for Normal pregnancy.\n- Syphilis infectious titer test, for Normal pregnancy.\n- Urine culture, for Normal pregnancy.\n- Cytopathology procedure  preparation of smear  genital source, for Normal pregnancy.\n- Urine screening test for diabetes, for Normal pregnancy.\n- Hepatitis C antibody  confirmatory test, for Normal pregnancy.\n- Rubella screening test, for Normal pregnancy.\n- Measurement of Varicella-zoster virus antibody, for Normal pregnancy.\n- Skin test for tuberculosis  Tine test, for Normal pregnancy.\n- Urinalysis  protein  qualitative, for Normal pregnancy.\n- Physical examination procedure, for Normal pregnancy."
+  },
+  {
+    "doc_id": "eb5910f1-26e6-bc6f-5832-62fbe8468a74",
+    "patient_id": "eb5910f1-26e6-bc6f-b300-716eae678d6f",
+    "document_type": "Office Visit Note",
+    "date": "2024-10-01",
+    "section": "Plan",
+    "title": "Office Visit Note - Larissa Bins - 2024-10-01",
+    "content": "- Routine antenatal care, started 2024-10-01, ended 2025-05-13."
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "ba419d35-0dfe-8af7-3e67-b42cecdac6ce",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Office Visit Note",
+    "date": "2014-12-19",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Corie Kohler - 2014-12-19",
+    "content": "Patient: Corie Kohler, female, born 1925-09-18 (patient ID ba419d35-0dfe-8af7-347c-eebf02485a56).\nVisit date: 2014-12-19.\nVisit type: Encounter for problem.\nClinician: Maricarmen Delafuente (General Practice).\nFacility: ARBOUR-FULLER HOSPITAL, SOUTH ATTLEBORO, MA."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-3e67-b42cecdac6ce",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Office Visit Note",
+    "date": "2014-12-19",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Corie Kohler - 2014-12-19",
+    "content": "Seen for Chronic kidney disease stage 4."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-3e67-b42cecdac6ce",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Office Visit Note",
+    "date": "2014-12-19",
+    "section": "Vital Signs",
+    "title": "Office Visit Note - Corie Kohler - 2014-12-19",
+    "content": "- Weight difference [Mass difference] --pre dialysis - post dialysis: 3.7 kg\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 6.0"
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-3e67-b42cecdac6ce",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Office Visit Note",
+    "date": "2014-12-19",
+    "section": "Procedures",
+    "title": "Office Visit Note - Corie Kohler - 2014-12-19",
+    "content": "- Renal dialysis, for Chronic kidney disease stage 4."
+  }
+]

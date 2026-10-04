@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "150a8a76-1563-717e-1479-aa9ab8911256",
+    "patient_id": "150a8a76-1563-717e-bf0f-f52045675f46",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1966-05-02",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Diego Armijo - 1966-05-02",
+    "content": "Patient: Diego Armijo, male, born 1947-03-03 (patient ID 150a8a76-1563-717e-bf0f-f52045675f46).\nVisit date: 1966-05-02.\nVisit type: Death Certification.\nClinician: Elijah White (General Practice).\nFacility: MELROSE FAMILY OPTICIANS LLC, MELROSE, MA."
+  },
+  {
+    "doc_id": "150a8a76-1563-717e-1479-aa9ab8911256",
+    "patient_id": "150a8a76-1563-717e-bf0f-f52045675f46",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1966-05-02",
+    "section": "Reason for Visit",
+    "title": "Annual Wellness Visit Note - Diego Armijo - 1966-05-02",
+    "content": "Seen for Sudden cardiac death."
+  }
+]

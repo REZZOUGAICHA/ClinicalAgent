@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "47d390c6-a1a2-1a80-196a-ebdb2fb21059",
+    "patient_id": "47d390c6-a1a2-1a80-dd1d-9722c7b24159",
+    "document_type": "Emergency Department Note",
+    "date": "2019-12-16",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Demarcus Jones - 2019-12-16",
+    "content": "Patient: Demarcus Jones, male, born 2009-03-07 (patient ID 47d390c6-a1a2-1a80-dd1d-9722c7b24159).\nVisit date: 2019-12-16.\nVisit type: Emergency room admission.\nClinician: Jesenia Bednar (General Practice).\nFacility: PENACOOK PLACE INC, HAVERHILL, MA."
+  },
+  {
+    "doc_id": "47d390c6-a1a2-1a80-196a-ebdb2fb21059",
+    "patient_id": "47d390c6-a1a2-1a80-dd1d-9722c7b24159",
+    "document_type": "Emergency Department Note",
+    "date": "2019-12-16",
+    "section": "Reason for Visit",
+    "title": "Emergency Department Note - Demarcus Jones - 2019-12-16",
+    "content": "Seen for Fracture of bone."
+  },
+  {
+    "doc_id": "47d390c6-a1a2-1a80-196a-ebdb2fb21059",
+    "patient_id": "47d390c6-a1a2-1a80-dd1d-9722c7b24159",
+    "document_type": "Emergency Department Note",
+    "date": "2019-12-16",
+    "section": "Assessment",
+    "title": "Emergency Department Note - Demarcus Jones - 2019-12-16",
+    "content": "Diagnoses recorded at this visit:\n- Fracture of bone (onset 2019-12-16), resolved 2020-01-25.\n- Fracture of forearm (onset 2019-12-16), resolved 2020-01-25."
+  },
+  {
+    "doc_id": "47d390c6-a1a2-1a80-196a-ebdb2fb21059",
+    "patient_id": "47d390c6-a1a2-1a80-dd1d-9722c7b24159",
+    "document_type": "Emergency Department Note",
+    "date": "2019-12-16",
+    "section": "Procedures",
+    "title": "Emergency Department Note - Demarcus Jones - 2019-12-16",
+    "content": "- Plain X-ray of humerus.\n- Bone immobilization, for Fracture of forearm."
+  },
+  {
+    "doc_id": "47d390c6-a1a2-1a80-196a-ebdb2fb21059",
+    "patient_id": "47d390c6-a1a2-1a80-dd1d-9722c7b24159",
+    "document_type": "Emergency Department Note",
+    "date": "2019-12-16",
+    "section": "Medications",
+    "title": "Emergency Department Note - Demarcus Jones - 2019-12-16",
+    "content": "Medications prescribed at this visit:\n- Ibuprofen 100 MG Oral Tablet, started 2019-12-16; stopped 2020-01-25."
+  },
+  {
+    "doc_id": "47d390c6-a1a2-1a80-196a-ebdb2fb21059",
+    "patient_id": "47d390c6-a1a2-1a80-dd1d-9722c7b24159",
+    "document_type": "Emergency Department Note",
+    "date": "2019-12-16",
+    "section": "Plan",
+    "title": "Emergency Department Note - Demarcus Jones - 2019-12-16",
+    "content": "- Fracture care for Fracture of forearm, started 2019-12-16, ended 2020-01-25."
+  }
+]

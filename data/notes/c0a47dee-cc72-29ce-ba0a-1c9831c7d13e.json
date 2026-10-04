@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "c0a47dee-cc72-29ce-ba0a-1c9831c7d13e",
+    "patient_id": "c0a47dee-cc72-29ce-df5a-ea6d306c36a4",
+    "document_type": "Office Visit Note",
+    "date": "2017-05-01",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Jonathan Carroll - 2017-05-01",
+    "content": "Patient: Jonathan Carroll, male, born 1987-02-23 (patient ID c0a47dee-cc72-29ce-df5a-ea6d306c36a4).\nVisit date: 2017-05-01.\nVisit type: Encounter for symptom.\nClinician: Tabatha Roob (General Practice).\nFacility: STEWARD ST. ANNES HOSPITAL CORPORATION, FALL RIVER, MA."
+  },
+  {
+    "doc_id": "c0a47dee-cc72-29ce-ba0a-1c9831c7d13e",
+    "patient_id": "c0a47dee-cc72-29ce-df5a-ea6d306c36a4",
+    "document_type": "Office Visit Note",
+    "date": "2017-05-01",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Jonathan Carroll - 2017-05-01",
+    "content": "Seen for Acute bronchitis."
+  },
+  {
+    "doc_id": "c0a47dee-cc72-29ce-ba0a-1c9831c7d13e",
+    "patient_id": "c0a47dee-cc72-29ce-df5a-ea6d306c36a4",
+    "document_type": "Office Visit Note",
+    "date": "2017-05-01",
+    "section": "Assessment",
+    "title": "Office Visit Note - Jonathan Carroll - 2017-05-01",
+    "content": "Diagnoses recorded at this visit:\n- Acute bronchitis (onset 2017-05-01), resolved 2017-05-08."
+  },
+  {
+    "doc_id": "c0a47dee-cc72-29ce-ba0a-1c9831c7d13e",
+    "patient_id": "c0a47dee-cc72-29ce-df5a-ea6d306c36a4",
+    "document_type": "Office Visit Note",
+    "date": "2017-05-01",
+    "section": "Procedures",
+    "title": "Office Visit Note - Jonathan Carroll - 2017-05-01",
+    "content": "- Measurement of respiratory function, for Acute bronchitis."
+  },
+  {
+    "doc_id": "c0a47dee-cc72-29ce-ba0a-1c9831c7d13e",
+    "patient_id": "c0a47dee-cc72-29ce-df5a-ea6d306c36a4",
+    "document_type": "Office Visit Note",
+    "date": "2017-05-01",
+    "section": "Medications",
+    "title": "Office Visit Note - Jonathan Carroll - 2017-05-01",
+    "content": "Medications prescribed at this visit:\n- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution, started 2017-05-01, for Acute bronchitis; stopped 2017-05-08."
+  },
+  {
+    "doc_id": "c0a47dee-cc72-29ce-ba0a-1c9831c7d13e",
+    "patient_id": "c0a47dee-cc72-29ce-df5a-ea6d306c36a4",
+    "document_type": "Office Visit Note",
+    "date": "2017-05-01",
+    "section": "Plan",
+    "title": "Office Visit Note - Jonathan Carroll - 2017-05-01",
+    "content": "- Respiratory therapy, started 2017-05-01, ended 2018-05-07."
+  }
+]

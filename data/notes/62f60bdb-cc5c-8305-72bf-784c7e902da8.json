@@ -1,0 +1,65 @@
+[
+  {
+    "doc_id": "62f60bdb-cc5c-8305-72bf-784c7e902da8",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-04-16",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Angel Frami - 2025-04-16",
+    "content": "Patient: Angel Frami, female, born 1975-10-22 (patient ID 62f60bdb-cc5c-8305-b98b-f2b229a55eca).\nVisit date: 2025-04-16.\nVisit type: General examination of patient.\nClinician: Cody Ratke (General Practice).\nFacility: HEALTHFIRST FAMILY CARE CENTER INC, FALL RIVER, MA."
+  },
+  {
+    "doc_id": "62f60bdb-cc5c-8305-72bf-784c7e902da8",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-04-16",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Angel Frami - 2025-04-16",
+    "content": "Diagnoses recorded at this visit:\n- Part-time employment (onset 2025-04-16), resolved 2026-04-22.\n- Gingivitis (onset 2025-04-16), resolved 2025-05-01."
+  },
+  {
+    "doc_id": "62f60bdb-cc5c-8305-72bf-784c7e902da8",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-04-16",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Angel Frami - 2025-04-16",
+    "content": "- Body Height: 152.6 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0\n- Body Weight: 50.7 kg\n- Body mass index (BMI) [Ratio]: 21.8 kg/m2\n- Diastolic Blood Pressure: 82.0 mm[Hg]\n- Systolic Blood Pressure: 123.0 mm[Hg]\n- Heart rate: 79.0 /min\n- Respiratory rate: 14.0 /min"
+  },
+  {
+    "doc_id": "62f60bdb-cc5c-8305-72bf-784c7e902da8",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-04-16",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Angel Frami - 2025-04-16",
+    "content": "- Hemoglobin A1c/Hemoglobin.total in Blood: 6.2 %\n- Glucose [Mass/volume] in Blood: 65.6 mg/dL\n- Urea nitrogen [Mass/volume] in Blood: 9.9 mg/dL\n- Creatinine [Mass/volume] in Blood: 0.5 mg/dL\n- Calcium [Mass/volume] in Blood: 10.1 mg/dL\n- Sodium [Moles/volume] in Blood: 143.1 mmol/L\n- Potassium [Moles/volume] in Blood: 4.5 mmol/L\n- Chloride [Moles/volume] in Blood: 109.5 mmol/L\n- Carbon dioxide  total [Moles/volume] in Blood: 23.9 mmol/L\n- Cholesterol [Mass/volume] in Serum or Plasma: 291.1 mg/dL\n- Triglyceride [Mass/volume] in Serum or Plasma: 113.1 mg/dL\n- Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay: 206.1 mg/dL\n- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 62.3 mg/dL\n- Leukocytes [#/volume] in Blood by Automated count: 8.0 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 5.2 10*6/uL\n- Hemoglobin [Mass/volume] in Blood: 17.3 g/dL\n- Hematocrit [Volume Fraction] of Blood by Automated count: 45.1 %\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 87.1 fL\n- MCH [Entitic mass] by Automated count: 30.2 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 33.2 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 44.4 fL\n- Platelets [#/volume] in Blood by Automated count: 303.1 10*3/uL\n- Platelet distribution width [Entitic volume] in Blood by Automated count: 13.9 fL\n- Platelet [Entitic mean volume] in Blood by Automated count: 9.5 fL"
+  },
+  {
+    "doc_id": "62f60bdb-cc5c-8305-72bf-784c7e902da8",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-04-16",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Angel Frami - 2025-04-16",
+    "content": "- Assessment of health and social care needs.\n- Depression screening.\n- Depression screening.\n- Assessment of substance use.\n- Screening for drug abuse.\n- Patient referral for dental care, for Gingivitis."
+  },
+  {
+    "doc_id": "62f60bdb-cc5c-8305-72bf-784c7e902da8",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-04-16",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Angel Frami - 2025-04-16",
+    "content": "Medications prescribed at this visit:\n- Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet, started 2025-04-16; stopped 2025-12-31.\n- Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin], started 2025-04-16; stopped 2025-12-31.\n- 72 HR Fentanyl 0.025 MG/HR Transdermal System, started 2025-04-16; stopped 2025-12-31."
+  },
+  {
+    "doc_id": "62f60bdb-cc5c-8305-72bf-784c7e902da8",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-04-16",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Angel Frami - 2025-04-16",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

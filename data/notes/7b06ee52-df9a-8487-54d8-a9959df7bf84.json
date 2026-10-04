@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "7b06ee52-df9a-8487-54d8-a9959df7bf84",
+    "patient_id": "7b06ee52-df9a-8487-0be6-dff27cc7d519",
+    "document_type": "Emergency Department Note",
+    "date": "2021-06-14",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Ressie Nader - 2021-06-14",
+    "content": "Patient: Ressie Nader, female, born 2001-08-06 (patient ID 7b06ee52-df9a-8487-0be6-dff27cc7d519).\nVisit date: 2021-06-14.\nVisit type: Obstetric emergency hospital admission.\nClinician: Kerrie Bergstrom (General Practice).\nFacility: LIFE CARE CENTER OF ATTLEBORO, ATTLEBORO, MA."
+  },
+  {
+    "doc_id": "7b06ee52-df9a-8487-54d8-a9959df7bf84",
+    "patient_id": "7b06ee52-df9a-8487-0be6-dff27cc7d519",
+    "document_type": "Emergency Department Note",
+    "date": "2021-06-14",
+    "section": "Reason for Visit",
+    "title": "Emergency Department Note - Ressie Nader - 2021-06-14",
+    "content": "Seen for Normal pregnancy."
+  },
+  {
+    "doc_id": "7b06ee52-df9a-8487-54d8-a9959df7bf84",
+    "patient_id": "7b06ee52-df9a-8487-0be6-dff27cc7d519",
+    "document_type": "Emergency Department Note",
+    "date": "2021-06-14",
+    "section": "Procedures",
+    "title": "Emergency Department Note - Ressie Nader - 2021-06-14",
+    "content": "- Human parturition  function, for Normal pregnancy."
+  }
+]

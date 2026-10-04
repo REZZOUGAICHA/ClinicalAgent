@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "f999ef25-a612-87c9-1282-64591bcc2ab8",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1956-11-30",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Evangeline Ziemann - 1956-11-30",
+    "content": "Patient: Evangeline Ziemann, female, born 1925-09-18 (patient ID f999ef25-a612-87c9-206f-aacc9d469dc8).\nVisit date: 1956-11-30.\nVisit type: General examination of patient.\nClinician: Sharron Okuneva (General Practice).\nFacility: A&A HEALTHCARE LLC, MILFORD, MA."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-1282-64591bcc2ab8",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1956-11-30",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Evangeline Ziemann - 1956-11-30",
+    "content": "Diagnoses recorded at this visit:\n- Essential hypertension (onset 1956-11-30)."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-1282-64591bcc2ab8",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1956-11-30",
+    "section": "Plan",
+    "title": "Annual Wellness Visit Note - Evangeline Ziemann - 1956-11-30",
+    "content": "- Lifestyle education regarding hypertension for Essential hypertension, started 1956-11-30."
+  }
+]

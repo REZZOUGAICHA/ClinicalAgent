@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "c0a47dee-cc72-29ce-4b7d-7236fe5cefe9",
+    "patient_id": "c0a47dee-cc72-29ce-df5a-ea6d306c36a4",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2021-04-12",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Jonathan Carroll - 2021-04-12",
+    "content": "Patient: Jonathan Carroll, male, born 1987-02-23 (patient ID c0a47dee-cc72-29ce-df5a-ea6d306c36a4).\nVisit date: 2021-04-12.\nVisit type: Administration of vaccine to produce active immunity.\nClinician: Tabatha Roob (General Practice).\nFacility: STEWARD ST. ANNES HOSPITAL CORPORATION, FALL RIVER, MA."
+  },
+  {
+    "doc_id": "c0a47dee-cc72-29ce-4b7d-7236fe5cefe9",
+    "patient_id": "c0a47dee-cc72-29ce-df5a-ea6d306c36a4",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2021-04-12",
+    "section": "Immunizations",
+    "title": "Outpatient Procedure Note - Jonathan Carroll - 2021-04-12",
+    "content": "- COVID-19 mRNA LNP-S PF 100 mcg/0.5mL dose or 50 mcg/0.25mL dose."
+  }
+]

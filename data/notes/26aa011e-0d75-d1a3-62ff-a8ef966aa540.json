@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "26aa011e-0d75-d1a3-62ff-a8ef966aa540",
+    "patient_id": "26aa011e-0d75-d1a3-3c5a-560a9450cc9d",
+    "document_type": "Office Visit Note",
+    "date": "2018-07-16",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Jesse Wolf - 2018-07-16",
+    "content": "Patient: Jesse Wolf, male, born 2010-04-04 (patient ID 26aa011e-0d75-d1a3-3c5a-560a9450cc9d).\nVisit date: 2018-07-16.\nVisit type: Encounter for symptom.\nClinician: Marcus Schamberger (General Practice).\nFacility: THE LOWELL GENERAL HOSPITAL, WESTFORD, MA."
+  },
+  {
+    "doc_id": "26aa011e-0d75-d1a3-62ff-a8ef966aa540",
+    "patient_id": "26aa011e-0d75-d1a3-3c5a-560a9450cc9d",
+    "document_type": "Office Visit Note",
+    "date": "2018-07-16",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Jesse Wolf - 2018-07-16",
+    "content": "Seen for Acute viral pharyngitis."
+  },
+  {
+    "doc_id": "26aa011e-0d75-d1a3-62ff-a8ef966aa540",
+    "patient_id": "26aa011e-0d75-d1a3-3c5a-560a9450cc9d",
+    "document_type": "Office Visit Note",
+    "date": "2018-07-16",
+    "section": "Assessment",
+    "title": "Office Visit Note - Jesse Wolf - 2018-07-16",
+    "content": "Diagnoses recorded at this visit:\n- Acute viral pharyngitis (onset 2018-07-16), resolved 2018-07-26."
+  },
+  {
+    "doc_id": "26aa011e-0d75-d1a3-62ff-a8ef966aa540",
+    "patient_id": "26aa011e-0d75-d1a3-3c5a-560a9450cc9d",
+    "document_type": "Office Visit Note",
+    "date": "2018-07-16",
+    "section": "Vital Signs",
+    "title": "Office Visit Note - Jesse Wolf - 2018-07-16",
+    "content": "- Body temperature: 38.0 \u00b0C"
+  },
+  {
+    "doc_id": "26aa011e-0d75-d1a3-62ff-a8ef966aa540",
+    "patient_id": "26aa011e-0d75-d1a3-3c5a-560a9450cc9d",
+    "document_type": "Office Visit Note",
+    "date": "2018-07-16",
+    "section": "Procedures",
+    "title": "Office Visit Note - Jesse Wolf - 2018-07-16",
+    "content": "- Throat culture, for Acute viral pharyngitis."
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "080b069b-5108-46b6-b156-d2db7f829ca6",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Office Visit Note",
+    "date": "1972-07-11",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Chester Aufderhar - 1972-07-11",
+    "content": "Patient: Chester Aufderhar, male, born 1966-11-22 (patient ID 080b069b-5108-46b6-ecef-6aacd3b9ef3f).\nVisit date: 1972-07-11.\nVisit type: Encounter for symptom.\nClinician: Harland Ryan (General Practice).\nFacility: SOUTHCOAST HOSPITAL GROUP INC, WAREHAM, MA."
+  },
+  {
+    "doc_id": "080b069b-5108-46b6-b156-d2db7f829ca6",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Office Visit Note",
+    "date": "1972-07-11",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Chester Aufderhar - 1972-07-11",
+    "content": "Seen for Perennial allergic rhinitis with seasonal variation."
+  },
+  {
+    "doc_id": "080b069b-5108-46b6-b156-d2db7f829ca6",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Office Visit Note",
+    "date": "1972-07-11",
+    "section": "Medications",
+    "title": "Office Visit Note - Chester Aufderhar - 1972-07-11",
+    "content": "Medications prescribed at this visit:\n- diphenhydrAMINE Hydrochloride 25 MG Oral Tablet, started 1972-07-11; no stop date recorded."
+  }
+]

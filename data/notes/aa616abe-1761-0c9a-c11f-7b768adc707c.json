@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "aa616abe-1761-0c9a-c11f-7b768adc707c",
+    "patient_id": "aa616abe-1761-0c9a-7959-07544679dafd",
+    "document_type": "Emergency Department Note",
+    "date": "2007-10-17",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Jona Robel - 2007-10-17",
+    "content": "Patient: Jona Robel, female, born 1958-11-15 (patient ID aa616abe-1761-0c9a-7959-07544679dafd).\nVisit date: 2007-10-17.\nVisit type: Emergency room admission.\nClinician: Lane Gutmann (General Practice).\nFacility: GREENWOOD NURSING & REHABILITATION CENTER, WAKEFIELD, MA."
+  },
+  {
+    "doc_id": "aa616abe-1761-0c9a-c11f-7b768adc707c",
+    "patient_id": "aa616abe-1761-0c9a-7959-07544679dafd",
+    "document_type": "Emergency Department Note",
+    "date": "2007-10-17",
+    "section": "Reason for Visit",
+    "title": "Emergency Department Note - Jona Robel - 2007-10-17",
+    "content": "Seen for Injury of neck."
+  },
+  {
+    "doc_id": "aa616abe-1761-0c9a-c11f-7b768adc707c",
+    "patient_id": "aa616abe-1761-0c9a-7959-07544679dafd",
+    "document_type": "Emergency Department Note",
+    "date": "2007-10-17",
+    "section": "Assessment",
+    "title": "Emergency Department Note - Jona Robel - 2007-10-17",
+    "content": "Diagnoses recorded at this visit:\n- Injury of neck (onset 2007-10-17), resolved 2007-12-18.\n- Whiplash injury to neck (onset 2007-10-17), resolved 2007-12-18."
+  },
+  {
+    "doc_id": "aa616abe-1761-0c9a-c11f-7b768adc707c",
+    "patient_id": "aa616abe-1761-0c9a-7959-07544679dafd",
+    "document_type": "Emergency Department Note",
+    "date": "2007-10-17",
+    "section": "Medications",
+    "title": "Emergency Department Note - Jona Robel - 2007-10-17",
+    "content": "Medications prescribed at this visit:\n- Acetaminophen 325 MG Oral Tablet, started 2007-10-17; stopped 2007-12-18."
+  },
+  {
+    "doc_id": "aa616abe-1761-0c9a-c11f-7b768adc707c",
+    "patient_id": "aa616abe-1761-0c9a-7959-07544679dafd",
+    "document_type": "Emergency Department Note",
+    "date": "2007-10-17",
+    "section": "Plan",
+    "title": "Emergency Department Note - Jona Robel - 2007-10-17",
+    "content": "- Musculoskeletal care, started 2007-10-17, ended 2007-12-18."
+  }
+]

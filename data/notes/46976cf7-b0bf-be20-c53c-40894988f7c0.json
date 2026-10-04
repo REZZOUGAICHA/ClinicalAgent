@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "46976cf7-b0bf-be20-c53c-40894988f7c0",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Office Visit Note",
+    "date": "2024-11-15",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Lindsay Zieme - 2024-11-15",
+    "content": "Patient: Lindsay Zieme, female, born 2007-09-14 (patient ID 46976cf7-b0bf-be20-39a5-9f425a52886d).\nVisit date: 2024-11-15.\nVisit type: Encounter for symptom.\nClinician: Otha Roberts (General Practice).\nFacility: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC, WORCESTER, MA."
+  },
+  {
+    "doc_id": "46976cf7-b0bf-be20-c53c-40894988f7c0",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Office Visit Note",
+    "date": "2024-11-15",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Lindsay Zieme - 2024-11-15",
+    "content": "Seen for Acute viral pharyngitis."
+  },
+  {
+    "doc_id": "46976cf7-b0bf-be20-c53c-40894988f7c0",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Office Visit Note",
+    "date": "2024-11-15",
+    "section": "Assessment",
+    "title": "Office Visit Note - Lindsay Zieme - 2024-11-15",
+    "content": "Diagnoses recorded at this visit:\n- Acute viral pharyngitis (onset 2024-11-15), resolved 2024-11-22."
+  },
+  {
+    "doc_id": "46976cf7-b0bf-be20-c53c-40894988f7c0",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Office Visit Note",
+    "date": "2024-11-15",
+    "section": "Vital Signs",
+    "title": "Office Visit Note - Lindsay Zieme - 2024-11-15",
+    "content": "- Body temperature: 38.0 \u00b0C"
+  }
+]

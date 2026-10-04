@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "c86c400e-ff88-a1e3-3f4c-8f29b8873ba0",
+    "patient_id": "c86c400e-ff88-a1e3-2e23-caa4d8311f47",
+    "document_type": "Outpatient Procedure Note",
+    "date": "1972-09-18",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Cristobal Montero - 1972-09-18",
+    "content": "Patient: Cristobal Montero, male, born 1947-03-03 (patient ID c86c400e-ff88-a1e3-2e23-caa4d8311f47).\nVisit date: 1972-09-18.\nVisit type: Encounter for check up.\nClinician: Lorette Hauck (General Practice).\nFacility: WHITTIER REHABILTATION HOSPITAL, LYNN, MA."
+  },
+  {
+    "doc_id": "c86c400e-ff88-a1e3-3f4c-8f29b8873ba0",
+    "patient_id": "c86c400e-ff88-a1e3-2e23-caa4d8311f47",
+    "document_type": "Outpatient Procedure Note",
+    "date": "1972-09-18",
+    "section": "Assessment",
+    "title": "Outpatient Procedure Note - Cristobal Montero - 1972-09-18",
+    "content": "Diagnoses recorded at this visit:\n- Full-time employment (onset 1972-09-18)."
+  }
+]

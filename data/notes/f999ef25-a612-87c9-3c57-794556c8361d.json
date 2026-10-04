@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "f999ef25-a612-87c9-3c57-794556c8361d",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2006-09-15",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Evangeline Ziemann - 2006-09-15",
+    "content": "Patient: Evangeline Ziemann, female, born 1925-09-18 (patient ID f999ef25-a612-87c9-206f-aacc9d469dc8).\nVisit date: 2006-09-15.\nVisit type: General examination of patient.\nClinician: Sharron Okuneva (General Practice).\nFacility: A&A HEALTHCARE LLC, MILFORD, MA."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-3c57-794556c8361d",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2006-09-15",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Evangeline Ziemann - 2006-09-15",
+    "content": "Diagnoses recorded at this visit:\n- Ischemic heart disease (onset 2006-09-15)."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-3c57-794556c8361d",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2006-09-15",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Evangeline Ziemann - 2006-09-15",
+    "content": "Medications prescribed at this visit:\n- Clopidogrel 75 MG Oral Tablet, started 2006-09-22; no stop date recorded.\n- Simvastatin 20 MG Oral Tablet, started 2006-09-22; no stop date recorded.\n- 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet, started 2006-09-22; no stop date recorded.\n- Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray, started 2006-09-22; no stop date recorded."
+  }
+]

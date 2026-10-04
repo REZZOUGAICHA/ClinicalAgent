@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-85d0-777f2c17c271",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Emergency Department Note",
+    "date": "2017-10-29",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Faustino Langworth - 2017-10-29",
+    "content": "Patient: Faustino Langworth, male, born 1998-06-17 (patient ID 5ba0a3f3-32f7-02b1-ec6a-8f568923954c).\nVisit date: 2017-10-29.\nVisit type: Emergency room admission.\nClinician: Judy Gleason (General Practice).\nFacility: CAMBRIDGE REHABILITATION & NURSING CENTER, CAMBRIDGE, MA."
+  },
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-85d0-777f2c17c271",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Emergency Department Note",
+    "date": "2017-10-29",
+    "section": "Reason for Visit",
+    "title": "Emergency Department Note - Faustino Langworth - 2017-10-29",
+    "content": "Seen for Chronic intractable migraine without aura."
+  },
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-85d0-777f2c17c271",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Emergency Department Note",
+    "date": "2017-10-29",
+    "section": "Vital Signs",
+    "title": "Emergency Department Note - Faustino Langworth - 2017-10-29",
+    "content": "- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0"
+  },
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-85d0-777f2c17c271",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Emergency Department Note",
+    "date": "2017-10-29",
+    "section": "Medications",
+    "title": "Emergency Department Note - Faustino Langworth - 2017-10-29",
+    "content": "Medications prescribed at this visit:\n- Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet, started 2017-10-29; stopped 2017-11-26."
+  }
+]

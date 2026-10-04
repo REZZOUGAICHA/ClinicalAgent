@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "5e688e99-61b3-5c88-ca0c-96cda2e36481",
+    "patient_id": "5e688e99-61b3-5c88-3f60-21df8aaced27",
+    "document_type": "Office Visit Note",
+    "date": "2022-07-23",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Wallace Effertz - 2022-07-23",
+    "content": "Patient: Wallace Effertz, male, born 2010-01-28 (patient ID 5e688e99-61b3-5c88-3f60-21df8aaced27).\nVisit date: 2022-07-23.\nVisit type: Encounter for symptom.\nClinician: Lorette Hauck (General Practice).\nFacility: WHITTIER REHABILTATION HOSPITAL, LYNN, MA."
+  },
+  {
+    "doc_id": "5e688e99-61b3-5c88-ca0c-96cda2e36481",
+    "patient_id": "5e688e99-61b3-5c88-3f60-21df8aaced27",
+    "document_type": "Office Visit Note",
+    "date": "2022-07-23",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Wallace Effertz - 2022-07-23",
+    "content": "Seen for Viral sinusitis."
+  },
+  {
+    "doc_id": "5e688e99-61b3-5c88-ca0c-96cda2e36481",
+    "patient_id": "5e688e99-61b3-5c88-3f60-21df8aaced27",
+    "document_type": "Office Visit Note",
+    "date": "2022-07-23",
+    "section": "Assessment",
+    "title": "Office Visit Note - Wallace Effertz - 2022-07-23",
+    "content": "Diagnoses recorded at this visit:\n- Viral sinusitis (onset 2022-07-23), resolved 2022-08-15."
+  }
+]

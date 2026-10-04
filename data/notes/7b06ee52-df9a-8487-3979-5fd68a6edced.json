@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "7b06ee52-df9a-8487-3979-5fd68a6edced",
+    "patient_id": "7b06ee52-df9a-8487-0be6-dff27cc7d519",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-10-09",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Ressie Nader - 2023-10-09",
+    "content": "Patient: Ressie Nader, female, born 2001-08-06 (patient ID 7b06ee52-df9a-8487-0be6-dff27cc7d519).\nVisit date: 2023-10-09.\nVisit type: General examination of patient.\nClinician: Morgan Marvin (General Practice).\nFacility: FAMILY MEDICINE ASSOCIATES OF SOUTH ATTLEBORO P.C., SOUTH ATTLEBORO, MA."
+  },
+  {
+    "doc_id": "7b06ee52-df9a-8487-3979-5fd68a6edced",
+    "patient_id": "7b06ee52-df9a-8487-0be6-dff27cc7d519",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-10-09",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Ressie Nader - 2023-10-09",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2023-10-09)."
+  },
+  {
+    "doc_id": "7b06ee52-df9a-8487-3979-5fd68a6edced",
+    "patient_id": "7b06ee52-df9a-8487-0be6-dff27cc7d519",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-10-09",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Ressie Nader - 2023-10-09",
+    "content": "- Body Height: 154.2 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0\n- Body Weight: 59.7 kg\n- Body mass index (BMI) [Ratio]: 25.1 kg/m2\n- Diastolic Blood Pressure: 95.0 mm[Hg]\n- Systolic Blood Pressure: 112.0 mm[Hg]\n- Heart rate: 81.0 /min\n- Respiratory rate: 15.0 /min"
+  },
+  {
+    "doc_id": "7b06ee52-df9a-8487-3979-5fd68a6edced",
+    "patient_id": "7b06ee52-df9a-8487-0be6-dff27cc7d519",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-10-09",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Ressie Nader - 2023-10-09",
+    "content": "- Leukocytes [#/volume] in Blood by Automated count: 8.1 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 4.5 10*6/uL\n- Hemoglobin [Mass/volume] in Blood: 12.3 g/dL\n- Hematocrit [Volume Fraction] of Blood by Automated count: 40.8 %\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 85.7 fL\n- MCH [Entitic mass] by Automated count: 32.0 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 33.2 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 44.7 fL\n- Platelets [#/volume] in Blood by Automated count: 332.5 10*3/uL\n- Platelet distribution width [Entitic volume] in Blood by Automated count: 10.3 fL\n- Platelet [Entitic mean volume] in Blood by Automated count: 12.2 fL"
+  },
+  {
+    "doc_id": "7b06ee52-df9a-8487-3979-5fd68a6edced",
+    "patient_id": "7b06ee52-df9a-8487-0be6-dff27cc7d519",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-10-09",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Ressie Nader - 2023-10-09",
+    "content": "- Assessment of health and social care needs.\n- Assessment of anxiety.\n- Screening for domestic abuse."
+  },
+  {
+    "doc_id": "7b06ee52-df9a-8487-3979-5fd68a6edced",
+    "patient_id": "7b06ee52-df9a-8487-0be6-dff27cc7d519",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-10-09",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Ressie Nader - 2023-10-09",
+    "content": "- Influenza split virus trivalent PF.\n- Td (adult) 5 Lf tetanus toxoid preservative free adsorbed.\n- Hep B adult.\n- meningococcal MCV4P."
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "d3cb6736-0991-40ed-7b26-b80b078a4884",
+    "patient_id": "d3cb6736-0991-40ed-a220-7c714aba4c37",
+    "document_type": "Office Visit Note",
+    "date": "2020-02-20",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Tristan Reichel - 2020-02-20",
+    "content": "Patient: Tristan Reichel, male, born 1982-08-01 (patient ID d3cb6736-0991-40ed-a220-7c714aba4c37).\nVisit date: 2020-02-20.\nVisit type: Encounter for symptom.\nClinician: Beatriz Monroy (General Practice).\nFacility: FIRST PSYCHIATRIC PLANNERS INC, WOBURN, MA."
+  },
+  {
+    "doc_id": "d3cb6736-0991-40ed-7b26-b80b078a4884",
+    "patient_id": "d3cb6736-0991-40ed-a220-7c714aba4c37",
+    "document_type": "Office Visit Note",
+    "date": "2020-02-20",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Tristan Reichel - 2020-02-20",
+    "content": "Seen for Acute viral pharyngitis."
+  },
+  {
+    "doc_id": "d3cb6736-0991-40ed-7b26-b80b078a4884",
+    "patient_id": "d3cb6736-0991-40ed-a220-7c714aba4c37",
+    "document_type": "Office Visit Note",
+    "date": "2020-02-20",
+    "section": "Assessment",
+    "title": "Office Visit Note - Tristan Reichel - 2020-02-20",
+    "content": "Diagnoses recorded at this visit:\n- Acute viral pharyngitis (onset 2020-02-20), resolved 2020-02-28."
+  },
+  {
+    "doc_id": "d3cb6736-0991-40ed-7b26-b80b078a4884",
+    "patient_id": "d3cb6736-0991-40ed-a220-7c714aba4c37",
+    "document_type": "Office Visit Note",
+    "date": "2020-02-20",
+    "section": "Vital Signs",
+    "title": "Office Visit Note - Tristan Reichel - 2020-02-20",
+    "content": "- Body temperature: 37.3 \u00b0C"
+  }
+]

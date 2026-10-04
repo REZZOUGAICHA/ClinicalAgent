@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "f999ef25-a612-87c9-458f-23fa20ff61b2",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Urgent Care Note",
+    "date": "2008-11-14",
+    "section": "Visit Information",
+    "title": "Urgent Care Note - Evangeline Ziemann - 2008-11-14",
+    "content": "Patient: Evangeline Ziemann, female, born 1925-09-18 (patient ID f999ef25-a612-87c9-206f-aacc9d469dc8).\nVisit date: 2008-11-14.\nVisit type: Urgent care clinic.\nClinician: Liberty Kihn (General Practice).\nFacility: WOONSOCKET URGENT CARE PC, BELLINGHAM, MA."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-458f-23fa20ff61b2",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Urgent Care Note",
+    "date": "2008-11-14",
+    "section": "Vital Signs",
+    "title": "Urgent Care Note - Evangeline Ziemann - 2008-11-14",
+    "content": "- Body Height: 154.2 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0\n- Body Weight: 65.1 kg\n- Body mass index (BMI) [Ratio]: 27.4 kg/m2\n- Diastolic Blood Pressure: 70.0 mm[Hg]\n- Systolic Blood Pressure: 122.0 mm[Hg]\n- Heart rate: 61.0 /min\n- Respiratory rate: 15.0 /min"
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-458f-23fa20ff61b2",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Urgent Care Note",
+    "date": "2008-11-14",
+    "section": "Laboratory Results",
+    "title": "Urgent Care Note - Evangeline Ziemann - 2008-11-14",
+    "content": "- Hemoglobin A1c/Hemoglobin.total in Blood: 3.8 %\n- Glucose [Mass/volume] in Blood: 84.3 mg/dL\n- Urea nitrogen [Mass/volume] in Blood: 7.4 mg/dL\n- Creatinine [Mass/volume] in Blood: 0.4 mg/dL\n- Calcium [Mass/volume] in Blood: 10.1 mg/dL\n- Sodium [Moles/volume] in Blood: 140.1 mmol/L\n- Potassium [Moles/volume] in Blood: 5.0 mmol/L\n- Chloride [Moles/volume] in Blood: 108.2 mmol/L\n- Carbon dioxide  total [Moles/volume] in Blood: 21.2 mmol/L"
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-458f-23fa20ff61b2",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Urgent Care Note",
+    "date": "2008-11-14",
+    "section": "Procedures",
+    "title": "Urgent Care Note - Evangeline Ziemann - 2008-11-14",
+    "content": "- Medication reconciliation.\n- Assessment of health and social care needs.\n- Assessment of anxiety.\n- Assessment using Morse Fall Scale.\n- Depression screening.\n- Depression screening."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-458f-23fa20ff61b2",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Urgent Care Note",
+    "date": "2008-11-14",
+    "section": "Medications",
+    "title": "Urgent Care Note - Evangeline Ziemann - 2008-11-14",
+    "content": "Medications prescribed at this visit:\n- insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin], started 2008-11-14, for Prediabetes; stopped 2008-11-21.\n- 24 HR tacrolimus 1 MG Extended Release Oral Tablet [Envarsus], started 2008-11-14, for History of renal transplant; stopped 2008-11-21.\n- lisinopril 10 MG Oral Tablet, started 2008-11-14, for Essential hypertension; stopped 2008-11-21."
+  }
+]

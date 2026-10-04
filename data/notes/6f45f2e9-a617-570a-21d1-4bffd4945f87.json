@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "6f45f2e9-a617-570a-21d1-4bffd4945f87",
+    "patient_id": "6f45f2e9-a617-570a-8867-dec1260088bb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-06-18",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Carey Mraz - 2020-06-18",
+    "content": "Patient: Carey Mraz, male, born 2013-06-27 (patient ID 6f45f2e9-a617-570a-8867-dec1260088bb).\nVisit date: 2020-06-18.\nVisit type: Well child visit.\nClinician: Ulysses Ziemann (General Practice).\nFacility: CENTER FOR DIGESTIVE WELLNESS PC, LEOMINSTER, MA."
+  },
+  {
+    "doc_id": "6f45f2e9-a617-570a-21d1-4bffd4945f87",
+    "patient_id": "6f45f2e9-a617-570a-8867-dec1260088bb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-06-18",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Carey Mraz - 2020-06-18",
+    "content": "- Body Height: 131.0 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0\n- Body Weight: 31.7 kg\n- Body mass index (BMI) [Ratio]: 18.5 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 92.8 %\n- Diastolic Blood Pressure: 80.0 mm[Hg]\n- Systolic Blood Pressure: 111.0 mm[Hg]\n- Heart rate: 92.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "6f45f2e9-a617-570a-21d1-4bffd4945f87",
+    "patient_id": "6f45f2e9-a617-570a-8867-dec1260088bb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-06-18",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Carey Mraz - 2020-06-18",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

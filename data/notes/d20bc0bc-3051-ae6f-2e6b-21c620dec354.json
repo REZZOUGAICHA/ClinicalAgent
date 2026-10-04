@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-2e6b-21c620dec354",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Office Visit Note",
+    "date": "2024-07-03",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Lavette Kozey - 2024-07-03",
+    "content": "Patient: Lavette Kozey, female, born 2010-03-24 (patient ID d20bc0bc-3051-ae6f-f391-ceec7ec0370f).\nVisit date: 2024-07-03.\nVisit type: Encounter for check up.\nClinician: Beatriz Monroy (General Practice).\nFacility: FIRST PSYCHIATRIC PLANNERS INC, WOBURN, MA."
+  },
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-2e6b-21c620dec354",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Office Visit Note",
+    "date": "2024-07-03",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Lavette Kozey - 2024-07-03",
+    "content": "Seen for Gingivitis."
+  },
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-2e6b-21c620dec354",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Office Visit Note",
+    "date": "2024-07-03",
+    "section": "Assessment",
+    "title": "Office Visit Note - Lavette Kozey - 2024-07-03",
+    "content": "Diagnoses recorded at this visit:\n- Gingival disease (onset 2024-07-03), resolved 2024-07-03.\n- Primary dental caries (onset 2024-07-03), resolved 2024-07-03."
+  },
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-2e6b-21c620dec354",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Office Visit Note",
+    "date": "2024-07-03",
+    "section": "Procedures",
+    "title": "Office Visit Note - Lavette Kozey - 2024-07-03",
+    "content": "- Dental consultation and report, for Gingivitis.\n- Dental care, for Gingivitis.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Dental plain X-ray bitewing.\n- Examination of gingivae, for Gingivitis.\n- Dental surgical procedure, for Gingival disease.\n- Dental application of desensitizing medicament, for Gingival disease.\n- Gingivectomy or gingivoplasty  per tooth, for Gingival disease.\n- Postoperative care for dental procedure.\n- Restoration of tooth with coverage of all cusps using dental filling material, for Primary dental caries.\n- Oral health education, for Gingivitis."
+  }
+]

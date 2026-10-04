@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "4f083ce3-f12b-bb4b-bb84-cecd037b8aef",
+    "patient_id": "4f083ce3-f12b-bb4b-7353-e17f0cd55b0a",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2021-07-27",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Ezekiel Walter - 2021-07-27",
+    "content": "Patient: Ezekiel Walter, male, born 1999-01-12 (patient ID 4f083ce3-f12b-bb4b-7353-e17f0cd55b0a).\nVisit date: 2021-07-27.\nVisit type: Encounter for check up.\nClinician: Iva O'Keefe (General Practice).\nFacility: BRIGHAM AND WOMEN'S FAULKNER HOSPITAL INC., BOSTON, MA."
+  },
+  {
+    "doc_id": "4f083ce3-f12b-bb4b-bb84-cecd037b8aef",
+    "patient_id": "4f083ce3-f12b-bb4b-7353-e17f0cd55b0a",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2021-07-27",
+    "section": "Assessment",
+    "title": "Outpatient Procedure Note - Ezekiel Walter - 2021-07-27",
+    "content": "Diagnoses recorded at this visit:\n- Part-time employment (onset 2021-07-27), resolved 2024-03-19."
+  },
+  {
+    "doc_id": "4f083ce3-f12b-bb4b-bb84-cecd037b8aef",
+    "patient_id": "4f083ce3-f12b-bb4b-7353-e17f0cd55b0a",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2021-07-27",
+    "section": "Vital Signs",
+    "title": "Outpatient Procedure Note - Ezekiel Walter - 2021-07-27",
+    "content": "- Body Height: 175.9 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0\n- Body Weight: 68.9 kg\n- Body mass index (BMI) [Ratio]: 22.3 kg/m2\n- Diastolic Blood Pressure: 86.0 mm[Hg]\n- Systolic Blood Pressure: 135.0 mm[Hg]\n- Heart rate: 90.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "4f083ce3-f12b-bb4b-bb84-cecd037b8aef",
+    "patient_id": "4f083ce3-f12b-bb4b-7353-e17f0cd55b0a",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2021-07-27",
+    "section": "Laboratory Results",
+    "title": "Outpatient Procedure Note - Ezekiel Walter - 2021-07-27",
+    "content": "- Hemoglobin A1c/Hemoglobin.total in Blood: 6.0 %\n- Glucose [Mass/volume] in Blood: 79.3 mg/dL\n- Urea nitrogen [Mass/volume] in Blood: 10.6 mg/dL\n- Creatinine [Mass/volume] in Blood: 1.3 mg/dL\n- Calcium [Mass/volume] in Blood: 9.8 mg/dL\n- Sodium [Moles/volume] in Blood: 136.9 mmol/L\n- Potassium [Moles/volume] in Blood: 5.1 mmol/L\n- Chloride [Moles/volume] in Blood: 109.8 mmol/L\n- Carbon dioxide  total [Moles/volume] in Blood: 24.6 mmol/L"
+  },
+  {
+    "doc_id": "4f083ce3-f12b-bb4b-bb84-cecd037b8aef",
+    "patient_id": "4f083ce3-f12b-bb4b-7353-e17f0cd55b0a",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2021-07-27",
+    "section": "Procedures",
+    "title": "Outpatient Procedure Note - Ezekiel Walter - 2021-07-27",
+    "content": "- Assessment of health and social care needs.\n- Assessment of anxiety.\n- Depression screening.\n- Depression screening.\n- Assessment of substance use.\n- Screening for drug abuse."
+  },
+  {
+    "doc_id": "4f083ce3-f12b-bb4b-bb84-cecd037b8aef",
+    "patient_id": "4f083ce3-f12b-bb4b-7353-e17f0cd55b0a",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2021-07-27",
+    "section": "Immunizations",
+    "title": "Outpatient Procedure Note - Ezekiel Walter - 2021-07-27",
+    "content": "- Influenza split virus trivalent PF.\n- Hep B adult."
+  }
+]

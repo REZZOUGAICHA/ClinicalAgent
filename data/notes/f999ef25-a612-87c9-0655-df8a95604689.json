@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "f999ef25-a612-87c9-0655-df8a95604689",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Office Visit Note",
+    "date": "2013-12-27",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Evangeline Ziemann - 2013-12-27",
+    "content": "Patient: Evangeline Ziemann, female, born 1925-09-18 (patient ID f999ef25-a612-87c9-206f-aacc9d469dc8).\nVisit date: 2013-12-27.\nVisit type: Encounter for symptom.\nClinician: Nickolas Schumm (General Practice).\nFacility: ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE, FRAMINGHAM, MA."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-0655-df8a95604689",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Office Visit Note",
+    "date": "2013-12-27",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Evangeline Ziemann - 2013-12-27",
+    "content": "Seen for Acute viral pharyngitis."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-0655-df8a95604689",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Office Visit Note",
+    "date": "2013-12-27",
+    "section": "Assessment",
+    "title": "Office Visit Note - Evangeline Ziemann - 2013-12-27",
+    "content": "Diagnoses recorded at this visit:\n- Acute viral pharyngitis (onset 2013-12-27), resolved 2014-01-03."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-0655-df8a95604689",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Office Visit Note",
+    "date": "2013-12-27",
+    "section": "Vital Signs",
+    "title": "Office Visit Note - Evangeline Ziemann - 2013-12-27",
+    "content": "- Body temperature: 37.3 \u00b0C"
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-0655-df8a95604689",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Office Visit Note",
+    "date": "2013-12-27",
+    "section": "Procedures",
+    "title": "Office Visit Note - Evangeline Ziemann - 2013-12-27",
+    "content": "- Throat culture, for Acute viral pharyngitis."
+  }
+]

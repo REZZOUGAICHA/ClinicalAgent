@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-5f79-5865a6ecaac7",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "1992-05-03",
+    "section": "Visit Information",
+    "title": "Inpatient Discharge Summary - Rosalba Effertz - 1992-05-03",
+    "content": "Patient: Rosalba Effertz, female, born 1973-08-05 (patient ID 5e7ebf2c-22ec-a89b-53ab-38edddd81be9).\nVisit date: 1992-05-03.\nVisit type: Drug rehabilitation and detoxification.\nClinician: Saundra Kuphal (General Practice).\nFacility: COOLEY DICKINSON HOSPITAL INC, NORTHAMPTON, MA."
+  },
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-5f79-5865a6ecaac7",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "1992-05-03",
+    "section": "Reason for Visit",
+    "title": "Inpatient Discharge Summary - Rosalba Effertz - 1992-05-03",
+    "content": "Seen for Dependent drug abuse."
+  },
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-5f79-5865a6ecaac7",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "1992-05-03",
+    "section": "Assessment",
+    "title": "Inpatient Discharge Summary - Rosalba Effertz - 1992-05-03",
+    "content": "Diagnoses recorded at this visit:\n- Dependent drug abuse (onset 1992-05-03)."
+  }
+]

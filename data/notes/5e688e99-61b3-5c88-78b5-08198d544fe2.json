@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "5e688e99-61b3-5c88-78b5-08198d544fe2",
+    "patient_id": "5e688e99-61b3-5c88-3f60-21df8aaced27",
+    "document_type": "Office Visit Note",
+    "date": "2025-03-20",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Wallace Effertz - 2025-03-20",
+    "content": "Patient: Wallace Effertz, male, born 2010-01-28 (patient ID 5e688e99-61b3-5c88-3f60-21df8aaced27).\nVisit date: 2025-03-20.\nVisit type: Encounter for check up.\nClinician: Lorette Hauck (General Practice).\nFacility: WHITTIER REHABILTATION HOSPITAL, LYNN, MA."
+  },
+  {
+    "doc_id": "5e688e99-61b3-5c88-78b5-08198d544fe2",
+    "patient_id": "5e688e99-61b3-5c88-3f60-21df8aaced27",
+    "document_type": "Office Visit Note",
+    "date": "2025-03-20",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Wallace Effertz - 2025-03-20",
+    "content": "Seen for Gingivitis."
+  },
+  {
+    "doc_id": "5e688e99-61b3-5c88-78b5-08198d544fe2",
+    "patient_id": "5e688e99-61b3-5c88-3f60-21df8aaced27",
+    "document_type": "Office Visit Note",
+    "date": "2025-03-20",
+    "section": "Assessment",
+    "title": "Office Visit Note - Wallace Effertz - 2025-03-20",
+    "content": "Diagnoses recorded at this visit:\n- Leaking dental filling (onset 2025-03-20), resolved 2025-03-20."
+  },
+  {
+    "doc_id": "5e688e99-61b3-5c88-78b5-08198d544fe2",
+    "patient_id": "5e688e99-61b3-5c88-3f60-21df8aaced27",
+    "document_type": "Office Visit Note",
+    "date": "2025-03-20",
+    "section": "Procedures",
+    "title": "Office Visit Note - Wallace Effertz - 2025-03-20",
+    "content": "- Dental consultation and report, for Gingivitis.\n- Dental care, for Gingivitis.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Dental plain X-ray bitewing.\n- Examination of gingivae, for Gingivitis.\n- Restoration of tooth with coverage of all cusps using dental filling material, for Leaking dental filling.\n- Oral health education, for Gingivitis."
+  }
+]

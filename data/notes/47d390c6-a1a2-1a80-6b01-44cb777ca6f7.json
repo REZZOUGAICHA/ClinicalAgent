@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "47d390c6-a1a2-1a80-6b01-44cb777ca6f7",
+    "patient_id": "47d390c6-a1a2-1a80-dd1d-9722c7b24159",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-03-27",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Demarcus Jones - 2021-03-27",
+    "content": "Patient: Demarcus Jones, male, born 2009-03-07 (patient ID 47d390c6-a1a2-1a80-dd1d-9722c7b24159).\nVisit date: 2021-03-27.\nVisit type: Well child visit.\nClinician: Francene Halvorson (General Practice).\nFacility: HAVERHILL FAMILY OFFICE LLC, HAVERHILL, MA."
+  },
+  {
+    "doc_id": "47d390c6-a1a2-1a80-6b01-44cb777ca6f7",
+    "patient_id": "47d390c6-a1a2-1a80-dd1d-9722c7b24159",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-03-27",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Demarcus Jones - 2021-03-27",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2021-03-27), resolved 2021-03-27.\n- Gingivitis (onset 2021-03-27), resolved 2021-04-10."
+  },
+  {
+    "doc_id": "47d390c6-a1a2-1a80-6b01-44cb777ca6f7",
+    "patient_id": "47d390c6-a1a2-1a80-dd1d-9722c7b24159",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-03-27",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Demarcus Jones - 2021-03-27",
+    "content": "- Body Height: 153.5 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0\n- Body Weight: 43.2 kg\n- Body mass index (BMI) [Ratio]: 18.4 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 58.7 %\n- Diastolic Blood Pressure: 98.0 mm[Hg]\n- Systolic Blood Pressure: 121.0 mm[Hg]\n- Heart rate: 68.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "47d390c6-a1a2-1a80-6b01-44cb777ca6f7",
+    "patient_id": "47d390c6-a1a2-1a80-dd1d-9722c7b24159",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-03-27",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Demarcus Jones - 2021-03-27",
+    "content": "- Medication reconciliation.\n- Assessment of anxiety.\n- Depression screening.\n- Depression screening using Patient Health Questionnaire Nine Item score.\n- Assessment of substance use.\n- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test.\n- Anticipatory guidance.\n- Patient referral for dental care, for Gingivitis."
+  },
+  {
+    "doc_id": "47d390c6-a1a2-1a80-6b01-44cb777ca6f7",
+    "patient_id": "47d390c6-a1a2-1a80-dd1d-9722c7b24159",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-03-27",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Demarcus Jones - 2021-03-27",
+    "content": "- Influenza split virus trivalent PF.\n- HPV quadrivalent."
+  }
+]

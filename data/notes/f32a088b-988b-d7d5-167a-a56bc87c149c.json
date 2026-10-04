@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "f32a088b-988b-d7d5-167a-a56bc87c149c",
+    "patient_id": "f32a088b-988b-d7d5-008b-89ea4ed1fc48",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-10-09",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Wayne McLaughlin - 2024-10-09",
+    "content": "Patient: Wayne McLaughlin, male, born 2006-08-16 (patient ID f32a088b-988b-d7d5-008b-89ea4ed1fc48).\nVisit date: 2024-10-09.\nVisit type: General examination of patient.\nClinician: Jenae Veum (General Practice).\nFacility: CHARLES RIVER COMMUNITY HEALTH INC, ALLSTON, MA."
+  },
+  {
+    "doc_id": "f32a088b-988b-d7d5-167a-a56bc87c149c",
+    "patient_id": "f32a088b-988b-d7d5-008b-89ea4ed1fc48",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-10-09",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Wayne McLaughlin - 2024-10-09",
+    "content": "Diagnoses recorded at this visit:\n- Received higher education (onset 2024-10-09).\n- Full-time employment (onset 2024-10-09), resolved 2025-10-15."
+  },
+  {
+    "doc_id": "f32a088b-988b-d7d5-167a-a56bc87c149c",
+    "patient_id": "f32a088b-988b-d7d5-008b-89ea4ed1fc48",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-10-09",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Wayne McLaughlin - 2024-10-09",
+    "content": "- Body Height: 179.6 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0\n- Body Weight: 100.8 kg\n- Body mass index (BMI) [Ratio]: 31.3 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 97.5 %\n- Diastolic Blood Pressure: 83.0 mm[Hg]\n- Systolic Blood Pressure: 112.0 mm[Hg]\n- Heart rate: 65.0 /min\n- Respiratory rate: 16.0 /min"
+  },
+  {
+    "doc_id": "f32a088b-988b-d7d5-167a-a56bc87c149c",
+    "patient_id": "f32a088b-988b-d7d5-008b-89ea4ed1fc48",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-10-09",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Wayne McLaughlin - 2024-10-09",
+    "content": "- Assessment of health and social care needs.\n- Assessment of anxiety.\n- Screening for domestic abuse.\n- Depression screening.\n- Depression screening.\n- Assessment of substance use.\n- Assessment using Alcohol Use Disorders Identification Test - Consumption."
+  },
+  {
+    "doc_id": "f32a088b-988b-d7d5-167a-a56bc87c149c",
+    "patient_id": "f32a088b-988b-d7d5-008b-89ea4ed1fc48",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-10-09",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Wayne McLaughlin - 2024-10-09",
+    "content": "Medications prescribed at this visit:\n- 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent], started 2024-10-09, for Childhood asthma; stopped 2025-10-15.\n- albuterol 0.83 MG/ML Inhalation Solution, started 2024-10-09, for Childhood asthma; stopped 2025-10-15."
+  },
+  {
+    "doc_id": "f32a088b-988b-d7d5-167a-a56bc87c149c",
+    "patient_id": "f32a088b-988b-d7d5-008b-89ea4ed1fc48",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-10-09",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Wayne McLaughlin - 2024-10-09",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

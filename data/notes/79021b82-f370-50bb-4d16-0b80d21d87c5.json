@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "79021b82-f370-50bb-4d16-0b80d21d87c5",
+    "patient_id": "79021b82-f370-50bb-c5a1-7333816d683f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-03-29",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Evette Farrell - 2023-03-29",
+    "content": "Patient: Evette Farrell, female, born 2013-03-20 (patient ID 79021b82-f370-50bb-c5a1-7333816d683f).\nVisit date: 2023-03-29.\nVisit type: Well child visit.\nClinician: Elmer Gusikowski (General Practice).\nFacility: WHITLEY WELLNESS LLC, CHARLESTOWN, MA."
+  },
+  {
+    "doc_id": "79021b82-f370-50bb-4d16-0b80d21d87c5",
+    "patient_id": "79021b82-f370-50bb-c5a1-7333816d683f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-03-29",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Evette Farrell - 2023-03-29",
+    "content": "- Body Height: 135.8 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0\n- Body Weight: 31.8 kg\n- Body mass index (BMI) [Ratio]: 17.3 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 56.4 %\n- Diastolic Blood Pressure: 84.0 mm[Hg]\n- Systolic Blood Pressure: 91.0 mm[Hg]\n- Heart rate: 91.0 /min\n- Respiratory rate: 14.0 /min"
+  },
+  {
+    "doc_id": "79021b82-f370-50bb-4d16-0b80d21d87c5",
+    "patient_id": "79021b82-f370-50bb-c5a1-7333816d683f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-03-29",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Evette Farrell - 2023-03-29",
+    "content": "- Patient referral for dental care."
+  },
+  {
+    "doc_id": "79021b82-f370-50bb-4d16-0b80d21d87c5",
+    "patient_id": "79021b82-f370-50bb-c5a1-7333816d683f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-03-29",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Evette Farrell - 2023-03-29",
+    "content": "Medications prescribed at this visit:\n- budesonide 0.25 MG/ML Inhalation Suspension, started 2023-03-29, for Childhood asthma; stopped 2024-04-03.\n- NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir], started 2023-03-29, for Childhood asthma; stopped 2024-04-03."
+  },
+  {
+    "doc_id": "79021b82-f370-50bb-4d16-0b80d21d87c5",
+    "patient_id": "79021b82-f370-50bb-c5a1-7333816d683f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-03-29",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Evette Farrell - 2023-03-29",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

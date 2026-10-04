@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "7811dc30-8c86-8164-1624-b8e74c81fbfa",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Office Visit Note",
+    "date": "2026-06-13",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Mignon Rau - 2026-06-13",
+    "content": "Patient: Mignon Rau, female, born 1970-04-21 (patient ID 7811dc30-8c86-8164-6c33-6b6f464745ef).\nVisit date: 2026-06-13.\nVisit type: Asthma follow-up.\nClinician: Rudolf Vandervort (General Practice).\nFacility: BETH ISRAEL DEACONESS HOSPITAL MILTON INC, MILTON, MA."
+  },
+  {
+    "doc_id": "7811dc30-8c86-8164-1624-b8e74c81fbfa",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Office Visit Note",
+    "date": "2026-06-13",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Mignon Rau - 2026-06-13",
+    "content": "Seen for Asthma."
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "7811dc30-8c86-8164-ba04-fb81f1db4a02",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2019-04-02",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Mignon Rau - 2019-04-02",
+    "content": "Patient: Mignon Rau, female, born 1970-04-21 (patient ID 7811dc30-8c86-8164-6c33-6b6f464745ef).\nVisit date: 2019-04-02.\nVisit type: Encounter for check up.\nClinician: Rudolf Vandervort (General Practice).\nFacility: BETH ISRAEL DEACONESS HOSPITAL MILTON INC, MILTON, MA."
+  },
+  {
+    "doc_id": "7811dc30-8c86-8164-ba04-fb81f1db4a02",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2019-04-02",
+    "section": "Laboratory Results",
+    "title": "Outpatient Procedure Note - Mignon Rau - 2019-04-02",
+    "content": "- Hemoglobin A1c/Hemoglobin.total in Blood: 5.5 %"
+  },
+  {
+    "doc_id": "7811dc30-8c86-8164-ba04-fb81f1db4a02",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2019-04-02",
+    "section": "Medications",
+    "title": "Outpatient Procedure Note - Mignon Rau - 2019-04-02",
+    "content": "Medications prescribed at this visit:\n- 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet, started 2019-04-02, for Diabetes mellitus type 2; stopped 2019-04-29.\n- budesonide 0.125 MG/ML Inhalation Suspension, started 2019-04-02, for Childhood asthma; stopped 2019-04-29.\n- albuterol 0.83 MG/ML Inhalation Solution, started 2019-04-02, for Childhood asthma; stopped 2019-04-29."
+  }
+]

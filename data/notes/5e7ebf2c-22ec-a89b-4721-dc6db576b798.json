@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-4721-dc6db576b798",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Office Visit Note",
+    "date": "2023-08-20",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Rosalba Effertz - 2023-08-20",
+    "content": "Patient: Rosalba Effertz, female, born 1973-08-05 (patient ID 5e7ebf2c-22ec-a89b-53ab-38edddd81be9).\nVisit date: 2023-08-20.\nVisit type: Encounter for check up.\nClinician: Saundra Kuphal (General Practice).\nFacility: COOLEY DICKINSON HOSPITAL INC, NORTHAMPTON, MA."
+  },
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-4721-dc6db576b798",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Office Visit Note",
+    "date": "2023-08-20",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Rosalba Effertz - 2023-08-20",
+    "content": "Seen for Patient referral for dental care."
+  },
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-4721-dc6db576b798",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Office Visit Note",
+    "date": "2023-08-20",
+    "section": "Assessment",
+    "title": "Office Visit Note - Rosalba Effertz - 2023-08-20",
+    "content": "Diagnoses recorded at this visit:\n- Fractured dental filling (onset 2023-08-20), resolved 2023-08-20."
+  },
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-4721-dc6db576b798",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Office Visit Note",
+    "date": "2023-08-20",
+    "section": "Procedures",
+    "title": "Office Visit Note - Rosalba Effertz - 2023-08-20",
+    "content": "- Dental consultation and report, for Patient referral for dental care.\n- Dental care, for Patient referral for dental care.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Dental plain X-ray bitewing.\n- Examination of gingivae, for Patient referral for dental care.\n- Application of composite dental filling material to dentin of tooth following fracture of tooth, for Fractured dental filling.\n- Oral health education, for Patient referral for dental care."
+  }
+]

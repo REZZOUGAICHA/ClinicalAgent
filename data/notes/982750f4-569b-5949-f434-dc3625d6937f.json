@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "982750f4-569b-5949-f434-dc3625d6937f",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2017-08-14",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Dwana Wolf - 2017-08-14",
+    "content": "Patient: Dwana Wolf, female, born 1986-11-12 (patient ID 982750f4-569b-5949-196b-60699bdda3fb).\nVisit date: 2017-08-14.\nVisit type: Consultation for treatment.\nClinician: Marcus Schamberger (General Practice).\nFacility: THE LOWELL GENERAL HOSPITAL, WESTFORD, MA."
+  },
+  {
+    "doc_id": "982750f4-569b-5949-f434-dc3625d6937f",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2017-08-14",
+    "section": "Reason for Visit",
+    "title": "Outpatient Procedure Note - Dwana Wolf - 2017-08-14",
+    "content": "Seen for Contraception care."
+  },
+  {
+    "doc_id": "982750f4-569b-5949-f434-dc3625d6937f",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2017-08-14",
+    "section": "Medications",
+    "title": "Outpatient Procedure Note - Dwana Wolf - 2017-08-14",
+    "content": "Medications prescribed at this visit:\n- levonorgestrel 0.000729 MG/HR Intrauterine System [Kyleena], started 2017-08-14; stopped 2018-06-20."
+  }
+]

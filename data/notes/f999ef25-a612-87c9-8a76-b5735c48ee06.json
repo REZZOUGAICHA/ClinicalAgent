@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "f999ef25-a612-87c9-8a76-b5735c48ee06",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2008-05-02",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Evangeline Ziemann - 2008-05-02",
+    "content": "Patient: Evangeline Ziemann, female, born 1925-09-18 (patient ID f999ef25-a612-87c9-206f-aacc9d469dc8).\nVisit date: 2008-05-02.\nVisit type: Encounter for check up.\nClinician: Nickolas Schumm (General Practice).\nFacility: ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE, FRAMINGHAM, MA."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-8a76-b5735c48ee06",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2008-05-02",
+    "section": "Assessment",
+    "title": "Outpatient Procedure Note - Evangeline Ziemann - 2008-05-02",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2008-05-02), resolved 2008-11-14.\n- Full-time employment (onset 2008-05-02), resolved 2014-01-03."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-8a76-b5735c48ee06",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2008-05-02",
+    "section": "Vital Signs",
+    "title": "Outpatient Procedure Note - Evangeline Ziemann - 2008-05-02",
+    "content": "- Body Height: 154.2 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0\n- Body Weight: 65.1 kg\n- Body mass index (BMI) [Ratio]: 27.4 kg/m2\n- Diastolic Blood Pressure: 69.0 mm[Hg]\n- Systolic Blood Pressure: 123.0 mm[Hg]\n- Heart rate: 95.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-8a76-b5735c48ee06",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2008-05-02",
+    "section": "Laboratory Results",
+    "title": "Outpatient Procedure Note - Evangeline Ziemann - 2008-05-02",
+    "content": "- Hemoglobin A1c/Hemoglobin.total in Blood: 3.8 %\n- Glucose [Mass/volume] in Blood: 71.9 mg/dL\n- Urea nitrogen [Mass/volume] in Blood: 14.2 mg/dL\n- Creatinine [Mass/volume] in Blood: 0.5 mg/dL\n- Calcium [Mass/volume] in Blood: 8.9 mg/dL\n- Sodium [Moles/volume] in Blood: 138.0 mmol/L\n- Potassium [Moles/volume] in Blood: 4.8 mmol/L\n- Chloride [Moles/volume] in Blood: 106.6 mmol/L\n- Carbon dioxide  total [Moles/volume] in Blood: 21.3 mmol/L"
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-8a76-b5735c48ee06",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2008-05-02",
+    "section": "Procedures",
+    "title": "Outpatient Procedure Note - Evangeline Ziemann - 2008-05-02",
+    "content": "- Assessment of health and social care needs.\n- Screening for domestic abuse."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-8a76-b5735c48ee06",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2008-05-02",
+    "section": "Medications",
+    "title": "Outpatient Procedure Note - Evangeline Ziemann - 2008-05-02",
+    "content": "Medications prescribed at this visit:\n- insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin], started 2008-05-02, for Prediabetes; stopped 2008-09-26.\n- 24 HR tacrolimus 1 MG Extended Release Oral Tablet [Envarsus], started 2008-05-02, for History of renal transplant; stopped 2008-09-26.\n- lisinopril 10 MG Oral Tablet, started 2008-05-02, for Essential hypertension; stopped 2008-09-26."
+  }
+]

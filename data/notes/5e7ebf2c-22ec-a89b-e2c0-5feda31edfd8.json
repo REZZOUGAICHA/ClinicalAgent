@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-e2c0-5feda31edfd8",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2018-05-28",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Rosalba Effertz - 2018-05-28",
+    "content": "Patient: Rosalba Effertz, female, born 1973-08-05 (patient ID 5e7ebf2c-22ec-a89b-53ab-38edddd81be9).\nVisit date: 2018-05-28.\nVisit type: Consultation for treatment.\nClinician: Saundra Kuphal (General Practice).\nFacility: COOLEY DICKINSON HOSPITAL INC, NORTHAMPTON, MA."
+  },
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-e2c0-5feda31edfd8",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2018-05-28",
+    "section": "Reason for Visit",
+    "title": "Outpatient Procedure Note - Rosalba Effertz - 2018-05-28",
+    "content": "Seen for Contraception care."
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "6fbddf55-7096-b883-d2e4-f86a36a61723",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1999-08-25",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Clarinda Farrell - 1999-08-25",
+    "content": "Patient: Clarinda Farrell, female, born 1981-07-01 (patient ID 6fbddf55-7096-b883-7cd3-260f27953080).\nVisit date: 1999-08-25.\nVisit type: General examination of patient.\nClinician: Lorinda Pouros (General Practice).\nFacility: CLARITY HEALTH & WELLNESS LLC, BURLINGTON, MA."
+  },
+  {
+    "doc_id": "6fbddf55-7096-b883-d2e4-f86a36a61723",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1999-08-25",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Clarinda Farrell - 1999-08-25",
+    "content": "Diagnoses recorded at this visit:\n- Received higher education (onset 1999-08-25)."
+  }
+]

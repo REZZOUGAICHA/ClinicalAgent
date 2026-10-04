@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "2d68ad16-268a-478c-8a5e-0f64ebf6b87c",
+    "patient_id": "2d68ad16-268a-478c-1f84-d0f1976e1a46",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2022-01-28",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Mauro Braun - 2022-01-28",
+    "content": "Patient: Mauro Braun, male, born 2020-02-21 (patient ID 2d68ad16-268a-478c-1f84-d0f1976e1a46).\nVisit date: 2022-01-28.\nVisit type: Well child visit.\nClinician: Rolland Lemke (General Practice).\nFacility: QUINCY CENTER PRIMARY CARE PC, QUINCY, MA."
+  },
+  {
+    "doc_id": "2d68ad16-268a-478c-8a5e-0f64ebf6b87c",
+    "patient_id": "2d68ad16-268a-478c-1f84-d0f1976e1a46",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2022-01-28",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Mauro Braun - 2022-01-28",
+    "content": "- Body Height: 84.1 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0\n- Body Weight: 12.2 kg\n- Weight-for-length Per age and sex: 67.1 %\n- Head Occipital-frontal circumference Percentile: 24.4 %\n- Head Occipital-frontal circumference: 47.6 cm\n- Diastolic Blood Pressure: 67.0 mm[Hg]\n- Systolic Blood Pressure: 89.0 mm[Hg]\n- Heart rate: 71.0 /min\n- Respiratory rate: 14.0 /min"
+  },
+  {
+    "doc_id": "2d68ad16-268a-478c-8a5e-0f64ebf6b87c",
+    "patient_id": "2d68ad16-268a-478c-1f84-d0f1976e1a46",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2022-01-28",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Mauro Braun - 2022-01-28",
+    "content": "- Medication reconciliation."
+  },
+  {
+    "doc_id": "2d68ad16-268a-478c-8a5e-0f64ebf6b87c",
+    "patient_id": "2d68ad16-268a-478c-1f84-d0f1976e1a46",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2022-01-28",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Mauro Braun - 2022-01-28",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "14a5a697-29a3-48b2-ed79-7bc3f4141c21",
+    "patient_id": "14a5a697-29a3-48b2-969a-3ceefe74a700",
+    "document_type": "Office Visit Note",
+    "date": "2017-11-06",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Drusilla Schumm - 2017-11-06",
+    "content": "Patient: Drusilla Schumm, female, born 1958-11-15 (patient ID 14a5a697-29a3-48b2-969a-3ceefe74a700).\nVisit date: 2017-11-06.\nVisit type: Postoperative follow-up visit.\nClinician: Bennie Abbott (General Practice).\nFacility: LAHEY HOSPITAL & MEDICAL CENTER BURLINGTON, PEABODY, MA."
+  },
+  {
+    "doc_id": "14a5a697-29a3-48b2-ed79-7bc3f4141c21",
+    "patient_id": "14a5a697-29a3-48b2-969a-3ceefe74a700",
+    "document_type": "Office Visit Note",
+    "date": "2017-11-06",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Drusilla Schumm - 2017-11-06",
+    "content": "Seen for Malignant neoplasm of breast."
+  },
+  {
+    "doc_id": "14a5a697-29a3-48b2-ed79-7bc3f4141c21",
+    "patient_id": "14a5a697-29a3-48b2-969a-3ceefe74a700",
+    "document_type": "Office Visit Note",
+    "date": "2017-11-06",
+    "section": "Procedures",
+    "title": "Office Visit Note - Drusilla Schumm - 2017-11-06",
+    "content": "- Physical examination  complete, for Malignant neoplasm of breast."
+  }
+]

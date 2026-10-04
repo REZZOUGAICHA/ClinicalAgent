@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "ba419d35-0dfe-8af7-62aa-55ac2414463f",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-07-21",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Corie Kohler - 2017-07-21",
+    "content": "Patient: Corie Kohler, female, born 1925-09-18 (patient ID ba419d35-0dfe-8af7-347c-eebf02485a56).\nVisit date: 2017-07-21.\nVisit type: General examination of patient.\nClinician: Wynell Mayert (General Practice).\nFacility: WELLNESS ON WHEELS PC, NORTH ATTLEBORO, MA."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-62aa-55ac2414463f",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-07-21",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Corie Kohler - 2017-07-21",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2017-07-21), resolved 2018-07-27.\n- Social isolation (onset 2017-07-21), resolved 2020-08-07."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-62aa-55ac2414463f",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-07-21",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Corie Kohler - 2017-07-21",
+    "content": "- Body Height: 164.1 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0\n- Body Weight: 82.0 kg\n- Body mass index (BMI) [Ratio]: 30.5 kg/m2\n- Diastolic Blood Pressure: 74.0 mm[Hg]\n- Systolic Blood Pressure: 114.0 mm[Hg]\n- Heart rate: 78.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-62aa-55ac2414463f",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-07-21",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Corie Kohler - 2017-07-21",
+    "content": "- Assessment of health and social care needs.\n- Screening for domestic abuse."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-62aa-55ac2414463f",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-07-21",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Corie Kohler - 2017-07-21",
+    "content": "Medications prescribed at this visit:\n- 24 HR tacrolimus 5 MG Extended Release Oral Capsule [Astagraf], started 2017-07-21, for History of renal transplant; stopped 2018-07-27.\n- lisinopril 10 MG Oral Tablet, started 2017-07-21, for Essential hypertension; stopped 2018-07-27."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-62aa-55ac2414463f",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-07-21",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Corie Kohler - 2017-07-21",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

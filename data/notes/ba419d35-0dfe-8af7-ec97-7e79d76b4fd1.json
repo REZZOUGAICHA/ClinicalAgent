@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "ba419d35-0dfe-8af7-ec97-7e79d76b4fd1",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Office Visit Note",
+    "date": "2000-01-14",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Corie Kohler - 2000-01-14",
+    "content": "Patient: Corie Kohler, female, born 1925-09-18 (patient ID ba419d35-0dfe-8af7-347c-eebf02485a56).\nVisit date: 2000-01-14.\nVisit type: Encounter for problem.\nClinician: Gabriel Reilly (General Practice).\nFacility: Fitchburg Outpatient Clinic, Fitchburg, MA."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-ec97-7e79d76b4fd1",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Office Visit Note",
+    "date": "2000-01-14",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Corie Kohler - 2000-01-14",
+    "content": "Seen for Ischemic heart disease."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-ec97-7e79d76b4fd1",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Office Visit Note",
+    "date": "2000-01-14",
+    "section": "Assessment",
+    "title": "Office Visit Note - Corie Kohler - 2000-01-14",
+    "content": "Diagnoses recorded at this visit:\n- Abnormal findings diagnostic imaging heart+coronary circulat (onset 2000-01-14)."
+  }
+]

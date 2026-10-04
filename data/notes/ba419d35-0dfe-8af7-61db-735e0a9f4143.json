@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "ba419d35-0dfe-8af7-61db-735e0a9f4143",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "2016-10-14",
+    "section": "Visit Information",
+    "title": "Inpatient Discharge Summary - Corie Kohler - 2016-10-14",
+    "content": "Patient: Corie Kohler, female, born 1925-09-18 (patient ID ba419d35-0dfe-8af7-347c-eebf02485a56).\nVisit date: 2016-10-14.\nVisit type: Admission to surgical transplant department.\nClinician: Maricarmen Delafuente (General Practice).\nFacility: ARBOUR-FULLER HOSPITAL, SOUTH ATTLEBORO, MA."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-61db-735e0a9f4143",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "2016-10-14",
+    "section": "Reason for Visit",
+    "title": "Inpatient Discharge Summary - Corie Kohler - 2016-10-14",
+    "content": "Seen for Awaiting transplantation of kidney."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-61db-735e0a9f4143",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "2016-10-14",
+    "section": "Assessment",
+    "title": "Inpatient Discharge Summary - Corie Kohler - 2016-10-14",
+    "content": "Diagnoses recorded at this visit:\n- History of renal transplant (onset 2016-10-14)."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-61db-735e0a9f4143",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "2016-10-14",
+    "section": "Laboratory Results",
+    "title": "Inpatient Discharge Summary - Corie Kohler - 2016-10-14",
+    "content": "- Glucose [Mass/volume] in Blood: 93.1 mg/dL\n- Urea Nitrogen [Mass/volume] in Blood: 19.4 mg/dL\n- Creatinine [Mass/volume] in Blood: 2.8 mg/dL\n- Calcium [Mass/volume] in Blood: 9.7 mg/dL\n- Sodium [Moles/volume] in Blood: 137.3 mmol/L\n- Potassium [Moles/volume] in Blood: 4.0 mmol/L\n- Chloride [Moles/volume] in Blood: 105.0 mmol/L\n- Carbon dioxide  total [Moles/volume] in Blood: 21.3 mmol/L\n- Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M: 11.4 mL/min\n- Appearance of Urine: Cloudy urine (finding)\n- Appearance of Urine: Urine smell ammoniacal (finding)\n- Clarity of Urine: Translucent (qualifier value)\n- Color of Urine: Brown color (qualifier value)\n- Glucose [Mass/volume] in Urine by Test strip: 1.6 mg/dL\n- Glucose [Presence] in Urine by Test strip: Urine glucose test = ++ (finding)\n- Bilirubin.total [Mass/volume] in Urine by Test strip: 0.7 mg/dL\n- Bilirubin.total [Presence] in Urine by Test strip: Finding of bilirubin in urine (finding)\n- Ketones [Mass/volume] in Urine by Test strip: 18.1 mg/dL\n- Ketones [Presence] in Urine by Test strip: Urine ketone test = +++ (finding)\n- Specific gravity of Urine by Test strip: 1.0\n- pH of Urine by Test strip: 5.6 pH\n- Protein [Mass/volume] in Urine by Test strip: 362.9 mg/dL\n- Protein [Presence] in Urine by Test strip: Urine protein test = +++ (finding)\n- Nitrite [Presence] in Urine by Test strip: Nitrite not detected in urine (finding)\n- Hemoglobin [Presence] in Urine by Test strip: Blood not detected in urine (finding)\n- Leukocyte esterase [Presence] in Urine by Test strip: Urine leukocytes not detected (finding)\n- Glucose [Mass/volume] in Blood: 87.7 mg/dL\n- Urea Nitrogen [Mass/volume] in Blood: 11.9 mg/dL\n- Creatinine [Mass/volume] in Blood: 0.6 mg/dL\n- Calcium [Mass/volume] in Blood: 8.7 mg/dL\n- Sodium [Moles/volume] in Blood: 136.0 mmol/L\n- Potassium [Moles/volume] in Blood: 4.0 mmol/L\n- Chloride [Moles/volume] in Blood: 105.3 mmol/L\n- Carbon dioxide  total [Moles/volume] in Blood: 26.9 mmol/L\n- Leukocytes [#/volume] in Blood by Automated count: 10.3 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 5.3 10*6/uL\n- Hemoglobin [Mass/volume] in Blood: 13.7 g/dL\n- Hematocrit [Volume Fraction] of Blood by Automated count: 49.4 %\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 90.4 fL\n- MCH [Entitic mass] by Automated count: 29.2 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 35.7 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 41.0 fL\n- Platelets [#/volume] in Blood by Automated count: 402.3 10*3/uL\n- Platelet distribution width [Entitic volume] in Blood by Automated count: 13.5 fL\n- Platelet [Entitic mean volume] in Blood by Automated count: 12.2 fL\n- Glucose [Mass/volume] in Blood: 87.7 mg/dL\n- Urea Nitrogen [Mass/volume] in Blood: 11.9 mg/dL\n- Creatinine [Mass/volume] in Blood: 0.6 mg/dL\n- Calcium [Mass/volume] in Blood: 8.7 mg/dL\n- Sodium [Moles/volume] in Blood: 136.0 mmol/L\n- Potassium [Moles/volume] in Blood: 4.0 mmol/L\n- Chloride [Moles/volume] in Blood: 105.3 mmol/L\n- Carbon dioxide  total [Moles/volume] in Blood: 26.9 mmol/L\n- Leukocytes [#/volume] in Blood by Automated count: 5.8 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 3.9 10*6/uL\n- Hemoglobin [Mass/volume] in Blood: 15.3 g/dL\n- Hematocrit [Volume Fraction] of Blood by Automated count: 47.6 %\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 81.2 fL\n- MCH [Entitic mass] by Automated count: 28.0 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 35.6 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 46.0 fL\n- Platelets [#/volume] in Blood by Automated count: 185.5 10*3/uL\n- Platelet distribution width [Entitic volume] in Blood by Automated count: 15.9 fL\n- Platelet [Entitic mean volume] in Blood by Automated count: 11.7 fL\n- Glucose [Mass/volume] in Blood: 87.7 mg/dL\n- Urea Nitrogen [Mass/volume] in Blood: 11.9 mg/dL\n- Creatinine [Mass/volume] in Blood: 0.6 mg/dL\n- Calcium [Mass/volume] in Blood: 8.7 mg/dL\n- Sodium [Moles/volume] in Blood: 136.0 mmol/L\n- Potassium [Moles/volume] in Blood: 4.0 mmol/L\n- Chloride [Moles/volume] in Blood: 105.3 mmol/L\n- Carbon dioxide  total [Moles/volume] in Blood: 26.9 mmol/L\n- Leukocytes [#/volume] in Blood by Automated count: 4.9 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 4.9 10*6/uL\n- Hemoglobin [Mass/volume] in Blood: 15.2 g/dL\n- Hematocrit [Volume Fraction] of Blood by Automated count: 45.7 %\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 93.5 fL\n- MCH [Entitic mass] by Automated count: 30.2 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 33.3 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 40.4 fL\n- Platelets [#/volume] in Blood by Automated count: 259.5 10*3/uL\n- Platelet distribution width [Entitic volume] in Blood by Automated count: 14.6 fL\n- Platelet [Entitic mean volume] in Blood by Automated count: 11.1 fL\n- Glucose [Mass/volume] in Blood: 87.7 mg/dL\n- Urea Nitrogen [Mass/volume] in Blood: 11.9 mg/dL\n- Creatinine [Mass/volume] in Blood: 0.6 mg/dL\n- Calcium [Mass/volume] in Blood: 8.7 mg/dL\n- Sodium [Moles/volume] in Blood: 136.0 mmol/L\n- Potassium [Moles/volume] in Blood: 4.0 mmol/L\n- Chloride [Moles/volume] in Blood: 105.3 mmol/L\n- Carbon dioxide  total [Moles/volume] in Blood: 26.9 mmol/L\n- Leukocytes [#/volume] in Blood by Automated count: 6.8 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 5.1 10*6/uL\n- Hemoglobin [Mass/volume] in Blood: 17.3 g/dL\n- Hematocrit [Volume Fraction] of Blood by Automated count: 47.1 %\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 94.4 fL\n- MCH [Entitic mass] by Automated count: 29.4 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 34.0 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 41.1 fL\n- Platelets [#/volume] in Blood by Automated count: 152.9 10*3/uL\n- Platelet distribution width [Entitic volume] in Blood by Automated count: 17.0 fL\n- Platelet [Entitic mean volume] in Blood by Automated count: 9.5 fL\n- Glucose [Mass/volume] in Blood: 87.7 mg/dL\n- Urea Nitrogen [Mass/volume] in Blood: 11.9 mg/dL\n- Creatinine [Mass/volume] in Blood: 0.6 mg/dL\n- Calcium [Mass/volume] in Blood: 8.7 mg/dL\n- Sodium [Moles/volume] in Blood: 136.0 mmol/L\n- Potassium [Moles/volume] in Blood: 4.0 mmol/L\n- Chloride [Moles/volume] in Blood: 105.3 mmol/L\n- Carbon dioxide  total [Moles/volume] in Blood: 26.9 mmol/L\n- Leukocytes [#/volume] in Blood by Automated count: 8.1 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 4.1 10*6/uL\n- Hemoglobin [Mass/volume] in Blood: 17.2 g/dL\n- Hematocrit [Volume Fraction] of Blood by Automated count: 37.6 %\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 85.1 fL\n- MCH [Entitic mass] by Automated count: 32.7 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 34.7 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 42.3 fL\n- Platelets [#/volume] in Blood by Automated count: 402.2 10*3/uL\n- Platelet distribution width [Entitic volume] in Blood by Automated count: 16.0 fL\n- Platelet [Entitic mean volume] in Blood by Automated count: 11.1 fL"
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-61db-735e0a9f4143",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "2016-10-14",
+    "section": "Procedures",
+    "title": "Inpatient Discharge Summary - Corie Kohler - 2016-10-14",
+    "content": "- Pretransplant evaluation of kidney recipient, for Awaiting transplantation of kidney.\n- Transplant of kidney, for Awaiting transplantation of kidney.\n- Transplantation of kidney regime, for History of renal transplant.\n- Transplantation of kidney regime, for History of renal transplant.\n- Transplantation of kidney regime, for History of renal transplant.\n- Transplantation of kidney regime, for History of renal transplant.\n- Transplantation of kidney regime, for History of renal transplant."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-61db-735e0a9f4143",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "2016-10-14",
+    "section": "Medications",
+    "title": "Inpatient Discharge Summary - Corie Kohler - 2016-10-14",
+    "content": "Medications prescribed at this visit:\n- 1 ML tacrolimus 5 MG/ML Injection [Prograf], started 2016-10-14, for Awaiting transplantation of kidney; stopped 2016-10-14.\n- 1 ML tacrolimus 5 MG/ML Injection [Prograf], started 2016-10-15, for History of renal transplant; stopped 2016-10-15.\n- 1 ML tacrolimus 5 MG/ML Injection [Prograf], started 2016-10-16, for History of renal transplant; stopped 2016-10-16.\n- 1 ML tacrolimus 5 MG/ML Injection [Prograf], started 2016-10-17, for History of renal transplant; stopped 2016-10-17.\n- 1 ML tacrolimus 5 MG/ML Injection [Prograf], started 2016-10-18, for History of renal transplant; stopped 2016-10-18.\n- 1 ML tacrolimus 5 MG/ML Injection [Prograf], started 2016-10-19, for History of renal transplant; stopped 2016-10-19.\n- 24 HR tacrolimus 1 MG Extended Release Oral Tablet [Envarsus], started 2016-10-19, for History of renal transplant; stopped 2016-11-04."
+  }
+]

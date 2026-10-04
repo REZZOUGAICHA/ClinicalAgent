@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "80fcbdbc-e907-9bd5-79ad-8e1380b489ab",
+    "patient_id": "80fcbdbc-e907-9bd5-2644-ad9ef5d6545b",
+    "document_type": "Office Visit Note",
+    "date": "2011-06-09",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Jaime Aponte - 2011-06-09",
+    "content": "Patient: Jaime Aponte, male, born 1947-03-03 (patient ID 80fcbdbc-e907-9bd5-2644-ad9ef5d6545b).\nVisit date: 2011-06-09.\nVisit type: Encounter for problem.\nClinician: Gabriel Reilly (General Practice).\nFacility: Fitchburg Outpatient Clinic, Fitchburg, MA."
+  },
+  {
+    "doc_id": "80fcbdbc-e907-9bd5-79ad-8e1380b489ab",
+    "patient_id": "80fcbdbc-e907-9bd5-2644-ad9ef5d6545b",
+    "document_type": "Office Visit Note",
+    "date": "2011-06-09",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Jaime Aponte - 2011-06-09",
+    "content": "Seen for Ischemic heart disease."
+  },
+  {
+    "doc_id": "80fcbdbc-e907-9bd5-79ad-8e1380b489ab",
+    "patient_id": "80fcbdbc-e907-9bd5-2644-ad9ef5d6545b",
+    "document_type": "Office Visit Note",
+    "date": "2011-06-09",
+    "section": "Assessment",
+    "title": "Office Visit Note - Jaime Aponte - 2011-06-09",
+    "content": "Diagnoses recorded at this visit:\n- Abnormal findings diagnostic imaging heart+coronary circulat (onset 2011-06-09)."
+  }
+]

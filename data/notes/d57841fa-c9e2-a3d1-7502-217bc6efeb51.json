@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "d57841fa-c9e2-a3d1-7502-217bc6efeb51",
+    "patient_id": "d57841fa-c9e2-a3d1-0e78-09bdbe4eed66",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2021-04-12",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Jessica McKenzie - 2021-04-12",
+    "content": "Patient: Jessica McKenzie, female, born 1965-07-19 (patient ID d57841fa-c9e2-a3d1-0e78-09bdbe4eed66).\nVisit date: 2021-04-12.\nVisit type: Administration of vaccine to produce active immunity.\nClinician: Miguel Roberts (General Practice).\nFacility: SOUTH SHORE HOSPITAL INC., WEYMOUTH, MA."
+  },
+  {
+    "doc_id": "d57841fa-c9e2-a3d1-7502-217bc6efeb51",
+    "patient_id": "d57841fa-c9e2-a3d1-0e78-09bdbe4eed66",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2021-04-12",
+    "section": "Immunizations",
+    "title": "Outpatient Procedure Note - Jessica McKenzie - 2021-04-12",
+    "content": "- COVID-19 mRNA LNP-S PF 30 mcg/0.3 mL dose."
+  }
+]

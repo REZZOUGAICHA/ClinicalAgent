@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "46976cf7-b0bf-be20-0b3a-5211af0ba0db",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2022-10-21",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Lindsay Zieme - 2022-10-21",
+    "content": "Patient: Lindsay Zieme, female, born 2007-09-14 (patient ID 46976cf7-b0bf-be20-39a5-9f425a52886d).\nVisit date: 2022-10-21.\nVisit type: Well child visit.\nClinician: Levi Abbott (General Practice).\nFacility: TREE OF LIFE HEALTHCARE ASSOCIATES, WORCESTER, MA."
+  },
+  {
+    "doc_id": "46976cf7-b0bf-be20-0b3a-5211af0ba0db",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2022-10-21",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Lindsay Zieme - 2022-10-21",
+    "content": "- Body Height: 162.0 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0\n- Body Weight: 60.0 kg\n- Body mass index (BMI) [Ratio]: 22.9 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 78.3 %\n- Diastolic Blood Pressure: 88.0 mm[Hg]\n- Systolic Blood Pressure: 116.0 mm[Hg]\n- Heart rate: 90.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "46976cf7-b0bf-be20-0b3a-5211af0ba0db",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2022-10-21",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Lindsay Zieme - 2022-10-21",
+    "content": "- Medication reconciliation.\n- Depression screening.\n- Depression screening using Patient Health Questionnaire Nine Item score.\n- Assessment of substance use.\n- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test.\n- Anticipatory guidance."
+  },
+  {
+    "doc_id": "46976cf7-b0bf-be20-0b3a-5211af0ba0db",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2022-10-21",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Lindsay Zieme - 2022-10-21",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

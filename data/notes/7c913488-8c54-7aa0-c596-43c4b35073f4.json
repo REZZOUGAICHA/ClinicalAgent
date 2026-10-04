@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "7c913488-8c54-7aa0-c596-43c4b35073f4",
+    "patient_id": "7c913488-8c54-7aa0-a452-83dbc3ad8377",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2015-12-18",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Dian Kiehn - 2015-12-18",
+    "content": "Patient: Dian Kiehn, female, born 2012-01-13 (patient ID 7c913488-8c54-7aa0-a452-83dbc3ad8377).\nVisit date: 2015-12-18.\nVisit type: Well child visit.\nClinician: Adela King (General Practice).\nFacility: FAMILY SERVICE ASSOCIATION OF GREATER FALL RIVER INC, FALL RIVER, MA."
+  },
+  {
+    "doc_id": "7c913488-8c54-7aa0-c596-43c4b35073f4",
+    "patient_id": "7c913488-8c54-7aa0-a452-83dbc3ad8377",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2015-12-18",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Dian Kiehn - 2015-12-18",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2015-12-18), resolved 2017-12-29."
+  }
+]

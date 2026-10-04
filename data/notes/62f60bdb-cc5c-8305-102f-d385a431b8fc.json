@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "62f60bdb-cc5c-8305-102f-d385a431b8fc",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Office Visit Note",
+    "date": "2017-03-15",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Angel Frami - 2017-03-15",
+    "content": "Patient: Angel Frami, female, born 1975-10-22 (patient ID 62f60bdb-cc5c-8305-b98b-f2b229a55eca).\nVisit date: 2017-03-15.\nVisit type: Encounter for check up.\nClinician: Ollie Dooley (General Practice).\nFacility: DR JOHN C CORRIGAN MENTAL HEALTH CENTER, FALL RIVER, MA."
+  },
+  {
+    "doc_id": "62f60bdb-cc5c-8305-102f-d385a431b8fc",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Office Visit Note",
+    "date": "2017-03-15",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Angel Frami - 2017-03-15",
+    "content": "Seen for Patient referral for dental care."
+  },
+  {
+    "doc_id": "62f60bdb-cc5c-8305-102f-d385a431b8fc",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Office Visit Note",
+    "date": "2017-03-15",
+    "section": "Procedures",
+    "title": "Office Visit Note - Angel Frami - 2017-03-15",
+    "content": "- Dental consultation and report, for Patient referral for dental care.\n- Dental care, for Patient referral for dental care.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Dental plain X-ray bitewing.\n- Examination of gingivae, for Patient referral for dental care.\n- Dental fluoride treatment, for Patient referral for dental care.\n- Oral health education, for Patient referral for dental care."
+  },
+  {
+    "doc_id": "62f60bdb-cc5c-8305-102f-d385a431b8fc",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Office Visit Note",
+    "date": "2017-03-15",
+    "section": "Medications",
+    "title": "Office Visit Note - Angel Frami - 2017-03-15",
+    "content": "Medications prescribed at this visit:\n- sodium fluoride 0.0272 MG/MG Oral Gel, started 2017-03-15, for Patient referral for dental care; stopped 2017-03-15."
+  }
+]

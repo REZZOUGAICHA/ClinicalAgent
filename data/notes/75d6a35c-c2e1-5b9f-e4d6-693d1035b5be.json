@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "75d6a35c-c2e1-5b9f-e4d6-693d1035b5be",
+    "patient_id": "75d6a35c-c2e1-5b9f-e7f8-6a5b05af8fc8",
+    "document_type": "Office Visit Note",
+    "date": "2014-12-26",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Hiram Batz - 2014-12-26",
+    "content": "Patient: Hiram Batz, male, born 2013-02-01 (patient ID 75d6a35c-c2e1-5b9f-e7f8-6a5b05af8fc8).\nVisit date: 2014-12-26.\nVisit type: Encounter for symptom.\nClinician: Bennett Rippin (General Practice).\nFacility: MILFORD REGIONAL MEDICAL CENTER, UPTON, MA."
+  },
+  {
+    "doc_id": "75d6a35c-c2e1-5b9f-e4d6-693d1035b5be",
+    "patient_id": "75d6a35c-c2e1-5b9f-e7f8-6a5b05af8fc8",
+    "document_type": "Office Visit Note",
+    "date": "2014-12-26",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Hiram Batz - 2014-12-26",
+    "content": "Seen for Acute bacterial sinusitis."
+  },
+  {
+    "doc_id": "75d6a35c-c2e1-5b9f-e4d6-693d1035b5be",
+    "patient_id": "75d6a35c-c2e1-5b9f-e7f8-6a5b05af8fc8",
+    "document_type": "Office Visit Note",
+    "date": "2014-12-26",
+    "section": "Assessment",
+    "title": "Office Visit Note - Hiram Batz - 2014-12-26",
+    "content": "Diagnoses recorded at this visit:\n- Chronic sinusitis (onset 2014-12-26)."
+  }
+]

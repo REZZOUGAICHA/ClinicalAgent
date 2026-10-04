@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "947c82ee-1735-c9ed-7a12-d8b0d927d420",
+    "patient_id": "947c82ee-1735-c9ed-8210-38cb93d8070c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2016-10-25",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Marcell Hammes - 2016-10-25",
+    "content": "Patient: Marcell Hammes, female, born 2016-05-17 (patient ID 947c82ee-1735-c9ed-8210-38cb93d8070c).\nVisit date: 2016-10-25.\nVisit type: Well child visit.\nClinician: Kirby McKenzie (General Practice).\nFacility: BOSTON MEDICAL CENTER CORPORATION-, ROSLINDALE, MA."
+  },
+  {
+    "doc_id": "947c82ee-1735-c9ed-7a12-d8b0d927d420",
+    "patient_id": "947c82ee-1735-c9ed-8210-38cb93d8070c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2016-10-25",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Marcell Hammes - 2016-10-25",
+    "content": "- Body Height: 65.2 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0\n- Body Weight: 6.0 kg\n- Weight-for-length Per age and sex: 0.9 %\n- Head Occipital-frontal circumference Percentile: 64.5 %\n- Head Occipital-frontal circumference: 42.6 cm\n- Diastolic Blood Pressure: 79.0 mm[Hg]\n- Systolic Blood Pressure: 135.0 mm[Hg]\n- Heart rate: 79.0 /min\n- Respiratory rate: 15.0 /min"
+  },
+  {
+    "doc_id": "947c82ee-1735-c9ed-7a12-d8b0d927d420",
+    "patient_id": "947c82ee-1735-c9ed-8210-38cb93d8070c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2016-10-25",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Marcell Hammes - 2016-10-25",
+    "content": "- Medication reconciliation."
+  },
+  {
+    "doc_id": "947c82ee-1735-c9ed-7a12-d8b0d927d420",
+    "patient_id": "947c82ee-1735-c9ed-8210-38cb93d8070c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2016-10-25",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Marcell Hammes - 2016-10-25",
+    "content": "- Hib (PRP-OMP).\n- rotavirus monovalent.\n- IPV.\n- DTaP.\n- Pneumococcal conjugate PCV 13."
+  }
+]

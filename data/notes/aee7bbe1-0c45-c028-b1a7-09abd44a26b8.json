@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "aee7bbe1-0c45-c028-b1a7-09abd44a26b8",
+    "patient_id": "aee7bbe1-0c45-c028-1e62-1f4cdb30c273",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-12-31",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Wilfredo Fritsch - 2020-12-31",
+    "content": "Patient: Wilfredo Fritsch, male, born 2010-12-23 (patient ID aee7bbe1-0c45-c028-1e62-1f4cdb30c273).\nVisit date: 2020-12-31.\nVisit type: Well child visit.\nClinician: Victoria Roob (General Practice).\nFacility: DILIGENCEHEALTHCARE, BROCKTON, MA."
+  },
+  {
+    "doc_id": "aee7bbe1-0c45-c028-b1a7-09abd44a26b8",
+    "patient_id": "aee7bbe1-0c45-c028-1e62-1f4cdb30c273",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-12-31",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Wilfredo Fritsch - 2020-12-31",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2020-12-31), resolved 2024-01-18."
+  },
+  {
+    "doc_id": "aee7bbe1-0c45-c028-b1a7-09abd44a26b8",
+    "patient_id": "aee7bbe1-0c45-c028-1e62-1f4cdb30c273",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-12-31",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Wilfredo Fritsch - 2020-12-31",
+    "content": "- Body Height: 142.9 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0\n- Body Weight: 52.5 kg\n- Body mass index (BMI) [Ratio]: 25.7 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 98.2 %\n- Diastolic Blood Pressure: 89.0 mm[Hg]\n- Systolic Blood Pressure: 117.0 mm[Hg]\n- Heart rate: 96.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "aee7bbe1-0c45-c028-b1a7-09abd44a26b8",
+    "patient_id": "aee7bbe1-0c45-c028-1e62-1f4cdb30c273",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-12-31",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Wilfredo Fritsch - 2020-12-31",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

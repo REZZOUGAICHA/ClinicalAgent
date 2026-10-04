@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "75d6a35c-c2e1-5b9f-4ce7-67288c5293bd",
+    "patient_id": "75d6a35c-c2e1-5b9f-e7f8-6a5b05af8fc8",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-02-27",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Hiram Batz - 2026-02-27",
+    "content": "Patient: Hiram Batz, male, born 2013-02-01 (patient ID 75d6a35c-c2e1-5b9f-e7f8-6a5b05af8fc8).\nVisit date: 2026-02-27.\nVisit type: Well child visit.\nClinician: Shaquita Graham (General Practice).\nFacility: HOPKINTON MEDICAL CARE P.C., HOPKINTON, MA."
+  },
+  {
+    "doc_id": "75d6a35c-c2e1-5b9f-4ce7-67288c5293bd",
+    "patient_id": "75d6a35c-c2e1-5b9f-e7f8-6a5b05af8fc8",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-02-27",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Hiram Batz - 2026-02-27",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2026-02-27).\n- Risk activity involvement (onset 2026-02-27)."
+  },
+  {
+    "doc_id": "75d6a35c-c2e1-5b9f-4ce7-67288c5293bd",
+    "patient_id": "75d6a35c-c2e1-5b9f-e7f8-6a5b05af8fc8",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-02-27",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Hiram Batz - 2026-02-27",
+    "content": "- Body Height: 163.1 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0\n- Body Weight: 63.2 kg\n- Body mass index (BMI) [Ratio]: 23.8 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 92.3 %\n- Diastolic Blood Pressure: 74.0 mm[Hg]\n- Systolic Blood Pressure: 87.0 mm[Hg]\n- Heart rate: 71.0 /min\n- Respiratory rate: 15.0 /min"
+  },
+  {
+    "doc_id": "75d6a35c-c2e1-5b9f-4ce7-67288c5293bd",
+    "patient_id": "75d6a35c-c2e1-5b9f-e7f8-6a5b05af8fc8",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-02-27",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Hiram Batz - 2026-02-27",
+    "content": "- Assessment of anxiety.\n- Depression screening.\n- Depression screening using Patient Health Questionnaire Nine Item score.\n- Assessment of substance use.\n- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test.\n- Health risks education, for Risk activity involvement.\n- Patient referral for dental care."
+  },
+  {
+    "doc_id": "75d6a35c-c2e1-5b9f-4ce7-67288c5293bd",
+    "patient_id": "75d6a35c-c2e1-5b9f-e7f8-6a5b05af8fc8",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-02-27",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Hiram Batz - 2026-02-27",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

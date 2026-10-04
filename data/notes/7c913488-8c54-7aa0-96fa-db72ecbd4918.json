@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "7c913488-8c54-7aa0-96fa-db72ecbd4918",
+    "patient_id": "7c913488-8c54-7aa0-a452-83dbc3ad8377",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2020-04-10",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Dian Kiehn - 2020-04-10",
+    "content": "Patient: Dian Kiehn, female, born 2012-01-13 (patient ID 7c913488-8c54-7aa0-a452-83dbc3ad8377).\nVisit date: 2020-04-10.\nVisit type: Encounter for check up.\nClinician: Vella Ankunding (General Practice).\nFacility: SOUTHCOAST HOSPITALS GROUP INC, FALL RIVER, MA."
+  },
+  {
+    "doc_id": "7c913488-8c54-7aa0-96fa-db72ecbd4918",
+    "patient_id": "7c913488-8c54-7aa0-a452-83dbc3ad8377",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2020-04-10",
+    "section": "Vital Signs",
+    "title": "Outpatient Procedure Note - Dian Kiehn - 2020-04-10",
+    "content": "- Body Height: 137.0 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0\n- Body Weight: 39.1 kg\n- Body mass index (BMI) [Ratio]: 20.9 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 95.0 %\n- Diastolic Blood Pressure: 70.0 mm[Hg]\n- Systolic Blood Pressure: 131.0 mm[Hg]\n- Heart rate: 73.0 /min\n- Respiratory rate: 16.0 /min"
+  },
+  {
+    "doc_id": "7c913488-8c54-7aa0-96fa-db72ecbd4918",
+    "patient_id": "7c913488-8c54-7aa0-a452-83dbc3ad8377",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2020-04-10",
+    "section": "Procedures",
+    "title": "Outpatient Procedure Note - Dian Kiehn - 2020-04-10",
+    "content": "- Medication reconciliation."
+  }
+]

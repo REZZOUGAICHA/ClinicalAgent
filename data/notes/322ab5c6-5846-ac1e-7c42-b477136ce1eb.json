@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "322ab5c6-5846-ac1e-7c42-b477136ce1eb",
+    "patient_id": "322ab5c6-5846-ac1e-38cc-48b8cb441e20",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-04-25",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Lena Cummings - 2025-04-25",
+    "content": "Patient: Lena Cummings, female, born 1965-02-26 (patient ID 322ab5c6-5846-ac1e-38cc-48b8cb441e20).\nVisit date: 2025-04-25.\nVisit type: General examination of patient.\nClinician: Anh Schroeder (General Practice).\nFacility: FAMILY PRACTICE GROUP PC, ARLINGTON, MA."
+  },
+  {
+    "doc_id": "322ab5c6-5846-ac1e-7c42-b477136ce1eb",
+    "patient_id": "322ab5c6-5846-ac1e-38cc-48b8cb441e20",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-04-25",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Lena Cummings - 2025-04-25",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2025-04-25), resolved 2025-04-25.\n- Part-time employment (onset 2025-04-25), resolved 2026-05-01.\n- Stress (onset 2025-04-25)."
+  },
+  {
+    "doc_id": "322ab5c6-5846-ac1e-7c42-b477136ce1eb",
+    "patient_id": "322ab5c6-5846-ac1e-38cc-48b8cb441e20",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-04-25",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Lena Cummings - 2025-04-25",
+    "content": "- Body Height: 159.6 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0\n- Body Weight: 73.4 kg\n- Body mass index (BMI) [Ratio]: 28.8 kg/m2\n- Diastolic Blood Pressure: 83.0 mm[Hg]\n- Systolic Blood Pressure: 126.0 mm[Hg]\n- Heart rate: 80.0 /min\n- Respiratory rate: 14.0 /min"
+  },
+  {
+    "doc_id": "322ab5c6-5846-ac1e-7c42-b477136ce1eb",
+    "patient_id": "322ab5c6-5846-ac1e-38cc-48b8cb441e20",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-04-25",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Lena Cummings - 2025-04-25",
+    "content": "- Medication reconciliation.\n- Assessment of health and social care needs.\n- Assessment of anxiety.\n- Depression screening.\n- Depression screening."
+  },
+  {
+    "doc_id": "322ab5c6-5846-ac1e-7c42-b477136ce1eb",
+    "patient_id": "322ab5c6-5846-ac1e-38cc-48b8cb441e20",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-04-25",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Lena Cummings - 2025-04-25",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

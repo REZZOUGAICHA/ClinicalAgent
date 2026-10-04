@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "b6a1cac9-8873-36a7-a443-1a7c58922a22",
+    "patient_id": "b6a1cac9-8873-36a7-e726-4aad8a07d44d",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "2017-04-14",
+    "section": "Visit Information",
+    "title": "Inpatient Discharge Summary - Renaldo Crist - 2017-04-14",
+    "content": "Patient: Renaldo Crist, male, born 1993-04-14 (patient ID b6a1cac9-8873-36a7-e726-4aad8a07d44d).\nVisit date: 2017-04-14.\nVisit type: Drug rehabilitation and detoxification.\nClinician: Eleni Franecki (General Practice).\nFacility: BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM INC., NEEDHAM, MA."
+  },
+  {
+    "doc_id": "b6a1cac9-8873-36a7-a443-1a7c58922a22",
+    "patient_id": "b6a1cac9-8873-36a7-e726-4aad8a07d44d",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "2017-04-14",
+    "section": "Reason for Visit",
+    "title": "Inpatient Discharge Summary - Renaldo Crist - 2017-04-14",
+    "content": "Seen for Dependent drug abuse."
+  },
+  {
+    "doc_id": "b6a1cac9-8873-36a7-a443-1a7c58922a22",
+    "patient_id": "b6a1cac9-8873-36a7-e726-4aad8a07d44d",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "2017-04-14",
+    "section": "Vital Signs",
+    "title": "Inpatient Discharge Summary - Renaldo Crist - 2017-04-14",
+    "content": "- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 7.0"
+  }
+]

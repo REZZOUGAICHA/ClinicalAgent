@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "eb5910f1-26e6-bc6f-8dbb-95e453e8b5b1",
+    "patient_id": "eb5910f1-26e6-bc6f-b300-716eae678d6f",
+    "document_type": "Office Visit Note",
+    "date": "1996-04-24",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Larissa Bins - 1996-04-24",
+    "content": "Patient: Larissa Bins, female, born 1995-04-25 (patient ID eb5910f1-26e6-bc6f-b300-716eae678d6f).\nVisit date: 1996-04-24.\nVisit type: Encounter for problem.\nClinician: Gabriel Reilly (General Practice).\nFacility: Fitchburg Outpatient Clinic, Fitchburg, MA."
+  },
+  {
+    "doc_id": "eb5910f1-26e6-bc6f-8dbb-95e453e8b5b1",
+    "patient_id": "eb5910f1-26e6-bc6f-b300-716eae678d6f",
+    "document_type": "Office Visit Note",
+    "date": "1996-04-24",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Larissa Bins - 1996-04-24",
+    "content": "Seen for Aortic valve stenosis."
+  },
+  {
+    "doc_id": "eb5910f1-26e6-bc6f-8dbb-95e453e8b5b1",
+    "patient_id": "eb5910f1-26e6-bc6f-b300-716eae678d6f",
+    "document_type": "Office Visit Note",
+    "date": "1996-04-24",
+    "section": "Assessment",
+    "title": "Office Visit Note - Larissa Bins - 1996-04-24",
+    "content": "Diagnoses recorded at this visit:\n- Aortic valve stenosis (onset 1996-04-24)."
+  }
+]

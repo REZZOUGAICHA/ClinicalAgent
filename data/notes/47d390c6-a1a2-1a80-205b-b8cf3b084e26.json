@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "47d390c6-a1a2-1a80-205b-b8cf3b084e26",
+    "patient_id": "47d390c6-a1a2-1a80-dd1d-9722c7b24159",
+    "document_type": "Emergency Department Note",
+    "date": "2018-08-17",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Demarcus Jones - 2018-08-17",
+    "content": "Patient: Demarcus Jones, male, born 2009-03-07 (patient ID 47d390c6-a1a2-1a80-dd1d-9722c7b24159).\nVisit date: 2018-08-17.\nVisit type: Emergency room admission.\nClinician: Jesenia Bednar (General Practice).\nFacility: PENACOOK PLACE INC, HAVERHILL, MA."
+  },
+  {
+    "doc_id": "47d390c6-a1a2-1a80-205b-b8cf3b084e26",
+    "patient_id": "47d390c6-a1a2-1a80-dd1d-9722c7b24159",
+    "document_type": "Emergency Department Note",
+    "date": "2018-08-17",
+    "section": "Reason for Visit",
+    "title": "Emergency Department Note - Demarcus Jones - 2018-08-17",
+    "content": "Seen for Concussion injury of brain."
+  },
+  {
+    "doc_id": "47d390c6-a1a2-1a80-205b-b8cf3b084e26",
+    "patient_id": "47d390c6-a1a2-1a80-dd1d-9722c7b24159",
+    "document_type": "Emergency Department Note",
+    "date": "2018-08-17",
+    "section": "Assessment",
+    "title": "Emergency Department Note - Demarcus Jones - 2018-08-17",
+    "content": "Diagnoses recorded at this visit:\n- Concussion injury of brain (onset 2018-08-17), resolved 2018-11-01.\n- Concussion with no loss of consciousness (onset 2018-08-17), resolved 2018-11-01."
+  },
+  {
+    "doc_id": "47d390c6-a1a2-1a80-205b-b8cf3b084e26",
+    "patient_id": "47d390c6-a1a2-1a80-dd1d-9722c7b24159",
+    "document_type": "Emergency Department Note",
+    "date": "2018-08-17",
+    "section": "Plan",
+    "title": "Emergency Department Note - Demarcus Jones - 2018-08-17",
+    "content": "- Head injury rehabilitation for Concussion with no loss of consciousness, started 2018-08-17, ended 2018-11-01."
+  }
+]

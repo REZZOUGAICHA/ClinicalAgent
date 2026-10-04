@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "aa616abe-1761-0c9a-2866-c52fc0b56081",
+    "patient_id": "aa616abe-1761-0c9a-7959-07544679dafd",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2005-03-11",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Jona Robel - 2005-03-11",
+    "content": "Patient: Jona Robel, female, born 1958-11-15 (patient ID aa616abe-1761-0c9a-7959-07544679dafd).\nVisit date: 2005-03-11.\nVisit type: Consultation for treatment.\nClinician: Chanelle Schuster (General Practice).\nFacility: TUFTS MEDICAL CENTER, STONEHAM, MA."
+  },
+  {
+    "doc_id": "aa616abe-1761-0c9a-2866-c52fc0b56081",
+    "patient_id": "aa616abe-1761-0c9a-7959-07544679dafd",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2005-03-11",
+    "section": "Reason for Visit",
+    "title": "Outpatient Procedure Note - Jona Robel - 2005-03-11",
+    "content": "Seen for Contraception care."
+  },
+  {
+    "doc_id": "aa616abe-1761-0c9a-2866-c52fc0b56081",
+    "patient_id": "aa616abe-1761-0c9a-7959-07544679dafd",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2005-03-11",
+    "section": "Medications",
+    "title": "Outpatient Procedure Note - Jona Robel - 2005-03-11",
+    "content": "Medications prescribed at this visit:\n- levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena], started 2005-03-11; stopped 2006-03-10."
+  }
+]

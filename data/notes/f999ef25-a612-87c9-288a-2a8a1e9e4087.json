@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "f999ef25-a612-87c9-288a-2a8a1e9e4087",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Urgent Care Note",
+    "date": "2008-03-28",
+    "section": "Visit Information",
+    "title": "Urgent Care Note - Evangeline Ziemann - 2008-03-28",
+    "content": "Patient: Evangeline Ziemann, female, born 1925-09-18 (patient ID f999ef25-a612-87c9-206f-aacc9d469dc8).\nVisit date: 2008-03-28.\nVisit type: Urgent care clinic.\nClinician: Liberty Kihn (General Practice).\nFacility: WOONSOCKET URGENT CARE PC, BELLINGHAM, MA."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-288a-2a8a1e9e4087",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Urgent Care Note",
+    "date": "2008-03-28",
+    "section": "Assessment",
+    "title": "Urgent Care Note - Evangeline Ziemann - 2008-03-28",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2008-03-28), resolved 2008-04-11."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-288a-2a8a1e9e4087",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Urgent Care Note",
+    "date": "2008-03-28",
+    "section": "Laboratory Results",
+    "title": "Urgent Care Note - Evangeline Ziemann - 2008-03-28",
+    "content": "- Hemoglobin A1c/Hemoglobin.total in Blood: 3.8 %"
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-288a-2a8a1e9e4087",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Urgent Care Note",
+    "date": "2008-03-28",
+    "section": "Medications",
+    "title": "Urgent Care Note - Evangeline Ziemann - 2008-03-28",
+    "content": "Medications prescribed at this visit:\n- insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin], started 2008-03-28, for Prediabetes; stopped 2008-04-04.\n- 24 HR tacrolimus 1 MG Extended Release Oral Tablet [Envarsus], started 2008-03-28, for History of renal transplant; stopped 2008-04-04.\n- lisinopril 10 MG Oral Tablet, started 2008-03-28, for Essential hypertension; stopped 2008-04-04."
+  }
+]

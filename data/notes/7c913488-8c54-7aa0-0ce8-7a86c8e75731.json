@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "7c913488-8c54-7aa0-0ce8-7a86c8e75731",
+    "patient_id": "7c913488-8c54-7aa0-a452-83dbc3ad8377",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-02-02",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Dian Kiehn - 2024-02-02",
+    "content": "Patient: Dian Kiehn, female, born 2012-01-13 (patient ID 7c913488-8c54-7aa0-a452-83dbc3ad8377).\nVisit date: 2024-02-02.\nVisit type: Well child visit.\nClinician: Adela King (General Practice).\nFacility: FAMILY SERVICE ASSOCIATION OF GREATER FALL RIVER INC, FALL RIVER, MA."
+  },
+  {
+    "doc_id": "7c913488-8c54-7aa0-0ce8-7a86c8e75731",
+    "patient_id": "7c913488-8c54-7aa0-a452-83dbc3ad8377",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-02-02",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Dian Kiehn - 2024-02-02",
+    "content": "- Body Height: 161.3 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0\n- Body Weight: 55.9 kg\n- Body mass index (BMI) [Ratio]: 21.5 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 83.7 %\n- Diastolic Blood Pressure: 61.0 mm[Hg]\n- Systolic Blood Pressure: 120.0 mm[Hg]\n- Heart rate: 64.0 /min\n- Respiratory rate: 12.0 /min"
+  },
+  {
+    "doc_id": "7c913488-8c54-7aa0-0ce8-7a86c8e75731",
+    "patient_id": "7c913488-8c54-7aa0-a452-83dbc3ad8377",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-02-02",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Dian Kiehn - 2024-02-02",
+    "content": "- Assessment of substance use.\n- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test.\n- Anticipatory guidance."
+  },
+  {
+    "doc_id": "7c913488-8c54-7aa0-0ce8-7a86c8e75731",
+    "patient_id": "7c913488-8c54-7aa0-a452-83dbc3ad8377",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-02-02",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Dian Kiehn - 2024-02-02",
+    "content": "- Influenza split virus trivalent PF.\n- HPV quadrivalent."
+  }
+]

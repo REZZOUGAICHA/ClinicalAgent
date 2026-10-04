@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "79021b82-f370-50bb-3302-d5bf226e9e5a",
+    "patient_id": "79021b82-f370-50bb-c5a1-7333816d683f",
+    "document_type": "Office Visit Note",
+    "date": "2024-06-19",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Evette Farrell - 2024-06-19",
+    "content": "Patient: Evette Farrell, female, born 2013-03-20 (patient ID 79021b82-f370-50bb-c5a1-7333816d683f).\nVisit date: 2024-06-19.\nVisit type: Encounter for symptom.\nClinician: Willian Batz (General Practice).\nFacility: BOSTON MEDICAL CENTER CORPORATION-, WINTHROP, MA."
+  },
+  {
+    "doc_id": "79021b82-f370-50bb-3302-d5bf226e9e5a",
+    "patient_id": "79021b82-f370-50bb-c5a1-7333816d683f",
+    "document_type": "Office Visit Note",
+    "date": "2024-06-19",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Evette Farrell - 2024-06-19",
+    "content": "Seen for Viral sinusitis."
+  },
+  {
+    "doc_id": "79021b82-f370-50bb-3302-d5bf226e9e5a",
+    "patient_id": "79021b82-f370-50bb-c5a1-7333816d683f",
+    "document_type": "Office Visit Note",
+    "date": "2024-06-19",
+    "section": "Assessment",
+    "title": "Office Visit Note - Evette Farrell - 2024-06-19",
+    "content": "Diagnoses recorded at this visit:\n- Viral sinusitis (onset 2024-06-19), resolved 2024-07-02."
+  }
+]

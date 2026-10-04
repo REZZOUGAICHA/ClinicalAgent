@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "7b06ee52-df9a-8487-77bd-dc1a9c4d267f",
+    "patient_id": "7b06ee52-df9a-8487-0be6-dff27cc7d519",
+    "document_type": "Office Visit Note",
+    "date": "2018-10-08",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Ressie Nader - 2018-10-08",
+    "content": "Patient: Ressie Nader, female, born 2001-08-06 (patient ID 7b06ee52-df9a-8487-0be6-dff27cc7d519).\nVisit date: 2018-10-08.\nVisit type: Encounter for check up.\nClinician: Maricarmen Delafuente (General Practice).\nFacility: ARBOUR-FULLER HOSPITAL, SOUTH ATTLEBORO, MA."
+  },
+  {
+    "doc_id": "7b06ee52-df9a-8487-77bd-dc1a9c4d267f",
+    "patient_id": "7b06ee52-df9a-8487-0be6-dff27cc7d519",
+    "document_type": "Office Visit Note",
+    "date": "2018-10-08",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Ressie Nader - 2018-10-08",
+    "content": "Seen for Patient referral for dental care."
+  },
+  {
+    "doc_id": "7b06ee52-df9a-8487-77bd-dc1a9c4d267f",
+    "patient_id": "7b06ee52-df9a-8487-0be6-dff27cc7d519",
+    "document_type": "Office Visit Note",
+    "date": "2018-10-08",
+    "section": "Assessment",
+    "title": "Office Visit Note - Ressie Nader - 2018-10-08",
+    "content": "Diagnoses recorded at this visit:\n- Loose dental filling (onset 2018-10-08), resolved 2018-10-08."
+  },
+  {
+    "doc_id": "7b06ee52-df9a-8487-77bd-dc1a9c4d267f",
+    "patient_id": "7b06ee52-df9a-8487-0be6-dff27cc7d519",
+    "document_type": "Office Visit Note",
+    "date": "2018-10-08",
+    "section": "Procedures",
+    "title": "Office Visit Note - Ressie Nader - 2018-10-08",
+    "content": "- Dental consultation and report, for Patient referral for dental care.\n- Dental care, for Patient referral for dental care.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Examination of gingivae, for Patient referral for dental care.\n- Application of composite dental filling material to dentin of tooth following fracture of tooth, for Loose dental filling.\n- Oral health education, for Patient referral for dental care."
+  }
+]

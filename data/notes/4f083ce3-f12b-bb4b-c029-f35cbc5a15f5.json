@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "4f083ce3-f12b-bb4b-c029-f35cbc5a15f5",
+    "patient_id": "4f083ce3-f12b-bb4b-7353-e17f0cd55b0a",
+    "document_type": "Office Visit Note",
+    "date": "2017-03-21",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Ezekiel Walter - 2017-03-21",
+    "content": "Patient: Ezekiel Walter, male, born 1999-01-12 (patient ID 4f083ce3-f12b-bb4b-7353-e17f0cd55b0a).\nVisit date: 2017-03-21.\nVisit type: Encounter for check up.\nClinician: Eldora Langosh (General Practice).\nFacility: BRIGHAM AND WOMEN'S FAULKNER HOSPITAL INC., JAMAICA PLAIN, MA."
+  },
+  {
+    "doc_id": "4f083ce3-f12b-bb4b-c029-f35cbc5a15f5",
+    "patient_id": "4f083ce3-f12b-bb4b-7353-e17f0cd55b0a",
+    "document_type": "Office Visit Note",
+    "date": "2017-03-21",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Ezekiel Walter - 2017-03-21",
+    "content": "Seen for Patient referral for dental care."
+  },
+  {
+    "doc_id": "4f083ce3-f12b-bb4b-c029-f35cbc5a15f5",
+    "patient_id": "4f083ce3-f12b-bb4b-7353-e17f0cd55b0a",
+    "document_type": "Office Visit Note",
+    "date": "2017-03-21",
+    "section": "Assessment",
+    "title": "Office Visit Note - Ezekiel Walter - 2017-03-21",
+    "content": "Diagnoses recorded at this visit:\n- Infection of tooth (onset 2017-03-21), resolved 2017-03-21."
+  },
+  {
+    "doc_id": "4f083ce3-f12b-bb4b-c029-f35cbc5a15f5",
+    "patient_id": "4f083ce3-f12b-bb4b-7353-e17f0cd55b0a",
+    "document_type": "Office Visit Note",
+    "date": "2017-03-21",
+    "section": "Procedures",
+    "title": "Office Visit Note - Ezekiel Walter - 2017-03-21",
+    "content": "- Dental consultation and report, for Patient referral for dental care.\n- Dental care, for Patient referral for dental care.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Dental plain X-ray bitewing.\n- Dental surgical procedure, for Infection of tooth.\n- Dental application of desensitizing medicament, for Infection of tooth.\n- Simple extraction of tooth, for Infection of tooth.\n- Postoperative care for dental procedure.\n- Examination of gingivae, for Patient referral for dental care.\n- Dental fluoride treatment, for Patient referral for dental care.\n- Oral health education, for Patient referral for dental care."
+  },
+  {
+    "doc_id": "4f083ce3-f12b-bb4b-c029-f35cbc5a15f5",
+    "patient_id": "4f083ce3-f12b-bb4b-7353-e17f0cd55b0a",
+    "document_type": "Office Visit Note",
+    "date": "2017-03-21",
+    "section": "Medications",
+    "title": "Office Visit Note - Ezekiel Walter - 2017-03-21",
+    "content": "Medications prescribed at this visit:\n- sodium fluoride 0.0272 MG/MG Oral Gel, started 2017-03-21, for Patient referral for dental care; stopped 2017-03-21."
+  }
+]

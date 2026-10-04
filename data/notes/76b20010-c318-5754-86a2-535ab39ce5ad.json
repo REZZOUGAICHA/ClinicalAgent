@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "76b20010-c318-5754-86a2-535ab39ce5ad",
+    "patient_id": "76b20010-c318-5754-8c85-983aa538522f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-08-27",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Jody Hickle - 2018-08-27",
+    "content": "Patient: Jody Hickle, male, born 2018-03-19 (patient ID 76b20010-c318-5754-8c85-983aa538522f).\nVisit date: 2018-08-27.\nVisit type: Well child visit.\nClinician: Dane Tromp (General Practice).\nFacility: NEWBURYPORT FAMILY PRACTICE P.C., NEWBURYPORT, MA."
+  },
+  {
+    "doc_id": "76b20010-c318-5754-86a2-535ab39ce5ad",
+    "patient_id": "76b20010-c318-5754-8c85-983aa538522f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-08-27",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Jody Hickle - 2018-08-27",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2018-08-27), resolved 2018-11-26."
+  },
+  {
+    "doc_id": "76b20010-c318-5754-86a2-535ab39ce5ad",
+    "patient_id": "76b20010-c318-5754-8c85-983aa538522f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-08-27",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Jody Hickle - 2018-08-27",
+    "content": "- Body Height: 66.5 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0\n- Body Weight: 7.4 kg\n- Weight-for-length Per age and sex: 24.5 %\n- Head Occipital-frontal circumference Percentile: 58.8 %\n- Head Occipital-frontal circumference: 43.7 cm\n- Diastolic Blood Pressure: 88.0 mm[Hg]\n- Systolic Blood Pressure: 118.0 mm[Hg]\n- Heart rate: 91.0 /min\n- Respiratory rate: 16.0 /min"
+  },
+  {
+    "doc_id": "76b20010-c318-5754-86a2-535ab39ce5ad",
+    "patient_id": "76b20010-c318-5754-8c85-983aa538522f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-08-27",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Jody Hickle - 2018-08-27",
+    "content": "- Hib (PRP-OMP).\n- rotavirus monovalent.\n- IPV.\n- DTaP.\n- Pneumococcal conjugate PCV 13."
+  }
+]

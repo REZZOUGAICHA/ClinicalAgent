@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "5e688e99-61b3-5c88-b008-d9b7fcbe7129",
+    "patient_id": "5e688e99-61b3-5c88-3f60-21df8aaced27",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2020-02-13",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Wallace Effertz - 2020-02-13",
+    "content": "Patient: Wallace Effertz, male, born 2010-01-28 (patient ID 5e688e99-61b3-5c88-3f60-21df8aaced27).\nVisit date: 2020-02-13.\nVisit type: Encounter for check up.\nClinician: Lorette Hauck (General Practice).\nFacility: WHITTIER REHABILTATION HOSPITAL, LYNN, MA."
+  },
+  {
+    "doc_id": "5e688e99-61b3-5c88-b008-d9b7fcbe7129",
+    "patient_id": "5e688e99-61b3-5c88-3f60-21df8aaced27",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2020-02-13",
+    "section": "Vital Signs",
+    "title": "Outpatient Procedure Note - Wallace Effertz - 2020-02-13",
+    "content": "- Body Height: 136.1 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0\n- Body Weight: 42.7 kg\n- Body mass index (BMI) [Ratio]: 23.1 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 96.3 %\n- Diastolic Blood Pressure: 89.0 mm[Hg]\n- Systolic Blood Pressure: 142.0 mm[Hg]\n- Heart rate: 86.0 /min\n- Respiratory rate: 14.0 /min"
+  }
+]

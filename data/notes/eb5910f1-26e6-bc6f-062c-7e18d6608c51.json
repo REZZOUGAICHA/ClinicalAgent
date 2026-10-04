@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "eb5910f1-26e6-bc6f-062c-7e18d6608c51",
+    "patient_id": "eb5910f1-26e6-bc6f-b300-716eae678d6f",
+    "document_type": "Office Visit Note",
+    "date": "2023-07-18",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Larissa Bins - 2023-07-18",
+    "content": "Patient: Larissa Bins, female, born 1995-04-25 (patient ID eb5910f1-26e6-bc6f-b300-716eae678d6f).\nVisit date: 2023-07-18.\nVisit type: Encounter for check up.\nClinician: Jackelyn Pacocha (General Practice).\nFacility: WP ACQUISITION SUB LLC, HAVERHILL, MA."
+  },
+  {
+    "doc_id": "eb5910f1-26e6-bc6f-062c-7e18d6608c51",
+    "patient_id": "eb5910f1-26e6-bc6f-b300-716eae678d6f",
+    "document_type": "Office Visit Note",
+    "date": "2023-07-18",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Larissa Bins - 2023-07-18",
+    "content": "Seen for Gingivitis."
+  },
+  {
+    "doc_id": "eb5910f1-26e6-bc6f-062c-7e18d6608c51",
+    "patient_id": "eb5910f1-26e6-bc6f-b300-716eae678d6f",
+    "document_type": "Office Visit Note",
+    "date": "2023-07-18",
+    "section": "Procedures",
+    "title": "Office Visit Note - Larissa Bins - 2023-07-18",
+    "content": "- Dental consultation and report, for Gingivitis.\n- Dental care, for Gingivitis.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Examination of gingivae, for Gingivitis.\n- Dental fluoride treatment, for Gingivitis.\n- Oral health education, for Gingivitis."
+  },
+  {
+    "doc_id": "eb5910f1-26e6-bc6f-062c-7e18d6608c51",
+    "patient_id": "eb5910f1-26e6-bc6f-b300-716eae678d6f",
+    "document_type": "Office Visit Note",
+    "date": "2023-07-18",
+    "section": "Medications",
+    "title": "Office Visit Note - Larissa Bins - 2023-07-18",
+    "content": "Medications prescribed at this visit:\n- sodium fluoride 0.0272 MG/MG Oral Gel, started 2023-07-18, for Gingivitis; stopped 2023-07-18."
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "75d6a35c-c2e1-5b9f-3c31-8eada3029af2",
+    "patient_id": "75d6a35c-c2e1-5b9f-e7f8-6a5b05af8fc8",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2025-03-07",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Hiram Batz - 2025-03-07",
+    "content": "Patient: Hiram Batz, male, born 2013-02-01 (patient ID 75d6a35c-c2e1-5b9f-e7f8-6a5b05af8fc8).\nVisit date: 2025-03-07.\nVisit type: Administration of vaccine to produce active immunity.\nClinician: Bennett Rippin (General Practice).\nFacility: MILFORD REGIONAL MEDICAL CENTER, UPTON, MA."
+  },
+  {
+    "doc_id": "75d6a35c-c2e1-5b9f-3c31-8eada3029af2",
+    "patient_id": "75d6a35c-c2e1-5b9f-e7f8-6a5b05af8fc8",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2025-03-07",
+    "section": "Immunizations",
+    "title": "Outpatient Procedure Note - Hiram Batz - 2025-03-07",
+    "content": "- COVID-19 mRNA LNP-S PF 30 mcg/0.3 mL dose."
+  }
+]

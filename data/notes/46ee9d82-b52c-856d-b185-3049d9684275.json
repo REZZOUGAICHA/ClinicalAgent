@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "46ee9d82-b52c-856d-b185-3049d9684275",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2019-11-15",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Shalanda Koepp - 2019-11-15",
+    "content": "Patient: Shalanda Koepp, female, born 1996-06-18 (patient ID 46ee9d82-b52c-856d-069b-5064ff052225).\nVisit date: 2019-11-15.\nVisit type: Consultation for treatment.\nClinician: Alysha Koch (General Practice).\nFacility: TEWKSBURY HOSPITAL, TEWKSBURY, MA."
+  },
+  {
+    "doc_id": "46ee9d82-b52c-856d-b185-3049d9684275",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2019-11-15",
+    "section": "Reason for Visit",
+    "title": "Outpatient Procedure Note - Shalanda Koepp - 2019-11-15",
+    "content": "Seen for Contraception care."
+  },
+  {
+    "doc_id": "46ee9d82-b52c-856d-b185-3049d9684275",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2019-11-15",
+    "section": "Medications",
+    "title": "Outpatient Procedure Note - Shalanda Koepp - 2019-11-15",
+    "content": "Medications prescribed at this visit:\n- {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day], started 2019-11-15; stopped 2020-11-09."
+  }
+]

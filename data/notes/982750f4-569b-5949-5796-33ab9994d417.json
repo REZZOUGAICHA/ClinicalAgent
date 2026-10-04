@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "982750f4-569b-5949-5796-33ab9994d417",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2021-04-14",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Dwana Wolf - 2021-04-14",
+    "content": "Patient: Dwana Wolf, female, born 1986-11-12 (patient ID 982750f4-569b-5949-196b-60699bdda3fb).\nVisit date: 2021-04-14.\nVisit type: Administration of vaccine to produce active immunity.\nClinician: Marcus Schamberger (General Practice).\nFacility: THE LOWELL GENERAL HOSPITAL, WESTFORD, MA."
+  },
+  {
+    "doc_id": "982750f4-569b-5949-5796-33ab9994d417",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2021-04-14",
+    "section": "Immunizations",
+    "title": "Outpatient Procedure Note - Dwana Wolf - 2021-04-14",
+    "content": "- COVID-19 mRNA LNP-S PF 30 mcg/0.3 mL dose."
+  }
+]

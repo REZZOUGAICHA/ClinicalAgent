@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "14a5a697-29a3-48b2-de96-6beb376050af",
+    "patient_id": "14a5a697-29a3-48b2-969a-3ceefe74a700",
+    "document_type": "Office Visit Note",
+    "date": "2018-11-29",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Drusilla Schumm - 2018-11-29",
+    "content": "Patient: Drusilla Schumm, female, born 1958-11-15 (patient ID 14a5a697-29a3-48b2-969a-3ceefe74a700).\nVisit date: 2018-11-29.\nVisit type: Encounter for check up.\nClinician: Bennie Abbott (General Practice).\nFacility: LAHEY HOSPITAL & MEDICAL CENTER BURLINGTON, PEABODY, MA."
+  },
+  {
+    "doc_id": "14a5a697-29a3-48b2-de96-6beb376050af",
+    "patient_id": "14a5a697-29a3-48b2-969a-3ceefe74a700",
+    "document_type": "Office Visit Note",
+    "date": "2018-11-29",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Drusilla Schumm - 2018-11-29",
+    "content": "Seen for Screening for malignant neoplasm of colon."
+  },
+  {
+    "doc_id": "14a5a697-29a3-48b2-de96-6beb376050af",
+    "patient_id": "14a5a697-29a3-48b2-969a-3ceefe74a700",
+    "document_type": "Office Visit Note",
+    "date": "2018-11-29",
+    "section": "Assessment",
+    "title": "Office Visit Note - Drusilla Schumm - 2018-11-29",
+    "content": "Diagnoses recorded at this visit:\n- Polyp of colon (onset 2018-11-29), resolved 2020-01-25."
+  },
+  {
+    "doc_id": "14a5a697-29a3-48b2-de96-6beb376050af",
+    "patient_id": "14a5a697-29a3-48b2-969a-3ceefe74a700",
+    "document_type": "Office Visit Note",
+    "date": "2018-11-29",
+    "section": "Laboratory Results",
+    "title": "Office Visit Note - Drusilla Schumm - 2018-11-29",
+    "content": "- Hemoglobin.gastrointestinal.lower [Presence] in Stool by Immunoassay --1st specimen: 15.6 ng/mL"
+  },
+  {
+    "doc_id": "14a5a697-29a3-48b2-de96-6beb376050af",
+    "patient_id": "14a5a697-29a3-48b2-969a-3ceefe74a700",
+    "document_type": "Office Visit Note",
+    "date": "2018-11-29",
+    "section": "Procedures",
+    "title": "Office Visit Note - Drusilla Schumm - 2018-11-29",
+    "content": "- Colonoscopy.\n- Screening for occult blood in feces, for Polyp of colon.\n- Rectal polypectomy, for Polyp of colon."
+  }
+]

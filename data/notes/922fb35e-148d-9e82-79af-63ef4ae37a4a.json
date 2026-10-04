@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "922fb35e-148d-9e82-79af-63ef4ae37a4a",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-05-14",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Agnes Weber - 2021-05-14",
+    "content": "Patient: Agnes Weber, female, born 1986-12-19 (patient ID 922fb35e-148d-9e82-7e65-bfa05e3b3515).\nVisit date: 2021-05-14.\nVisit type: General examination of patient.\nClinician: Valentine Leannon (General Practice).\nFacility: SUNRISE HEALTHCARE LLC, SHREWSBURY, MA."
+  },
+  {
+    "doc_id": "922fb35e-148d-9e82-79af-63ef4ae37a4a",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-05-14",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Agnes Weber - 2021-05-14",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2021-05-14), resolved 2022-05-20."
+  },
+  {
+    "doc_id": "922fb35e-148d-9e82-79af-63ef4ae37a4a",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-05-14",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Agnes Weber - 2021-05-14",
+    "content": "- Body Height: 176.6 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0\n- Body Weight: 77.5 kg\n- Body mass index (BMI) [Ratio]: 24.8 kg/m2\n- Diastolic Blood Pressure: 84.0 mm[Hg]\n- Systolic Blood Pressure: 122.0 mm[Hg]\n- Heart rate: 75.0 /min\n- Respiratory rate: 14.0 /min"
+  },
+  {
+    "doc_id": "922fb35e-148d-9e82-79af-63ef4ae37a4a",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-05-14",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Agnes Weber - 2021-05-14",
+    "content": "- Assessment of health and social care needs.\n- Assessment of anxiety.\n- Screening for domestic abuse.\n- Depression screening.\n- Depression screening."
+  },
+  {
+    "doc_id": "922fb35e-148d-9e82-79af-63ef4ae37a4a",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-05-14",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Agnes Weber - 2021-05-14",
+    "content": "Medications prescribed at this visit:\n- budesonide 0.25 MG/ML Inhalation Suspension, started 2021-05-14, for Childhood asthma; stopped 2022-05-20.\n- albuterol 0.21 MG/ML Inhalation Solution, started 2021-05-14, for Childhood asthma; stopped 2022-05-20."
+  }
+]

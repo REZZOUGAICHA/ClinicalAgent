@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "322ab5c6-5846-ac1e-3770-e5f6e5dce7cd",
+    "patient_id": "322ab5c6-5846-ac1e-38cc-48b8cb441e20",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-03-22",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Lena Cummings - 2019-03-22",
+    "content": "Patient: Lena Cummings, female, born 1965-02-26 (patient ID 322ab5c6-5846-ac1e-38cc-48b8cb441e20).\nVisit date: 2019-03-22.\nVisit type: General examination of patient.\nClinician: Anh Schroeder (General Practice).\nFacility: FAMILY PRACTICE GROUP PC, ARLINGTON, MA."
+  },
+  {
+    "doc_id": "322ab5c6-5846-ac1e-3770-e5f6e5dce7cd",
+    "patient_id": "322ab5c6-5846-ac1e-38cc-48b8cb441e20",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-03-22",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Lena Cummings - 2019-03-22",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2019-03-22), resolved 2019-03-22.\n- Full-time employment (onset 2019-03-22), resolved 2020-03-27."
+  },
+  {
+    "doc_id": "322ab5c6-5846-ac1e-3770-e5f6e5dce7cd",
+    "patient_id": "322ab5c6-5846-ac1e-38cc-48b8cb441e20",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-03-22",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Lena Cummings - 2019-03-22",
+    "content": "- Body Height: 159.6 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0\n- Body Weight: 77.8 kg\n- Body mass index (BMI) [Ratio]: 30.5 kg/m2\n- Diastolic Blood Pressure: 78.0 mm[Hg]\n- Systolic Blood Pressure: 126.0 mm[Hg]\n- Heart rate: 98.0 /min\n- Respiratory rate: 16.0 /min"
+  },
+  {
+    "doc_id": "322ab5c6-5846-ac1e-3770-e5f6e5dce7cd",
+    "patient_id": "322ab5c6-5846-ac1e-38cc-48b8cb441e20",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-03-22",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Lena Cummings - 2019-03-22",
+    "content": "- Medication reconciliation.\n- Assessment of health and social care needs.\n- Assessment of anxiety.\n- Screening for domestic abuse.\n- Assessment of substance use.\n- Assessment using Alcohol Use Disorders Identification Test - Consumption."
+  },
+  {
+    "doc_id": "322ab5c6-5846-ac1e-3770-e5f6e5dce7cd",
+    "patient_id": "322ab5c6-5846-ac1e-38cc-48b8cb441e20",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-03-22",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Lena Cummings - 2019-03-22",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

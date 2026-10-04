@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "9661a432-4630-2cd9-db10-13c32c5002be",
+    "patient_id": "9661a432-4630-2cd9-142c-386845fae837",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2016-06-07",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Paul Tremblay - 2016-06-07",
+    "content": "Patient: Paul Tremblay, male, born 1978-02-14 (patient ID 9661a432-4630-2cd9-142c-386845fae837).\nVisit date: 2016-06-07.\nVisit type: General examination of patient.\nClinician: Idella Runte (General Practice).\nFacility: SIGNATURE HEALTHCARE MEDICAL GROUP INC, WEST BRIDGEWATER, MA."
+  },
+  {
+    "doc_id": "9661a432-4630-2cd9-db10-13c32c5002be",
+    "patient_id": "9661a432-4630-2cd9-142c-386845fae837",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2016-06-07",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Paul Tremblay - 2016-06-07",
+    "content": "Diagnoses recorded at this visit:\n- Unemployed (onset 2016-06-07), resolved 2017-06-13."
+  },
+  {
+    "doc_id": "9661a432-4630-2cd9-db10-13c32c5002be",
+    "patient_id": "9661a432-4630-2cd9-142c-386845fae837",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2016-06-07",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Paul Tremblay - 2016-06-07",
+    "content": "Medications prescribed at this visit:\n- lisinopril 10 MG Oral Tablet, started 2016-06-07, for Essential hypertension; stopped 2017-06-13.\n- amLODIPine 2.5 MG Oral Tablet, started 2016-06-07, for Essential hypertension; stopped 2017-06-13."
+  }
+]

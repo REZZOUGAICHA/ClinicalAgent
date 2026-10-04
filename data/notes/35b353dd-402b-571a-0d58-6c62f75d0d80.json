@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "35b353dd-402b-571a-0d58-6c62f75d0d80",
+    "patient_id": "35b353dd-402b-571a-d67a-af0a104d0854",
+    "document_type": "Office Visit Note",
+    "date": "1992-09-05",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Jody Monahan - 1992-09-05",
+    "content": "Patient: Jody Monahan, male, born 1943-09-18 (patient ID 35b353dd-402b-571a-d67a-af0a104d0854).\nVisit date: 1992-09-05.\nVisit type: Encounter for symptom.\nClinician: Floy Greenfelder (General Practice).\nFacility: CAMBRIDGE PUBLIC HEALTH COMMISSION, SOMERVILLE, MA."
+  },
+  {
+    "doc_id": "35b353dd-402b-571a-0d58-6c62f75d0d80",
+    "patient_id": "35b353dd-402b-571a-d67a-af0a104d0854",
+    "document_type": "Office Visit Note",
+    "date": "1992-09-05",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Jody Monahan - 1992-09-05",
+    "content": "Seen for Sleep disorder."
+  },
+  {
+    "doc_id": "35b353dd-402b-571a-0d58-6c62f75d0d80",
+    "patient_id": "35b353dd-402b-571a-d67a-af0a104d0854",
+    "document_type": "Office Visit Note",
+    "date": "1992-09-05",
+    "section": "Assessment",
+    "title": "Office Visit Note - Jody Monahan - 1992-09-05",
+    "content": "Diagnoses recorded at this visit:\n- Sleep disorder (onset 1992-09-05)."
+  }
+]

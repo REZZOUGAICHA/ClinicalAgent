@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "aa616abe-1761-0c9a-1d06-8f93d83cb4bd",
+    "patient_id": "aa616abe-1761-0c9a-7959-07544679dafd",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2004-12-04",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Jona Robel - 2004-12-04",
+    "content": "Patient: Jona Robel, female, born 1958-11-15 (patient ID aa616abe-1761-0c9a-7959-07544679dafd).\nVisit date: 2004-12-04.\nVisit type: General examination of patient.\nClinician: Maren Aufderhar (General Practice).\nFacility: DUTTON FAMILY CARE ASSOCIATES LLP, WAKEFIELD, MA."
+  },
+  {
+    "doc_id": "aa616abe-1761-0c9a-1d06-8f93d83cb4bd",
+    "patient_id": "aa616abe-1761-0c9a-7959-07544679dafd",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2004-12-04",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Jona Robel - 2004-12-04",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2004-12-04), resolved 2004-12-04.\n- Limited social contact (onset 2004-12-04).\n- Stress (onset 2004-12-04)."
+  },
+  {
+    "doc_id": "aa616abe-1761-0c9a-1d06-8f93d83cb4bd",
+    "patient_id": "aa616abe-1761-0c9a-7959-07544679dafd",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2004-12-04",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Jona Robel - 2004-12-04",
+    "content": "- Body Height: 174.6 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0\n- Body Weight: 67.1 kg\n- Body mass index (BMI) [Ratio]: 22.0 kg/m2\n- Diastolic Blood Pressure: 79.0 mm[Hg]\n- Systolic Blood Pressure: 119.0 mm[Hg]\n- Heart rate: 73.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "aa616abe-1761-0c9a-1d06-8f93d83cb4bd",
+    "patient_id": "aa616abe-1761-0c9a-7959-07544679dafd",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2004-12-04",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Jona Robel - 2004-12-04",
+    "content": "- Cholesterol [Mass/volume] in Serum or Plasma: 150.7 mg/dL\n- Triglyceride [Mass/volume] in Serum or Plasma: 126.3 mg/dL\n- Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay: 71.8 mg/dL\n- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 53.6 mg/dL\n- Leukocytes [#/volume] in Blood by Automated count: 7.7 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 4.9 10*6/uL\n- Hemoglobin [Mass/volume] in Blood: 16.4 g/dL\n- Hematocrit [Volume Fraction] of Blood by Automated count: 38.7 %\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 81.0 fL\n- MCH [Entitic mass] by Automated count: 32.3 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 35.8 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 41.2 fL\n- Platelets [#/volume] in Blood by Automated count: 394.8 10*3/uL\n- Platelet distribution width [Entitic volume] in Blood by Automated count: 10.8 fL\n- Platelet [Entitic mean volume] in Blood by Automated count: 9.6 fL"
+  },
+  {
+    "doc_id": "aa616abe-1761-0c9a-1d06-8f93d83cb4bd",
+    "patient_id": "aa616abe-1761-0c9a-7959-07544679dafd",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2004-12-04",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Jona Robel - 2004-12-04",
+    "content": "- Medication reconciliation.\n- Assessment of health and social care needs.\n- Assessment of anxiety.\n- Depression screening.\n- Depression screening.\n- Assessment of substance use.\n- Screening for drug abuse."
+  },
+  {
+    "doc_id": "aa616abe-1761-0c9a-1d06-8f93d83cb4bd",
+    "patient_id": "aa616abe-1761-0c9a-7959-07544679dafd",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2004-12-04",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Jona Robel - 2004-12-04",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

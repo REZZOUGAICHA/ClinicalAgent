@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "c053e996-a4c4-6c02-4430-6d73db5bcb78",
+    "patient_id": "c053e996-a4c4-6c02-e2b6-284227156c67",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-02-20",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Sharyn Hagenes - 2026-02-20",
+    "content": "Patient: Sharyn Hagenes, female, born 2023-09-15 (patient ID c053e996-a4c4-6c02-e2b6-284227156c67).\nVisit date: 2026-02-20.\nVisit type: Well child visit.\nClinician: Colin Witting (General Practice).\nFacility: PALMER FAMILY SERVICES LLC, MILFORD, MA."
+  },
+  {
+    "doc_id": "c053e996-a4c4-6c02-4430-6d73db5bcb78",
+    "patient_id": "c053e996-a4c4-6c02-e2b6-284227156c67",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-02-20",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Sharyn Hagenes - 2026-02-20",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2026-02-20), resolved 2026-08-21."
+  },
+  {
+    "doc_id": "c053e996-a4c4-6c02-4430-6d73db5bcb78",
+    "patient_id": "c053e996-a4c4-6c02-e2b6-284227156c67",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-02-20",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Sharyn Hagenes - 2026-02-20",
+    "content": "- Body Height: 92.2 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0\n- Body Weight: 14.4 kg\n- Weight-for-length Per age and sex: 81.2 %\n- Head Occipital-frontal circumference Percentile: 78.1 %\n- Head Occipital-frontal circumference: 49.2 cm\n- Body mass index (BMI) [Ratio]: 16.9 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 72.2 %\n- Diastolic Blood Pressure: 87.0 mm[Hg]\n- Systolic Blood Pressure: 139.0 mm[Hg]\n- Heart rate: 64.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "c053e996-a4c4-6c02-4430-6d73db5bcb78",
+    "patient_id": "c053e996-a4c4-6c02-e2b6-284227156c67",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-02-20",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Sharyn Hagenes - 2026-02-20",
+    "content": "- Hep A ped/adol 2 dose."
+  }
+]

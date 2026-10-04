@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "62f60bdb-cc5c-8305-fa68-28cdca27fd87",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Emergency Department Note",
+    "date": "2020-06-18",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Angel Frami - 2020-06-18",
+    "content": "Patient: Angel Frami, female, born 1975-10-22 (patient ID 62f60bdb-cc5c-8305-b98b-f2b229a55eca).\nVisit date: 2020-06-18.\nVisit type: Obstetric emergency hospital admission.\nClinician: Lucien Howe (General Practice).\nFacility: FALL RIVER JEWISH HOME INC, FALL RIVER, MA."
+  },
+  {
+    "doc_id": "62f60bdb-cc5c-8305-fa68-28cdca27fd87",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Emergency Department Note",
+    "date": "2020-06-18",
+    "section": "Reason for Visit",
+    "title": "Emergency Department Note - Angel Frami - 2020-06-18",
+    "content": "Seen for Normal pregnancy."
+  },
+  {
+    "doc_id": "62f60bdb-cc5c-8305-fa68-28cdca27fd87",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Emergency Department Note",
+    "date": "2020-06-18",
+    "section": "Assessment",
+    "title": "Emergency Department Note - Angel Frami - 2020-06-18",
+    "content": "Diagnoses recorded at this visit:\n- Suspected disease caused by Severe acute respiratory coronavirus 2 (onset 2020-07-25), resolved 2020-07-25."
+  },
+  {
+    "doc_id": "62f60bdb-cc5c-8305-fa68-28cdca27fd87",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Emergency Department Note",
+    "date": "2020-06-18",
+    "section": "Procedures",
+    "title": "Emergency Department Note - Angel Frami - 2020-06-18",
+    "content": "- Augmentation of labor, for Normal pregnancy.\n- Human parturition  function, for Normal pregnancy."
+  }
+]

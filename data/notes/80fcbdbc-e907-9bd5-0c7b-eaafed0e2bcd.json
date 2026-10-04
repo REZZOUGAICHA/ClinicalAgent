@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "80fcbdbc-e907-9bd5-0c7b-eaafed0e2bcd",
+    "patient_id": "80fcbdbc-e907-9bd5-2644-ad9ef5d6545b",
+    "document_type": "Office Visit Note",
+    "date": "2024-08-19",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Jaime Aponte - 2024-08-19",
+    "content": "Patient: Jaime Aponte, male, born 1947-03-03 (patient ID 80fcbdbc-e907-9bd5-2644-ad9ef5d6545b).\nVisit date: 2024-08-19.\nVisit type: Encounter for check up.\nClinician: Zachery Pagac (General Practice).\nFacility: MELROSEWAKEFIELD HEALTHCARE INC, MELROSE, MA."
+  },
+  {
+    "doc_id": "80fcbdbc-e907-9bd5-0c7b-eaafed0e2bcd",
+    "patient_id": "80fcbdbc-e907-9bd5-2644-ad9ef5d6545b",
+    "document_type": "Office Visit Note",
+    "date": "2024-08-19",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Jaime Aponte - 2024-08-19",
+    "content": "Seen for Patient referral for dental care."
+  },
+  {
+    "doc_id": "80fcbdbc-e907-9bd5-0c7b-eaafed0e2bcd",
+    "patient_id": "80fcbdbc-e907-9bd5-2644-ad9ef5d6545b",
+    "document_type": "Office Visit Note",
+    "date": "2024-08-19",
+    "section": "Procedures",
+    "title": "Office Visit Note - Jaime Aponte - 2024-08-19",
+    "content": "- Dental consultation and report, for Patient referral for dental care.\n- Dental care, for Patient referral for dental care.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Dental plain X-ray bitewing.\n- Examination of gingivae, for Patient referral for dental care.\n- Oral health education, for Patient referral for dental care."
+  }
+]

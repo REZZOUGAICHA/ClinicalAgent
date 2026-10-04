@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "aa616abe-1761-0c9a-933f-580e476bb9a2",
+    "patient_id": "aa616abe-1761-0c9a-7959-07544679dafd",
+    "document_type": "Office Visit Note",
+    "date": "2002-01-23",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Jona Robel - 2002-01-23",
+    "content": "Patient: Jona Robel, female, born 1958-11-15 (patient ID aa616abe-1761-0c9a-7959-07544679dafd).\nVisit date: 2002-01-23.\nVisit type: Prenatal visit.\nClinician: Chanelle Schuster (General Practice).\nFacility: TUFTS MEDICAL CENTER, STONEHAM, MA."
+  },
+  {
+    "doc_id": "aa616abe-1761-0c9a-933f-580e476bb9a2",
+    "patient_id": "aa616abe-1761-0c9a-7959-07544679dafd",
+    "document_type": "Office Visit Note",
+    "date": "2002-01-23",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Jona Robel - 2002-01-23",
+    "content": "Seen for Blighted ovum."
+  },
+  {
+    "doc_id": "aa616abe-1761-0c9a-933f-580e476bb9a2",
+    "patient_id": "aa616abe-1761-0c9a-7959-07544679dafd",
+    "document_type": "Office Visit Note",
+    "date": "2002-01-23",
+    "section": "Assessment",
+    "title": "Office Visit Note - Jona Robel - 2002-01-23",
+    "content": "Diagnoses recorded at this visit:\n- Past pregnancy history of miscarriage (onset 2002-01-23)."
+  },
+  {
+    "doc_id": "aa616abe-1761-0c9a-933f-580e476bb9a2",
+    "patient_id": "aa616abe-1761-0c9a-7959-07544679dafd",
+    "document_type": "Office Visit Note",
+    "date": "2002-01-23",
+    "section": "Procedures",
+    "title": "Office Visit Note - Jona Robel - 2002-01-23",
+    "content": "- Physical examination procedure, for Normal pregnancy.\n- Depression screening, for Blighted ovum."
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "7b06ee52-df9a-8487-e44f-3d9298d4447d",
+    "patient_id": "7b06ee52-df9a-8487-0be6-dff27cc7d519",
+    "document_type": "Office Visit Note",
+    "date": "2019-10-14",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Ressie Nader - 2019-10-14",
+    "content": "Patient: Ressie Nader, female, born 2001-08-06 (patient ID 7b06ee52-df9a-8487-0be6-dff27cc7d519).\nVisit date: 2019-10-14.\nVisit type: Encounter for check up.\nClinician: Maricarmen Delafuente (General Practice).\nFacility: ARBOUR-FULLER HOSPITAL, SOUTH ATTLEBORO, MA."
+  },
+  {
+    "doc_id": "7b06ee52-df9a-8487-e44f-3d9298d4447d",
+    "patient_id": "7b06ee52-df9a-8487-0be6-dff27cc7d519",
+    "document_type": "Office Visit Note",
+    "date": "2019-10-14",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Ressie Nader - 2019-10-14",
+    "content": "Seen for Gingivitis."
+  },
+  {
+    "doc_id": "7b06ee52-df9a-8487-e44f-3d9298d4447d",
+    "patient_id": "7b06ee52-df9a-8487-0be6-dff27cc7d519",
+    "document_type": "Office Visit Note",
+    "date": "2019-10-14",
+    "section": "Procedures",
+    "title": "Office Visit Note - Ressie Nader - 2019-10-14",
+    "content": "- Dental consultation and report, for Gingivitis.\n- Dental care, for Gingivitis.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Dental plain X-ray bitewing.\n- Examination of gingivae, for Gingivitis.\n- Oral health education, for Gingivitis."
+  }
+]

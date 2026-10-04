@@ -1,0 +1,65 @@
+[
+  {
+    "doc_id": "982750f4-569b-5949-7f77-69ead626c618",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-08-02",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Dwana Wolf - 2023-08-02",
+    "content": "Patient: Dwana Wolf, female, born 1986-11-12 (patient ID 982750f4-569b-5949-196b-60699bdda3fb).\nVisit date: 2023-08-02.\nVisit type: General examination of patient.\nClinician: Hank Schneider (General Practice).\nFacility: LOWELL FAMILY MEDICAL CARE PC, LOWELL, MA."
+  },
+  {
+    "doc_id": "982750f4-569b-5949-7f77-69ead626c618",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-08-02",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Dwana Wolf - 2023-08-02",
+    "content": "Diagnoses recorded at this visit:\n- Hyperglycemia (onset 2023-08-02).\n- Hypertriglyceridemia (onset 2023-08-02).\n- Metabolic syndrome X (onset 2023-08-02).\n- Not in labor force (onset 2023-08-02), resolved 2024-08-07.\n- Limited social contact (onset 2023-08-02)."
+  },
+  {
+    "doc_id": "982750f4-569b-5949-7f77-69ead626c618",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-08-02",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Dwana Wolf - 2023-08-02",
+    "content": "- Body Height: 158.3 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0\n- Body Weight: 71.4 kg\n- Body mass index (BMI) [Ratio]: 28.5 kg/m2\n- Diastolic Blood Pressure: 86.0 mm[Hg]\n- Systolic Blood Pressure: 150.0 mm[Hg]\n- Heart rate: 62.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "982750f4-569b-5949-7f77-69ead626c618",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-08-02",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Dwana Wolf - 2023-08-02",
+    "content": "- Hemoglobin A1c/Hemoglobin.total in Blood: 5.6 %\n- Glucose [Mass/volume] in Blood: 133.9 mg/dL\n- Urea nitrogen [Mass/volume] in Blood: 9.2 mg/dL\n- Creatinine [Mass/volume] in Blood: 0.9 mg/dL\n- Calcium [Mass/volume] in Blood: 9.3 mg/dL\n- Sodium [Moles/volume] in Blood: 141.0 mmol/L\n- Potassium [Moles/volume] in Blood: 4.9 mmol/L\n- Chloride [Moles/volume] in Blood: 106.7 mmol/L\n- Carbon dioxide  total [Moles/volume] in Blood: 26.5 mmol/L\n- Cholesterol [Mass/volume] in Serum or Plasma: 244.1 mg/dL\n- Triglyceride [Mass/volume] in Serum or Plasma: 363.9 mg/dL\n- Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay: 136.6 mg/dL\n- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 34.8 mg/dL\n- Microalbumin/Creatinine [Mass Ratio] in Urine: 9.4 mg/g\n- Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M: 150.2 mL/min/{1.73_m2}"
+  },
+  {
+    "doc_id": "982750f4-569b-5949-7f77-69ead626c618",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-08-02",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Dwana Wolf - 2023-08-02",
+    "content": "- Assessment of health and social care needs.\n- Assessment of anxiety.\n- Depression screening.\n- Depression screening.\n- Assessment of substance use.\n- Screening for drug abuse."
+  },
+  {
+    "doc_id": "982750f4-569b-5949-7f77-69ead626c618",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-08-02",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Dwana Wolf - 2023-08-02",
+    "content": "Medications prescribed at this visit:\n- Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet], started 2023-08-02; stopped 2024-08-07.\n- Acetaminophen 325 MG Oral Tablet [Tylenol], started 2023-08-02; stopped 2024-08-07.\n- tramadol hydrochloride 50 MG Oral Tablet, started 2023-08-02; stopped 2024-08-07.\n- 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet, started 2023-08-02, for Diabetes mellitus type 2; stopped 2024-08-07."
+  },
+  {
+    "doc_id": "982750f4-569b-5949-7f77-69ead626c618",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-08-02",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Dwana Wolf - 2023-08-02",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

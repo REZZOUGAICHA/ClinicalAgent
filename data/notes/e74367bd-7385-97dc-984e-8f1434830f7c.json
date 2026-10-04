@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "e74367bd-7385-97dc-984e-8f1434830f7c",
+    "patient_id": "e74367bd-7385-97dc-2c7f-251b4cd9fe29",
+    "document_type": "Office Visit Note",
+    "date": "2023-12-23",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Tennille Jerde - 2023-12-23",
+    "content": "Patient: Tennille Jerde, female, born 1960-09-24 (patient ID e74367bd-7385-97dc-2c7f-251b4cd9fe29).\nVisit date: 2023-12-23.\nVisit type: Encounter for check up.\nClinician: Omer Koepp (General Practice).\nFacility: CAMBRIDGE PUBLIC HEALTH COMMISSION, SOMERVILLE, MA."
+  },
+  {
+    "doc_id": "e74367bd-7385-97dc-984e-8f1434830f7c",
+    "patient_id": "e74367bd-7385-97dc-2c7f-251b4cd9fe29",
+    "document_type": "Office Visit Note",
+    "date": "2023-12-23",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Tennille Jerde - 2023-12-23",
+    "content": "Seen for Gingivitis."
+  },
+  {
+    "doc_id": "e74367bd-7385-97dc-984e-8f1434830f7c",
+    "patient_id": "e74367bd-7385-97dc-2c7f-251b4cd9fe29",
+    "document_type": "Office Visit Note",
+    "date": "2023-12-23",
+    "section": "Assessment",
+    "title": "Office Visit Note - Tennille Jerde - 2023-12-23",
+    "content": "Diagnoses recorded at this visit:\n- Dental filling lost (onset 2023-12-23), resolved 2023-12-23."
+  },
+  {
+    "doc_id": "e74367bd-7385-97dc-984e-8f1434830f7c",
+    "patient_id": "e74367bd-7385-97dc-2c7f-251b4cd9fe29",
+    "document_type": "Office Visit Note",
+    "date": "2023-12-23",
+    "section": "Procedures",
+    "title": "Office Visit Note - Tennille Jerde - 2023-12-23",
+    "content": "- Dental consultation and report, for Gingivitis.\n- Dental care, for Gingivitis.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Examination of gingivae, for Gingivitis.\n- Restoration of tooth with coverage of all cusps using dental filling material, for Dental filling lost.\n- Oral health education, for Gingivitis."
+  }
+]

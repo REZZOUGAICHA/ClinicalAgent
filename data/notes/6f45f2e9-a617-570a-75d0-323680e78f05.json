@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "6f45f2e9-a617-570a-75d0-323680e78f05",
+    "patient_id": "6f45f2e9-a617-570a-8867-dec1260088bb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-07-17",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Carey Mraz - 2025-07-17",
+    "content": "Patient: Carey Mraz, male, born 2013-06-27 (patient ID 6f45f2e9-a617-570a-8867-dec1260088bb).\nVisit date: 2025-07-17.\nVisit type: Well child visit.\nClinician: Ulysses Ziemann (General Practice).\nFacility: CENTER FOR DIGESTIVE WELLNESS PC, LEOMINSTER, MA."
+  },
+  {
+    "doc_id": "6f45f2e9-a617-570a-75d0-323680e78f05",
+    "patient_id": "6f45f2e9-a617-570a-8867-dec1260088bb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-07-17",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Carey Mraz - 2025-07-17",
+    "content": "- Body Height: 162.7 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0\n- Body Weight: 55.3 kg\n- Body mass index (BMI) [Ratio]: 20.9 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 84.2 %\n- Diastolic Blood Pressure: 81.0 mm[Hg]\n- Systolic Blood Pressure: 119.0 mm[Hg]\n- Heart rate: 73.0 /min\n- Respiratory rate: 15.0 /min"
+  },
+  {
+    "doc_id": "6f45f2e9-a617-570a-75d0-323680e78f05",
+    "patient_id": "6f45f2e9-a617-570a-8867-dec1260088bb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-07-17",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Carey Mraz - 2025-07-17",
+    "content": "- Medication reconciliation.\n- Assessment of anxiety.\n- Depression screening.\n- Depression screening using Patient Health Questionnaire Nine Item score.\n- Assessment of substance use.\n- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test.\n- Anticipatory guidance."
+  },
+  {
+    "doc_id": "6f45f2e9-a617-570a-75d0-323680e78f05",
+    "patient_id": "6f45f2e9-a617-570a-8867-dec1260088bb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-07-17",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Carey Mraz - 2025-07-17",
+    "content": "- Influenza split virus trivalent PF.\n- HPV quadrivalent."
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "9661a432-4630-2cd9-a469-968671c17bf9",
+    "patient_id": "9661a432-4630-2cd9-142c-386845fae837",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2014-02-06",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Paul Tremblay - 2014-02-06",
+    "content": "Patient: Paul Tremblay, male, born 1978-02-14 (patient ID 9661a432-4630-2cd9-142c-386845fae837).\nVisit date: 2014-02-06.\nVisit type: Encounter for problem.\nClinician: Damaris Funk (General Practice).\nFacility: BROCKTON HOSPITAL INC., BROCKTON, MA."
+  },
+  {
+    "doc_id": "9661a432-4630-2cd9-a469-968671c17bf9",
+    "patient_id": "9661a432-4630-2cd9-142c-386845fae837",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2014-02-06",
+    "section": "Reason for Visit",
+    "title": "Outpatient Procedure Note - Paul Tremblay - 2014-02-06",
+    "content": "Seen for Chronic pain."
+  },
+  {
+    "doc_id": "9661a432-4630-2cd9-a469-968671c17bf9",
+    "patient_id": "9661a432-4630-2cd9-142c-386845fae837",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2014-02-06",
+    "section": "Assessment",
+    "title": "Outpatient Procedure Note - Paul Tremblay - 2014-02-06",
+    "content": "Diagnoses recorded at this visit:\n- Chronic pain (onset 2014-02-06).\n- Chronic low back pain (onset 2014-02-06)."
+  }
+]

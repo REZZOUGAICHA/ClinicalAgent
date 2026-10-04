@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "7b06ee52-df9a-8487-d99b-79f59f28c559",
+    "patient_id": "7b06ee52-df9a-8487-0be6-dff27cc7d519",
+    "document_type": "Office Visit Note",
+    "date": "2023-09-28",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Ressie Nader - 2023-09-28",
+    "content": "Patient: Ressie Nader, female, born 2001-08-06 (patient ID 7b06ee52-df9a-8487-0be6-dff27cc7d519).\nVisit date: 2023-09-28.\nVisit type: Encounter for symptom.\nClinician: Maricarmen Delafuente (General Practice).\nFacility: ARBOUR-FULLER HOSPITAL, SOUTH ATTLEBORO, MA."
+  },
+  {
+    "doc_id": "7b06ee52-df9a-8487-d99b-79f59f28c559",
+    "patient_id": "7b06ee52-df9a-8487-0be6-dff27cc7d519",
+    "document_type": "Office Visit Note",
+    "date": "2023-09-28",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Ressie Nader - 2023-09-28",
+    "content": "Seen for Viral sinusitis."
+  },
+  {
+    "doc_id": "7b06ee52-df9a-8487-d99b-79f59f28c559",
+    "patient_id": "7b06ee52-df9a-8487-0be6-dff27cc7d519",
+    "document_type": "Office Visit Note",
+    "date": "2023-09-28",
+    "section": "Assessment",
+    "title": "Office Visit Note - Ressie Nader - 2023-09-28",
+    "content": "Diagnoses recorded at this visit:\n- Viral sinusitis (onset 2023-09-28), resolved 2023-10-24."
+  }
+]

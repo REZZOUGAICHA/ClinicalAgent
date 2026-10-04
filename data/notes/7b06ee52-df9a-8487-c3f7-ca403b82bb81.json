@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "7b06ee52-df9a-8487-c3f7-ca403b82bb81",
+    "patient_id": "7b06ee52-df9a-8487-0be6-dff27cc7d519",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2018-07-21",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Ressie Nader - 2018-07-21",
+    "content": "Patient: Ressie Nader, female, born 2001-08-06 (patient ID 7b06ee52-df9a-8487-0be6-dff27cc7d519).\nVisit date: 2018-07-21.\nVisit type: Consultation for treatment.\nClinician: Maricarmen Delafuente (General Practice).\nFacility: ARBOUR-FULLER HOSPITAL, SOUTH ATTLEBORO, MA."
+  },
+  {
+    "doc_id": "7b06ee52-df9a-8487-c3f7-ca403b82bb81",
+    "patient_id": "7b06ee52-df9a-8487-0be6-dff27cc7d519",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2018-07-21",
+    "section": "Reason for Visit",
+    "title": "Outpatient Procedure Note - Ressie Nader - 2018-07-21",
+    "content": "Seen for Contraception care."
+  },
+  {
+    "doc_id": "7b06ee52-df9a-8487-c3f7-ca403b82bb81",
+    "patient_id": "7b06ee52-df9a-8487-0be6-dff27cc7d519",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2018-07-21",
+    "section": "Medications",
+    "title": "Outpatient Procedure Note - Ressie Nader - 2018-07-21",
+    "content": "Medications prescribed at this visit:\n- {24 (drospirenone 3 MG / ethinyl estradiol 0.02 MG Oral Tablet) / 4 (inert ingredients 1 MG Oral Tablet) } Pack [Yaz 28 Day], started 2018-07-21; stopped 2019-07-16."
+  }
+]

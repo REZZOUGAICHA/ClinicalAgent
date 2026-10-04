@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "7811dc30-8c86-8164-8e3d-a226f5e9cd25",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Office Visit Note",
+    "date": "1971-10-25",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Mignon Rau - 1971-10-25",
+    "content": "Patient: Mignon Rau, female, born 1970-04-21 (patient ID 7811dc30-8c86-8164-6c33-6b6f464745ef).\nVisit date: 1971-10-25.\nVisit type: Encounter for problem.\nClinician: Rudolf Vandervort (General Practice).\nFacility: BETH ISRAEL DEACONESS HOSPITAL MILTON INC, MILTON, MA."
+  },
+  {
+    "doc_id": "7811dc30-8c86-8164-8e3d-a226f5e9cd25",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Office Visit Note",
+    "date": "1971-10-25",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Mignon Rau - 1971-10-25",
+    "content": "Seen for Allergic disposition."
+  },
+  {
+    "doc_id": "7811dc30-8c86-8164-8e3d-a226f5e9cd25",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Office Visit Note",
+    "date": "1971-10-25",
+    "section": "Allergies",
+    "title": "Office Visit Note - Mignon Rau - 1971-10-25",
+    "content": "- Allergic disposition (environment allergy).\n- Aspirin (medication allergy).\n- Tree nut (food allergy); reaction: anaphylaxis, severe."
+  }
+]

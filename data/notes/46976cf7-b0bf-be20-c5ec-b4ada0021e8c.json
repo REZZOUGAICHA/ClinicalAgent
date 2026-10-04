@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "46976cf7-b0bf-be20-c5ec-b4ada0021e8c",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Office Visit Note",
+    "date": "2022-04-12",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Lindsay Zieme - 2022-04-12",
+    "content": "Patient: Lindsay Zieme, female, born 2007-09-14 (patient ID 46976cf7-b0bf-be20-39a5-9f425a52886d).\nVisit date: 2022-04-12.\nVisit type: Encounter for check up.\nClinician: Otha Roberts (General Practice).\nFacility: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC, WORCESTER, MA."
+  },
+  {
+    "doc_id": "46976cf7-b0bf-be20-c5ec-b4ada0021e8c",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Office Visit Note",
+    "date": "2022-04-12",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Lindsay Zieme - 2022-04-12",
+    "content": "Seen for Epidermal burn of skin."
+  },
+  {
+    "doc_id": "46976cf7-b0bf-be20-c5ec-b4ada0021e8c",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Office Visit Note",
+    "date": "2022-04-12",
+    "section": "Assessment",
+    "title": "Office Visit Note - Lindsay Zieme - 2022-04-12",
+    "content": "Diagnoses recorded at this visit:\n- Acute infective cystitis (onset 2022-09-16), resolved 2022-09-18."
+  }
+]

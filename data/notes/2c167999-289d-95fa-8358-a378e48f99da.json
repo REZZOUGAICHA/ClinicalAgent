@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "2c167999-289d-95fa-8358-a378e48f99da",
+    "patient_id": "2c167999-289d-95fa-5c27-7d8b8d35348c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2011-04-02",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Eliseo Nader - 2011-04-02",
+    "content": "Patient: Eliseo Nader, male, born 1974-01-12 (patient ID 2c167999-289d-95fa-5c27-7d8b8d35348c).\nVisit date: 2011-04-02.\nVisit type: General examination of patient.\nClinician: Eddie Keeling (General Practice).\nFacility: PRIMARY CARE NORTH PC, LYNN, MA."
+  },
+  {
+    "doc_id": "2c167999-289d-95fa-8358-a378e48f99da",
+    "patient_id": "2c167999-289d-95fa-5c27-7d8b8d35348c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2011-04-02",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Eliseo Nader - 2011-04-02",
+    "content": "Diagnoses recorded at this visit:\n- Essential hypertension (onset 2011-04-02).\n- Diabetes mellitus type 2 (onset 2011-04-02)."
+  },
+  {
+    "doc_id": "2c167999-289d-95fa-8358-a378e48f99da",
+    "patient_id": "2c167999-289d-95fa-5c27-7d8b8d35348c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2011-04-02",
+    "section": "Plan",
+    "title": "Annual Wellness Visit Note - Eliseo Nader - 2011-04-02",
+    "content": "- Lifestyle education regarding hypertension for Essential hypertension, started 2011-04-02.\n- Diabetes self management plan for Diabetes mellitus type 2, started 2011-04-02."
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "05cc86a0-2d98-b046-deeb-54a9e0068fb8",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1947-11-21",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Carita Grady - 1947-11-21",
+    "content": "Patient: Carita Grady, female, born 1925-09-18 (patient ID 05cc86a0-2d98-b046-790a-211fd9e1ea92).\nVisit date: 1947-11-21.\nVisit type: General examination of patient.\nClinician: Zachery Rau (General Practice).\nFacility: WALPOLE MEDICAL CENTER PC, WALPOLE, MA."
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-deeb-54a9e0068fb8",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1947-11-21",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Carita Grady - 1947-11-21",
+    "content": "Diagnoses recorded at this visit:\n- Body mass index 30+ - obesity (onset 1947-11-21).\n- Has a criminal record (onset 1947-11-21)."
+  }
+]

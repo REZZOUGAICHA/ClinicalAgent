@@ -1,0 +1,65 @@
+[
+  {
+    "doc_id": "922fb35e-148d-9e82-db14-9a78b3b243c1",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-05-31",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Agnes Weber - 2024-05-31",
+    "content": "Patient: Agnes Weber, female, born 1986-12-19 (patient ID 922fb35e-148d-9e82-7e65-bfa05e3b3515).\nVisit date: 2024-05-31.\nVisit type: General examination of patient.\nClinician: Valentine Leannon (General Practice).\nFacility: SUNRISE HEALTHCARE LLC, SHREWSBURY, MA."
+  },
+  {
+    "doc_id": "922fb35e-148d-9e82-db14-9a78b3b243c1",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-05-31",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Agnes Weber - 2024-05-31",
+    "content": "Diagnoses recorded at this visit:\n- Essential hypertension (onset 2024-05-31).\n- Medication review due (onset 2024-05-31), resolved 2024-05-31."
+  },
+  {
+    "doc_id": "922fb35e-148d-9e82-db14-9a78b3b243c1",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-05-31",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Agnes Weber - 2024-05-31",
+    "content": "- Body Height: 176.6 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0\n- Body Weight: 82.4 kg\n- Body mass index (BMI) [Ratio]: 26.4 kg/m2\n- Diastolic Blood Pressure: 107.0 mm[Hg]\n- Systolic Blood Pressure: 163.0 mm[Hg]\n- Heart rate: 97.0 /min\n- Respiratory rate: 14.0 /min"
+  },
+  {
+    "doc_id": "922fb35e-148d-9e82-db14-9a78b3b243c1",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-05-31",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Agnes Weber - 2024-05-31",
+    "content": "- Medication reconciliation.\n- Assessment of health and social care needs."
+  },
+  {
+    "doc_id": "922fb35e-148d-9e82-db14-9a78b3b243c1",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-05-31",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Agnes Weber - 2024-05-31",
+    "content": "Medications prescribed at this visit:\n- budesonide 0.25 MG/ML Inhalation Suspension, started 2024-05-31, for Childhood asthma; stopped 2025-06-06.\n- albuterol 0.21 MG/ML Inhalation Solution, started 2024-05-31, for Childhood asthma; stopped 2025-06-06.\n- Hydrochlorothiazide 25 MG Oral Tablet, started 2024-05-31, for Essential hypertension; stopped 2025-06-06.\n- lisinopril 10 MG Oral Tablet, started 2024-05-31, for Essential hypertension; stopped 2025-06-06."
+  },
+  {
+    "doc_id": "922fb35e-148d-9e82-db14-9a78b3b243c1",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-05-31",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Agnes Weber - 2024-05-31",
+    "content": "- Influenza split virus trivalent PF."
+  },
+  {
+    "doc_id": "922fb35e-148d-9e82-db14-9a78b3b243c1",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-05-31",
+    "section": "Plan",
+    "title": "Annual Wellness Visit Note - Agnes Weber - 2024-05-31",
+    "content": "- Lifestyle education regarding hypertension for Essential hypertension, started 2024-05-31."
+  }
+]

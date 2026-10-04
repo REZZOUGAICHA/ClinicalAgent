@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "6fbddf55-7096-b883-0169-e6b767a67e41",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Office Visit Note",
+    "date": "2017-10-11",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Clarinda Farrell - 2017-10-11",
+    "content": "Patient: Clarinda Farrell, female, born 1981-07-01 (patient ID 6fbddf55-7096-b883-7cd3-260f27953080).\nVisit date: 2017-10-11.\nVisit type: Encounter for symptom.\nClinician: Luther Jakubowski (General Practice).\nFacility: ENCOMPASS HEALTH REHABILITATION HOSP OF NEW ENGLAN, WOBURN, MA."
+  },
+  {
+    "doc_id": "6fbddf55-7096-b883-0169-e6b767a67e41",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Office Visit Note",
+    "date": "2017-10-11",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Clarinda Farrell - 2017-10-11",
+    "content": "Seen for Acute bronchitis."
+  },
+  {
+    "doc_id": "6fbddf55-7096-b883-0169-e6b767a67e41",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Office Visit Note",
+    "date": "2017-10-11",
+    "section": "Assessment",
+    "title": "Office Visit Note - Clarinda Farrell - 2017-10-11",
+    "content": "Diagnoses recorded at this visit:\n- Acute bronchitis (onset 2017-10-11), resolved 2017-10-25."
+  },
+  {
+    "doc_id": "6fbddf55-7096-b883-0169-e6b767a67e41",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Office Visit Note",
+    "date": "2017-10-11",
+    "section": "Procedures",
+    "title": "Office Visit Note - Clarinda Farrell - 2017-10-11",
+    "content": "- Measurement of respiratory function, for Acute bronchitis."
+  },
+  {
+    "doc_id": "6fbddf55-7096-b883-0169-e6b767a67e41",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Office Visit Note",
+    "date": "2017-10-11",
+    "section": "Medications",
+    "title": "Office Visit Note - Clarinda Farrell - 2017-10-11",
+    "content": "Medications prescribed at this visit:\n- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution, started 2017-10-11, for Acute bronchitis; stopped 2017-10-25."
+  },
+  {
+    "doc_id": "6fbddf55-7096-b883-0169-e6b767a67e41",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Office Visit Note",
+    "date": "2017-10-11",
+    "section": "Plan",
+    "title": "Office Visit Note - Clarinda Farrell - 2017-10-11",
+    "content": "- Respiratory therapy, started 2017-10-11, ended 2018-09-19."
+  }
+]

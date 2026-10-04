@@ -1,0 +1,65 @@
+[
+  {
+    "doc_id": "46ee9d82-b52c-856d-6470-e0f1615ed001",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-08-29",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Shalanda Koepp - 2017-08-29",
+    "content": "Patient: Shalanda Koepp, female, born 1996-06-18 (patient ID 46ee9d82-b52c-856d-069b-5064ff052225).\nVisit date: 2017-08-29.\nVisit type: General examination of patient.\nClinician: Pearlene Towne (General Practice).\nFacility: LOWELL COMMUNITY HEALTH CENTER, LOWELL, MA."
+  },
+  {
+    "doc_id": "46ee9d82-b52c-856d-6470-e0f1615ed001",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-08-29",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Shalanda Koepp - 2017-08-29",
+    "content": "Diagnoses recorded at this visit:\n- Stress (onset 2017-08-29), resolved 2023-10-03."
+  },
+  {
+    "doc_id": "46ee9d82-b52c-856d-6470-e0f1615ed001",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-08-29",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Shalanda Koepp - 2017-08-29",
+    "content": "- Body Height: 153.2 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0\n- Body Weight: 59.5 kg\n- Body mass index (BMI) [Ratio]: 25.3 kg/m2\n- Diastolic Blood Pressure: 87.0 mm[Hg]\n- Systolic Blood Pressure: 126.0 mm[Hg]\n- Heart rate: 100.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "46ee9d82-b52c-856d-6470-e0f1615ed001",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-08-29",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Shalanda Koepp - 2017-08-29",
+    "content": "- Leukocytes [#/volume] in Blood by Automated count: 4.9 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 5.1 10*6/uL\n- Hemoglobin [Mass/volume] in Blood: 16.3 g/dL\n- Hematocrit [Volume Fraction] of Blood by Automated count: 37.9 %\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 80.9 fL\n- MCH [Entitic mass] by Automated count: 29.0 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 33.6 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 42.9 fL\n- Platelets [#/volume] in Blood by Automated count: 254.8 10*3/uL\n- Platelet distribution width [Entitic volume] in Blood by Automated count: 10.6 fL\n- Platelet [Entitic mean volume] in Blood by Automated count: 9.7 fL"
+  },
+  {
+    "doc_id": "46ee9d82-b52c-856d-6470-e0f1615ed001",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-08-29",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Shalanda Koepp - 2017-08-29",
+    "content": "- Medication reconciliation.\n- Assessment of health and social care needs.\n- Depression screening.\n- Depression screening.\n- Assessment of substance use.\n- Screening for drug abuse."
+  },
+  {
+    "doc_id": "46ee9d82-b52c-856d-6470-e0f1615ed001",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-08-29",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Shalanda Koepp - 2017-08-29",
+    "content": "Medications prescribed at this visit:\n- tramadol hydrochloride 50 MG Oral Tablet, started 2017-08-29; stopped 2018-09-04."
+  },
+  {
+    "doc_id": "46ee9d82-b52c-856d-6470-e0f1615ed001",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-08-29",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Shalanda Koepp - 2017-08-29",
+    "content": "- Influenza split virus trivalent PF.\n- Td (adult) 5 Lf tetanus toxoid preservative free adsorbed.\n- Hep B adult.\n- meningococcal MCV4P."
+  }
+]

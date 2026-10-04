@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "7811dc30-8c86-8164-a29d-32d18efa1700",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Urgent Care Note",
+    "date": "2000-12-05",
+    "section": "Visit Information",
+    "title": "Urgent Care Note - Mignon Rau - 2000-12-05",
+    "content": "Patient: Mignon Rau, female, born 1970-04-21 (patient ID 7811dc30-8c86-8164-6c33-6b6f464745ef).\nVisit date: 2000-12-05.\nVisit type: Urgent care clinic.\nClinician: Courtney Kihn (General Practice).\nFacility: CARECENTRAL URGENT CARE MEDICAL GROUP PC, STOUGHTON, MA."
+  },
+  {
+    "doc_id": "7811dc30-8c86-8164-a29d-32d18efa1700",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Urgent Care Note",
+    "date": "2000-12-05",
+    "section": "Assessment",
+    "title": "Urgent Care Note - Mignon Rau - 2000-12-05",
+    "content": "Diagnoses recorded at this visit:\n- Hyperglycemia (onset 2000-12-05)."
+  }
+]

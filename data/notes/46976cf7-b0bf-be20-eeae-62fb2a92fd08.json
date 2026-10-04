@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "46976cf7-b0bf-be20-eeae-62fb2a92fd08",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Office Visit Note",
+    "date": "2022-09-16",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Lindsay Zieme - 2022-09-16",
+    "content": "Patient: Lindsay Zieme, female, born 2007-09-14 (patient ID 46976cf7-b0bf-be20-39a5-9f425a52886d).\nVisit date: 2022-09-16.\nVisit type: Encounter for symptom.\nClinician: Otha Roberts (General Practice).\nFacility: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC, WORCESTER, MA."
+  },
+  {
+    "doc_id": "46976cf7-b0bf-be20-eeae-62fb2a92fd08",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Office Visit Note",
+    "date": "2022-09-16",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Lindsay Zieme - 2022-09-16",
+    "content": "Seen for Acute infective cystitis."
+  },
+  {
+    "doc_id": "46976cf7-b0bf-be20-eeae-62fb2a92fd08",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Office Visit Note",
+    "date": "2022-09-16",
+    "section": "Laboratory Results",
+    "title": "Office Visit Note - Lindsay Zieme - 2022-09-16",
+    "content": "- Glucose [Mass/volume] in Urine by Test strip: 7.5 mg/dL\n- Ketones [Presence] in Urine by Test strip: Urine ketones not detected (finding)\n- Specific gravity of Urine by Test strip: 1.0\n- pH of Urine by Test strip: 6.4 pH\n- Protein [Mass/volume] in Urine by Test strip: 13.0 mg/dL\n- Nitrite [Presence] in Urine by Test strip: Nitrite detected in urine (finding)\n- Hemoglobin [Presence] in Urine by Test strip: Urine blood test = + (finding)\n- Leukocyte esterase [Presence] in Urine by Test strip: Urine leukocyte test one plus (finding)\n- Leukocytes [#/area] in Urine sediment by Microscopy high power field: 35.6 /[HPF]\n- Erythrocytes [#/area] in Urine sediment by Microscopy high power field: 1.3 /[HPF]\n- Epithelial cells [#/area] in Urine sediment by Microscopy high power field: 2.3 /[HPF]\n- Casts [Presence] in Urine sediment by Light microscopy: Urine microscopy: no casts (finding)\n- Mucus [Presence] in Urine sediment by Light microscopy: Mucus in urine (finding)\n- Bacteria [#/area] in Urine sediment by Microscopy high power field: Finding of presence of bacteria (finding)\n- Bacteria identified in Urine by Culture: Greater than 100 000 colony forming units per mL Escherichia coli"
+  },
+  {
+    "doc_id": "46976cf7-b0bf-be20-eeae-62fb2a92fd08",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Office Visit Note",
+    "date": "2022-09-16",
+    "section": "Procedures",
+    "title": "Office Visit Note - Lindsay Zieme - 2022-09-16",
+    "content": "- History taking.\n- Discussion about signs and symptoms.\n- History and physical examination  limited.\n- Evaluation procedure.\n- Discussion about pregnancy.\n- Urine specimen collection.\n- Urinalysis with reflex to microscopy and culture.\n- Antibiotic therapy."
+  },
+  {
+    "doc_id": "46976cf7-b0bf-be20-eeae-62fb2a92fd08",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Office Visit Note",
+    "date": "2022-09-16",
+    "section": "Medications",
+    "title": "Office Visit Note - Lindsay Zieme - 2022-09-16",
+    "content": "Medications prescribed at this visit:\n- ciprofloxacin 250 MG Oral Tablet, started 2022-09-16, for Acute infective cystitis; stopped 2022-09-18."
+  }
+]

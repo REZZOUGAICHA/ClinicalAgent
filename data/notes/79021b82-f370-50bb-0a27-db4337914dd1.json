@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "79021b82-f370-50bb-0a27-db4337914dd1",
+    "patient_id": "79021b82-f370-50bb-c5a1-7333816d683f",
+    "document_type": "Office Visit Note",
+    "date": "2015-07-26",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Evette Farrell - 2015-07-26",
+    "content": "Patient: Evette Farrell, female, born 2013-03-20 (patient ID 79021b82-f370-50bb-c5a1-7333816d683f).\nVisit date: 2015-07-26.\nVisit type: Encounter for symptom.\nClinician: Willian Batz (General Practice).\nFacility: BOSTON MEDICAL CENTER CORPORATION-, WINTHROP, MA."
+  },
+  {
+    "doc_id": "79021b82-f370-50bb-0a27-db4337914dd1",
+    "patient_id": "79021b82-f370-50bb-c5a1-7333816d683f",
+    "document_type": "Office Visit Note",
+    "date": "2015-07-26",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Evette Farrell - 2015-07-26",
+    "content": "Seen for Childhood asthma."
+  },
+  {
+    "doc_id": "79021b82-f370-50bb-0a27-db4337914dd1",
+    "patient_id": "79021b82-f370-50bb-c5a1-7333816d683f",
+    "document_type": "Office Visit Note",
+    "date": "2015-07-26",
+    "section": "Assessment",
+    "title": "Office Visit Note - Evette Farrell - 2015-07-26",
+    "content": "Diagnoses recorded at this visit:\n- Childhood asthma (onset 2015-07-26)."
+  },
+  {
+    "doc_id": "79021b82-f370-50bb-0a27-db4337914dd1",
+    "patient_id": "79021b82-f370-50bb-c5a1-7333816d683f",
+    "document_type": "Office Visit Note",
+    "date": "2015-07-26",
+    "section": "Plan",
+    "title": "Office Visit Note - Evette Farrell - 2015-07-26",
+    "content": "- Asthma self management for Childhood asthma, started 2015-07-26."
+  }
+]

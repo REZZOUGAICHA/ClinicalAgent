@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "f95a6723-14a5-c4b6-2fa7-34d9a0fbb16d",
+    "patient_id": "f95a6723-14a5-c4b6-78df-fa97f7ab361c",
+    "document_type": "Office Visit Note",
+    "date": "1987-06-17",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Roxann Sauer - 1987-06-17",
+    "content": "Patient: Roxann Sauer, female, born 1986-08-23 (patient ID f95a6723-14a5-c4b6-78df-fa97f7ab361c).\nVisit date: 1987-06-17.\nVisit type: Encounter for problem.\nClinician: Chu Weber (General Practice).\nFacility: STURDY MEMORIAL HOSPITAL INC, ATTLEBORO, MA."
+  },
+  {
+    "doc_id": "f95a6723-14a5-c4b6-2fa7-34d9a0fbb16d",
+    "patient_id": "f95a6723-14a5-c4b6-78df-fa97f7ab361c",
+    "document_type": "Office Visit Note",
+    "date": "1987-06-17",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Roxann Sauer - 1987-06-17",
+    "content": "Seen for Shellfish."
+  },
+  {
+    "doc_id": "f95a6723-14a5-c4b6-2fa7-34d9a0fbb16d",
+    "patient_id": "f95a6723-14a5-c4b6-78df-fa97f7ab361c",
+    "document_type": "Office Visit Note",
+    "date": "1987-06-17",
+    "section": "Plan",
+    "title": "Office Visit Note - Roxann Sauer - 1987-06-17",
+    "content": "- Self-care interventions, started 1987-06-17."
+  }
+]

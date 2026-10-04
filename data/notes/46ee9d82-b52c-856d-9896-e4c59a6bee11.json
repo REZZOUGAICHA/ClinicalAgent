@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "46ee9d82-b52c-856d-9896-e4c59a6bee11",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Office Visit Note",
+    "date": "2024-09-10",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Shalanda Koepp - 2024-09-10",
+    "content": "Patient: Shalanda Koepp, female, born 1996-06-18 (patient ID 46ee9d82-b52c-856d-069b-5064ff052225).\nVisit date: 2024-09-10.\nVisit type: Encounter for problem.\nClinician: Alysha Koch (General Practice).\nFacility: TEWKSBURY HOSPITAL, TEWKSBURY, MA."
+  },
+  {
+    "doc_id": "46ee9d82-b52c-856d-9896-e4c59a6bee11",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Office Visit Note",
+    "date": "2024-09-10",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Shalanda Koepp - 2024-09-10",
+    "content": "Seen for Anemia."
+  },
+  {
+    "doc_id": "46ee9d82-b52c-856d-9896-e4c59a6bee11",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Office Visit Note",
+    "date": "2024-09-10",
+    "section": "Laboratory Results",
+    "title": "Office Visit Note - Shalanda Koepp - 2024-09-10",
+    "content": "- Hemoglobin [Mass/volume] in Blood: 11.2 g/dL\n- Hematocrit [Volume Fraction] of Blood by calculation: 33.8 %\n- Leukocytes [#/volume] in Blood by Automated count: 8.1 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 4.6 10*6/uL\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 81.2 fL\n- MCH [Entitic mass] by Automated count: 27.6 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 35.5 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 39.5 fL\n- Platelets [#/volume] in Blood by Automated count: 400.2 10*3/uL\n- Platelet distribution width [Entitic volume] in Blood by Automated count: 16.7 fL\n- Platelet [Entitic mean volume] in Blood by Automated count: 11.5 fL"
+  },
+  {
+    "doc_id": "46ee9d82-b52c-856d-9896-e4c59a6bee11",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Office Visit Note",
+    "date": "2024-09-10",
+    "section": "Procedures",
+    "title": "Office Visit Note - Shalanda Koepp - 2024-09-10",
+    "content": "- Peripheral blood smear interpretation.\n- Review of systems.\n- Medication reconciliation.\n- Brief general examination."
+  }
+]

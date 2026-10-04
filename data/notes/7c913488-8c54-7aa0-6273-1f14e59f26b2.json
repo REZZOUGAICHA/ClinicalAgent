@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "7c913488-8c54-7aa0-6273-1f14e59f26b2",
+    "patient_id": "7c913488-8c54-7aa0-a452-83dbc3ad8377",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-01-04",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Dian Kiehn - 2019-01-04",
+    "content": "Patient: Dian Kiehn, female, born 2012-01-13 (patient ID 7c913488-8c54-7aa0-a452-83dbc3ad8377).\nVisit date: 2019-01-04.\nVisit type: Well child visit.\nClinician: Adela King (General Practice).\nFacility: FAMILY SERVICE ASSOCIATION OF GREATER FALL RIVER INC, FALL RIVER, MA."
+  },
+  {
+    "doc_id": "7c913488-8c54-7aa0-6273-1f14e59f26b2",
+    "patient_id": "7c913488-8c54-7aa0-a452-83dbc3ad8377",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-01-04",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Dian Kiehn - 2019-01-04",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2019-01-04), resolved 2019-01-04."
+  },
+  {
+    "doc_id": "7c913488-8c54-7aa0-6273-1f14e59f26b2",
+    "patient_id": "7c913488-8c54-7aa0-a452-83dbc3ad8377",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-01-04",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Dian Kiehn - 2019-01-04",
+    "content": "- Body Height: 128.9 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0\n- Body Weight: 35.8 kg\n- Body mass index (BMI) [Ratio]: 21.5 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 97.9 %\n- Diastolic Blood Pressure: 74.0 mm[Hg]\n- Systolic Blood Pressure: 113.0 mm[Hg]\n- Heart rate: 81.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "7c913488-8c54-7aa0-6273-1f14e59f26b2",
+    "patient_id": "7c913488-8c54-7aa0-a452-83dbc3ad8377",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-01-04",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Dian Kiehn - 2019-01-04",
+    "content": "- Medication reconciliation."
+  },
+  {
+    "doc_id": "7c913488-8c54-7aa0-6273-1f14e59f26b2",
+    "patient_id": "7c913488-8c54-7aa0-a452-83dbc3ad8377",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-01-04",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Dian Kiehn - 2019-01-04",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

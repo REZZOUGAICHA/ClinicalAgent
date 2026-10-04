@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "05cc86a0-2d98-b046-b6ee-54c0f7ff6b4f",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Office Visit Note",
+    "date": "1976-10-01",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Carita Grady - 1976-10-01",
+    "content": "Patient: Carita Grady, female, born 1925-09-18 (patient ID 05cc86a0-2d98-b046-790a-211fd9e1ea92).\nVisit date: 1976-10-01.\nVisit type: Encounter for problem.\nClinician: Nickolas Schumm (General Practice).\nFacility: ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE, FRAMINGHAM, MA."
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-b6ee-54c0f7ff6b4f",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Office Visit Note",
+    "date": "1976-10-01",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Carita Grady - 1976-10-01",
+    "content": "Seen for Osteoarthritis of knee."
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-b6ee-54c0f7ff6b4f",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Office Visit Note",
+    "date": "1976-10-01",
+    "section": "Assessment",
+    "title": "Office Visit Note - Carita Grady - 1976-10-01",
+    "content": "Diagnoses recorded at this visit:\n- Osteoarthritis of knee (onset 1976-10-01)."
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-b6ee-54c0f7ff6b4f",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Office Visit Note",
+    "date": "1976-10-01",
+    "section": "Medications",
+    "title": "Office Visit Note - Carita Grady - 1976-10-01",
+    "content": "Medications prescribed at this visit:\n- Naproxen sodium 220 MG Oral Tablet, started 1976-10-01, for Osteoarthritis of knee; stopped 2020-08-15."
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-b6ee-54c0f7ff6b4f",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Office Visit Note",
+    "date": "1976-10-01",
+    "section": "Plan",
+    "title": "Office Visit Note - Carita Grady - 1976-10-01",
+    "content": "- Musculoskeletal care for Osteoarthritis of knee, started 1976-10-01."
+  }
+]

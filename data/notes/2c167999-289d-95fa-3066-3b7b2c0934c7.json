@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "2c167999-289d-95fa-3066-3b7b2c0934c7",
+    "patient_id": "2c167999-289d-95fa-5c27-7d8b8d35348c",
+    "document_type": "Office Visit Note",
+    "date": "2018-05-17",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Eliseo Nader - 2018-05-17",
+    "content": "Patient: Eliseo Nader, male, born 1974-01-12 (patient ID 2c167999-289d-95fa-5c27-7d8b8d35348c).\nVisit date: 2018-05-17.\nVisit type: Encounter for symptom.\nClinician: Willian Batz (General Practice).\nFacility: BOSTON MEDICAL CENTER CORPORATION-, WINTHROP, MA."
+  },
+  {
+    "doc_id": "2c167999-289d-95fa-3066-3b7b2c0934c7",
+    "patient_id": "2c167999-289d-95fa-5c27-7d8b8d35348c",
+    "document_type": "Office Visit Note",
+    "date": "2018-05-17",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Eliseo Nader - 2018-05-17",
+    "content": "Seen for Acute viral pharyngitis."
+  },
+  {
+    "doc_id": "2c167999-289d-95fa-3066-3b7b2c0934c7",
+    "patient_id": "2c167999-289d-95fa-5c27-7d8b8d35348c",
+    "document_type": "Office Visit Note",
+    "date": "2018-05-17",
+    "section": "Assessment",
+    "title": "Office Visit Note - Eliseo Nader - 2018-05-17",
+    "content": "Diagnoses recorded at this visit:\n- Acute viral pharyngitis (onset 2018-05-17), resolved 2018-05-30."
+  },
+  {
+    "doc_id": "2c167999-289d-95fa-3066-3b7b2c0934c7",
+    "patient_id": "2c167999-289d-95fa-5c27-7d8b8d35348c",
+    "document_type": "Office Visit Note",
+    "date": "2018-05-17",
+    "section": "Vital Signs",
+    "title": "Office Visit Note - Eliseo Nader - 2018-05-17",
+    "content": "- Body temperature: 37.2 \u00b0C"
+  },
+  {
+    "doc_id": "2c167999-289d-95fa-3066-3b7b2c0934c7",
+    "patient_id": "2c167999-289d-95fa-5c27-7d8b8d35348c",
+    "document_type": "Office Visit Note",
+    "date": "2018-05-17",
+    "section": "Procedures",
+    "title": "Office Visit Note - Eliseo Nader - 2018-05-17",
+    "content": "- Throat culture, for Acute viral pharyngitis."
+  }
+]

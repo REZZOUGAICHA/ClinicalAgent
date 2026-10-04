@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "a2fb233f-60e0-b477-148a-8ccafc2fbcb2",
+    "patient_id": "a2fb233f-60e0-b477-cd38-af3923f792a3",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-04-09",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Tanner Mitchell - 2017-04-09",
+    "content": "Patient: Tanner Mitchell, male, born 1962-03-11 (patient ID a2fb233f-60e0-b477-cd38-af3923f792a3).\nVisit date: 2017-04-09.\nVisit type: General examination of patient.\nClinician: Patty Bashirian (General Practice).\nFacility: GARDEN STATE HEALTHCARE ASSOCIATES LLC, WEST NEWBURY, MA."
+  },
+  {
+    "doc_id": "a2fb233f-60e0-b477-148a-8ccafc2fbcb2",
+    "patient_id": "a2fb233f-60e0-b477-cd38-af3923f792a3",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-04-09",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Tanner Mitchell - 2017-04-09",
+    "content": "- Body Height: 170.6 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0\n- Body Weight: 81.4 kg\n- Body mass index (BMI) [Ratio]: 28.0 kg/m2\n- Diastolic Blood Pressure: 100.0 mm[Hg]\n- Systolic Blood Pressure: 138.0 mm[Hg]\n- Heart rate: 77.0 /min\n- Respiratory rate: 16.0 /min"
+  },
+  {
+    "doc_id": "a2fb233f-60e0-b477-148a-8ccafc2fbcb2",
+    "patient_id": "a2fb233f-60e0-b477-cd38-af3923f792a3",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-04-09",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Tanner Mitchell - 2017-04-09",
+    "content": "- Hemoglobin A1c/Hemoglobin.total in Blood: 6.4 %\n- Glucose [Mass/volume] in Blood: 87.6 mg/dL\n- Urea nitrogen [Mass/volume] in Blood: 9.6 mg/dL\n- Creatinine [Mass/volume] in Blood: 1.1 mg/dL\n- Calcium [Mass/volume] in Blood: 8.8 mg/dL\n- Sodium [Moles/volume] in Blood: 139.1 mmol/L\n- Potassium [Moles/volume] in Blood: 4.2 mmol/L\n- Chloride [Moles/volume] in Blood: 105.4 mmol/L\n- Carbon dioxide  total [Moles/volume] in Blood: 20.9 mmol/L"
+  },
+  {
+    "doc_id": "a2fb233f-60e0-b477-148a-8ccafc2fbcb2",
+    "patient_id": "a2fb233f-60e0-b477-cd38-af3923f792a3",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-04-09",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Tanner Mitchell - 2017-04-09",
+    "content": "- Medication reconciliation.\n- Assessment of health and social care needs.\n- Assessment of substance use.\n- Assessment using Alcohol Use Disorders Identification Test - Consumption."
+  },
+  {
+    "doc_id": "a2fb233f-60e0-b477-148a-8ccafc2fbcb2",
+    "patient_id": "a2fb233f-60e0-b477-cd38-af3923f792a3",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-04-09",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Tanner Mitchell - 2017-04-09",
+    "content": "Medications prescribed at this visit:\n- amLODIPine 2.5 MG Oral Tablet, started 2017-04-09, for Essential hypertension; stopped 2018-04-15."
+  },
+  {
+    "doc_id": "a2fb233f-60e0-b477-148a-8ccafc2fbcb2",
+    "patient_id": "a2fb233f-60e0-b477-cd38-af3923f792a3",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-04-09",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Tanner Mitchell - 2017-04-09",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

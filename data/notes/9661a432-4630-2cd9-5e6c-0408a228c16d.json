@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "9661a432-4630-2cd9-5e6c-0408a228c16d",
+    "patient_id": "9661a432-4630-2cd9-142c-386845fae837",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2015-10-06",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Paul Tremblay - 2015-10-06",
+    "content": "Patient: Paul Tremblay, male, born 1978-02-14 (patient ID 9661a432-4630-2cd9-142c-386845fae837).\nVisit date: 2015-10-06.\nVisit type: Encounter for check up.\nClinician: Damaris Funk (General Practice).\nFacility: BROCKTON HOSPITAL INC., BROCKTON, MA."
+  },
+  {
+    "doc_id": "9661a432-4630-2cd9-5e6c-0408a228c16d",
+    "patient_id": "9661a432-4630-2cd9-142c-386845fae837",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2015-10-06",
+    "section": "Assessment",
+    "title": "Outpatient Procedure Note - Paul Tremblay - 2015-10-06",
+    "content": "Diagnoses recorded at this visit:\n- Metabolic syndrome X (onset 2015-10-06).\n- Misuses drugs (onset 2015-10-06), resolved 2017-06-13."
+  }
+]

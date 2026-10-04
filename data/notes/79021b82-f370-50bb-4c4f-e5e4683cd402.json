@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "79021b82-f370-50bb-4c4f-e5e4683cd402",
+    "patient_id": "79021b82-f370-50bb-c5a1-7333816d683f",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2025-04-02",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Evette Farrell - 2025-04-02",
+    "content": "Patient: Evette Farrell, female, born 2013-03-20 (patient ID 79021b82-f370-50bb-c5a1-7333816d683f).\nVisit date: 2025-04-02.\nVisit type: Administration of vaccine to produce active immunity.\nClinician: Willian Batz (General Practice).\nFacility: BOSTON MEDICAL CENTER CORPORATION-, WINTHROP, MA."
+  },
+  {
+    "doc_id": "79021b82-f370-50bb-4c4f-e5e4683cd402",
+    "patient_id": "79021b82-f370-50bb-c5a1-7333816d683f",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2025-04-02",
+    "section": "Immunizations",
+    "title": "Outpatient Procedure Note - Evette Farrell - 2025-04-02",
+    "content": "- COVID-19 vaccine vector-nr rS-Ad26 PF 0.5 mL."
+  }
+]

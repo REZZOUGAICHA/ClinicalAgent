@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-3e80-c7af7a3c41af",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2020-12-09",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Faustino Langworth - 2020-12-09",
+    "content": "Patient: Faustino Langworth, male, born 1998-06-17 (patient ID 5ba0a3f3-32f7-02b1-ec6a-8f568923954c).\nVisit date: 2020-12-09.\nVisit type: Encounter for check up.\nClinician: Floy Greenfelder (General Practice).\nFacility: CAMBRIDGE PUBLIC HEALTH COMMISSION, SOMERVILLE, MA."
+  },
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-3e80-c7af7a3c41af",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2020-12-09",
+    "section": "Assessment",
+    "title": "Outpatient Procedure Note - Faustino Langworth - 2020-12-09",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2020-12-09), resolved 2023-08-23."
+  },
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-3e80-c7af7a3c41af",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2020-12-09",
+    "section": "Immunizations",
+    "title": "Outpatient Procedure Note - Faustino Langworth - 2020-12-09",
+    "content": "- Influenza split virus trivalent PF.\n- Hep B adult."
+  }
+]

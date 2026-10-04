@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "150a8a76-1563-717e-ed99-751899eff282",
+    "patient_id": "150a8a76-1563-717e-bf0f-f52045675f46",
+    "document_type": "Emergency Department Note",
+    "date": "1961-07-08",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Diego Armijo - 1961-07-08",
+    "content": "Patient: Diego Armijo, male, born 1947-03-03 (patient ID 150a8a76-1563-717e-bf0f-f52045675f46).\nVisit date: 1961-07-08.\nVisit type: Emergency room admission.\nClinician: Lane Gutmann (General Practice).\nFacility: GREENWOOD NURSING & REHABILITATION CENTER, WAKEFIELD, MA."
+  },
+  {
+    "doc_id": "150a8a76-1563-717e-ed99-751899eff282",
+    "patient_id": "150a8a76-1563-717e-bf0f-f52045675f46",
+    "document_type": "Emergency Department Note",
+    "date": "1961-07-08",
+    "section": "Reason for Visit",
+    "title": "Emergency Department Note - Diego Armijo - 1961-07-08",
+    "content": "Seen for Seizure disorder."
+  },
+  {
+    "doc_id": "150a8a76-1563-717e-ed99-751899eff282",
+    "patient_id": "150a8a76-1563-717e-bf0f-f52045675f46",
+    "document_type": "Emergency Department Note",
+    "date": "1961-07-08",
+    "section": "Procedures",
+    "title": "Emergency Department Note - Diego Armijo - 1961-07-08",
+    "content": "- Electroencephalogram."
+  }
+]

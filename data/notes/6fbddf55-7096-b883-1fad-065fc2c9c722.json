@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "6fbddf55-7096-b883-1fad-065fc2c9c722",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Emergency Department Note",
+    "date": "2020-04-29",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Clarinda Farrell - 2020-04-29",
+    "content": "Patient: Clarinda Farrell, female, born 1981-07-01 (patient ID 6fbddf55-7096-b883-7cd3-260f27953080).\nVisit date: 2020-04-29.\nVisit type: Obstetric emergency hospital admission.\nClinician: Dinah Kub (General Practice).\nFacility: BAYADA HOME HEALTH CARE INC, BURLINGTON, MA."
+  },
+  {
+    "doc_id": "6fbddf55-7096-b883-1fad-065fc2c9c722",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Emergency Department Note",
+    "date": "2020-04-29",
+    "section": "Reason for Visit",
+    "title": "Emergency Department Note - Clarinda Farrell - 2020-04-29",
+    "content": "Seen for Normal pregnancy."
+  },
+  {
+    "doc_id": "6fbddf55-7096-b883-1fad-065fc2c9c722",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Emergency Department Note",
+    "date": "2020-04-29",
+    "section": "Procedures",
+    "title": "Emergency Department Note - Clarinda Farrell - 2020-04-29",
+    "content": "- Episiotomy, for Normal pregnancy.\n- Human parturition  function, for Normal pregnancy."
+  }
+]

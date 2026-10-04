@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "aa616abe-1761-0c9a-f506-00eb90ff49b0",
+    "patient_id": "aa616abe-1761-0c9a-7959-07544679dafd",
+    "document_type": "Office Visit Note",
+    "date": "2002-07-13",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Jona Robel - 2002-07-13",
+    "content": "Patient: Jona Robel, female, born 1958-11-15 (patient ID aa616abe-1761-0c9a-7959-07544679dafd).\nVisit date: 2002-07-13.\nVisit type: Prenatal initial visit.\nClinician: Chanelle Schuster (General Practice).\nFacility: TUFTS MEDICAL CENTER, STONEHAM, MA."
+  },
+  {
+    "doc_id": "aa616abe-1761-0c9a-f506-00eb90ff49b0",
+    "patient_id": "aa616abe-1761-0c9a-7959-07544679dafd",
+    "document_type": "Office Visit Note",
+    "date": "2002-07-13",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Jona Robel - 2002-07-13",
+    "content": "Seen for Normal pregnancy."
+  },
+  {
+    "doc_id": "aa616abe-1761-0c9a-f506-00eb90ff49b0",
+    "patient_id": "aa616abe-1761-0c9a-7959-07544679dafd",
+    "document_type": "Office Visit Note",
+    "date": "2002-07-13",
+    "section": "Assessment",
+    "title": "Office Visit Note - Jona Robel - 2002-07-13",
+    "content": "Diagnoses recorded at this visit:\n- Normal pregnancy (onset 2002-07-13), resolved 2003-02-01."
+  },
+  {
+    "doc_id": "aa616abe-1761-0c9a-f506-00eb90ff49b0",
+    "patient_id": "aa616abe-1761-0c9a-7959-07544679dafd",
+    "document_type": "Office Visit Note",
+    "date": "2002-07-13",
+    "section": "Procedures",
+    "title": "Office Visit Note - Jona Robel - 2002-07-13",
+    "content": "- Standard pregnancy test, for Normal pregnancy.\n- Ultrasound scan for fetal viability, for Normal pregnancy.\n- Evaluation of uterine fundal height, for Normal pregnancy.\n- Auscultation of the fetal heart, for Normal pregnancy.\n- Blood group typing, for Normal pregnancy.\n- Hemogram  automated  with red blood cells  white blood cells  hemoglobin  hematocrit  indices  platelet count  and manual white blood cell differential, for Normal pregnancy.\n- Hepatitis B surface antigen measurement, for Normal pregnancy.\n- Human immunodeficiency virus antigen test, for Normal pregnancy.\n- Chlamydia antigen test, for Normal pregnancy.\n- Gonorrhea infection titer test, for Normal pregnancy.\n- Syphilis infectious titer test, for Normal pregnancy.\n- Urine culture, for Normal pregnancy.\n- Cytopathology procedure  preparation of smear  genital source, for Normal pregnancy.\n- Urine screening test for diabetes, for Normal pregnancy.\n- Hepatitis C antibody  confirmatory test, for Normal pregnancy.\n- Rubella screening test, for Normal pregnancy.\n- Measurement of Varicella-zoster virus antibody, for Normal pregnancy.\n- Skin test for tuberculosis  Tine test, for Normal pregnancy.\n- Urinalysis  protein  qualitative, for Normal pregnancy.\n- Physical examination procedure, for Normal pregnancy."
+  },
+  {
+    "doc_id": "aa616abe-1761-0c9a-f506-00eb90ff49b0",
+    "patient_id": "aa616abe-1761-0c9a-7959-07544679dafd",
+    "document_type": "Office Visit Note",
+    "date": "2002-07-13",
+    "section": "Plan",
+    "title": "Office Visit Note - Jona Robel - 2002-07-13",
+    "content": "- Routine antenatal care, started 2002-07-13, ended 2003-02-01."
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "46976cf7-b0bf-be20-c002-44fa6ccf93d9",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-10-27",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Lindsay Zieme - 2023-10-27",
+    "content": "Patient: Lindsay Zieme, female, born 2007-09-14 (patient ID 46976cf7-b0bf-be20-39a5-9f425a52886d).\nVisit date: 2023-10-27.\nVisit type: Well child visit.\nClinician: Levi Abbott (General Practice).\nFacility: TREE OF LIFE HEALTHCARE ASSOCIATES, WORCESTER, MA."
+  },
+  {
+    "doc_id": "46976cf7-b0bf-be20-c002-44fa6ccf93d9",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-10-27",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Lindsay Zieme - 2023-10-27",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2023-10-27), resolved 2023-10-27.\n- Gingivitis (onset 2023-10-27), resolved 2023-11-03."
+  },
+  {
+    "doc_id": "46976cf7-b0bf-be20-c002-44fa6ccf93d9",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-10-27",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Lindsay Zieme - 2023-10-27",
+    "content": "- Body Height: 162.6 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0\n- Body Weight: 60.1 kg\n- Body mass index (BMI) [Ratio]: 22.7 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 73.4 %\n- Diastolic Blood Pressure: 88.0 mm[Hg]\n- Systolic Blood Pressure: 121.0 mm[Hg]\n- Heart rate: 78.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "46976cf7-b0bf-be20-c002-44fa6ccf93d9",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-10-27",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Lindsay Zieme - 2023-10-27",
+    "content": "- Leukocytes [#/volume] in Blood by Automated count: 5.6 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 5.3 10*6/uL\n- Hemoglobin [Mass/volume] in Blood: 12.8 g/dL\n- Hematocrit [Volume Fraction] of Blood by Automated count: 46.0 %\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 93.2 fL\n- MCH [Entitic mass] by Automated count: 31.1 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 35.3 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 39.7 fL\n- Platelets [#/volume] in Blood by Automated count: 415.8 10*3/uL\n- Platelet distribution width [Entitic volume] in Blood by Automated count: 14.8 fL\n- Platelet [Entitic mean volume] in Blood by Automated count: 10.3 fL"
+  },
+  {
+    "doc_id": "46976cf7-b0bf-be20-c002-44fa6ccf93d9",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-10-27",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Lindsay Zieme - 2023-10-27",
+    "content": "- Medication reconciliation.\n- Patient referral for dental care, for Gingivitis."
+  },
+  {
+    "doc_id": "46976cf7-b0bf-be20-c002-44fa6ccf93d9",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-10-27",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Lindsay Zieme - 2023-10-27",
+    "content": "- Influenza split virus trivalent PF.\n- meningococcal MCV4P."
+  }
+]

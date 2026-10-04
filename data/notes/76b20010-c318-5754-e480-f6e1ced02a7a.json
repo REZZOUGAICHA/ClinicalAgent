@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "76b20010-c318-5754-e480-f6e1ced02a7a",
+    "patient_id": "76b20010-c318-5754-8c85-983aa538522f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-02-25",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Jody Hickle - 2019-02-25",
+    "content": "Patient: Jody Hickle, male, born 2018-03-19 (patient ID 76b20010-c318-5754-8c85-983aa538522f).\nVisit date: 2019-02-25.\nVisit type: Well child visit.\nClinician: Dane Tromp (General Practice).\nFacility: NEWBURYPORT FAMILY PRACTICE P.C., NEWBURYPORT, MA."
+  },
+  {
+    "doc_id": "76b20010-c318-5754-e480-f6e1ced02a7a",
+    "patient_id": "76b20010-c318-5754-8c85-983aa538522f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-02-25",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Jody Hickle - 2019-02-25",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2019-02-25), resolved 2019-05-27."
+  },
+  {
+    "doc_id": "76b20010-c318-5754-e480-f6e1ced02a7a",
+    "patient_id": "76b20010-c318-5754-8c85-983aa538522f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-02-25",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Jody Hickle - 2019-02-25",
+    "content": "- Body Height: 75.4 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0\n- Body Weight: 9.9 kg\n- Weight-for-length Per age and sex: 58.1 %\n- Head Occipital-frontal circumference Percentile: 58.8 %\n- Head Occipital-frontal circumference: 46.5 cm\n- Diastolic Blood Pressure: 89.0 mm[Hg]\n- Systolic Blood Pressure: 129.0 mm[Hg]\n- Heart rate: 91.0 /min\n- Respiratory rate: 15.0 /min"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "ba419d35-0dfe-8af7-04b8-c53474e28fc5",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2016-07-15",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Corie Kohler - 2016-07-15",
+    "content": "Patient: Corie Kohler, female, born 1925-09-18 (patient ID ba419d35-0dfe-8af7-347c-eebf02485a56).\nVisit date: 2016-07-15.\nVisit type: General examination of patient.\nClinician: Wynell Mayert (General Practice).\nFacility: WELLNESS ON WHEELS PC, NORTH ATTLEBORO, MA."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-04b8-c53474e28fc5",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2016-07-15",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Corie Kohler - 2016-07-15",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2016-07-15), resolved 2016-11-04."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-04b8-c53474e28fc5",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2016-07-15",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Corie Kohler - 2016-07-15",
+    "content": "- Body Height: 164.1 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0\n- Body Weight: 82.0 kg\n- Body mass index (BMI) [Ratio]: 30.5 kg/m2\n- Diastolic Blood Pressure: 75.0 mm[Hg]\n- Systolic Blood Pressure: 113.0 mm[Hg]\n- Heart rate: 88.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-04b8-c53474e28fc5",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2016-07-15",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Corie Kohler - 2016-07-15",
+    "content": "- Assessment of health and social care needs.\n- Depression screening.\n- Depression screening."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-04b8-c53474e28fc5",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2016-07-15",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Corie Kohler - 2016-07-15",
+    "content": "Medications prescribed at this visit:\n- lisinopril 10 MG Oral Tablet, started 2016-07-15, for Essential hypertension; stopped 2016-08-19."
+  }
+]

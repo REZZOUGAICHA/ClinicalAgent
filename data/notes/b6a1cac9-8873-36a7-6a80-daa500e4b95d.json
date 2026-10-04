@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "b6a1cac9-8873-36a7-6a80-daa500e4b95d",
+    "patient_id": "b6a1cac9-8873-36a7-e726-4aad8a07d44d",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2024-11-20",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Renaldo Crist - 2024-11-20",
+    "content": "Patient: Renaldo Crist, male, born 1993-04-14 (patient ID b6a1cac9-8873-36a7-e726-4aad8a07d44d).\nVisit date: 2024-11-20.\nVisit type: Encounter for check up.\nClinician: Eleni Franecki (General Practice).\nFacility: BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM INC., NEEDHAM, MA."
+  },
+  {
+    "doc_id": "b6a1cac9-8873-36a7-6a80-daa500e4b95d",
+    "patient_id": "b6a1cac9-8873-36a7-e726-4aad8a07d44d",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2024-11-20",
+    "section": "Vital Signs",
+    "title": "Outpatient Procedure Note - Renaldo Crist - 2024-11-20",
+    "content": "- Body Height: 177.2 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0\n- Body Weight: 87.5 kg\n- Body mass index (BMI) [Ratio]: 27.9 kg/m2\n- Diastolic Blood Pressure: 77.0 mm[Hg]\n- Systolic Blood Pressure: 125.0 mm[Hg]\n- Heart rate: 79.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "b6a1cac9-8873-36a7-6a80-daa500e4b95d",
+    "patient_id": "b6a1cac9-8873-36a7-e726-4aad8a07d44d",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2024-11-20",
+    "section": "Procedures",
+    "title": "Outpatient Procedure Note - Renaldo Crist - 2024-11-20",
+    "content": "- Medication reconciliation.\n- Assessment of health and social care needs.\n- Assessment of anxiety.\n- Depression screening.\n- Depression screening."
+  },
+  {
+    "doc_id": "b6a1cac9-8873-36a7-6a80-daa500e4b95d",
+    "patient_id": "b6a1cac9-8873-36a7-e726-4aad8a07d44d",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2024-11-20",
+    "section": "Immunizations",
+    "title": "Outpatient Procedure Note - Renaldo Crist - 2024-11-20",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

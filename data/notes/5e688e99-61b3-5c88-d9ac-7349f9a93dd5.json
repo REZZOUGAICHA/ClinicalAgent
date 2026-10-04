@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "5e688e99-61b3-5c88-d9ac-7349f9a93dd5",
+    "patient_id": "5e688e99-61b3-5c88-3f60-21df8aaced27",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-02-23",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Wallace Effertz - 2023-02-23",
+    "content": "Patient: Wallace Effertz, male, born 2010-01-28 (patient ID 5e688e99-61b3-5c88-3f60-21df8aaced27).\nVisit date: 2023-02-23.\nVisit type: Well child visit.\nClinician: Daniel Cas\u00e1rez (General Practice).\nFacility: LYNN COMMUNITY HEALTH, LYNN, MA."
+  },
+  {
+    "doc_id": "5e688e99-61b3-5c88-d9ac-7349f9a93dd5",
+    "patient_id": "5e688e99-61b3-5c88-3f60-21df8aaced27",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-02-23",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Wallace Effertz - 2023-02-23",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2023-02-23), resolved 2024-02-29."
+  },
+  {
+    "doc_id": "5e688e99-61b3-5c88-d9ac-7349f9a93dd5",
+    "patient_id": "5e688e99-61b3-5c88-3f60-21df8aaced27",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-02-23",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Wallace Effertz - 2023-02-23",
+    "content": "- Body Height: 153.2 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0\n- Body Weight: 55.1 kg\n- Body mass index (BMI) [Ratio]: 23.5 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 91.5 %\n- Diastolic Blood Pressure: 89.0 mm[Hg]\n- Systolic Blood Pressure: 134.0 mm[Hg]\n- Heart rate: 70.0 /min\n- Respiratory rate: 14.0 /min"
+  },
+  {
+    "doc_id": "5e688e99-61b3-5c88-d9ac-7349f9a93dd5",
+    "patient_id": "5e688e99-61b3-5c88-3f60-21df8aaced27",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-02-23",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Wallace Effertz - 2023-02-23",
+    "content": "- Assessment of anxiety.\n- Depression screening.\n- Depression screening using Patient Health Questionnaire Nine Item score.\n- Patient referral for dental care."
+  }
+]

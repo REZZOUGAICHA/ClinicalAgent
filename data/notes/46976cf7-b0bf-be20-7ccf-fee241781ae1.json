@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "46976cf7-b0bf-be20-7ccf-fee241781ae1",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2024-08-28",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Lindsay Zieme - 2024-08-28",
+    "content": "Patient: Lindsay Zieme, female, born 2007-09-14 (patient ID 46976cf7-b0bf-be20-39a5-9f425a52886d).\nVisit date: 2024-08-28.\nVisit type: Consultation for treatment.\nClinician: Otha Roberts (General Practice).\nFacility: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC, WORCESTER, MA."
+  },
+  {
+    "doc_id": "46976cf7-b0bf-be20-7ccf-fee241781ae1",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2024-08-28",
+    "section": "Reason for Visit",
+    "title": "Outpatient Procedure Note - Lindsay Zieme - 2024-08-28",
+    "content": "Seen for Contraception care."
+  },
+  {
+    "doc_id": "46976cf7-b0bf-be20-7ccf-fee241781ae1",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2024-08-28",
+    "section": "Medications",
+    "title": "Outpatient Procedure Note - Lindsay Zieme - 2024-08-28",
+    "content": "Medications prescribed at this visit:\n- {7 (ethinyl estradiol 0.01 MG Oral Tablet) / 84 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) } Pack [Seasonique], started 2024-08-28; stopped 2025-08-23."
+  }
+]

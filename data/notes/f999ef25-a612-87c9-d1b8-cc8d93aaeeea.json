@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "f999ef25-a612-87c9-d1b8-cc8d93aaeeea",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2007-09-21",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Evangeline Ziemann - 2007-09-21",
+    "content": "Patient: Evangeline Ziemann, female, born 1925-09-18 (patient ID f999ef25-a612-87c9-206f-aacc9d469dc8).\nVisit date: 2007-09-21.\nVisit type: General examination of patient.\nClinician: Sharron Okuneva (General Practice).\nFacility: A&A HEALTHCARE LLC, MILFORD, MA."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-d1b8-cc8d93aaeeea",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2007-09-21",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Evangeline Ziemann - 2007-09-21",
+    "content": "Diagnoses recorded at this visit:\n- Unemployed (onset 2007-09-21), resolved 2008-03-21."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-d1b8-cc8d93aaeeea",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2007-09-21",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Evangeline Ziemann - 2007-09-21",
+    "content": "Medications prescribed at this visit:\n- insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin], started 2007-09-21, for Prediabetes; stopped 2008-03-21.\n- 24 HR tacrolimus 1 MG Extended Release Oral Tablet [Envarsus], started 2007-09-21, for History of renal transplant; stopped 2008-03-21.\n- lisinopril 10 MG Oral Tablet, started 2007-09-21, for Essential hypertension; stopped 2008-03-21."
+  }
+]

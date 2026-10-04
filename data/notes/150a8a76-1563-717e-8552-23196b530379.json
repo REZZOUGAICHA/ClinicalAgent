@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "150a8a76-1563-717e-8552-23196b530379",
+    "patient_id": "150a8a76-1563-717e-bf0f-f52045675f46",
+    "document_type": "Office Visit Note",
+    "date": "1958-03-24",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Diego Armijo - 1958-03-24",
+    "content": "Patient: Diego Armijo, male, born 1947-03-03 (patient ID 150a8a76-1563-717e-bf0f-f52045675f46).\nVisit date: 1958-03-24.\nVisit type: Encounter for check up.\nClinician: Zachery Pagac (General Practice).\nFacility: MELROSEWAKEFIELD HEALTHCARE INC, MELROSE, MA."
+  },
+  {
+    "doc_id": "150a8a76-1563-717e-8552-23196b530379",
+    "patient_id": "150a8a76-1563-717e-bf0f-f52045675f46",
+    "document_type": "Office Visit Note",
+    "date": "1958-03-24",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Diego Armijo - 1958-03-24",
+    "content": "Seen for Patient referral for dental care."
+  },
+  {
+    "doc_id": "150a8a76-1563-717e-8552-23196b530379",
+    "patient_id": "150a8a76-1563-717e-bf0f-f52045675f46",
+    "document_type": "Office Visit Note",
+    "date": "1958-03-24",
+    "section": "Assessment",
+    "title": "Office Visit Note - Diego Armijo - 1958-03-24",
+    "content": "Diagnoses recorded at this visit:\n- Leaking dental filling (onset 1958-03-24), resolved 1958-03-24."
+  },
+  {
+    "doc_id": "150a8a76-1563-717e-8552-23196b530379",
+    "patient_id": "150a8a76-1563-717e-bf0f-f52045675f46",
+    "document_type": "Office Visit Note",
+    "date": "1958-03-24",
+    "section": "Procedures",
+    "title": "Office Visit Note - Diego Armijo - 1958-03-24",
+    "content": "- Dental consultation and report, for Patient referral for dental care.\n- Dental care, for Patient referral for dental care.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Dental plain X-ray bitewing.\n- Examination of gingivae, for Patient referral for dental care.\n- Application of composite dental filling material to dentin of tooth following fracture of tooth, for Leaking dental filling.\n- Oral health education, for Patient referral for dental care."
+  }
+]

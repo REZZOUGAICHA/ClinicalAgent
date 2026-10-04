@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "f999ef25-a612-87c9-0644-27b10557bbe5",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2013-12-13",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Evangeline Ziemann - 2013-12-13",
+    "content": "Patient: Evangeline Ziemann, female, born 1925-09-18 (patient ID f999ef25-a612-87c9-206f-aacc9d469dc8).\nVisit date: 2013-12-13.\nVisit type: Encounter for check up.\nClinician: Nickolas Schumm (General Practice).\nFacility: ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE, FRAMINGHAM, MA."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-0644-27b10557bbe5",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2013-12-13",
+    "section": "Assessment",
+    "title": "Outpatient Procedure Note - Evangeline Ziemann - 2013-12-13",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2013-12-13), resolved 2013-12-13."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-0644-27b10557bbe5",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2013-12-13",
+    "section": "Laboratory Results",
+    "title": "Outpatient Procedure Note - Evangeline Ziemann - 2013-12-13",
+    "content": "- Hemoglobin A1c/Hemoglobin.total in Blood: 3.8 %"
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-0644-27b10557bbe5",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2013-12-13",
+    "section": "Procedures",
+    "title": "Outpatient Procedure Note - Evangeline Ziemann - 2013-12-13",
+    "content": "- Medication reconciliation."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-0644-27b10557bbe5",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2013-12-13",
+    "section": "Medications",
+    "title": "Outpatient Procedure Note - Evangeline Ziemann - 2013-12-13",
+    "content": "Medications prescribed at this visit:\n- insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin], started 2013-12-13, for Prediabetes; stopped 2014-01-03.\n- Furosemide 40 MG Oral Tablet, started 2013-12-13, for Chronic congestive heart failure; stopped 2014-01-03.\n- 24 HR tacrolimus 1 MG Extended Release Oral Tablet [Envarsus], started 2013-12-13, for History of renal transplant; stopped 2014-01-03.\n- lisinopril 10 MG Oral Tablet, started 2013-12-13, for Essential hypertension; stopped 2014-01-03."
+  }
+]

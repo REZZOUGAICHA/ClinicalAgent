@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "7811dc30-8c86-8164-dd5e-d5bfa3aefe19",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Office Visit Note",
+    "date": "2026-04-11",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Mignon Rau - 2026-04-11",
+    "content": "Patient: Mignon Rau, female, born 1970-04-21 (patient ID 7811dc30-8c86-8164-6c33-6b6f464745ef).\nVisit date: 2026-04-11.\nVisit type: Ophthalmic examination and evaluation.\nClinician: Rudolf Vandervort (General Practice).\nFacility: BETH ISRAEL DEACONESS HOSPITAL MILTON INC, MILTON, MA."
+  },
+  {
+    "doc_id": "7811dc30-8c86-8164-dd5e-d5bfa3aefe19",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Office Visit Note",
+    "date": "2026-04-11",
+    "section": "Vital Signs",
+    "title": "Office Visit Note - Mignon Rau - 2026-04-11",
+    "content": "- Left eye Intraocular pressure: 14.0 mm[Hg]\n- Right eye Intraocular pressure: 14.0 mm[Hg]"
+  },
+  {
+    "doc_id": "7811dc30-8c86-8164-dd5e-d5bfa3aefe19",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Office Visit Note",
+    "date": "2026-04-11",
+    "section": "Procedures",
+    "title": "Office Visit Note - Mignon Rau - 2026-04-11",
+    "content": "- Visual acuity testing.\n- Intraocular pressure test.\n- Ocular slit lamp examination, for Diabetes mellitus type 2.\n- Indirect gonioscopy, for Diabetes mellitus type 2.\n- Camera fundoscopy.\n- Diabetic retinal eye exam, for Diabetes mellitus type 2.\n- Optical coherence tomography of retina."
+  },
+  {
+    "doc_id": "7811dc30-8c86-8164-dd5e-d5bfa3aefe19",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Office Visit Note",
+    "date": "2026-04-11",
+    "section": "Medications",
+    "title": "Office Visit Note - Mignon Rau - 2026-04-11",
+    "content": "Medications prescribed at this visit:\n- tropicamide 5 MG/ML Ophthalmic Solution, started 2026-04-11; stopped 2026-04-11."
+  }
+]

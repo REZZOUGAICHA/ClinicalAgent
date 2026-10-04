@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "f95a6723-14a5-c4b6-71c2-d128b8bf954f",
+    "patient_id": "f95a6723-14a5-c4b6-78df-fa97f7ab361c",
+    "document_type": "Office Visit Note",
+    "date": "2020-02-09",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Roxann Sauer - 2020-02-09",
+    "content": "Patient: Roxann Sauer, female, born 1986-08-23 (patient ID f95a6723-14a5-c4b6-78df-fa97f7ab361c).\nVisit date: 2020-02-09.\nVisit type: Asthma follow-up.\nClinician: Chu Weber (General Practice).\nFacility: STURDY MEMORIAL HOSPITAL INC, ATTLEBORO, MA."
+  },
+  {
+    "doc_id": "f95a6723-14a5-c4b6-71c2-d128b8bf954f",
+    "patient_id": "f95a6723-14a5-c4b6-78df-fa97f7ab361c",
+    "document_type": "Office Visit Note",
+    "date": "2020-02-09",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Roxann Sauer - 2020-02-09",
+    "content": "Seen for Asthma."
+  }
+]

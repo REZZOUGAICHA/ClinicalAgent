@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "62f60bdb-cc5c-8305-ea53-64724bdaf68a",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2021-04-21",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Angel Frami - 2021-04-21",
+    "content": "Patient: Angel Frami, female, born 1975-10-22 (patient ID 62f60bdb-cc5c-8305-b98b-f2b229a55eca).\nVisit date: 2021-04-21.\nVisit type: Administration of vaccine to produce active immunity.\nClinician: Ollie Dooley (General Practice).\nFacility: DR JOHN C CORRIGAN MENTAL HEALTH CENTER, FALL RIVER, MA."
+  },
+  {
+    "doc_id": "62f60bdb-cc5c-8305-ea53-64724bdaf68a",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2021-04-21",
+    "section": "Immunizations",
+    "title": "Outpatient Procedure Note - Angel Frami - 2021-04-21",
+    "content": "- COVID-19 vaccine vector-nr rS-Ad26 PF 0.5 mL."
+  }
+]

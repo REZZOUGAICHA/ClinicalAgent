@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-f36e-6a7ee6be3c92",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Urgent Care Note",
+    "date": "2026-01-04",
+    "section": "Visit Information",
+    "title": "Urgent Care Note - Rosalba Effertz - 2026-01-04",
+    "content": "Patient: Rosalba Effertz, female, born 1973-08-05 (patient ID 5e7ebf2c-22ec-a89b-53ab-38edddd81be9).\nVisit date: 2026-01-04.\nVisit type: Urgent care clinic.\nClinician: Leif Dare (General Practice).\nFacility: ON CALL URGENT CARE LLC, NORTHAMPTON, MA."
+  },
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-f36e-6a7ee6be3c92",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Urgent Care Note",
+    "date": "2026-01-04",
+    "section": "Assessment",
+    "title": "Urgent Care Note - Rosalba Effertz - 2026-01-04",
+    "content": "Diagnoses recorded at this visit:\n- Stress (onset 2026-01-04).\n- Gingivitis (onset 2026-01-04), resolved 2026-01-18."
+  },
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-f36e-6a7ee6be3c92",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Urgent Care Note",
+    "date": "2026-01-04",
+    "section": "Vital Signs",
+    "title": "Urgent Care Note - Rosalba Effertz - 2026-01-04",
+    "content": "- Body Height: 166.4 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0\n- Body Weight: 76.2 kg\n- Body mass index (BMI) [Ratio]: 27.5 kg/m2\n- Diastolic Blood Pressure: 89.0 mm[Hg]\n- Systolic Blood Pressure: 124.0 mm[Hg]\n- Heart rate: 71.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-f36e-6a7ee6be3c92",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Urgent Care Note",
+    "date": "2026-01-04",
+    "section": "Laboratory Results",
+    "title": "Urgent Care Note - Rosalba Effertz - 2026-01-04",
+    "content": "- Hemoglobin A1c/Hemoglobin.total in Blood: 6.9 %\n- Glucose [Mass/volume] in Blood: 110.8 mg/dL\n- Urea nitrogen [Mass/volume] in Blood: 10.6 mg/dL\n- Creatinine [Mass/volume] in Blood: 1.1 mg/dL\n- Calcium [Mass/volume] in Blood: 10.2 mg/dL\n- Sodium [Moles/volume] in Blood: 141.6 mmol/L\n- Potassium [Moles/volume] in Blood: 4.3 mmol/L\n- Chloride [Moles/volume] in Blood: 106.4 mmol/L\n- Carbon dioxide  total [Moles/volume] in Blood: 23.4 mmol/L\n- Cholesterol [Mass/volume] in Serum or Plasma: 201.2 mg/dL\n- Triglyceride [Mass/volume] in Serum or Plasma: 161.4 mg/dL\n- Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay: 128.3 mg/dL\n- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 40.6 mg/dL\n- Microalbumin/Creatinine [Mass Ratio] in Urine: 14.2 mg/g\n- Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M: 74.1 mL/min/{1.73_m2}"
+  },
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-f36e-6a7ee6be3c92",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Urgent Care Note",
+    "date": "2026-01-04",
+    "section": "Procedures",
+    "title": "Urgent Care Note - Rosalba Effertz - 2026-01-04",
+    "content": "- Medication reconciliation.\n- Assessment of health and social care needs.\n- Assessment of anxiety.\n- Depression screening.\n- Depression screening.\n- Patient referral for dental care, for Gingivitis."
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "a2fb233f-60e0-b477-b7cc-ab4f99a91a17",
+    "patient_id": "a2fb233f-60e0-b477-cd38-af3923f792a3",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2013-03-17",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Tanner Mitchell - 2013-03-17",
+    "content": "Patient: Tanner Mitchell, male, born 1962-03-11 (patient ID a2fb233f-60e0-b477-cd38-af3923f792a3).\nVisit date: 2013-03-17.\nVisit type: General examination of patient.\nClinician: Patty Bashirian (General Practice).\nFacility: GARDEN STATE HEALTHCARE ASSOCIATES LLC, WEST NEWBURY, MA."
+  },
+  {
+    "doc_id": "a2fb233f-60e0-b477-b7cc-ab4f99a91a17",
+    "patient_id": "a2fb233f-60e0-b477-cd38-af3923f792a3",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2013-03-17",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Tanner Mitchell - 2013-03-17",
+    "content": "Diagnoses recorded at this visit:\n- Full-time employment (onset 2013-03-17), resolved 2020-04-26.\n- Social isolation (onset 2013-03-17), resolved 2026-05-31."
+  }
+]

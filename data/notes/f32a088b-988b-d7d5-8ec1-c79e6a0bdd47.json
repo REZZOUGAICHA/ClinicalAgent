@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "f32a088b-988b-d7d5-8ec1-c79e6a0bdd47",
+    "patient_id": "f32a088b-988b-d7d5-008b-89ea4ed1fc48",
+    "document_type": "Emergency Department Note",
+    "date": "2016-12-31",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Wayne McLaughlin - 2016-12-31",
+    "content": "Patient: Wayne McLaughlin, male, born 2006-08-16 (patient ID f32a088b-988b-d7d5-008b-89ea4ed1fc48).\nVisit date: 2016-12-31.\nVisit type: Emergency room admission.\nClinician: Jamal Stroman (General Practice).\nFacility: ART OF CARE INC, ALLSTON, MA."
+  },
+  {
+    "doc_id": "f32a088b-988b-d7d5-8ec1-c79e6a0bdd47",
+    "patient_id": "f32a088b-988b-d7d5-008b-89ea4ed1fc48",
+    "document_type": "Emergency Department Note",
+    "date": "2016-12-31",
+    "section": "Reason for Visit",
+    "title": "Emergency Department Note - Wayne McLaughlin - 2016-12-31",
+    "content": "Seen for Fracture of bone."
+  },
+  {
+    "doc_id": "f32a088b-988b-d7d5-8ec1-c79e6a0bdd47",
+    "patient_id": "f32a088b-988b-d7d5-008b-89ea4ed1fc48",
+    "document_type": "Emergency Department Note",
+    "date": "2016-12-31",
+    "section": "Assessment",
+    "title": "Emergency Department Note - Wayne McLaughlin - 2016-12-31",
+    "content": "Diagnoses recorded at this visit:\n- Fracture of bone (onset 2016-12-31), resolved 2017-03-25.\n- Fracture subluxation of wrist (onset 2016-12-31), resolved 2017-03-25."
+  },
+  {
+    "doc_id": "f32a088b-988b-d7d5-8ec1-c79e6a0bdd47",
+    "patient_id": "f32a088b-988b-d7d5-008b-89ea4ed1fc48",
+    "document_type": "Emergency Department Note",
+    "date": "2016-12-31",
+    "section": "Procedures",
+    "title": "Emergency Department Note - Wayne McLaughlin - 2016-12-31",
+    "content": "- Plain X-ray of wrist region.\n- Bone immobilization, for Fracture subluxation of wrist."
+  },
+  {
+    "doc_id": "f32a088b-988b-d7d5-8ec1-c79e6a0bdd47",
+    "patient_id": "f32a088b-988b-d7d5-008b-89ea4ed1fc48",
+    "document_type": "Emergency Department Note",
+    "date": "2016-12-31",
+    "section": "Medications",
+    "title": "Emergency Department Note - Wayne McLaughlin - 2016-12-31",
+    "content": "Medications prescribed at this visit:\n- Acetaminophen 160 MG Chewable Tablet, started 2016-12-31; stopped 2017-03-25."
+  },
+  {
+    "doc_id": "f32a088b-988b-d7d5-8ec1-c79e6a0bdd47",
+    "patient_id": "f32a088b-988b-d7d5-008b-89ea4ed1fc48",
+    "document_type": "Emergency Department Note",
+    "date": "2016-12-31",
+    "section": "Plan",
+    "title": "Emergency Department Note - Wayne McLaughlin - 2016-12-31",
+    "content": "- Fracture care for Fracture subluxation of wrist, started 2016-12-31, ended 2017-03-25."
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "b6a1cac9-8873-36a7-7ef0-88b54e4a6634",
+    "patient_id": "b6a1cac9-8873-36a7-e726-4aad8a07d44d",
+    "document_type": "Emergency Department Note",
+    "date": "2007-05-18",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Renaldo Crist - 2007-05-18",
+    "content": "Patient: Renaldo Crist, male, born 1993-04-14 (patient ID b6a1cac9-8873-36a7-e726-4aad8a07d44d).\nVisit date: 2007-05-18.\nVisit type: Emergency room admission.\nClinician: Sherron Flatley (General Practice).\nFacility: BRIARWOOD REHABILITATION & HEALTHCARE CENTER, NEEDHAM, MA."
+  },
+  {
+    "doc_id": "b6a1cac9-8873-36a7-7ef0-88b54e4a6634",
+    "patient_id": "b6a1cac9-8873-36a7-e726-4aad8a07d44d",
+    "document_type": "Emergency Department Note",
+    "date": "2007-05-18",
+    "section": "Reason for Visit",
+    "title": "Emergency Department Note - Renaldo Crist - 2007-05-18",
+    "content": "Seen for Chronic intractable migraine without aura."
+  },
+  {
+    "doc_id": "b6a1cac9-8873-36a7-7ef0-88b54e4a6634",
+    "patient_id": "b6a1cac9-8873-36a7-e726-4aad8a07d44d",
+    "document_type": "Emergency Department Note",
+    "date": "2007-05-18",
+    "section": "Assessment",
+    "title": "Emergency Department Note - Renaldo Crist - 2007-05-18",
+    "content": "Diagnoses recorded at this visit:\n- Chronic intractable migraine without aura (onset 2007-05-18)."
+  }
+]

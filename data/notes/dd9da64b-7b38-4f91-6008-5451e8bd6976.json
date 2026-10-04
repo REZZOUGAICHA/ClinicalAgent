@@ -1,0 +1,65 @@
+[
+  {
+    "doc_id": "dd9da64b-7b38-4f91-6008-5451e8bd6976",
+    "patient_id": "dd9da64b-7b38-4f91-e75d-b1268dde60d4",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-07-08",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Donnetta Jenkins - 2024-07-08",
+    "content": "Patient: Donnetta Jenkins, female, born 1987-01-26 (patient ID dd9da64b-7b38-4f91-e75d-b1268dde60d4).\nVisit date: 2024-07-08.\nVisit type: General examination of patient.\nClinician: Son MacGyver (General Practice).\nFacility: HOLISTIC FAMILY PRACTICE INC., NEWBURY, MA."
+  },
+  {
+    "doc_id": "dd9da64b-7b38-4f91-6008-5451e8bd6976",
+    "patient_id": "dd9da64b-7b38-4f91-e75d-b1268dde60d4",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-07-08",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Donnetta Jenkins - 2024-07-08",
+    "content": "Diagnoses recorded at this visit:\n- Full-time employment (onset 2024-07-08), resolved 2025-07-14."
+  },
+  {
+    "doc_id": "dd9da64b-7b38-4f91-6008-5451e8bd6976",
+    "patient_id": "dd9da64b-7b38-4f91-e75d-b1268dde60d4",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-07-08",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Donnetta Jenkins - 2024-07-08",
+    "content": "- Body Height: 156.3 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0\n- Body Weight: 81.3 kg\n- Body mass index (BMI) [Ratio]: 33.3 kg/m2\n- Diastolic Blood Pressure: 83.0 mm[Hg]\n- Systolic Blood Pressure: 108.0 mm[Hg]\n- Heart rate: 84.0 /min\n- Respiratory rate: 12.0 /min"
+  },
+  {
+    "doc_id": "dd9da64b-7b38-4f91-6008-5451e8bd6976",
+    "patient_id": "dd9da64b-7b38-4f91-e75d-b1268dde60d4",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-07-08",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Donnetta Jenkins - 2024-07-08",
+    "content": "- Hemoglobin A1c/Hemoglobin.total in Blood: 5.9 %\n- Glucose [Mass/volume] in Blood: 65.7 mg/dL\n- Urea nitrogen [Mass/volume] in Blood: 8.5 mg/dL\n- Creatinine [Mass/volume] in Blood: 1.2 mg/dL\n- Calcium [Mass/volume] in Blood: 10.2 mg/dL\n- Sodium [Moles/volume] in Blood: 140.9 mmol/L\n- Potassium [Moles/volume] in Blood: 4.9 mmol/L\n- Chloride [Moles/volume] in Blood: 109.9 mmol/L\n- Carbon dioxide  total [Moles/volume] in Blood: 26.0 mmol/L"
+  },
+  {
+    "doc_id": "dd9da64b-7b38-4f91-6008-5451e8bd6976",
+    "patient_id": "dd9da64b-7b38-4f91-e75d-b1268dde60d4",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-07-08",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Donnetta Jenkins - 2024-07-08",
+    "content": "- Medication reconciliation.\n- Assessment of health and social care needs.\n- Assessment of anxiety.\n- Depression screening.\n- Depression screening.\n- Assessment of substance use.\n- Screening for drug abuse.\n- Patient referral for dental care."
+  },
+  {
+    "doc_id": "dd9da64b-7b38-4f91-6008-5451e8bd6976",
+    "patient_id": "dd9da64b-7b38-4f91-e75d-b1268dde60d4",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-07-08",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Donnetta Jenkins - 2024-07-08",
+    "content": "Medications prescribed at this visit:\n- budesonide 0.25 MG/ML Inhalation Suspension, started 2024-07-08, for Childhood asthma; stopped 2025-07-14.\n- NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir], started 2024-07-08, for Childhood asthma; stopped 2025-07-14."
+  },
+  {
+    "doc_id": "dd9da64b-7b38-4f91-6008-5451e8bd6976",
+    "patient_id": "dd9da64b-7b38-4f91-e75d-b1268dde60d4",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-07-08",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Donnetta Jenkins - 2024-07-08",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

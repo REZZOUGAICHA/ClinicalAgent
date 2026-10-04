@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "6fbddf55-7096-b883-2477-9d664984ddc1",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Office Visit Note",
+    "date": "2023-07-19",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Clarinda Farrell - 2023-07-19",
+    "content": "Patient: Clarinda Farrell, female, born 1981-07-01 (patient ID 6fbddf55-7096-b883-7cd3-260f27953080).\nVisit date: 2023-07-19.\nVisit type: Prenatal initial visit.\nClinician: Luther Jakubowski (General Practice).\nFacility: ENCOMPASS HEALTH REHABILITATION HOSP OF NEW ENGLAN, WOBURN, MA."
+  },
+  {
+    "doc_id": "6fbddf55-7096-b883-2477-9d664984ddc1",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Office Visit Note",
+    "date": "2023-07-19",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Clarinda Farrell - 2023-07-19",
+    "content": "Seen for Normal pregnancy."
+  },
+  {
+    "doc_id": "6fbddf55-7096-b883-2477-9d664984ddc1",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Office Visit Note",
+    "date": "2023-07-19",
+    "section": "Assessment",
+    "title": "Office Visit Note - Clarinda Farrell - 2023-07-19",
+    "content": "Diagnoses recorded at this visit:\n- Normal pregnancy (onset 2023-07-19), resolved 2023-08-21.\n- Miscarriage in first trimester (onset 2023-07-19), resolved 2023-08-21.\n- Tubal pregnancy (onset 2023-07-19), resolved 2023-08-21."
+  },
+  {
+    "doc_id": "6fbddf55-7096-b883-2477-9d664984ddc1",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Office Visit Note",
+    "date": "2023-07-19",
+    "section": "Procedures",
+    "title": "Office Visit Note - Clarinda Farrell - 2023-07-19",
+    "content": "- Standard pregnancy test, for Normal pregnancy.\n- Ultrasound scan for fetal viability, for Normal pregnancy."
+  }
+]

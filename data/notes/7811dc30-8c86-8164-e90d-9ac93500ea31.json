@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "7811dc30-8c86-8164-e90d-9ac93500ea31",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Office Visit Note",
+    "date": "2017-01-03",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Mignon Rau - 2017-01-03",
+    "content": "Patient: Mignon Rau, female, born 1970-04-21 (patient ID 7811dc30-8c86-8164-6c33-6b6f464745ef).\nVisit date: 2017-01-03.\nVisit type: Encounter for check up.\nClinician: Rudolf Vandervort (General Practice).\nFacility: BETH ISRAEL DEACONESS HOSPITAL MILTON INC, MILTON, MA."
+  },
+  {
+    "doc_id": "7811dc30-8c86-8164-e90d-9ac93500ea31",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Office Visit Note",
+    "date": "2017-01-03",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Mignon Rau - 2017-01-03",
+    "content": "Seen for Gingivitis."
+  },
+  {
+    "doc_id": "7811dc30-8c86-8164-e90d-9ac93500ea31",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Office Visit Note",
+    "date": "2017-01-03",
+    "section": "Assessment",
+    "title": "Office Visit Note - Mignon Rau - 2017-01-03",
+    "content": "Diagnoses recorded at this visit:\n- Gingival disease (onset 2017-01-03), resolved 2017-01-03."
+  },
+  {
+    "doc_id": "7811dc30-8c86-8164-e90d-9ac93500ea31",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Office Visit Note",
+    "date": "2017-01-03",
+    "section": "Procedures",
+    "title": "Office Visit Note - Mignon Rau - 2017-01-03",
+    "content": "- Dental consultation and report, for Gingivitis.\n- Dental care, for Gingivitis.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Examination of gingivae, for Gingivitis.\n- Dental surgical procedure, for Gingival disease.\n- Dental application of desensitizing medicament, for Gingival disease.\n- Gingivectomy or gingivoplasty  per tooth, for Gingival disease.\n- Postoperative care for dental procedure.\n- Dental fluoride treatment, for Gingivitis.\n- Oral health education, for Gingivitis."
+  },
+  {
+    "doc_id": "7811dc30-8c86-8164-e90d-9ac93500ea31",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Office Visit Note",
+    "date": "2017-01-03",
+    "section": "Medications",
+    "title": "Office Visit Note - Mignon Rau - 2017-01-03",
+    "content": "Medications prescribed at this visit:\n- sodium fluoride 0.0272 MG/MG Oral Gel, started 2017-01-03, for Gingivitis; stopped 2017-01-03."
+  }
+]

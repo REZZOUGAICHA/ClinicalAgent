@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "c86c400e-ff88-a1e3-a5af-fd0a2f352cd6",
+    "patient_id": "c86c400e-ff88-a1e3-2e23-caa4d8311f47",
+    "document_type": "Office Visit Note",
+    "date": "1975-06-02",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Cristobal Montero - 1975-06-02",
+    "content": "Patient: Cristobal Montero, male, born 1947-03-03 (patient ID c86c400e-ff88-a1e3-2e23-caa4d8311f47).\nVisit date: 1975-06-02.\nVisit type: Encounter for problem.\nClinician: Lorette Hauck (General Practice).\nFacility: WHITTIER REHABILTATION HOSPITAL, LYNN, MA."
+  },
+  {
+    "doc_id": "c86c400e-ff88-a1e3-a5af-fd0a2f352cd6",
+    "patient_id": "c86c400e-ff88-a1e3-2e23-caa4d8311f47",
+    "document_type": "Office Visit Note",
+    "date": "1975-06-02",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Cristobal Montero - 1975-06-02",
+    "content": "Seen for Loss of teeth."
+  },
+  {
+    "doc_id": "c86c400e-ff88-a1e3-a5af-fd0a2f352cd6",
+    "patient_id": "c86c400e-ff88-a1e3-2e23-caa4d8311f47",
+    "document_type": "Office Visit Note",
+    "date": "1975-06-02",
+    "section": "Assessment",
+    "title": "Office Visit Note - Cristobal Montero - 1975-06-02",
+    "content": "Diagnoses recorded at this visit:\n- Loss of teeth (onset 1975-06-02)."
+  }
+]

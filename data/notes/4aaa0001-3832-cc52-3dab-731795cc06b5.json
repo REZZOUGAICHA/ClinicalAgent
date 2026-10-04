@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "4aaa0001-3832-cc52-3dab-731795cc06b5",
+    "patient_id": "4aaa0001-3832-cc52-e2f3-47aad08f4284",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-03-08",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Marvin Weissnat - 2020-03-08",
+    "content": "Patient: Marvin Weissnat, male, born 2006-02-05 (patient ID 4aaa0001-3832-cc52-e2f3-47aad08f4284).\nVisit date: 2020-03-08.\nVisit type: Well child visit.\nClinician: Benita VonRueden (General Practice).\nFacility: GREATER LAWRENCE FAMILY HEALTH CENTER INC, ANDOVER, MA."
+  },
+  {
+    "doc_id": "4aaa0001-3832-cc52-3dab-731795cc06b5",
+    "patient_id": "4aaa0001-3832-cc52-e2f3-47aad08f4284",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-03-08",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Marvin Weissnat - 2020-03-08",
+    "content": "- Body Height: 162.3 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0\n- Body Weight: 56.1 kg\n- Body mass index (BMI) [Ratio]: 21.3 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 75.3 %\n- Diastolic Blood Pressure: 88.0 mm[Hg]\n- Systolic Blood Pressure: 122.0 mm[Hg]\n- Heart rate: 99.0 /min\n- Respiratory rate: 16.0 /min"
+  },
+  {
+    "doc_id": "4aaa0001-3832-cc52-3dab-731795cc06b5",
+    "patient_id": "4aaa0001-3832-cc52-e2f3-47aad08f4284",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-03-08",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Marvin Weissnat - 2020-03-08",
+    "content": "- Medication reconciliation.\n- Assessment of anxiety.\n- Depression screening.\n- Depression screening using Patient Health Questionnaire Nine Item score.\n- Assessment of substance use.\n- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test.\n- Anticipatory guidance.\n- Patient referral for dental care."
+  },
+  {
+    "doc_id": "4aaa0001-3832-cc52-3dab-731795cc06b5",
+    "patient_id": "4aaa0001-3832-cc52-e2f3-47aad08f4284",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-03-08",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Marvin Weissnat - 2020-03-08",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

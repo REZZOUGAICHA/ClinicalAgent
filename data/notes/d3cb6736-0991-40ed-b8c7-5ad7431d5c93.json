@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "d3cb6736-0991-40ed-b8c7-5ad7431d5c93",
+    "patient_id": "d3cb6736-0991-40ed-a220-7c714aba4c37",
+    "document_type": "Emergency Department Note",
+    "date": "2018-06-28",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Tristan Reichel - 2018-06-28",
+    "content": "Patient: Tristan Reichel, male, born 1982-08-01 (patient ID d3cb6736-0991-40ed-a220-7c714aba4c37).\nVisit date: 2018-06-28.\nVisit type: Emergency room admission.\nClinician: Arlen Rippin (General Practice).\nFacility: COMPASSIONATE CARE HOSPICE, WOBURN, MA."
+  },
+  {
+    "doc_id": "d3cb6736-0991-40ed-b8c7-5ad7431d5c93",
+    "patient_id": "d3cb6736-0991-40ed-a220-7c714aba4c37",
+    "document_type": "Emergency Department Note",
+    "date": "2018-06-28",
+    "section": "Reason for Visit",
+    "title": "Emergency Department Note - Tristan Reichel - 2018-06-28",
+    "content": "Seen for Sprain (morphologic abnormality)."
+  },
+  {
+    "doc_id": "d3cb6736-0991-40ed-b8c7-5ad7431d5c93",
+    "patient_id": "d3cb6736-0991-40ed-a220-7c714aba4c37",
+    "document_type": "Emergency Department Note",
+    "date": "2018-06-28",
+    "section": "Assessment",
+    "title": "Emergency Department Note - Tristan Reichel - 2018-06-28",
+    "content": "Diagnoses recorded at this visit:\n- Sprain (morphologic abnormality) (onset 2018-06-28), resolved 2018-07-30.\n- Sprain of wrist (onset 2018-06-28), resolved 2018-07-30."
+  },
+  {
+    "doc_id": "d3cb6736-0991-40ed-b8c7-5ad7431d5c93",
+    "patient_id": "d3cb6736-0991-40ed-a220-7c714aba4c37",
+    "document_type": "Emergency Department Note",
+    "date": "2018-06-28",
+    "section": "Medications",
+    "title": "Emergency Department Note - Tristan Reichel - 2018-06-28",
+    "content": "Medications prescribed at this visit:\n- Acetaminophen 325 MG Oral Tablet, started 2018-06-28; stopped 2018-07-30."
+  },
+  {
+    "doc_id": "d3cb6736-0991-40ed-b8c7-5ad7431d5c93",
+    "patient_id": "d3cb6736-0991-40ed-a220-7c714aba4c37",
+    "document_type": "Emergency Department Note",
+    "date": "2018-06-28",
+    "section": "Plan",
+    "title": "Emergency Department Note - Tristan Reichel - 2018-06-28",
+    "content": "- Physiotherapy care plan for Sprain of wrist, started 2018-06-28, ended 2018-07-30."
+  }
+]

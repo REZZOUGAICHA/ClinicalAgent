@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-5da3-df4f74cf2374",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Office Visit Note",
+    "date": "2024-06-21",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Lavette Kozey - 2024-06-21",
+    "content": "Patient: Lavette Kozey, female, born 2010-03-24 (patient ID d20bc0bc-3051-ae6f-f391-ceec7ec0370f).\nVisit date: 2024-06-21.\nVisit type: Outpatient procedure.\nClinician: Beatriz Monroy (General Practice).\nFacility: FIRST PSYCHIATRIC PLANNERS INC, WOBURN, MA."
+  },
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-5da3-df4f74cf2374",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Office Visit Note",
+    "date": "2024-06-21",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Lavette Kozey - 2024-06-21",
+    "content": "Seen for Allergic disposition."
+  },
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-5da3-df4f74cf2374",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Office Visit Note",
+    "date": "2024-06-21",
+    "section": "Procedures",
+    "title": "Office Visit Note - Lavette Kozey - 2024-06-21",
+    "content": "- Subcutaneous immunotherapy."
+  }
+]

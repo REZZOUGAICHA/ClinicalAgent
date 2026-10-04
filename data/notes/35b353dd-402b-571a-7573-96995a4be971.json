@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "35b353dd-402b-571a-7573-96995a4be971",
+    "patient_id": "35b353dd-402b-571a-d67a-af0a104d0854",
+    "document_type": "Urgent Care Note",
+    "date": "2025-09-06",
+    "section": "Visit Information",
+    "title": "Urgent Care Note - Jody Monahan - 2025-09-06",
+    "content": "Patient: Jody Monahan, male, born 1943-09-18 (patient ID 35b353dd-402b-571a-d67a-af0a104d0854).\nVisit date: 2025-09-06.\nVisit type: Urgent care clinic.\nClinician: Tracy Wilderman (General Practice).\nFacility: MASS GENERAL BRIGHAM URGENT CARE LLC, WOBURN, MA."
+  },
+  {
+    "doc_id": "35b353dd-402b-571a-7573-96995a4be971",
+    "patient_id": "35b353dd-402b-571a-d67a-af0a104d0854",
+    "document_type": "Urgent Care Note",
+    "date": "2025-09-06",
+    "section": "Laboratory Results",
+    "title": "Urgent Care Note - Jody Monahan - 2025-09-06",
+    "content": "- Glucose [Mass/volume] in Serum or Plasma: 86.5 mg/dL\n- Urea nitrogen [Mass/volume] in Serum or Plasma: 19.5 mg/dL\n- Creatinine [Mass/volume] in Serum or Plasma: 1.9 mg/dL\n- Calcium [Mass/volume] in Serum or Plasma: 9.0 mg/dL\n- Sodium [Moles/volume] in Serum or Plasma: 136.7 mmol/L\n- Potassium [Moles/volume] in Serum or Plasma: 4.6 mmol/L\n- Chloride [Moles/volume] in Serum or Plasma: 107.2 mmol/L\n- Carbon dioxide  total [Moles/volume] in Serum or Plasma: 25.0 mmol/L\n- Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M: 57.5 mL/min/{1.73_m2}\n- Appearance of Urine: Cloudy urine (finding)\n- Odor of Urine: Urine smell ammoniacal (finding)\n- Clarity of Urine: Translucent (qualifier value)\n- Color of Urine: Brown color (qualifier value)\n- Glucose [Mass/volume] in Urine by Test strip: 2.3 mg/dL\n- Glucose [Presence] in Urine by Test strip: Urine glucose test = ++ (finding)\n- Bilirubin.total [Mass/volume] in Urine by Test strip: 0.9 mg/dL\n- Bilirubin.total [Presence] in Urine by Test strip: Finding of bilirubin in urine (finding)\n- Ketones [Mass/volume] in Urine by Test strip: 0.6 mg/dL\n- Ketones [Presence] in Urine by Test strip: Urine ketone test = ++ (finding)\n- Specific gravity of Urine by Test strip: 1.0\n- pH of Urine by Test strip: 6.2 pH\n- Protein [Mass/volume] in Urine by Test strip: 321.5 mg/dL\n- Protein [Presence] in Urine by Test strip: Urine protein test = ++ (finding)\n- Nitrite [Presence] in Urine by Test strip: Nitrite not detected in urine (finding)\n- Hemoglobin [Presence] in Urine by Test strip: Blood not detected in urine (finding)\n- Leukocyte esterase [Presence] in Urine by Test strip: Urine leukocytes not detected (finding)"
+  },
+  {
+    "doc_id": "35b353dd-402b-571a-7573-96995a4be971",
+    "patient_id": "35b353dd-402b-571a-d67a-af0a104d0854",
+    "document_type": "Urgent Care Note",
+    "date": "2025-09-06",
+    "section": "Medications",
+    "title": "Urgent Care Note - Jody Monahan - 2025-09-06",
+    "content": "Medications prescribed at this visit:\n- Hydrochlorothiazide 25 MG Oral Tablet, started 2025-09-06, for Essential hypertension; stopped 2025-09-27."
+  }
+]

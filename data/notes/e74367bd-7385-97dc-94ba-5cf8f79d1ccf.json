@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "e74367bd-7385-97dc-94ba-5cf8f79d1ccf",
+    "patient_id": "e74367bd-7385-97dc-2c7f-251b4cd9fe29",
+    "document_type": "Urgent Care Note",
+    "date": "2015-01-31",
+    "section": "Visit Information",
+    "title": "Urgent Care Note - Tennille Jerde - 2015-01-31",
+    "content": "Patient: Tennille Jerde, female, born 1960-09-24 (patient ID e74367bd-7385-97dc-2c7f-251b4cd9fe29).\nVisit date: 2015-01-31.\nVisit type: Urgent care clinic.\nClinician: Tracy Wilderman (General Practice).\nFacility: MASS GENERAL BRIGHAM URGENT CARE LLC, WOBURN, MA."
+  },
+  {
+    "doc_id": "e74367bd-7385-97dc-94ba-5cf8f79d1ccf",
+    "patient_id": "e74367bd-7385-97dc-2c7f-251b4cd9fe29",
+    "document_type": "Urgent Care Note",
+    "date": "2015-01-31",
+    "section": "Assessment",
+    "title": "Urgent Care Note - Tennille Jerde - 2015-01-31",
+    "content": "Diagnoses recorded at this visit:\n- Victim of intimate partner abuse (onset 2015-01-31)."
+  }
+]

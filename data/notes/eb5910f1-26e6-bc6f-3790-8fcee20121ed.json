@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "eb5910f1-26e6-bc6f-3790-8fcee20121ed",
+    "patient_id": "eb5910f1-26e6-bc6f-b300-716eae678d6f",
+    "document_type": "Office Visit Note",
+    "date": "2020-09-20",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Larissa Bins - 2020-09-20",
+    "content": "Patient: Larissa Bins, female, born 1995-04-25 (patient ID eb5910f1-26e6-bc6f-b300-716eae678d6f).\nVisit date: 2020-09-20.\nVisit type: Encounter for symptom.\nClinician: Jackelyn Pacocha (General Practice).\nFacility: WP ACQUISITION SUB LLC, HAVERHILL, MA."
+  },
+  {
+    "doc_id": "eb5910f1-26e6-bc6f-3790-8fcee20121ed",
+    "patient_id": "eb5910f1-26e6-bc6f-b300-716eae678d6f",
+    "document_type": "Office Visit Note",
+    "date": "2020-09-20",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Larissa Bins - 2020-09-20",
+    "content": "Seen for Acute viral pharyngitis."
+  },
+  {
+    "doc_id": "eb5910f1-26e6-bc6f-3790-8fcee20121ed",
+    "patient_id": "eb5910f1-26e6-bc6f-b300-716eae678d6f",
+    "document_type": "Office Visit Note",
+    "date": "2020-09-20",
+    "section": "Assessment",
+    "title": "Office Visit Note - Larissa Bins - 2020-09-20",
+    "content": "Diagnoses recorded at this visit:\n- Acute viral pharyngitis (onset 2020-09-20), resolved 2020-10-04."
+  },
+  {
+    "doc_id": "eb5910f1-26e6-bc6f-3790-8fcee20121ed",
+    "patient_id": "eb5910f1-26e6-bc6f-b300-716eae678d6f",
+    "document_type": "Office Visit Note",
+    "date": "2020-09-20",
+    "section": "Vital Signs",
+    "title": "Office Visit Note - Larissa Bins - 2020-09-20",
+    "content": "- Body temperature: 37.8 \u00b0C"
+  }
+]

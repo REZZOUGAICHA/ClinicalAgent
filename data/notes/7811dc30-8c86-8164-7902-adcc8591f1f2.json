@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "7811dc30-8c86-8164-7902-adcc8591f1f2",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Office Visit Note",
+    "date": "2025-01-21",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Mignon Rau - 2025-01-21",
+    "content": "Patient: Mignon Rau, female, born 1970-04-21 (patient ID 7811dc30-8c86-8164-6c33-6b6f464745ef).\nVisit date: 2025-01-21.\nVisit type: Encounter for check up.\nClinician: Rudolf Vandervort (General Practice).\nFacility: BETH ISRAEL DEACONESS HOSPITAL MILTON INC, MILTON, MA."
+  },
+  {
+    "doc_id": "7811dc30-8c86-8164-7902-adcc8591f1f2",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Office Visit Note",
+    "date": "2025-01-21",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Mignon Rau - 2025-01-21",
+    "content": "Seen for Patient referral for dental care."
+  },
+  {
+    "doc_id": "7811dc30-8c86-8164-7902-adcc8591f1f2",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Office Visit Note",
+    "date": "2025-01-21",
+    "section": "Procedures",
+    "title": "Office Visit Note - Mignon Rau - 2025-01-21",
+    "content": "- Dental consultation and report, for Patient referral for dental care.\n- Dental care, for Patient referral for dental care.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Examination of gingivae, for Patient referral for dental care.\n- Dental fluoride treatment, for Patient referral for dental care.\n- Oral health education, for Patient referral for dental care."
+  },
+  {
+    "doc_id": "7811dc30-8c86-8164-7902-adcc8591f1f2",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Office Visit Note",
+    "date": "2025-01-21",
+    "section": "Medications",
+    "title": "Office Visit Note - Mignon Rau - 2025-01-21",
+    "content": "Medications prescribed at this visit:\n- sodium fluoride 0.0272 MG/MG Oral Gel, started 2025-01-21, for Patient referral for dental care; stopped 2025-01-21."
+  }
+]

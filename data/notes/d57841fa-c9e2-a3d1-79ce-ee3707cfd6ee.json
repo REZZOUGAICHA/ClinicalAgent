@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "d57841fa-c9e2-a3d1-79ce-ee3707cfd6ee",
+    "patient_id": "d57841fa-c9e2-a3d1-0e78-09bdbe4eed66",
+    "document_type": "Office Visit Note",
+    "date": "2023-08-15",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Jessica McKenzie - 2023-08-15",
+    "content": "Patient: Jessica McKenzie, female, born 1965-07-19 (patient ID d57841fa-c9e2-a3d1-0e78-09bdbe4eed66).\nVisit date: 2023-08-15.\nVisit type: Encounter for symptom.\nClinician: Miguel Roberts (General Practice).\nFacility: SOUTH SHORE HOSPITAL INC., WEYMOUTH, MA."
+  },
+  {
+    "doc_id": "d57841fa-c9e2-a3d1-79ce-ee3707cfd6ee",
+    "patient_id": "d57841fa-c9e2-a3d1-0e78-09bdbe4eed66",
+    "document_type": "Office Visit Note",
+    "date": "2023-08-15",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Jessica McKenzie - 2023-08-15",
+    "content": "Seen for Viral sinusitis."
+  },
+  {
+    "doc_id": "d57841fa-c9e2-a3d1-79ce-ee3707cfd6ee",
+    "patient_id": "d57841fa-c9e2-a3d1-0e78-09bdbe4eed66",
+    "document_type": "Office Visit Note",
+    "date": "2023-08-15",
+    "section": "Assessment",
+    "title": "Office Visit Note - Jessica McKenzie - 2023-08-15",
+    "content": "Diagnoses recorded at this visit:\n- Viral sinusitis (onset 2023-08-15), resolved 2023-08-31."
+  }
+]

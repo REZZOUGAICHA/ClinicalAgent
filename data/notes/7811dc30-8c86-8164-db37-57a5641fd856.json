@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "7811dc30-8c86-8164-db37-57a5641fd856",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Emergency Department Note",
+    "date": "2026-06-10",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Mignon Rau - 2026-06-10",
+    "content": "Patient: Mignon Rau, female, born 1970-04-21 (patient ID 7811dc30-8c86-8164-6c33-6b6f464745ef).\nVisit date: 2026-06-10.\nVisit type: Emergency hospital admission for asthma.\nClinician: Thaddeus Sauer (General Practice).\nFacility: BOSTONIAN NURSING CARE & REHABILITATION CTR THE, DORCHESTER, MA."
+  },
+  {
+    "doc_id": "7811dc30-8c86-8164-db37-57a5641fd856",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Emergency Department Note",
+    "date": "2026-06-10",
+    "section": "Reason for Visit",
+    "title": "Emergency Department Note - Mignon Rau - 2026-06-10",
+    "content": "Seen for Asthma."
+  }
+]

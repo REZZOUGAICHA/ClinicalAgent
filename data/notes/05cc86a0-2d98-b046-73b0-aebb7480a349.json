@@ -1,0 +1,65 @@
+[
+  {
+    "doc_id": "05cc86a0-2d98-b046-73b0-aebb7480a349",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Office Visit Note",
+    "date": "2021-09-02",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Carita Grady - 2021-09-02",
+    "content": "Patient: Carita Grady, female, born 1925-09-18 (patient ID 05cc86a0-2d98-b046-790a-211fd9e1ea92).\nVisit date: 2021-09-02.\nVisit type: Encounter for symptom.\nClinician: Nickolas Schumm (General Practice).\nFacility: ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE, FRAMINGHAM, MA."
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-73b0-aebb7480a349",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Office Visit Note",
+    "date": "2021-09-02",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Carita Grady - 2021-09-02",
+    "content": "Seen for Suspected disease caused by Severe acute respiratory coronavirus 2."
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-73b0-aebb7480a349",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Office Visit Note",
+    "date": "2021-09-02",
+    "section": "Assessment",
+    "title": "Office Visit Note - Carita Grady - 2021-09-02",
+    "content": "Diagnoses recorded at this visit:\n- Cough (onset 2021-09-02).\n- Fatigue (onset 2021-09-02).\n- Muscle pain (onset 2021-09-02).\n- Joint pain (onset 2021-09-02).\n- Chill (onset 2021-09-02).\n- Fever (onset 2021-09-02)."
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-73b0-aebb7480a349",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Office Visit Note",
+    "date": "2021-09-02",
+    "section": "Vital Signs",
+    "title": "Office Visit Note - Carita Grady - 2021-09-02",
+    "content": "- Body temperature: 39.0 \u00b0C\n- Respiratory rate: 38.7 /min\n- Heart rate: 154.2 /min\n- Oxygen saturation in Arterial blood: 78.3 %\n- Diastolic Blood Pressure: 76.0 mm[Hg]\n- Systolic Blood Pressure: 121.0 mm[Hg]\n- Body Weight: 63.5 kg"
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-73b0-aebb7480a349",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Office Visit Note",
+    "date": "2021-09-02",
+    "section": "Laboratory Results",
+    "title": "Office Visit Note - Carita Grady - 2021-09-02",
+    "content": "- Influenza virus A Ag [Presence] in Upper respiratory specimen by Rapid immunoassay: Not detected (qualifier value)\n- Influenza virus B Ag [Presence] in Upper respiratory specimen by Rapid immunoassay: Not detected (qualifier value)\n- SARS-CoV-2 (COVID-19) RNA panel - Respiratory system specimen by NAA with probe detection: Not detected (qualifier value)"
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-73b0-aebb7480a349",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Office Visit Note",
+    "date": "2021-09-02",
+    "section": "Procedures",
+    "title": "Office Visit Note - Carita Grady - 2021-09-02",
+    "content": "- Face mask (physical object), for Suspected disease caused by Severe acute respiratory coronavirus 2."
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-73b0-aebb7480a349",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Office Visit Note",
+    "date": "2021-09-02",
+    "section": "Plan",
+    "title": "Office Visit Note - Carita Grady - 2021-09-02",
+    "content": "- Infectious disease care plan, started 2021-09-02, ended 2021-09-02."
+  }
+]

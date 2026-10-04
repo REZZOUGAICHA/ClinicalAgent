@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "14a5a697-29a3-48b2-acd9-6ee761e3488a",
+    "patient_id": "14a5a697-29a3-48b2-969a-3ceefe74a700",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1996-02-03",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Drusilla Schumm - 1996-02-03",
+    "content": "Patient: Drusilla Schumm, female, born 1958-11-15 (patient ID 14a5a697-29a3-48b2-969a-3ceefe74a700).\nVisit date: 1996-02-03.\nVisit type: General examination of patient.\nClinician: Merle Bogisich (General Practice).\nFacility: SALEM FAMILY HEALTH CENTER, PEABODY, MA."
+  },
+  {
+    "doc_id": "14a5a697-29a3-48b2-acd9-6ee761e3488a",
+    "patient_id": "14a5a697-29a3-48b2-969a-3ceefe74a700",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1996-02-03",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Drusilla Schumm - 1996-02-03",
+    "content": "Diagnoses recorded at this visit:\n- Body mass index 30+ - obesity (onset 1996-02-03)."
+  }
+]

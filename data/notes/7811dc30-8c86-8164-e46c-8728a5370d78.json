@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "7811dc30-8c86-8164-e46c-8728a5370d78",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Office Visit Note",
+    "date": "1971-10-06",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Mignon Rau - 1971-10-06",
+    "content": "Patient: Mignon Rau, female, born 1970-04-21 (patient ID 7811dc30-8c86-8164-6c33-6b6f464745ef).\nVisit date: 1971-10-06.\nVisit type: Encounter for problem.\nClinician: Rudolf Vandervort (General Practice).\nFacility: BETH ISRAEL DEACONESS HOSPITAL MILTON INC, MILTON, MA."
+  },
+  {
+    "doc_id": "7811dc30-8c86-8164-e46c-8728a5370d78",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Office Visit Note",
+    "date": "1971-10-06",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Mignon Rau - 1971-10-06",
+    "content": "Seen for Tree nut."
+  },
+  {
+    "doc_id": "7811dc30-8c86-8164-e46c-8728a5370d78",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Office Visit Note",
+    "date": "1971-10-06",
+    "section": "Plan",
+    "title": "Office Visit Note - Mignon Rau - 1971-10-06",
+    "content": "- Self-care interventions, started 1971-10-06."
+  }
+]

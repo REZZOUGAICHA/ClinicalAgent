@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-904a-6393ae53909e",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-08-26",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Faustino Langworth - 2026-08-26",
+    "content": "Patient: Faustino Langworth, male, born 1998-06-17 (patient ID 5ba0a3f3-32f7-02b1-ec6a-8f568923954c).\nVisit date: 2026-08-26.\nVisit type: General examination of patient.\nClinician: Vito Barton (General Practice).\nFacility: DAVIS SQUARE FAMILY PRACTICE, SOMERVILLE, MA."
+  },
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-904a-6393ae53909e",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-08-26",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Faustino Langworth - 2026-08-26",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2026-08-26).\n- Gingivitis (onset 2026-08-26), resolved 2026-09-09."
+  },
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-904a-6393ae53909e",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-08-26",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Faustino Langworth - 2026-08-26",
+    "content": "- Body Height: 187.3 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0\n- Body Weight: 99.8 kg\n- Body mass index (BMI) [Ratio]: 28.5 kg/m2\n- Diastolic Blood Pressure: 83.0 mm[Hg]\n- Systolic Blood Pressure: 130.0 mm[Hg]\n- Heart rate: 86.0 /min\n- Respiratory rate: 15.0 /min"
+  },
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-904a-6393ae53909e",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-08-26",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Faustino Langworth - 2026-08-26",
+    "content": "- Hemoglobin A1c/Hemoglobin.total in Blood: 6.4 %\n- Glucose [Mass/volume] in Blood: 92.8 mg/dL\n- Urea nitrogen [Mass/volume] in Blood: 18.0 mg/dL\n- Creatinine [Mass/volume] in Blood: 1.6 mg/dL\n- Calcium [Mass/volume] in Blood: 9.0 mg/dL\n- Sodium [Moles/volume] in Blood: 141.6 mmol/L\n- Potassium [Moles/volume] in Blood: 4.0 mmol/L\n- Chloride [Moles/volume] in Blood: 101.2 mmol/L\n- Carbon dioxide  total [Moles/volume] in Blood: 29.0 mmol/L\n- Leukocytes [#/volume] in Blood by Automated count: 9.3 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 4.1 10*6/uL\n- Hemoglobin [Mass/volume] in Blood: 15.0 g/dL\n- Hematocrit [Volume Fraction] of Blood by Automated count: 38.8 %\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 90.9 fL\n- MCH [Entitic mass] by Automated count: 29.8 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 33.2 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 39.5 fL\n- Platelets [#/volume] in Blood by Automated count: 285.3 10*3/uL\n- Platelet distribution width [Entitic volume] in Blood by Automated count: 15.6 fL\n- Platelet [Entitic mean volume] in Blood by Automated count: 10.5 fL"
+  },
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-904a-6393ae53909e",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-08-26",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Faustino Langworth - 2026-08-26",
+    "content": "- Assessment of health and social care needs.\n- Depression screening.\n- Depression screening.\n- Assessment of substance use.\n- Assessment using Alcohol Use Disorders Identification Test - Consumption.\n- Patient referral for dental care, for Gingivitis."
+  },
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-904a-6393ae53909e",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-08-26",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Faustino Langworth - 2026-08-26",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

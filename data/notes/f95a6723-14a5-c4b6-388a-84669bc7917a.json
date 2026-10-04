@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "f95a6723-14a5-c4b6-388a-84669bc7917a",
+    "patient_id": "f95a6723-14a5-c4b6-78df-fa97f7ab361c",
+    "document_type": "Emergency Department Note",
+    "date": "2015-06-09",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Roxann Sauer - 2015-06-09",
+    "content": "Patient: Roxann Sauer, female, born 1986-08-23 (patient ID f95a6723-14a5-c4b6-78df-fa97f7ab361c).\nVisit date: 2015-06-09.\nVisit type: Emergency room admission.\nClinician: Javier Collier (General Practice).\nFacility: SERENITY HILL NURSING CENTER, WRENTHAM, MA."
+  },
+  {
+    "doc_id": "f95a6723-14a5-c4b6-388a-84669bc7917a",
+    "patient_id": "f95a6723-14a5-c4b6-78df-fa97f7ab361c",
+    "document_type": "Emergency Department Note",
+    "date": "2015-06-09",
+    "section": "Reason for Visit",
+    "title": "Emergency Department Note - Roxann Sauer - 2015-06-09",
+    "content": "Seen for Impacted molars."
+  },
+  {
+    "doc_id": "f95a6723-14a5-c4b6-388a-84669bc7917a",
+    "patient_id": "f95a6723-14a5-c4b6-78df-fa97f7ab361c",
+    "document_type": "Emergency Department Note",
+    "date": "2015-06-09",
+    "section": "Assessment",
+    "title": "Emergency Department Note - Roxann Sauer - 2015-06-09",
+    "content": "Diagnoses recorded at this visit:\n- Impacted molars (onset 2015-06-09)."
+  }
+]

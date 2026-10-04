@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "9661a432-4630-2cd9-4762-25eb29c0b5a2",
+    "patient_id": "9661a432-4630-2cd9-142c-386845fae837",
+    "document_type": "Office Visit Note",
+    "date": "2021-09-20",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Paul Tremblay - 2021-09-20",
+    "content": "Patient: Paul Tremblay, male, born 1978-02-14 (patient ID 9661a432-4630-2cd9-142c-386845fae837).\nVisit date: 2021-09-20.\nVisit type: Encounter for check up.\nClinician: Damaris Funk (General Practice).\nFacility: BROCKTON HOSPITAL INC., BROCKTON, MA."
+  },
+  {
+    "doc_id": "9661a432-4630-2cd9-4762-25eb29c0b5a2",
+    "patient_id": "9661a432-4630-2cd9-142c-386845fae837",
+    "document_type": "Office Visit Note",
+    "date": "2021-09-20",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Paul Tremblay - 2021-09-20",
+    "content": "Seen for Partial thickness burn."
+  }
+]

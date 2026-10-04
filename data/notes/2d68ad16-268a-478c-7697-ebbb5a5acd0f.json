@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "2d68ad16-268a-478c-7697-ebbb5a5acd0f",
+    "patient_id": "2d68ad16-268a-478c-1f84-d0f1976e1a46",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-02-06",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Mauro Braun - 2026-02-06",
+    "content": "Patient: Mauro Braun, male, born 2020-02-21 (patient ID 2d68ad16-268a-478c-1f84-d0f1976e1a46).\nVisit date: 2026-02-06.\nVisit type: Well child visit.\nClinician: Rolland Lemke (General Practice).\nFacility: QUINCY CENTER PRIMARY CARE PC, QUINCY, MA."
+  },
+  {
+    "doc_id": "2d68ad16-268a-478c-7697-ebbb5a5acd0f",
+    "patient_id": "2d68ad16-268a-478c-1f84-d0f1976e1a46",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-02-06",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Mauro Braun - 2026-02-06",
+    "content": "- Body Height: 111.2 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0\n- Body Weight: 18.5 kg\n- Body mass index (BMI) [Ratio]: 15.0 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 37.0 %\n- Diastolic Blood Pressure: 75.0 mm[Hg]\n- Systolic Blood Pressure: 98.0 mm[Hg]\n- Heart rate: 61.0 /min\n- Respiratory rate: 14.0 /min"
+  },
+  {
+    "doc_id": "2d68ad16-268a-478c-7697-ebbb5a5acd0f",
+    "patient_id": "2d68ad16-268a-478c-1f84-d0f1976e1a46",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-02-06",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Mauro Braun - 2026-02-06",
+    "content": "- Leukocytes [#/volume] in Blood by Automated count: 3.5 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 4.9 10*6/uL\n- Hemoglobin [Mass/volume] in Blood: 16.5 g/dL\n- Hematocrit [Volume Fraction] of Blood by Automated count: 40.7 %\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 94.0 fL\n- MCH [Entitic mass] by Automated count: 27.8 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 33.8 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 44.2 fL\n- Platelets [#/volume] in Blood by Automated count: 183.1 10*3/uL\n- Platelet distribution width [Entitic volume] in Blood by Automated count: 9.5 fL\n- Platelet [Entitic mean volume] in Blood by Automated count: 12.1 fL"
+  },
+  {
+    "doc_id": "2d68ad16-268a-478c-7697-ebbb5a5acd0f",
+    "patient_id": "2d68ad16-268a-478c-1f84-d0f1976e1a46",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-02-06",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Mauro Braun - 2026-02-06",
+    "content": "- Medication reconciliation."
+  },
+  {
+    "doc_id": "2d68ad16-268a-478c-7697-ebbb5a5acd0f",
+    "patient_id": "2d68ad16-268a-478c-1f84-d0f1976e1a46",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-02-06",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Mauro Braun - 2026-02-06",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

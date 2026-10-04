@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "7b06ee52-df9a-8487-cbf0-11ebe1804d39",
+    "patient_id": "7b06ee52-df9a-8487-0be6-dff27cc7d519",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "2016-03-12",
+    "section": "Visit Information",
+    "title": "Inpatient Discharge Summary - Ressie Nader - 2016-03-12",
+    "content": "Patient: Ressie Nader, female, born 2001-08-06 (patient ID 7b06ee52-df9a-8487-0be6-dff27cc7d519).\nVisit date: 2016-03-12.\nVisit type: Non-urgent orthopedic admission.\nClinician: Maricarmen Delafuente (General Practice).\nFacility: ARBOUR-FULLER HOSPITAL, SOUTH ATTLEBORO, MA."
+  },
+  {
+    "doc_id": "7b06ee52-df9a-8487-cbf0-11ebe1804d39",
+    "patient_id": "7b06ee52-df9a-8487-0be6-dff27cc7d519",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "2016-03-12",
+    "section": "Reason for Visit",
+    "title": "Inpatient Discharge Summary - Ressie Nader - 2016-03-12",
+    "content": "Seen for Injury of anterior cruciate ligament."
+  },
+  {
+    "doc_id": "7b06ee52-df9a-8487-cbf0-11ebe1804d39",
+    "patient_id": "7b06ee52-df9a-8487-0be6-dff27cc7d519",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "2016-03-12",
+    "section": "Medications",
+    "title": "Inpatient Discharge Summary - Ressie Nader - 2016-03-12",
+    "content": "Medications prescribed at this visit:\n- Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet, started 2016-03-12; no stop date recorded."
+  }
+]

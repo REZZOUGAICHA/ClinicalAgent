@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "05cc86a0-2d98-b046-8d67-9f26b0bb24b3",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1941-10-31",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Carita Grady - 1941-10-31",
+    "content": "Patient: Carita Grady, female, born 1925-09-18 (patient ID 05cc86a0-2d98-b046-790a-211fd9e1ea92).\nVisit date: 1941-10-31.\nVisit type: Well child visit.\nClinician: Zachery Rau (General Practice).\nFacility: WALPOLE MEDICAL CENTER PC, WALPOLE, MA."
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-8d67-9f26b0bb24b3",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1941-10-31",
+    "section": "Plan",
+    "title": "Annual Wellness Visit Note - Carita Grady - 1941-10-31",
+    "content": "- Weight management program, started 1941-10-31."
+  }
+]

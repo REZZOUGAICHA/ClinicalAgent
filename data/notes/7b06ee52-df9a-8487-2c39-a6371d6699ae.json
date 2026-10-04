@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "7b06ee52-df9a-8487-2c39-a6371d6699ae",
+    "patient_id": "7b06ee52-df9a-8487-0be6-dff27cc7d519",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2019-07-16",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Ressie Nader - 2019-07-16",
+    "content": "Patient: Ressie Nader, female, born 2001-08-06 (patient ID 7b06ee52-df9a-8487-0be6-dff27cc7d519).\nVisit date: 2019-07-16.\nVisit type: Consultation for treatment.\nClinician: Maricarmen Delafuente (General Practice).\nFacility: ARBOUR-FULLER HOSPITAL, SOUTH ATTLEBORO, MA."
+  },
+  {
+    "doc_id": "7b06ee52-df9a-8487-2c39-a6371d6699ae",
+    "patient_id": "7b06ee52-df9a-8487-0be6-dff27cc7d519",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2019-07-16",
+    "section": "Reason for Visit",
+    "title": "Outpatient Procedure Note - Ressie Nader - 2019-07-16",
+    "content": "Seen for Contraception care."
+  },
+  {
+    "doc_id": "7b06ee52-df9a-8487-2c39-a6371d6699ae",
+    "patient_id": "7b06ee52-df9a-8487-0be6-dff27cc7d519",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2019-07-16",
+    "section": "Medications",
+    "title": "Outpatient Procedure Note - Ressie Nader - 2019-07-16",
+    "content": "Medications prescribed at this visit:\n- {5 (dienogest 2 MG / estradiol valerate 2 MG Oral Tablet) / 17 (dienogest 3 MG / estradiol valerate 2 MG Oral Tablet) / 2 (estradiol valerate 1 MG Oral Tablet) / 2 (estradiol valerate 3 MG Oral Tablet) / 2 (inert ingredients 1 MG Oral Tablet) } Pack [Natazia 28 Day], started 2019-07-16; stopped 2020-07-10."
+  }
+]

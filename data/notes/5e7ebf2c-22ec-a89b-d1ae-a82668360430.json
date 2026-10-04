@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-d1ae-a82668360430",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Office Visit Note",
+    "date": "2021-05-30",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Rosalba Effertz - 2021-05-30",
+    "content": "Patient: Rosalba Effertz, female, born 1973-08-05 (patient ID 5e7ebf2c-22ec-a89b-53ab-38edddd81be9).\nVisit date: 2021-05-30.\nVisit type: Encounter for symptom.\nClinician: Saundra Kuphal (General Practice).\nFacility: COOLEY DICKINSON HOSPITAL INC, NORTHAMPTON, MA."
+  },
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-d1ae-a82668360430",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Office Visit Note",
+    "date": "2021-05-30",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Rosalba Effertz - 2021-05-30",
+    "content": "Seen for Acute bronchitis."
+  },
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-d1ae-a82668360430",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Office Visit Note",
+    "date": "2021-05-30",
+    "section": "Assessment",
+    "title": "Office Visit Note - Rosalba Effertz - 2021-05-30",
+    "content": "Diagnoses recorded at this visit:\n- Acute bronchitis (onset 2021-05-30), resolved 2021-06-12."
+  },
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-d1ae-a82668360430",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Office Visit Note",
+    "date": "2021-05-30",
+    "section": "Procedures",
+    "title": "Office Visit Note - Rosalba Effertz - 2021-05-30",
+    "content": "- Sputum examination, for Acute bronchitis."
+  },
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-d1ae-a82668360430",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Office Visit Note",
+    "date": "2021-05-30",
+    "section": "Medications",
+    "title": "Office Visit Note - Rosalba Effertz - 2021-05-30",
+    "content": "Medications prescribed at this visit:\n- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution, started 2021-05-30, for Acute bronchitis; stopped 2021-06-12."
+  },
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-d1ae-a82668360430",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Office Visit Note",
+    "date": "2021-05-30",
+    "section": "Plan",
+    "title": "Office Visit Note - Rosalba Effertz - 2021-05-30",
+    "content": "- Respiratory therapy, started 2021-05-30, ended 2021-08-29."
+  }
+]

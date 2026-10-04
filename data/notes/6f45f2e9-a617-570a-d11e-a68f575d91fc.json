@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "6f45f2e9-a617-570a-d11e-a68f575d91fc",
+    "patient_id": "6f45f2e9-a617-570a-8867-dec1260088bb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-07-06",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Carey Mraz - 2023-07-06",
+    "content": "Patient: Carey Mraz, male, born 2013-06-27 (patient ID 6f45f2e9-a617-570a-8867-dec1260088bb).\nVisit date: 2023-07-06.\nVisit type: Well child visit.\nClinician: Ulysses Ziemann (General Practice).\nFacility: CENTER FOR DIGESTIVE WELLNESS PC, LEOMINSTER, MA."
+  },
+  {
+    "doc_id": "6f45f2e9-a617-570a-d11e-a68f575d91fc",
+    "patient_id": "6f45f2e9-a617-570a-8867-dec1260088bb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-07-06",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Carey Mraz - 2023-07-06",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2023-07-06), resolved 2023-07-06."
+  },
+  {
+    "doc_id": "6f45f2e9-a617-570a-d11e-a68f575d91fc",
+    "patient_id": "6f45f2e9-a617-570a-8867-dec1260088bb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-07-06",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Carey Mraz - 2023-07-06",
+    "content": "- Body Height: 150.6 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0\n- Body Weight: 42.2 kg\n- Body mass index (BMI) [Ratio]: 18.6 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 78.5 %\n- Diastolic Blood Pressure: 79.0 mm[Hg]\n- Systolic Blood Pressure: 114.0 mm[Hg]\n- Heart rate: 80.0 /min\n- Respiratory rate: 15.0 /min"
+  },
+  {
+    "doc_id": "6f45f2e9-a617-570a-d11e-a68f575d91fc",
+    "patient_id": "6f45f2e9-a617-570a-8867-dec1260088bb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-07-06",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Carey Mraz - 2023-07-06",
+    "content": "- Medication reconciliation."
+  },
+  {
+    "doc_id": "6f45f2e9-a617-570a-d11e-a68f575d91fc",
+    "patient_id": "6f45f2e9-a617-570a-8867-dec1260088bb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-07-06",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Carey Mraz - 2023-07-06",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

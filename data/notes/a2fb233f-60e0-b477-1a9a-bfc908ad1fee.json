@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "a2fb233f-60e0-b477-1a9a-bfc908ad1fee",
+    "patient_id": "a2fb233f-60e0-b477-cd38-af3923f792a3",
+    "document_type": "Office Visit Note",
+    "date": "2023-12-25",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Tanner Mitchell - 2023-12-25",
+    "content": "Patient: Tanner Mitchell, male, born 1962-03-11 (patient ID a2fb233f-60e0-b477-cd38-af3923f792a3).\nVisit date: 2023-12-25.\nVisit type: Encounter for problem.\nClinician: Tracie Lesch (General Practice).\nFacility: ANNA JAQUES HOSPITAL SUBACUTE UNIT, NEWBURYPORT, MA."
+  },
+  {
+    "doc_id": "a2fb233f-60e0-b477-1a9a-bfc908ad1fee",
+    "patient_id": "a2fb233f-60e0-b477-cd38-af3923f792a3",
+    "document_type": "Office Visit Note",
+    "date": "2023-12-25",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Tanner Mitchell - 2023-12-25",
+    "content": "Seen for Idiopathic atrophic hypothyroidism."
+  },
+  {
+    "doc_id": "a2fb233f-60e0-b477-1a9a-bfc908ad1fee",
+    "patient_id": "a2fb233f-60e0-b477-cd38-af3923f792a3",
+    "document_type": "Office Visit Note",
+    "date": "2023-12-25",
+    "section": "Assessment",
+    "title": "Office Visit Note - Tanner Mitchell - 2023-12-25",
+    "content": "Diagnoses recorded at this visit:\n- Idiopathic atrophic hypothyroidism (onset 2023-12-25)."
+  },
+  {
+    "doc_id": "a2fb233f-60e0-b477-1a9a-bfc908ad1fee",
+    "patient_id": "a2fb233f-60e0-b477-cd38-af3923f792a3",
+    "document_type": "Office Visit Note",
+    "date": "2023-12-25",
+    "section": "Medications",
+    "title": "Office Visit Note - Tanner Mitchell - 2023-12-25",
+    "content": "Medications prescribed at this visit:\n- Levothyroxine Sodium 0.075 MG Oral Tablet, started 2023-12-25; no stop date recorded."
+  }
+]

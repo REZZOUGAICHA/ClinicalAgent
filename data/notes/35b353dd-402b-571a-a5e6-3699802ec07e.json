@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "35b353dd-402b-571a-a5e6-3699802ec07e",
+    "patient_id": "35b353dd-402b-571a-d67a-af0a104d0854",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2016-01-30",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Jody Monahan - 2016-01-30",
+    "content": "Patient: Jody Monahan, male, born 1943-09-18 (patient ID 35b353dd-402b-571a-d67a-af0a104d0854).\nVisit date: 2016-01-30.\nVisit type: General examination of patient.\nClinician: Georgianne Howe (General Practice).\nFacility: WOODLAND INTERNISTS P.C., STONEHAM, MA."
+  },
+  {
+    "doc_id": "35b353dd-402b-571a-a5e6-3699802ec07e",
+    "patient_id": "35b353dd-402b-571a-d67a-af0a104d0854",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2016-01-30",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Jody Monahan - 2016-01-30",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2016-01-30), resolved 2017-02-04.\n- Social isolation (onset 2016-01-30), resolved 2017-02-04."
+  },
+  {
+    "doc_id": "35b353dd-402b-571a-a5e6-3699802ec07e",
+    "patient_id": "35b353dd-402b-571a-d67a-af0a104d0854",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2016-01-30",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Jody Monahan - 2016-01-30",
+    "content": "Medications prescribed at this visit:\n- Hydrochlorothiazide 25 MG Oral Tablet, started 2016-01-30, for Essential hypertension; stopped 2017-02-04."
+  }
+]

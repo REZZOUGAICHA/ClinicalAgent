@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "d3cb6736-0991-40ed-d8aa-b18882933ad5",
+    "patient_id": "d3cb6736-0991-40ed-a220-7c714aba4c37",
+    "document_type": "Office Visit Note",
+    "date": "2019-04-21",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Tristan Reichel - 2019-04-21",
+    "content": "Patient: Tristan Reichel, male, born 1982-08-01 (patient ID d3cb6736-0991-40ed-a220-7c714aba4c37).\nVisit date: 2019-04-21.\nVisit type: Encounter for symptom.\nClinician: Beatriz Monroy (General Practice).\nFacility: FIRST PSYCHIATRIC PLANNERS INC, WOBURN, MA."
+  },
+  {
+    "doc_id": "d3cb6736-0991-40ed-d8aa-b18882933ad5",
+    "patient_id": "d3cb6736-0991-40ed-a220-7c714aba4c37",
+    "document_type": "Office Visit Note",
+    "date": "2019-04-21",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Tristan Reichel - 2019-04-21",
+    "content": "Seen for Acute bronchitis."
+  },
+  {
+    "doc_id": "d3cb6736-0991-40ed-d8aa-b18882933ad5",
+    "patient_id": "d3cb6736-0991-40ed-a220-7c714aba4c37",
+    "document_type": "Office Visit Note",
+    "date": "2019-04-21",
+    "section": "Assessment",
+    "title": "Office Visit Note - Tristan Reichel - 2019-04-21",
+    "content": "Diagnoses recorded at this visit:\n- Acute bronchitis (onset 2019-04-21), resolved 2019-05-07."
+  },
+  {
+    "doc_id": "d3cb6736-0991-40ed-d8aa-b18882933ad5",
+    "patient_id": "d3cb6736-0991-40ed-a220-7c714aba4c37",
+    "document_type": "Office Visit Note",
+    "date": "2019-04-21",
+    "section": "Procedures",
+    "title": "Office Visit Note - Tristan Reichel - 2019-04-21",
+    "content": "- Plain X-ray of chest, for Acute bronchitis."
+  },
+  {
+    "doc_id": "d3cb6736-0991-40ed-d8aa-b18882933ad5",
+    "patient_id": "d3cb6736-0991-40ed-a220-7c714aba4c37",
+    "document_type": "Office Visit Note",
+    "date": "2019-04-21",
+    "section": "Medications",
+    "title": "Office Visit Note - Tristan Reichel - 2019-04-21",
+    "content": "Medications prescribed at this visit:\n- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution, started 2019-04-21, for Acute bronchitis; stopped 2019-05-07."
+  },
+  {
+    "doc_id": "d3cb6736-0991-40ed-d8aa-b18882933ad5",
+    "patient_id": "d3cb6736-0991-40ed-a220-7c714aba4c37",
+    "document_type": "Office Visit Note",
+    "date": "2019-04-21",
+    "section": "Plan",
+    "title": "Office Visit Note - Tristan Reichel - 2019-04-21",
+    "content": "- Respiratory therapy, started 2019-04-21, ended 2019-10-20."
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "76b20010-c318-5754-6bf2-4ec6c19004ac",
+    "patient_id": "76b20010-c318-5754-8c85-983aa538522f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-05-27",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Jody Hickle - 2019-05-27",
+    "content": "Patient: Jody Hickle, male, born 2018-03-19 (patient ID 76b20010-c318-5754-8c85-983aa538522f).\nVisit date: 2019-05-27.\nVisit type: Well child visit.\nClinician: Dane Tromp (General Practice).\nFacility: NEWBURYPORT FAMILY PRACTICE P.C., NEWBURYPORT, MA."
+  },
+  {
+    "doc_id": "76b20010-c318-5754-6bf2-4ec6c19004ac",
+    "patient_id": "76b20010-c318-5754-8c85-983aa538522f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-05-27",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Jody Hickle - 2019-05-27",
+    "content": "- Body Height: 78.8 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0\n- Body Weight: 10.7 kg\n- Weight-for-length Per age and sex: 51.8 %\n- Head Occipital-frontal circumference Percentile: 58.8 %\n- Head Occipital-frontal circumference: 47.3 cm\n- Diastolic Blood Pressure: 88.0 mm[Hg]\n- Systolic Blood Pressure: 118.0 mm[Hg]\n- Heart rate: 68.0 /min\n- Respiratory rate: 15.0 /min"
+  },
+  {
+    "doc_id": "76b20010-c318-5754-6bf2-4ec6c19004ac",
+    "patient_id": "76b20010-c318-5754-8c85-983aa538522f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-05-27",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Jody Hickle - 2019-05-27",
+    "content": "- Medication reconciliation."
+  },
+  {
+    "doc_id": "76b20010-c318-5754-6bf2-4ec6c19004ac",
+    "patient_id": "76b20010-c318-5754-8c85-983aa538522f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-05-27",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Jody Hickle - 2019-05-27",
+    "content": "- Hib (PRP-OMP).\n- varicella.\n- MMR.\n- Pneumococcal conjugate PCV 13.\n- Hep A ped/adol 2 dose."
+  }
+]

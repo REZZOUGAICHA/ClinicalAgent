@@ -1,0 +1,65 @@
+[
+  {
+    "doc_id": "aee7bbe1-0c45-c028-6dfc-2ae9c9a78d99",
+    "patient_id": "aee7bbe1-0c45-c028-1e62-1f4cdb30c273",
+    "document_type": "Office Visit Note",
+    "date": "2020-11-12",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Wilfredo Fritsch - 2020-11-12",
+    "content": "Patient: Wilfredo Fritsch, male, born 2010-12-23 (patient ID aee7bbe1-0c45-c028-1e62-1f4cdb30c273).\nVisit date: 2020-11-12.\nVisit type: Encounter for symptom.\nClinician: Damaris Funk (General Practice).\nFacility: BROCKTON HOSPITAL INC., BROCKTON, MA."
+  },
+  {
+    "doc_id": "aee7bbe1-0c45-c028-6dfc-2ae9c9a78d99",
+    "patient_id": "aee7bbe1-0c45-c028-1e62-1f4cdb30c273",
+    "document_type": "Office Visit Note",
+    "date": "2020-11-12",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Wilfredo Fritsch - 2020-11-12",
+    "content": "Seen for Suspected disease caused by Severe acute respiratory coronavirus 2."
+  },
+  {
+    "doc_id": "aee7bbe1-0c45-c028-6dfc-2ae9c9a78d99",
+    "patient_id": "aee7bbe1-0c45-c028-1e62-1f4cdb30c273",
+    "document_type": "Office Visit Note",
+    "date": "2020-11-12",
+    "section": "Assessment",
+    "title": "Office Visit Note - Wilfredo Fritsch - 2020-11-12",
+    "content": "Diagnoses recorded at this visit:\n- Cough (onset 2020-11-12), resolved 2020-12-17.\n- Sputum finding (onset 2020-11-12), resolved 2020-12-17.\n- Fatigue (onset 2020-11-12), resolved 2020-12-17.\n- Fever (onset 2020-11-12), resolved 2020-12-17.\n- Loss of taste (onset 2020-11-12), resolved 2020-12-17.\n- Disease caused by severe acute respiratory syndrome coronavirus 2 (onset 2020-11-12), resolved 2020-12-17."
+  },
+  {
+    "doc_id": "aee7bbe1-0c45-c028-6dfc-2ae9c9a78d99",
+    "patient_id": "aee7bbe1-0c45-c028-1e62-1f4cdb30c273",
+    "document_type": "Office Visit Note",
+    "date": "2020-11-12",
+    "section": "Vital Signs",
+    "title": "Office Visit Note - Wilfredo Fritsch - 2020-11-12",
+    "content": "- Body temperature: 40.3 \u00b0C\n- Respiratory rate: 15.8 /min\n- Heart rate: 151.2 /min\n- Oxygen saturation in Arterial blood: 78.8 %\n- Diastolic Blood Pressure: 85.0 mm[Hg]\n- Systolic Blood Pressure: 114.0 mm[Hg]\n- Body Weight: 51.6 kg"
+  },
+  {
+    "doc_id": "aee7bbe1-0c45-c028-6dfc-2ae9c9a78d99",
+    "patient_id": "aee7bbe1-0c45-c028-1e62-1f4cdb30c273",
+    "document_type": "Office Visit Note",
+    "date": "2020-11-12",
+    "section": "Laboratory Results",
+    "title": "Office Visit Note - Wilfredo Fritsch - 2020-11-12",
+    "content": "- Influenza virus A RNA [Presence] in Respiratory system specimen by NAA with probe detection: Negative (qualifier value)\n- Influenza virus B RNA [Presence] in Respiratory system specimen by NAA with probe detection: Negative (qualifier value)\n- Respiratory syncytial virus RNA [Presence] in Respiratory system specimen by NAA with probe detection: Negative (qualifier value)\n- Parainfluenza virus 1 RNA [Presence] in Respiratory system specimen by NAA with probe detection: Negative (qualifier value)\n- Parainfluenza virus 2 RNA [Presence] in Respiratory system specimen by NAA with probe detection: Negative (qualifier value)\n- Parainfluenza virus 3 RNA [Presence] in Respiratory system specimen by NAA with probe detection: Negative (qualifier value)\n- Rhinovirus RNA [Presence] in Respiratory system specimen by NAA with probe detection: Negative (qualifier value)\n- Human metapneumovirus RNA [Presence] in Respiratory system specimen by NAA with probe detection: Negative (qualifier value)\n- Adenovirus A+B+C+D+E DNA [Presence] in Respiratory system specimen by NAA with probe detection: Negative (qualifier value)\n- SARS-CoV-2 (COVID-19) RNA panel - Respiratory system specimen by NAA with probe detection: Detected (qualifier value)"
+  },
+  {
+    "doc_id": "aee7bbe1-0c45-c028-6dfc-2ae9c9a78d99",
+    "patient_id": "aee7bbe1-0c45-c028-1e62-1f4cdb30c273",
+    "document_type": "Office Visit Note",
+    "date": "2020-11-12",
+    "section": "Procedures",
+    "title": "Office Visit Note - Wilfredo Fritsch - 2020-11-12",
+    "content": "- Face mask (physical object), for Suspected disease caused by Severe acute respiratory coronavirus 2."
+  },
+  {
+    "doc_id": "aee7bbe1-0c45-c028-6dfc-2ae9c9a78d99",
+    "patient_id": "aee7bbe1-0c45-c028-1e62-1f4cdb30c273",
+    "document_type": "Office Visit Note",
+    "date": "2020-11-12",
+    "section": "Plan",
+    "title": "Office Visit Note - Wilfredo Fritsch - 2020-11-12",
+    "content": "- Infectious disease care plan, started 2020-11-12, ended 2020-11-12.\n- Infectious disease care plan, started 2020-11-12, ended 2020-12-17."
+  }
+]

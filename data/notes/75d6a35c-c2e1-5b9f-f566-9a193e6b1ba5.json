@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "75d6a35c-c2e1-5b9f-f566-9a193e6b1ba5",
+    "patient_id": "75d6a35c-c2e1-5b9f-e7f8-6a5b05af8fc8",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2025-04-18",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Hiram Batz - 2025-04-18",
+    "content": "Patient: Hiram Batz, male, born 2013-02-01 (patient ID 75d6a35c-c2e1-5b9f-e7f8-6a5b05af8fc8).\nVisit date: 2025-04-18.\nVisit type: Encounter for check up.\nClinician: Bennett Rippin (General Practice).\nFacility: MILFORD REGIONAL MEDICAL CENTER, UPTON, MA."
+  },
+  {
+    "doc_id": "75d6a35c-c2e1-5b9f-f566-9a193e6b1ba5",
+    "patient_id": "75d6a35c-c2e1-5b9f-e7f8-6a5b05af8fc8",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2025-04-18",
+    "section": "Procedures",
+    "title": "Outpatient Procedure Note - Hiram Batz - 2025-04-18",
+    "content": "- Medication reconciliation."
+  }
+]

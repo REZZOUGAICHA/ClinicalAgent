@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "c86c400e-ff88-a1e3-b201-9fdc0b766c4d",
+    "patient_id": "c86c400e-ff88-a1e3-2e23-caa4d8311f47",
+    "document_type": "Emergency Department Note",
+    "date": "1976-05-25",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Cristobal Montero - 1976-05-25",
+    "content": "Patient: Cristobal Montero, male, born 1947-03-03 (patient ID c86c400e-ff88-a1e3-2e23-caa4d8311f47).\nVisit date: 1976-05-25.\nVisit type: Emergency room admission.\nClinician: Dong Auer (General Practice).\nFacility: CHESTNUT WOODS REHABILITATION AND HEALTHCARE CTR, SAUGUS, MA."
+  },
+  {
+    "doc_id": "c86c400e-ff88-a1e3-b201-9fdc0b766c4d",
+    "patient_id": "c86c400e-ff88-a1e3-2e23-caa4d8311f47",
+    "document_type": "Emergency Department Note",
+    "date": "1976-05-25",
+    "section": "Reason for Visit",
+    "title": "Emergency Department Note - Cristobal Montero - 1976-05-25",
+    "content": "Seen for Seizure disorder."
+  },
+  {
+    "doc_id": "c86c400e-ff88-a1e3-b201-9fdc0b766c4d",
+    "patient_id": "c86c400e-ff88-a1e3-2e23-caa4d8311f47",
+    "document_type": "Emergency Department Note",
+    "date": "1976-05-25",
+    "section": "Assessment",
+    "title": "Emergency Department Note - Cristobal Montero - 1976-05-25",
+    "content": "Diagnoses recorded at this visit:\n- Seizure disorder (onset 1976-05-25).\n- History of seizure (onset 1976-05-25)."
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "f999ef25-a612-87c9-2b73-609a6994a6a8",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Skilled Nursing Facility Note",
+    "date": "2010-05-29",
+    "section": "Visit Information",
+    "title": "Skilled Nursing Facility Note - Evangeline Ziemann - 2010-05-29",
+    "content": "Patient: Evangeline Ziemann, female, born 1925-09-18 (patient ID f999ef25-a612-87c9-206f-aacc9d469dc8).\nVisit date: 2010-05-29.\nVisit type: Hospital admission.\nClinician: Beatriz Aparicio (General Practice).\nFacility: BEAR MT FRANKLIN LLC, FRANKLIN, MA."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-2b73-609a6994a6a8",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Skilled Nursing Facility Note",
+    "date": "2010-05-29",
+    "section": "Reason for Visit",
+    "title": "Skilled Nursing Facility Note - Evangeline Ziemann - 2010-05-29",
+    "content": "Seen for Patient transfer to skilled nursing facility."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-2b73-609a6994a6a8",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Skilled Nursing Facility Note",
+    "date": "2010-05-29",
+    "section": "Procedures",
+    "title": "Skilled Nursing Facility Note - Evangeline Ziemann - 2010-05-29",
+    "content": "- History AND physical examination.\n- Initial patient assessment.\n- Development of individualized plan of care.\n- Nursing care/supplementary surveillance.\n- Physical therapy procedure.\n- Professional / ancillary services care.\n- Nursing care/supplementary surveillance.\n- Nursing care/supplementary surveillance.\n- Nursing care/supplementary surveillance.\n- Professional / ancillary services care.\n- Nursing care/supplementary surveillance.\n- Nursing care/supplementary surveillance.\n- Nursing care/supplementary surveillance.\n- Professional / ancillary services care.\n- Nursing care/supplementary surveillance.\n- Professional / ancillary services care.\n- Nursing care/supplementary surveillance.\n- Physical therapy procedure.\n- Professional / ancillary services care.\n- Nursing care/supplementary surveillance.\n- Nursing care/supplementary surveillance.\n- Physical therapy procedure.\n- Nursing care/supplementary surveillance.\n- Professional / ancillary services care.\n- Nursing care/supplementary surveillance.\n- Nursing care/supplementary surveillance.\n- Professional / ancillary services care.\n- Nursing care/supplementary surveillance.\n- Nursing care/supplementary surveillance.\n- Physical therapy procedure.\n- Occupational therapy.\n- Professional / ancillary services care.\n- Nursing care/supplementary surveillance.\n- Nursing care/supplementary surveillance.\n- Nursing care/supplementary surveillance.\n- Pre-discharge assessment.\n- Discharge from hospital."
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "922fb35e-148d-9e82-3878-7ce36a797dc4",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2024-12-06",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Agnes Weber - 2024-12-06",
+    "content": "Patient: Agnes Weber, female, born 1986-12-19 (patient ID 922fb35e-148d-9e82-7e65-bfa05e3b3515).\nVisit date: 2024-12-06.\nVisit type: Consultation for treatment.\nClinician: Chanell Robel (General Practice).\nFacility: WHITTIER REHABILITATION HOSPITAL - BRADFORD, WESTBOROUGH, MA."
+  },
+  {
+    "doc_id": "922fb35e-148d-9e82-3878-7ce36a797dc4",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2024-12-06",
+    "section": "Reason for Visit",
+    "title": "Outpatient Procedure Note - Agnes Weber - 2024-12-06",
+    "content": "Seen for Contraception care."
+  },
+  {
+    "doc_id": "922fb35e-148d-9e82-3878-7ce36a797dc4",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2024-12-06",
+    "section": "Medications",
+    "title": "Outpatient Procedure Note - Agnes Weber - 2024-12-06",
+    "content": "Medications prescribed at this visit:\n- levonorgestrel 0.000813 MG/HR Intrauterine System [Liletta], started 2024-12-06; stopped 2025-12-03."
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "ba419d35-0dfe-8af7-a367-c7f968bb0acd",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Emergency Department Note",
+    "date": "1990-02-16",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Corie Kohler - 1990-02-16",
+    "content": "Patient: Corie Kohler, female, born 1925-09-18 (patient ID ba419d35-0dfe-8af7-347c-eebf02485a56).\nVisit date: 1990-02-16.\nVisit type: Emergency room admission.\nClinician: Javier Collier (General Practice).\nFacility: SERENITY HILL NURSING CENTER, WRENTHAM, MA."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-a367-c7f968bb0acd",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Emergency Department Note",
+    "date": "1990-02-16",
+    "section": "Reason for Visit",
+    "title": "Emergency Department Note - Corie Kohler - 1990-02-16",
+    "content": "Seen for Chronic intractable migraine without aura."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-a367-c7f968bb0acd",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Emergency Department Note",
+    "date": "1990-02-16",
+    "section": "Assessment",
+    "title": "Emergency Department Note - Corie Kohler - 1990-02-16",
+    "content": "Diagnoses recorded at this visit:\n- Chronic intractable migraine without aura (onset 1990-02-16)."
+  }
+]

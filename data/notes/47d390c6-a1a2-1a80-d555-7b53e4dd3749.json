@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "47d390c6-a1a2-1a80-d555-7b53e4dd3749",
+    "patient_id": "47d390c6-a1a2-1a80-dd1d-9722c7b24159",
+    "document_type": "Office Visit Note",
+    "date": "2016-12-10",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Demarcus Jones - 2016-12-10",
+    "content": "Patient: Demarcus Jones, male, born 2009-03-07 (patient ID 47d390c6-a1a2-1a80-dd1d-9722c7b24159).\nVisit date: 2016-12-10.\nVisit type: Encounter for symptom.\nClinician: Jackelyn Pacocha (General Practice).\nFacility: WP ACQUISITION SUB LLC, HAVERHILL, MA."
+  },
+  {
+    "doc_id": "47d390c6-a1a2-1a80-d555-7b53e4dd3749",
+    "patient_id": "47d390c6-a1a2-1a80-dd1d-9722c7b24159",
+    "document_type": "Office Visit Note",
+    "date": "2016-12-10",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Demarcus Jones - 2016-12-10",
+    "content": "Seen for Acute viral pharyngitis."
+  },
+  {
+    "doc_id": "47d390c6-a1a2-1a80-d555-7b53e4dd3749",
+    "patient_id": "47d390c6-a1a2-1a80-dd1d-9722c7b24159",
+    "document_type": "Office Visit Note",
+    "date": "2016-12-10",
+    "section": "Assessment",
+    "title": "Office Visit Note - Demarcus Jones - 2016-12-10",
+    "content": "Diagnoses recorded at this visit:\n- Acute viral pharyngitis (onset 2016-12-10), resolved 2016-12-22."
+  },
+  {
+    "doc_id": "47d390c6-a1a2-1a80-d555-7b53e4dd3749",
+    "patient_id": "47d390c6-a1a2-1a80-dd1d-9722c7b24159",
+    "document_type": "Office Visit Note",
+    "date": "2016-12-10",
+    "section": "Vital Signs",
+    "title": "Office Visit Note - Demarcus Jones - 2016-12-10",
+    "content": "- Body temperature: 37.4 \u00b0C"
+  },
+  {
+    "doc_id": "47d390c6-a1a2-1a80-d555-7b53e4dd3749",
+    "patient_id": "47d390c6-a1a2-1a80-dd1d-9722c7b24159",
+    "document_type": "Office Visit Note",
+    "date": "2016-12-10",
+    "section": "Procedures",
+    "title": "Office Visit Note - Demarcus Jones - 2016-12-10",
+    "content": "- Throat culture, for Acute viral pharyngitis."
+  }
+]

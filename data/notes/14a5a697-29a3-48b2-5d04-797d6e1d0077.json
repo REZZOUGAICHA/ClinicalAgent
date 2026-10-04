@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "14a5a697-29a3-48b2-5d04-797d6e1d0077",
+    "patient_id": "14a5a697-29a3-48b2-969a-3ceefe74a700",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2004-12-11",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Drusilla Schumm - 2004-12-11",
+    "content": "Patient: Drusilla Schumm, female, born 1958-11-15 (patient ID 14a5a697-29a3-48b2-969a-3ceefe74a700).\nVisit date: 2004-12-11.\nVisit type: General examination of patient.\nClinician: Merle Bogisich (General Practice).\nFacility: SALEM FAMILY HEALTH CENTER, PEABODY, MA."
+  },
+  {
+    "doc_id": "14a5a697-29a3-48b2-5d04-797d6e1d0077",
+    "patient_id": "14a5a697-29a3-48b2-969a-3ceefe74a700",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2004-12-11",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Drusilla Schumm - 2004-12-11",
+    "content": "Diagnoses recorded at this visit:\n- Refugee (onset 2004-12-11)."
+  }
+]

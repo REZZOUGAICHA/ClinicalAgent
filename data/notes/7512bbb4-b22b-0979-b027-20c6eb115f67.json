@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "7512bbb4-b22b-0979-b027-20c6eb115f67",
+    "patient_id": "7512bbb4-b22b-0979-6edc-389e16607ac7",
+    "document_type": "Office Visit Note",
+    "date": "2026-03-20",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Tamie Herzog - 2026-03-20",
+    "content": "Patient: Tamie Herzog, female, born 2025-02-23 (patient ID 7512bbb4-b22b-0979-6edc-389e16607ac7).\nVisit date: 2026-03-20.\nVisit type: Encounter for problem.\nClinician: Cletus Paucek (General Practice).\nFacility: ENCOMPASS HEALTH REHAB HOSPITAL OF WESTERN MASS, LUDLOW, MA."
+  },
+  {
+    "doc_id": "7512bbb4-b22b-0979-b027-20c6eb115f67",
+    "patient_id": "7512bbb4-b22b-0979-6edc-389e16607ac7",
+    "document_type": "Office Visit Note",
+    "date": "2026-03-20",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Tamie Herzog - 2026-03-20",
+    "content": "Seen for Allergic disposition."
+  },
+  {
+    "doc_id": "7512bbb4-b22b-0979-b027-20c6eb115f67",
+    "patient_id": "7512bbb4-b22b-0979-6edc-389e16607ac7",
+    "document_type": "Office Visit Note",
+    "date": "2026-03-20",
+    "section": "Allergies",
+    "title": "Office Visit Note - Tamie Herzog - 2026-03-20",
+    "content": "- Allergic disposition (environment allergy).\n- Latex (environment allergy); reaction: wheal, mild.\n- Mold (environment allergy).\n- House dust mite (environment allergy).\n- Animal dander (environment allergy); reaction: rhinoconjunctivitis, moderate.\n- Grass pollen (environment allergy).\n- Tree pollen (environment allergy).\n- Tree nut (food allergy); reaction: anaphylaxis, severe."
+  },
+  {
+    "doc_id": "7512bbb4-b22b-0979-b027-20c6eb115f67",
+    "patient_id": "7512bbb4-b22b-0979-6edc-389e16607ac7",
+    "document_type": "Office Visit Note",
+    "date": "2026-03-20",
+    "section": "Laboratory Results",
+    "title": "Office Visit Note - Tamie Herzog - 2026-03-20",
+    "content": "- Peanut IgE Ab [Units/volume] in Serum: 0.2 kU/L\n- Walnut IgE Ab [Units/volume] in Serum: 0.3 kU/L\n- Codfish IgE Ab [Units/volume] in Serum: 0.3 kU/L\n- Shrimp IgE Ab [Units/volume] in Serum: 0.2 kU/L\n- Wheat IgE Ab [Units/volume] in Serum: 0.3 kU/L\n- Egg white IgE Ab [Units/volume] in Serum: 0.3 kU/L\n- Soybean IgE Ab [Units/volume] in Serum: 0.1 kU/L\n- Cow milk IgE Ab [Units/volume] in Serum: 0.1 kU/L\n- White oak IgE Ab [Units/volume] in Serum: 0.3 kU/L\n- Common Ragweed IgE Ab [Units/volume] in Serum: 0.3 kU/L\n- Cat dander IgE Ab [Units/volume] in Serum: 0.2 kU/L\n- American house dust mite IgE Ab [Units/volume] in Serum: 0.0 kU/L\n- Cladosporium herbarum IgE Ab [Units/volume] in Serum: 0.1 kU/L\n- Honey bee IgE Ab [Units/volume] in Serum: 0.3 kU/L\n- Latex IgE Ab [Units/volume] in Serum: 0.1 kU/L"
+  },
+  {
+    "doc_id": "7512bbb4-b22b-0979-b027-20c6eb115f67",
+    "patient_id": "7512bbb4-b22b-0979-6edc-389e16607ac7",
+    "document_type": "Office Visit Note",
+    "date": "2026-03-20",
+    "section": "Procedures",
+    "title": "Office Visit Note - Tamie Herzog - 2026-03-20",
+    "content": "- Allergy screening test."
+  },
+  {
+    "doc_id": "7512bbb4-b22b-0979-b027-20c6eb115f67",
+    "patient_id": "7512bbb4-b22b-0979-6edc-389e16607ac7",
+    "document_type": "Office Visit Note",
+    "date": "2026-03-20",
+    "section": "Medications",
+    "title": "Office Visit Note - Tamie Herzog - 2026-03-20",
+    "content": "Medications prescribed at this visit:\n- Fexofenadine hydrochloride 30 MG Oral Tablet, started 2026-03-20; no stop date recorded.\n- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector, started 2026-03-20; no stop date recorded."
+  }
+]

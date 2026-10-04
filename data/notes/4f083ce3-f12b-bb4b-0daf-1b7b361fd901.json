@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "4f083ce3-f12b-bb4b-0daf-1b7b361fd901",
+    "patient_id": "4f083ce3-f12b-bb4b-7353-e17f0cd55b0a",
+    "document_type": "Office Visit Note",
+    "date": "2018-03-27",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Ezekiel Walter - 2018-03-27",
+    "content": "Patient: Ezekiel Walter, male, born 1999-01-12 (patient ID 4f083ce3-f12b-bb4b-7353-e17f0cd55b0a).\nVisit date: 2018-03-27.\nVisit type: Encounter for check up.\nClinician: Eldora Langosh (General Practice).\nFacility: BRIGHAM AND WOMEN'S FAULKNER HOSPITAL INC., JAMAICA PLAIN, MA."
+  },
+  {
+    "doc_id": "4f083ce3-f12b-bb4b-0daf-1b7b361fd901",
+    "patient_id": "4f083ce3-f12b-bb4b-7353-e17f0cd55b0a",
+    "document_type": "Office Visit Note",
+    "date": "2018-03-27",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Ezekiel Walter - 2018-03-27",
+    "content": "Seen for Gingivitis."
+  },
+  {
+    "doc_id": "4f083ce3-f12b-bb4b-0daf-1b7b361fd901",
+    "patient_id": "4f083ce3-f12b-bb4b-7353-e17f0cd55b0a",
+    "document_type": "Office Visit Note",
+    "date": "2018-03-27",
+    "section": "Procedures",
+    "title": "Office Visit Note - Ezekiel Walter - 2018-03-27",
+    "content": "- Dental consultation and report, for Gingivitis.\n- Dental care, for Gingivitis.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Examination of gingivae, for Gingivitis.\n- Oral health education, for Gingivitis."
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "150a8a76-1563-717e-ab12-b73490df86fb",
+    "patient_id": "150a8a76-1563-717e-bf0f-f52045675f46",
+    "document_type": "Office Visit Note",
+    "date": "1957-12-11",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Diego Armijo - 1957-12-11",
+    "content": "Patient: Diego Armijo, male, born 1947-03-03 (patient ID 150a8a76-1563-717e-bf0f-f52045675f46).\nVisit date: 1957-12-11.\nVisit type: Encounter for symptom.\nClinician: Zachery Pagac (General Practice).\nFacility: MELROSEWAKEFIELD HEALTHCARE INC, MELROSE, MA."
+  },
+  {
+    "doc_id": "150a8a76-1563-717e-ab12-b73490df86fb",
+    "patient_id": "150a8a76-1563-717e-bf0f-f52045675f46",
+    "document_type": "Office Visit Note",
+    "date": "1957-12-11",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Diego Armijo - 1957-12-11",
+    "content": "Seen for Acute viral pharyngitis."
+  },
+  {
+    "doc_id": "150a8a76-1563-717e-ab12-b73490df86fb",
+    "patient_id": "150a8a76-1563-717e-bf0f-f52045675f46",
+    "document_type": "Office Visit Note",
+    "date": "1957-12-11",
+    "section": "Assessment",
+    "title": "Office Visit Note - Diego Armijo - 1957-12-11",
+    "content": "Diagnoses recorded at this visit:\n- Acute viral pharyngitis (onset 1957-12-11), resolved 1957-12-25."
+  },
+  {
+    "doc_id": "150a8a76-1563-717e-ab12-b73490df86fb",
+    "patient_id": "150a8a76-1563-717e-bf0f-f52045675f46",
+    "document_type": "Office Visit Note",
+    "date": "1957-12-11",
+    "section": "Vital Signs",
+    "title": "Office Visit Note - Diego Armijo - 1957-12-11",
+    "content": "- Body temperature: 37.5 \u00b0C"
+  },
+  {
+    "doc_id": "150a8a76-1563-717e-ab12-b73490df86fb",
+    "patient_id": "150a8a76-1563-717e-bf0f-f52045675f46",
+    "document_type": "Office Visit Note",
+    "date": "1957-12-11",
+    "section": "Procedures",
+    "title": "Office Visit Note - Diego Armijo - 1957-12-11",
+    "content": "- Throat culture, for Acute viral pharyngitis."
+  }
+]

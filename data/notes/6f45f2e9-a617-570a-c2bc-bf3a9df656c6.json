@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "6f45f2e9-a617-570a-c2bc-bf3a9df656c6",
+    "patient_id": "6f45f2e9-a617-570a-8867-dec1260088bb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-06-13",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Carey Mraz - 2019-06-13",
+    "content": "Patient: Carey Mraz, male, born 2013-06-27 (patient ID 6f45f2e9-a617-570a-8867-dec1260088bb).\nVisit date: 2019-06-13.\nVisit type: Well child visit.\nClinician: Ulysses Ziemann (General Practice).\nFacility: CENTER FOR DIGESTIVE WELLNESS PC, LEOMINSTER, MA."
+  },
+  {
+    "doc_id": "6f45f2e9-a617-570a-c2bc-bf3a9df656c6",
+    "patient_id": "6f45f2e9-a617-570a-8867-dec1260088bb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-06-13",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Carey Mraz - 2019-06-13",
+    "content": "- Body Height: 123.9 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0\n- Body Weight: 26.8 kg\n- Body mass index (BMI) [Ratio]: 17.5 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 89.8 %\n- Diastolic Blood Pressure: 78.0 mm[Hg]\n- Systolic Blood Pressure: 111.0 mm[Hg]\n- Heart rate: 98.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "6f45f2e9-a617-570a-c2bc-bf3a9df656c6",
+    "patient_id": "6f45f2e9-a617-570a-8867-dec1260088bb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-06-13",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Carey Mraz - 2019-06-13",
+    "content": "- Leukocytes [#/volume] in Blood by Automated count: 4.8 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 5.2 10*6/uL\n- Hemoglobin [Mass/volume] in Blood: 13.3 g/dL\n- Hematocrit [Volume Fraction] of Blood by Automated count: 49.8 %\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 82.8 fL\n- MCH [Entitic mass] by Automated count: 32.9 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 33.4 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 45.3 fL\n- Platelets [#/volume] in Blood by Automated count: 367.7 10*3/uL\n- Platelet distribution width [Entitic volume] in Blood by Automated count: 9.9 fL\n- Platelet [Entitic mean volume] in Blood by Automated count: 9.9 fL"
+  },
+  {
+    "doc_id": "6f45f2e9-a617-570a-c2bc-bf3a9df656c6",
+    "patient_id": "6f45f2e9-a617-570a-8867-dec1260088bb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-06-13",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Carey Mraz - 2019-06-13",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

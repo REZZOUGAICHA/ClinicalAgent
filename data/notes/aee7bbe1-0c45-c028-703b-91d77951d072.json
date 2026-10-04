@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "aee7bbe1-0c45-c028-703b-91d77951d072",
+    "patient_id": "aee7bbe1-0c45-c028-1e62-1f4cdb30c273",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-12-26",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Wilfredo Fritsch - 2019-12-26",
+    "content": "Patient: Wilfredo Fritsch, male, born 2010-12-23 (patient ID aee7bbe1-0c45-c028-1e62-1f4cdb30c273).\nVisit date: 2019-12-26.\nVisit type: Well child visit.\nClinician: Victoria Roob (General Practice).\nFacility: DILIGENCEHEALTHCARE, BROCKTON, MA."
+  },
+  {
+    "doc_id": "aee7bbe1-0c45-c028-703b-91d77951d072",
+    "patient_id": "aee7bbe1-0c45-c028-1e62-1f4cdb30c273",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-12-26",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Wilfredo Fritsch - 2019-12-26",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2019-12-26), resolved 2019-12-26."
+  },
+  {
+    "doc_id": "aee7bbe1-0c45-c028-703b-91d77951d072",
+    "patient_id": "aee7bbe1-0c45-c028-1e62-1f4cdb30c273",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-12-26",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Wilfredo Fritsch - 2019-12-26",
+    "content": "- Body Height: 137.6 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0\n- Body Weight: 47.3 kg\n- Body mass index (BMI) [Ratio]: 25.0 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 98.6 %\n- Diastolic Blood Pressure: 86.0 mm[Hg]\n- Systolic Blood Pressure: 110.0 mm[Hg]\n- Heart rate: 72.0 /min\n- Respiratory rate: 14.0 /min"
+  },
+  {
+    "doc_id": "aee7bbe1-0c45-c028-703b-91d77951d072",
+    "patient_id": "aee7bbe1-0c45-c028-1e62-1f4cdb30c273",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-12-26",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Wilfredo Fritsch - 2019-12-26",
+    "content": "- Medication reconciliation.\n- Assessment using Morse Fall Scale."
+  },
+  {
+    "doc_id": "aee7bbe1-0c45-c028-703b-91d77951d072",
+    "patient_id": "aee7bbe1-0c45-c028-1e62-1f4cdb30c273",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-12-26",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Wilfredo Fritsch - 2019-12-26",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

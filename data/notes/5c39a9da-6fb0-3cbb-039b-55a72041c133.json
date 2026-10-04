@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "5c39a9da-6fb0-3cbb-039b-55a72041c133",
+    "patient_id": "5c39a9da-6fb0-3cbb-0181-add875529d46",
+    "document_type": "Office Visit Note",
+    "date": "2021-05-11",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Edmond Ferry - 2021-05-11",
+    "content": "Patient: Edmond Ferry, male, born 2011-03-31 (patient ID 5c39a9da-6fb0-3cbb-0181-add875529d46).\nVisit date: 2021-05-11.\nVisit type: Encounter for problem.\nClinician: Francisca Arteaga (General Practice).\nFacility: MOUNT AUBURN HOSPITAL, CAMBRIDGE, MA."
+  },
+  {
+    "doc_id": "5c39a9da-6fb0-3cbb-039b-55a72041c133",
+    "patient_id": "5c39a9da-6fb0-3cbb-0181-add875529d46",
+    "document_type": "Office Visit Note",
+    "date": "2021-05-11",
+    "section": "Procedures",
+    "title": "Office Visit Note - Edmond Ferry - 2021-05-11",
+    "content": "- History taking.\n- Osteopathic postural examination.\n- Physical examination procedure.\n- Referral for X-ray."
+  }
+]

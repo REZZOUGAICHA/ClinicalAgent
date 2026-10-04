@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "ba419d35-0dfe-8af7-65b8-9a3fe449f4d2",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Urgent Care Note",
+    "date": "1999-11-12",
+    "section": "Visit Information",
+    "title": "Urgent Care Note - Corie Kohler - 1999-11-12",
+    "content": "Patient: Corie Kohler, female, born 1925-09-18 (patient ID ba419d35-0dfe-8af7-347c-eebf02485a56).\nVisit date: 1999-11-12.\nVisit type: Urgent care clinic.\nClinician: Lorenzo Casta\u00f1eda (General Practice).\nFacility: WOONSOCKET URGENT CARE PC, NORTH ATTLEBORO, MA."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-65b8-9a3fe449f4d2",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Urgent Care Note",
+    "date": "1999-11-12",
+    "section": "Medications",
+    "title": "Urgent Care Note - Corie Kohler - 1999-11-12",
+    "content": "Medications prescribed at this visit:\n- Clopidogrel 75 MG Oral Tablet, started 1999-11-12; no stop date recorded.\n- Simvastatin 20 MG Oral Tablet, started 1999-11-12; no stop date recorded.\n- 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet, started 1999-11-12; no stop date recorded.\n- Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray, started 1999-11-12; no stop date recorded."
+  }
+]

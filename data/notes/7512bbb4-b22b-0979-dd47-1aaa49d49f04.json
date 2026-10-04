@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "7512bbb4-b22b-0979-dd47-1aaa49d49f04",
+    "patient_id": "7512bbb4-b22b-0979-6edc-389e16607ac7",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-11-02",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Tamie Herzog - 2025-11-02",
+    "content": "Patient: Tamie Herzog, female, born 2025-02-23 (patient ID 7512bbb4-b22b-0979-6edc-389e16607ac7).\nVisit date: 2025-11-02.\nVisit type: Well child visit.\nClinician: Carlota Maya (General Practice).\nFacility: RIVER'S EDGE PRIMARY CARE LLC, CHICOPEE, MA."
+  },
+  {
+    "doc_id": "7512bbb4-b22b-0979-dd47-1aaa49d49f04",
+    "patient_id": "7512bbb4-b22b-0979-6edc-389e16607ac7",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-11-02",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Tamie Herzog - 2025-11-02",
+    "content": "- Body Height: 68.6 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0\n- Body Weight: 9.4 kg\n- Weight-for-length Per age and sex: 92.9 %\n- Head Occipital-frontal circumference Percentile: 44.6 %\n- Head Occipital-frontal circumference: 43.6 cm\n- Diastolic Blood Pressure: 84.0 mm[Hg]\n- Systolic Blood Pressure: 109.0 mm[Hg]\n- Heart rate: 80.0 /min\n- Respiratory rate: 14.0 /min"
+  },
+  {
+    "doc_id": "7512bbb4-b22b-0979-dd47-1aaa49d49f04",
+    "patient_id": "7512bbb4-b22b-0979-6edc-389e16607ac7",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-11-02",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Tamie Herzog - 2025-11-02",
+    "content": "- IPV.\n- Influenza split virus trivalent PF.\n- DTaP.\n- Pneumococcal conjugate PCV 13.\n- Hep B adolescent or pediatric."
+  }
+]

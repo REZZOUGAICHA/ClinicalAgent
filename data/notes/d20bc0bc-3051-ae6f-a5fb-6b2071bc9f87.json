@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-a5fb-6b2071bc9f87",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2026-03-13",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Lavette Kozey - 2026-03-13",
+    "content": "Patient: Lavette Kozey, female, born 2010-03-24 (patient ID d20bc0bc-3051-ae6f-f391-ceec7ec0370f).\nVisit date: 2026-03-13.\nVisit type: Consultation for treatment.\nClinician: Beatriz Monroy (General Practice).\nFacility: FIRST PSYCHIATRIC PLANNERS INC, WOBURN, MA."
+  },
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-a5fb-6b2071bc9f87",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2026-03-13",
+    "section": "Reason for Visit",
+    "title": "Outpatient Procedure Note - Lavette Kozey - 2026-03-13",
+    "content": "Seen for Contraception care."
+  },
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-a5fb-6b2071bc9f87",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2026-03-13",
+    "section": "Medications",
+    "title": "Outpatient Procedure Note - Lavette Kozey - 2026-03-13",
+    "content": "Medications prescribed at this visit:\n- {24 (drospirenone 3 MG / ethinyl estradiol 0.02 MG Oral Tablet) / 4 (inert ingredients 1 MG Oral Tablet) } Pack [Yaz 28 Day], started 2026-03-13; no stop date recorded."
+  }
+]

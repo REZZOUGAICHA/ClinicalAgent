@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "c053e996-a4c4-6c02-2042-5d8a07b975f6",
+    "patient_id": "c053e996-a4c4-6c02-e2b6-284227156c67",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-08-22",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Sharyn Hagenes - 2025-08-22",
+    "content": "Patient: Sharyn Hagenes, female, born 2023-09-15 (patient ID c053e996-a4c4-6c02-e2b6-284227156c67).\nVisit date: 2025-08-22.\nVisit type: Well child visit.\nClinician: Colin Witting (General Practice).\nFacility: PALMER FAMILY SERVICES LLC, MILFORD, MA."
+  },
+  {
+    "doc_id": "c053e996-a4c4-6c02-2042-5d8a07b975f6",
+    "patient_id": "c053e996-a4c4-6c02-e2b6-284227156c67",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-08-22",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Sharyn Hagenes - 2025-08-22",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2025-08-22), resolved 2025-08-22."
+  },
+  {
+    "doc_id": "c053e996-a4c4-6c02-2042-5d8a07b975f6",
+    "patient_id": "c053e996-a4c4-6c02-e2b6-284227156c67",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-08-22",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Sharyn Hagenes - 2025-08-22",
+    "content": "- Body Height: 87.8 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0\n- Body Weight: 13.3 kg\n- Weight-for-length Per age and sex: 78.9 %\n- Head Occipital-frontal circumference Percentile: 78.1 %\n- Head Occipital-frontal circumference: 48.5 cm\n- Diastolic Blood Pressure: 87.0 mm[Hg]\n- Systolic Blood Pressure: 144.0 mm[Hg]\n- Heart rate: 65.0 /min\n- Respiratory rate: 14.0 /min"
+  },
+  {
+    "doc_id": "c053e996-a4c4-6c02-2042-5d8a07b975f6",
+    "patient_id": "c053e996-a4c4-6c02-e2b6-284227156c67",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-08-22",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Sharyn Hagenes - 2025-08-22",
+    "content": "- Medication reconciliation."
+  },
+  {
+    "doc_id": "c053e996-a4c4-6c02-2042-5d8a07b975f6",
+    "patient_id": "c053e996-a4c4-6c02-e2b6-284227156c67",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-08-22",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Sharyn Hagenes - 2025-08-22",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

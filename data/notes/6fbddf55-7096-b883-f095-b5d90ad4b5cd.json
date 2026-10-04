@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "6fbddf55-7096-b883-f095-b5d90ad4b5cd",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Office Visit Note",
+    "date": "2020-02-12",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Clarinda Farrell - 2020-02-12",
+    "content": "Patient: Clarinda Farrell, female, born 1981-07-01 (patient ID 6fbddf55-7096-b883-7cd3-260f27953080).\nVisit date: 2020-02-12.\nVisit type: Prenatal visit.\nClinician: Luther Jakubowski (General Practice).\nFacility: ENCOMPASS HEALTH REHABILITATION HOSP OF NEW ENGLAN, WOBURN, MA."
+  },
+  {
+    "doc_id": "6fbddf55-7096-b883-f095-b5d90ad4b5cd",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Office Visit Note",
+    "date": "2020-02-12",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Clarinda Farrell - 2020-02-12",
+    "content": "Seen for Normal pregnancy."
+  },
+  {
+    "doc_id": "6fbddf55-7096-b883-f095-b5d90ad4b5cd",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Office Visit Note",
+    "date": "2020-02-12",
+    "section": "Procedures",
+    "title": "Office Visit Note - Clarinda Farrell - 2020-02-12",
+    "content": "- Antenatal RhD antibody screening, for Normal pregnancy.\n- Passive immunization, for Normal pregnancy.\n- Hemogram  automated  with red blood cells  white blood cells  hemoglobin  hematocrit  indices  platelet count  and manual white blood cell differential, for Normal pregnancy.\n- Administration of vaccine product containing only Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae antigens, for Normal pregnancy.\n- Urine screening for glucose, for Normal pregnancy.\n- Evaluation of uterine fundal height, for Normal pregnancy.\n- Auscultation of the fetal heart, for Normal pregnancy."
+  }
+]

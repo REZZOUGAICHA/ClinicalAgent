@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "f999ef25-a612-87c9-902a-ecf89c8ef7f9",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Office Visit Note",
+    "date": "2016-07-01",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Evangeline Ziemann - 2016-07-01",
+    "content": "Patient: Evangeline Ziemann, female, born 1925-09-18 (patient ID f999ef25-a612-87c9-206f-aacc9d469dc8).\nVisit date: 2016-07-01.\nVisit type: Encounter for problem.\nClinician: Nickolas Schumm (General Practice).\nFacility: ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE, FRAMINGHAM, MA."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-902a-ecf89c8ef7f9",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Office Visit Note",
+    "date": "2016-07-01",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Evangeline Ziemann - 2016-07-01",
+    "content": "Seen for Loss of teeth."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-902a-ecf89c8ef7f9",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Office Visit Note",
+    "date": "2016-07-01",
+    "section": "Procedures",
+    "title": "Office Visit Note - Evangeline Ziemann - 2016-07-01",
+    "content": "- Dental consultation and report, for Loss of teeth.\n- Dental plain X-ray bitewing.\n- Take oral or dental impression, for Loss of teeth."
+  }
+]

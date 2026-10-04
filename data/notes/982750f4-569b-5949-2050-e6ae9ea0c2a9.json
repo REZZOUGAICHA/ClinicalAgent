@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "982750f4-569b-5949-2050-e6ae9ea0c2a9",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Office Visit Note",
+    "date": "2018-09-05",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Dwana Wolf - 2018-09-05",
+    "content": "Patient: Dwana Wolf, female, born 1986-11-12 (patient ID 982750f4-569b-5949-196b-60699bdda3fb).\nVisit date: 2018-09-05.\nVisit type: Prenatal visit.\nClinician: Marcus Schamberger (General Practice).\nFacility: THE LOWELL GENERAL HOSPITAL, WESTFORD, MA."
+  },
+  {
+    "doc_id": "982750f4-569b-5949-2050-e6ae9ea0c2a9",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Office Visit Note",
+    "date": "2018-09-05",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Dwana Wolf - 2018-09-05",
+    "content": "Seen for Normal pregnancy."
+  },
+  {
+    "doc_id": "982750f4-569b-5949-2050-e6ae9ea0c2a9",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Office Visit Note",
+    "date": "2018-09-05",
+    "section": "Procedures",
+    "title": "Office Visit Note - Dwana Wolf - 2018-09-05",
+    "content": "- Evaluation of uterine fundal height, for Normal pregnancy.\n- Auscultation of the fetal heart, for Normal pregnancy.\n- Detection of chromosomal aneuploidy in prenatal amniotic fluid specimen using fluorescence in situ hybridization screening technique, for Normal pregnancy."
+  }
+]

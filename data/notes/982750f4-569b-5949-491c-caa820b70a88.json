@@ -1,0 +1,65 @@
+[
+  {
+    "doc_id": "982750f4-569b-5949-491c-caa820b70a88",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-06-28",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Dwana Wolf - 2017-06-28",
+    "content": "Patient: Dwana Wolf, female, born 1986-11-12 (patient ID 982750f4-569b-5949-196b-60699bdda3fb).\nVisit date: 2017-06-28.\nVisit type: General examination of patient.\nClinician: Hank Schneider (General Practice).\nFacility: LOWELL FAMILY MEDICAL CARE PC, LOWELL, MA."
+  },
+  {
+    "doc_id": "982750f4-569b-5949-491c-caa820b70a88",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-06-28",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Dwana Wolf - 2017-06-28",
+    "content": "Diagnoses recorded at this visit:\n- Misuses drugs (onset 2017-06-28), resolved 2019-07-10."
+  },
+  {
+    "doc_id": "982750f4-569b-5949-491c-caa820b70a88",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-06-28",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Dwana Wolf - 2017-06-28",
+    "content": "- Body Height: 158.3 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0\n- Body Weight: 75.0 kg\n- Body mass index (BMI) [Ratio]: 29.9 kg/m2\n- Diastolic Blood Pressure: 86.0 mm[Hg]\n- Systolic Blood Pressure: 152.0 mm[Hg]\n- Heart rate: 74.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "982750f4-569b-5949-491c-caa820b70a88",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-06-28",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Dwana Wolf - 2017-06-28",
+    "content": "- Cholesterol [Mass/volume] in Serum or Plasma: 127.2 mg/dL\n- Triglyceride [Mass/volume] in Serum or Plasma: 134.0 mg/dL\n- Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay: 50.1 mg/dL\n- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 50.4 mg/dL"
+  },
+  {
+    "doc_id": "982750f4-569b-5949-491c-caa820b70a88",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-06-28",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Dwana Wolf - 2017-06-28",
+    "content": "- Medication reconciliation.\n- Assessment of health and social care needs.\n- Assessment of anxiety.\n- Depression screening.\n- Depression screening.\n- Assessment of substance use.\n- Screening for drug abuse.\n- Patient referral for dental care."
+  },
+  {
+    "doc_id": "982750f4-569b-5949-491c-caa820b70a88",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-06-28",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Dwana Wolf - 2017-06-28",
+    "content": "Medications prescribed at this visit:\n- Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet], started 2017-06-28; stopped 2018-07-04.\n- Acetaminophen 325 MG Oral Tablet [Tylenol], started 2017-06-28; stopped 2018-07-04.\n- tramadol hydrochloride 50 MG Oral Tablet, started 2017-06-28; stopped 2018-07-04."
+  },
+  {
+    "doc_id": "982750f4-569b-5949-491c-caa820b70a88",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-06-28",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Dwana Wolf - 2017-06-28",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

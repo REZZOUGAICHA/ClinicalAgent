@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "dd9da64b-7b38-4f91-52d8-694047424334",
+    "patient_id": "dd9da64b-7b38-4f91-e75d-b1268dde60d4",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-06-04",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Donnetta Jenkins - 2018-06-04",
+    "content": "Patient: Donnetta Jenkins, female, born 1987-01-26 (patient ID dd9da64b-7b38-4f91-e75d-b1268dde60d4).\nVisit date: 2018-06-04.\nVisit type: General examination of patient.\nClinician: Son MacGyver (General Practice).\nFacility: HOLISTIC FAMILY PRACTICE INC., NEWBURY, MA."
+  },
+  {
+    "doc_id": "dd9da64b-7b38-4f91-52d8-694047424334",
+    "patient_id": "dd9da64b-7b38-4f91-e75d-b1268dde60d4",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-06-04",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Donnetta Jenkins - 2018-06-04",
+    "content": "- Body Height: 156.3 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0\n- Body Weight: 81.3 kg\n- Body mass index (BMI) [Ratio]: 33.3 kg/m2\n- Diastolic Blood Pressure: 83.0 mm[Hg]\n- Systolic Blood Pressure: 108.0 mm[Hg]\n- Heart rate: 66.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "dd9da64b-7b38-4f91-52d8-694047424334",
+    "patient_id": "dd9da64b-7b38-4f91-e75d-b1268dde60d4",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-06-04",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Donnetta Jenkins - 2018-06-04",
+    "content": "- Leukocytes [#/volume] in Blood by Automated count: 5.0 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 4.4 10*6/uL\n- Hemoglobin [Mass/volume] in Blood: 17.2 g/dL\n- Hematocrit [Volume Fraction] of Blood by Automated count: 49.4 %\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 90.8 fL\n- MCH [Entitic mass] by Automated count: 29.8 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 33.3 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 45.3 fL\n- Platelets [#/volume] in Blood by Automated count: 354.2 10*3/uL\n- Platelet distribution width [Entitic volume] in Blood by Automated count: 16.3 fL\n- Platelet [Entitic mean volume] in Blood by Automated count: 11.7 fL"
+  },
+  {
+    "doc_id": "dd9da64b-7b38-4f91-52d8-694047424334",
+    "patient_id": "dd9da64b-7b38-4f91-e75d-b1268dde60d4",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-06-04",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Donnetta Jenkins - 2018-06-04",
+    "content": "- Assessment of health and social care needs.\n- Patient referral for dental care."
+  },
+  {
+    "doc_id": "dd9da64b-7b38-4f91-52d8-694047424334",
+    "patient_id": "dd9da64b-7b38-4f91-e75d-b1268dde60d4",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-06-04",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Donnetta Jenkins - 2018-06-04",
+    "content": "Medications prescribed at this visit:\n- budesonide 0.25 MG/ML Inhalation Suspension, started 2018-06-04, for Childhood asthma; stopped 2019-06-10.\n- NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir], started 2018-06-04, for Childhood asthma; stopped 2019-06-10."
+  },
+  {
+    "doc_id": "dd9da64b-7b38-4f91-52d8-694047424334",
+    "patient_id": "dd9da64b-7b38-4f91-e75d-b1268dde60d4",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-06-04",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Donnetta Jenkins - 2018-06-04",
+    "content": "- Influenza split virus trivalent PF.\n- Td (adult) 5 Lf tetanus toxoid preservative free adsorbed."
+  }
+]

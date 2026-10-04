@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "d57841fa-c9e2-a3d1-365e-42d0460e38d3",
+    "patient_id": "d57841fa-c9e2-a3d1-0e78-09bdbe4eed66",
+    "document_type": "Office Visit Note",
+    "date": "2020-08-31",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Jessica McKenzie - 2020-08-31",
+    "content": "Patient: Jessica McKenzie, female, born 1965-07-19 (patient ID d57841fa-c9e2-a3d1-0e78-09bdbe4eed66).\nVisit date: 2020-08-31.\nVisit type: Encounter for check up.\nClinician: Miguel Roberts (General Practice).\nFacility: SOUTH SHORE HOSPITAL INC., WEYMOUTH, MA."
+  },
+  {
+    "doc_id": "d57841fa-c9e2-a3d1-365e-42d0460e38d3",
+    "patient_id": "d57841fa-c9e2-a3d1-0e78-09bdbe4eed66",
+    "document_type": "Office Visit Note",
+    "date": "2020-08-31",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Jessica McKenzie - 2020-08-31",
+    "content": "Seen for Gingivitis."
+  },
+  {
+    "doc_id": "d57841fa-c9e2-a3d1-365e-42d0460e38d3",
+    "patient_id": "d57841fa-c9e2-a3d1-0e78-09bdbe4eed66",
+    "document_type": "Office Visit Note",
+    "date": "2020-08-31",
+    "section": "Assessment",
+    "title": "Office Visit Note - Jessica McKenzie - 2020-08-31",
+    "content": "Diagnoses recorded at this visit:\n- Primary dental caries (onset 2020-08-31), resolved 2020-08-31."
+  },
+  {
+    "doc_id": "d57841fa-c9e2-a3d1-365e-42d0460e38d3",
+    "patient_id": "d57841fa-c9e2-a3d1-0e78-09bdbe4eed66",
+    "document_type": "Office Visit Note",
+    "date": "2020-08-31",
+    "section": "Procedures",
+    "title": "Office Visit Note - Jessica McKenzie - 2020-08-31",
+    "content": "- Dental consultation and report, for Gingivitis.\n- Dental care, for Gingivitis.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Dental plain X-ray bitewing.\n- Examination of gingivae, for Gingivitis.\n- Restoration of tooth with coverage of all cusps using dental filling material, for Primary dental caries.\n- Oral health education, for Gingivitis."
+  }
+]

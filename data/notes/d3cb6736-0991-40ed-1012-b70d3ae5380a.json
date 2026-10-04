@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "d3cb6736-0991-40ed-1012-b70d3ae5380a",
+    "patient_id": "d3cb6736-0991-40ed-a220-7c714aba4c37",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2004-10-03",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Tristan Reichel - 2004-10-03",
+    "content": "Patient: Tristan Reichel, male, born 1982-08-01 (patient ID d3cb6736-0991-40ed-a220-7c714aba4c37).\nVisit date: 2004-10-03.\nVisit type: General examination of patient.\nClinician: Jarrett Gutmann (General Practice).\nFacility: ZANJABEE INTEGRATIVE MEDICINE AND PRIMARY CARE LLC, WOBURN, MA."
+  },
+  {
+    "doc_id": "d3cb6736-0991-40ed-1012-b70d3ae5380a",
+    "patient_id": "d3cb6736-0991-40ed-a220-7c714aba4c37",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2004-10-03",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Tristan Reichel - 2004-10-03",
+    "content": "Diagnoses recorded at this visit:\n- Prediabetes (onset 2004-10-03).\n- Anemia (onset 2004-10-03).\n- Limited social contact (onset 2004-10-03), resolved 2025-10-12."
+  },
+  {
+    "doc_id": "d3cb6736-0991-40ed-1012-b70d3ae5380a",
+    "patient_id": "d3cb6736-0991-40ed-a220-7c714aba4c37",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2004-10-03",
+    "section": "Plan",
+    "title": "Annual Wellness Visit Note - Tristan Reichel - 2004-10-03",
+    "content": "- Diabetes self management plan for Prediabetes, started 2004-10-03."
+  }
+]

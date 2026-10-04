@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "7811dc30-8c86-8164-5928-550cb0af6c75",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Outpatient Procedure Note",
+    "date": "1975-07-22",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Mignon Rau - 1975-07-22",
+    "content": "Patient: Mignon Rau, female, born 1970-04-21 (patient ID 7811dc30-8c86-8164-6c33-6b6f464745ef).\nVisit date: 1975-07-22.\nVisit type: Encounter for check up.\nClinician: Rudolf Vandervort (General Practice).\nFacility: BETH ISRAEL DEACONESS HOSPITAL MILTON INC, MILTON, MA."
+  },
+  {
+    "doc_id": "7811dc30-8c86-8164-5928-550cb0af6c75",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Outpatient Procedure Note",
+    "date": "1975-07-22",
+    "section": "Plan",
+    "title": "Outpatient Procedure Note - Mignon Rau - 1975-07-22",
+    "content": "- Weight management program, started 1975-07-22."
+  }
+]

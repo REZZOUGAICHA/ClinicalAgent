@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-ad24-7a55518105a7",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Office Visit Note",
+    "date": "2001-07-25",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Faustino Langworth - 2001-07-25",
+    "content": "Patient: Faustino Langworth, male, born 1998-06-17 (patient ID 5ba0a3f3-32f7-02b1-ec6a-8f568923954c).\nVisit date: 2001-07-25.\nVisit type: Encounter for symptom.\nClinician: Floy Greenfelder (General Practice).\nFacility: CAMBRIDGE PUBLIC HEALTH COMMISSION, SOMERVILLE, MA."
+  },
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-ad24-7a55518105a7",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Office Visit Note",
+    "date": "2001-07-25",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Faustino Langworth - 2001-07-25",
+    "content": "Seen for Seasonal allergic rhinitis."
+  },
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-ad24-7a55518105a7",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Office Visit Note",
+    "date": "2001-07-25",
+    "section": "Assessment",
+    "title": "Office Visit Note - Faustino Langworth - 2001-07-25",
+    "content": "Diagnoses recorded at this visit:\n- Seasonal allergic rhinitis (onset 2001-07-25), resolved 2017-06-21."
+  }
+]

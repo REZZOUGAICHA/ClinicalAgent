@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "7b06ee52-df9a-8487-1a42-fc88825cb8bc",
+    "patient_id": "7b06ee52-df9a-8487-0be6-dff27cc7d519",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-10-05",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Ressie Nader - 2020-10-05",
+    "content": "Patient: Ressie Nader, female, born 2001-08-06 (patient ID 7b06ee52-df9a-8487-0be6-dff27cc7d519).\nVisit date: 2020-10-05.\nVisit type: General examination of patient.\nClinician: Morgan Marvin (General Practice).\nFacility: FAMILY MEDICINE ASSOCIATES OF SOUTH ATTLEBORO P.C., SOUTH ATTLEBORO, MA."
+  },
+  {
+    "doc_id": "7b06ee52-df9a-8487-1a42-fc88825cb8bc",
+    "patient_id": "7b06ee52-df9a-8487-0be6-dff27cc7d519",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-10-05",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Ressie Nader - 2020-10-05",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2020-10-05), resolved 2020-10-05.\n- Social isolation (onset 2020-10-05).\n- Acute infective cystitis (onset 2020-11-15), resolved 2020-11-15."
+  },
+  {
+    "doc_id": "7b06ee52-df9a-8487-1a42-fc88825cb8bc",
+    "patient_id": "7b06ee52-df9a-8487-0be6-dff27cc7d519",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-10-05",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Ressie Nader - 2020-10-05",
+    "content": "- Body Height: 154.1 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0\n- Body Weight: 56.3 kg\n- Body mass index (BMI) [Ratio]: 23.7 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 71.4 %\n- Diastolic Blood Pressure: 88.0 mm[Hg]\n- Systolic Blood Pressure: 105.0 mm[Hg]\n- Heart rate: 80.0 /min\n- Respiratory rate: 14.0 /min"
+  },
+  {
+    "doc_id": "7b06ee52-df9a-8487-1a42-fc88825cb8bc",
+    "patient_id": "7b06ee52-df9a-8487-0be6-dff27cc7d519",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-10-05",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Ressie Nader - 2020-10-05",
+    "content": "- Medication reconciliation.\n- Assessment of health and social care needs.\n- Assessment of anxiety.\n- Screening for domestic abuse."
+  },
+  {
+    "doc_id": "7b06ee52-df9a-8487-1a42-fc88825cb8bc",
+    "patient_id": "7b06ee52-df9a-8487-0be6-dff27cc7d519",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-10-05",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Ressie Nader - 2020-10-05",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

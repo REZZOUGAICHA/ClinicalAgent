@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "62f60bdb-cc5c-8305-168a-eb7b59bab832",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2014-01-31",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Angel Frami - 2014-01-31",
+    "content": "Patient: Angel Frami, female, born 1975-10-22 (patient ID 62f60bdb-cc5c-8305-b98b-f2b229a55eca).\nVisit date: 2014-01-31.\nVisit type: Encounter for problem.\nClinician: Ollie Dooley (General Practice).\nFacility: DR JOHN C CORRIGAN MENTAL HEALTH CENTER, FALL RIVER, MA."
+  },
+  {
+    "doc_id": "62f60bdb-cc5c-8305-168a-eb7b59bab832",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2014-01-31",
+    "section": "Reason for Visit",
+    "title": "Outpatient Procedure Note - Angel Frami - 2014-01-31",
+    "content": "Seen for Chronic pain."
+  },
+  {
+    "doc_id": "62f60bdb-cc5c-8305-168a-eb7b59bab832",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2014-01-31",
+    "section": "Assessment",
+    "title": "Outpatient Procedure Note - Angel Frami - 2014-01-31",
+    "content": "Diagnoses recorded at this visit:\n- Chronic pain (onset 2014-01-31).\n- Chronic low back pain (onset 2014-01-31)."
+  }
+]

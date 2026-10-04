@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-bb1c-406a3dd6560c",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Emergency Department Note",
+    "date": "2017-04-24",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Faustino Langworth - 2017-04-24",
+    "content": "Patient: Faustino Langworth, male, born 1998-06-17 (patient ID 5ba0a3f3-32f7-02b1-ec6a-8f568923954c).\nVisit date: 2017-04-24.\nVisit type: Emergency room admission.\nClinician: Judy Gleason (General Practice).\nFacility: CAMBRIDGE REHABILITATION & NURSING CENTER, CAMBRIDGE, MA."
+  },
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-bb1c-406a3dd6560c",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Emergency Department Note",
+    "date": "2017-04-24",
+    "section": "Reason for Visit",
+    "title": "Emergency Department Note - Faustino Langworth - 2017-04-24",
+    "content": "Seen for Impacted molars."
+  },
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-bb1c-406a3dd6560c",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Emergency Department Note",
+    "date": "2017-04-24",
+    "section": "Vital Signs",
+    "title": "Emergency Department Note - Faustino Langworth - 2017-04-24",
+    "content": "- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 5.0"
+  },
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-bb1c-406a3dd6560c",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Emergency Department Note",
+    "date": "2017-04-24",
+    "section": "Procedures",
+    "title": "Emergency Department Note - Faustino Langworth - 2017-04-24",
+    "content": "- Extraction of wisdom tooth."
+  },
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-bb1c-406a3dd6560c",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Emergency Department Note",
+    "date": "2017-04-24",
+    "section": "Medications",
+    "title": "Emergency Department Note - Faustino Langworth - 2017-04-24",
+    "content": "Medications prescribed at this visit:\n- Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet, started 2017-04-24; stopped 2017-05-01."
+  }
+]

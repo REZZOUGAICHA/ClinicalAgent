@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "d3cb6736-0991-40ed-e6c7-99b4773cbc7c",
+    "patient_id": "d3cb6736-0991-40ed-a220-7c714aba4c37",
+    "document_type": "Office Visit Note",
+    "date": "2024-08-25",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Tristan Reichel - 2024-08-25",
+    "content": "Patient: Tristan Reichel, male, born 1982-08-01 (patient ID d3cb6736-0991-40ed-a220-7c714aba4c37).\nVisit date: 2024-08-25.\nVisit type: Encounter for check up.\nClinician: Beatriz Monroy (General Practice).\nFacility: FIRST PSYCHIATRIC PLANNERS INC, WOBURN, MA."
+  },
+  {
+    "doc_id": "d3cb6736-0991-40ed-e6c7-99b4773cbc7c",
+    "patient_id": "d3cb6736-0991-40ed-a220-7c714aba4c37",
+    "document_type": "Office Visit Note",
+    "date": "2024-08-25",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Tristan Reichel - 2024-08-25",
+    "content": "Seen for Gingivitis."
+  },
+  {
+    "doc_id": "d3cb6736-0991-40ed-e6c7-99b4773cbc7c",
+    "patient_id": "d3cb6736-0991-40ed-a220-7c714aba4c37",
+    "document_type": "Office Visit Note",
+    "date": "2024-08-25",
+    "section": "Assessment",
+    "title": "Office Visit Note - Tristan Reichel - 2024-08-25",
+    "content": "Diagnoses recorded at this visit:\n- Primary dental caries (onset 2024-08-25), resolved 2024-08-25."
+  },
+  {
+    "doc_id": "d3cb6736-0991-40ed-e6c7-99b4773cbc7c",
+    "patient_id": "d3cb6736-0991-40ed-a220-7c714aba4c37",
+    "document_type": "Office Visit Note",
+    "date": "2024-08-25",
+    "section": "Procedures",
+    "title": "Office Visit Note - Tristan Reichel - 2024-08-25",
+    "content": "- Dental consultation and report, for Gingivitis.\n- Dental care, for Gingivitis.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Dental plain X-ray bitewing.\n- Examination of gingivae, for Gingivitis.\n- Application of composite dental filling material to dentin of tooth following fracture of tooth, for Primary dental caries.\n- Oral health education, for Gingivitis."
+  }
+]

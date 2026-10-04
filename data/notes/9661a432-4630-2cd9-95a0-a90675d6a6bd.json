@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "9661a432-4630-2cd9-95a0-a90675d6a6bd",
+    "patient_id": "9661a432-4630-2cd9-142c-386845fae837",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2009-04-28",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Paul Tremblay - 2009-04-28",
+    "content": "Patient: Paul Tremblay, male, born 1978-02-14 (patient ID 9661a432-4630-2cd9-142c-386845fae837).\nVisit date: 2009-04-28.\nVisit type: General examination of patient.\nClinician: Idella Runte (General Practice).\nFacility: SIGNATURE HEALTHCARE MEDICAL GROUP INC, WEST BRIDGEWATER, MA."
+  },
+  {
+    "doc_id": "9661a432-4630-2cd9-95a0-a90675d6a6bd",
+    "patient_id": "9661a432-4630-2cd9-142c-386845fae837",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2009-04-28",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Paul Tremblay - 2009-04-28",
+    "content": "Diagnoses recorded at this visit:\n- Essential hypertension (onset 2009-04-28)."
+  },
+  {
+    "doc_id": "9661a432-4630-2cd9-95a0-a90675d6a6bd",
+    "patient_id": "9661a432-4630-2cd9-142c-386845fae837",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2009-04-28",
+    "section": "Plan",
+    "title": "Annual Wellness Visit Note - Paul Tremblay - 2009-04-28",
+    "content": "- Lifestyle education regarding hypertension for Essential hypertension, started 2009-04-28."
+  }
+]

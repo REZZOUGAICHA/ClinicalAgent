@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "f95a6723-14a5-c4b6-206a-d0bce5cf11a9",
+    "patient_id": "f95a6723-14a5-c4b6-78df-fa97f7ab361c",
+    "document_type": "Office Visit Note",
+    "date": "2022-07-18",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Roxann Sauer - 2022-07-18",
+    "content": "Patient: Roxann Sauer, female, born 1986-08-23 (patient ID f95a6723-14a5-c4b6-78df-fa97f7ab361c).\nVisit date: 2022-07-18.\nVisit type: Encounter for symptom.\nClinician: Chu Weber (General Practice).\nFacility: STURDY MEMORIAL HOSPITAL INC, ATTLEBORO, MA."
+  },
+  {
+    "doc_id": "f95a6723-14a5-c4b6-206a-d0bce5cf11a9",
+    "patient_id": "f95a6723-14a5-c4b6-78df-fa97f7ab361c",
+    "document_type": "Office Visit Note",
+    "date": "2022-07-18",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Roxann Sauer - 2022-07-18",
+    "content": "Seen for Acute viral pharyngitis."
+  },
+  {
+    "doc_id": "f95a6723-14a5-c4b6-206a-d0bce5cf11a9",
+    "patient_id": "f95a6723-14a5-c4b6-78df-fa97f7ab361c",
+    "document_type": "Office Visit Note",
+    "date": "2022-07-18",
+    "section": "Assessment",
+    "title": "Office Visit Note - Roxann Sauer - 2022-07-18",
+    "content": "Diagnoses recorded at this visit:\n- Acute viral pharyngitis (onset 2022-07-18), resolved 2022-07-27."
+  },
+  {
+    "doc_id": "f95a6723-14a5-c4b6-206a-d0bce5cf11a9",
+    "patient_id": "f95a6723-14a5-c4b6-78df-fa97f7ab361c",
+    "document_type": "Office Visit Note",
+    "date": "2022-07-18",
+    "section": "Vital Signs",
+    "title": "Office Visit Note - Roxann Sauer - 2022-07-18",
+    "content": "- Body temperature: 37.7 \u00b0C"
+  },
+  {
+    "doc_id": "f95a6723-14a5-c4b6-206a-d0bce5cf11a9",
+    "patient_id": "f95a6723-14a5-c4b6-78df-fa97f7ab361c",
+    "document_type": "Office Visit Note",
+    "date": "2022-07-18",
+    "section": "Procedures",
+    "title": "Office Visit Note - Roxann Sauer - 2022-07-18",
+    "content": "- Throat culture, for Acute viral pharyngitis."
+  }
+]

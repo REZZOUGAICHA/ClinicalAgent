@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "e74367bd-7385-97dc-4302-65b558d2a36b",
+    "patient_id": "e74367bd-7385-97dc-2c7f-251b4cd9fe29",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2021-07-17",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Tennille Jerde - 2021-07-17",
+    "content": "Patient: Tennille Jerde, female, born 1960-09-24 (patient ID e74367bd-7385-97dc-2c7f-251b4cd9fe29).\nVisit date: 2021-07-17.\nVisit type: Administration of vaccine to produce active immunity.\nClinician: Omer Koepp (General Practice).\nFacility: CAMBRIDGE PUBLIC HEALTH COMMISSION, SOMERVILLE, MA."
+  },
+  {
+    "doc_id": "e74367bd-7385-97dc-4302-65b558d2a36b",
+    "patient_id": "e74367bd-7385-97dc-2c7f-251b4cd9fe29",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2021-07-17",
+    "section": "Immunizations",
+    "title": "Outpatient Procedure Note - Tennille Jerde - 2021-07-17",
+    "content": "- COVID-19 mRNA LNP-S PF 30 mcg/0.3 mL dose."
+  }
+]

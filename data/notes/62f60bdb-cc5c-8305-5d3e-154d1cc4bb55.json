@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "62f60bdb-cc5c-8305-5d3e-154d1cc4bb55",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Office Visit Note",
+    "date": "2021-04-07",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Angel Frami - 2021-04-07",
+    "content": "Patient: Angel Frami, female, born 1975-10-22 (patient ID 62f60bdb-cc5c-8305-b98b-f2b229a55eca).\nVisit date: 2021-04-07.\nVisit type: Encounter for check up.\nClinician: Ollie Dooley (General Practice).\nFacility: DR JOHN C CORRIGAN MENTAL HEALTH CENTER, FALL RIVER, MA."
+  },
+  {
+    "doc_id": "62f60bdb-cc5c-8305-5d3e-154d1cc4bb55",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Office Visit Note",
+    "date": "2021-04-07",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Angel Frami - 2021-04-07",
+    "content": "Seen for Gingivitis."
+  },
+  {
+    "doc_id": "62f60bdb-cc5c-8305-5d3e-154d1cc4bb55",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Office Visit Note",
+    "date": "2021-04-07",
+    "section": "Procedures",
+    "title": "Office Visit Note - Angel Frami - 2021-04-07",
+    "content": "- Dental consultation and report, for Gingivitis.\n- Dental care, for Gingivitis.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Dental plain X-ray bitewing.\n- Examination of gingivae, for Gingivitis.\n- Dental fluoride treatment, for Gingivitis.\n- Oral health education, for Gingivitis."
+  },
+  {
+    "doc_id": "62f60bdb-cc5c-8305-5d3e-154d1cc4bb55",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Office Visit Note",
+    "date": "2021-04-07",
+    "section": "Medications",
+    "title": "Office Visit Note - Angel Frami - 2021-04-07",
+    "content": "Medications prescribed at this visit:\n- sodium fluoride 0.0272 MG/MG Oral Gel, started 2021-04-08, for Gingivitis; stopped 2021-04-08."
+  }
+]

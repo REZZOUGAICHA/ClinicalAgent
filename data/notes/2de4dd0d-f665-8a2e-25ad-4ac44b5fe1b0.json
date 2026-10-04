@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-25ad-4ac44b5fe1b0",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Office Visit Note",
+    "date": "2017-04-10",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Aron Hammes - 2017-04-10",
+    "content": "Patient: Aron Hammes, male, born 2002-10-19 (patient ID 2de4dd0d-f665-8a2e-4c6b-997735e14ace).\nVisit date: 2017-04-10.\nVisit type: Encounter for check up.\nClinician: Carroll Eichmann (General Practice).\nFacility: BERKSHIRE MEDICAL CENTER INC, PITTSFIELD, MA."
+  },
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-25ad-4ac44b5fe1b0",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Office Visit Note",
+    "date": "2017-04-10",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Aron Hammes - 2017-04-10",
+    "content": "Seen for Fracture of clavicle."
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "b6a1cac9-8873-36a7-8bcc-a4bf8f63c76c",
+    "patient_id": "b6a1cac9-8873-36a7-e726-4aad8a07d44d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2012-06-13",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Renaldo Crist - 2012-06-13",
+    "content": "Patient: Renaldo Crist, male, born 1993-04-14 (patient ID b6a1cac9-8873-36a7-e726-4aad8a07d44d).\nVisit date: 2012-06-13.\nVisit type: General examination of patient.\nClinician: Sandie Rodriguez (General Practice).\nFacility: CLASSIC HEALTHCARE MEDICAL GROUP LLC, NEEDHAM, MA."
+  },
+  {
+    "doc_id": "b6a1cac9-8873-36a7-8bcc-a4bf8f63c76c",
+    "patient_id": "b6a1cac9-8873-36a7-e726-4aad8a07d44d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2012-06-13",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Renaldo Crist - 2012-06-13",
+    "content": "Diagnoses recorded at this visit:\n- Limited social contact (onset 2012-06-13), resolved 2018-06-20."
+  }
+]

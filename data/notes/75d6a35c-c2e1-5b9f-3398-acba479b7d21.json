@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "75d6a35c-c2e1-5b9f-3398-acba479b7d21",
+    "patient_id": "75d6a35c-c2e1-5b9f-e7f8-6a5b05af8fc8",
+    "document_type": "Office Visit Note",
+    "date": "2019-01-25",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Hiram Batz - 2019-01-25",
+    "content": "Patient: Hiram Batz, male, born 2013-02-01 (patient ID 75d6a35c-c2e1-5b9f-e7f8-6a5b05af8fc8).\nVisit date: 2019-01-25.\nVisit type: Encounter for check up.\nClinician: Bennett Rippin (General Practice).\nFacility: MILFORD REGIONAL MEDICAL CENTER, UPTON, MA."
+  },
+  {
+    "doc_id": "75d6a35c-c2e1-5b9f-3398-acba479b7d21",
+    "patient_id": "75d6a35c-c2e1-5b9f-e7f8-6a5b05af8fc8",
+    "document_type": "Office Visit Note",
+    "date": "2019-01-25",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Hiram Batz - 2019-01-25",
+    "content": "Seen for Patient referral for dental care."
+  },
+  {
+    "doc_id": "75d6a35c-c2e1-5b9f-3398-acba479b7d21",
+    "patient_id": "75d6a35c-c2e1-5b9f-e7f8-6a5b05af8fc8",
+    "document_type": "Office Visit Note",
+    "date": "2019-01-25",
+    "section": "Assessment",
+    "title": "Office Visit Note - Hiram Batz - 2019-01-25",
+    "content": "Diagnoses recorded at this visit:\n- Primary dental caries (onset 2019-01-26), resolved 2019-01-26."
+  },
+  {
+    "doc_id": "75d6a35c-c2e1-5b9f-3398-acba479b7d21",
+    "patient_id": "75d6a35c-c2e1-5b9f-e7f8-6a5b05af8fc8",
+    "document_type": "Office Visit Note",
+    "date": "2019-01-25",
+    "section": "Procedures",
+    "title": "Office Visit Note - Hiram Batz - 2019-01-25",
+    "content": "- Dental consultation and report, for Patient referral for dental care.\n- Dental care, for Patient referral for dental care.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Dental plain X-ray bitewing.\n- Examination of gingivae, for Patient referral for dental care.\n- Application of composite dental filling material to dentin of tooth following fracture of tooth, for Primary dental caries.\n- Oral health education, for Patient referral for dental care."
+  }
+]

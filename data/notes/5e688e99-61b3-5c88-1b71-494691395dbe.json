@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "5e688e99-61b3-5c88-1b71-494691395dbe",
+    "patient_id": "5e688e99-61b3-5c88-3f60-21df8aaced27",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-02-29",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Wallace Effertz - 2024-02-29",
+    "content": "Patient: Wallace Effertz, male, born 2010-01-28 (patient ID 5e688e99-61b3-5c88-3f60-21df8aaced27).\nVisit date: 2024-02-29.\nVisit type: Well child visit.\nClinician: Daniel Cas\u00e1rez (General Practice).\nFacility: LYNN COMMUNITY HEALTH, LYNN, MA."
+  },
+  {
+    "doc_id": "5e688e99-61b3-5c88-1b71-494691395dbe",
+    "patient_id": "5e688e99-61b3-5c88-3f60-21df8aaced27",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-02-29",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Wallace Effertz - 2024-02-29",
+    "content": "- Body Height: 161.4 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0\n- Body Weight: 65.3 kg\n- Body mass index (BMI) [Ratio]: 25.1 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 93.1 %\n- Diastolic Blood Pressure: 96.0 mm[Hg]\n- Systolic Blood Pressure: 132.0 mm[Hg]\n- Heart rate: 96.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "5e688e99-61b3-5c88-1b71-494691395dbe",
+    "patient_id": "5e688e99-61b3-5c88-3f60-21df8aaced27",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-02-29",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Wallace Effertz - 2024-02-29",
+    "content": "- Medication reconciliation.\n- Depression screening.\n- Depression screening using Patient Health Questionnaire Nine Item score.\n- Assessment of substance use.\n- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test.\n- Anticipatory guidance.\n- Patient referral for dental care."
+  },
+  {
+    "doc_id": "5e688e99-61b3-5c88-1b71-494691395dbe",
+    "patient_id": "5e688e99-61b3-5c88-3f60-21df8aaced27",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-02-29",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Wallace Effertz - 2024-02-29",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

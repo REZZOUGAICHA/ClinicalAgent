@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "c053e996-a4c4-6c02-f91e-6bc3e19bcfbd",
+    "patient_id": "c053e996-a4c4-6c02-e2b6-284227156c67",
+    "document_type": "Telehealth Visit Note",
+    "date": "2024-03-13",
+    "section": "Visit Information",
+    "title": "Telehealth Visit Note - Sharyn Hagenes - 2024-03-13",
+    "content": "Patient: Sharyn Hagenes, female, born 2023-09-15 (patient ID c053e996-a4c4-6c02-e2b6-284227156c67).\nVisit date: 2024-03-13.\nVisit type: Encounter for problem.\nClinician: Bennett Rippin (General Practice).\nFacility: MILFORD REGIONAL MEDICAL CENTER, UPTON, MA."
+  },
+  {
+    "doc_id": "c053e996-a4c4-6c02-f91e-6bc3e19bcfbd",
+    "patient_id": "c053e996-a4c4-6c02-e2b6-284227156c67",
+    "document_type": "Telehealth Visit Note",
+    "date": "2024-03-13",
+    "section": "Reason for Visit",
+    "title": "Telehealth Visit Note - Sharyn Hagenes - 2024-03-13",
+    "content": "Seen for Peanut."
+  },
+  {
+    "doc_id": "c053e996-a4c4-6c02-f91e-6bc3e19bcfbd",
+    "patient_id": "c053e996-a4c4-6c02-e2b6-284227156c67",
+    "document_type": "Telehealth Visit Note",
+    "date": "2024-03-13",
+    "section": "Plan",
+    "title": "Telehealth Visit Note - Sharyn Hagenes - 2024-03-13",
+    "content": "- Self-care interventions, started 2024-03-13."
+  }
+]

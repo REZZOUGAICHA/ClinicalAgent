@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "7811dc30-8c86-8164-455e-a095b5a3456d",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Urgent Care Note",
+    "date": "2016-12-27",
+    "section": "Visit Information",
+    "title": "Urgent Care Note - Mignon Rau - 2016-12-27",
+    "content": "Patient: Mignon Rau, female, born 1970-04-21 (patient ID 7811dc30-8c86-8164-6c33-6b6f464745ef).\nVisit date: 2016-12-27.\nVisit type: Urgent care clinic.\nClinician: Courtney Kihn (General Practice).\nFacility: CARECENTRAL URGENT CARE MEDICAL GROUP PC, STOUGHTON, MA."
+  },
+  {
+    "doc_id": "7811dc30-8c86-8164-455e-a095b5a3456d",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Urgent Care Note",
+    "date": "2016-12-27",
+    "section": "Laboratory Results",
+    "title": "Urgent Care Note - Mignon Rau - 2016-12-27",
+    "content": "- Hemoglobin A1c/Hemoglobin.total in Blood: 6.2 %"
+  },
+  {
+    "doc_id": "7811dc30-8c86-8164-455e-a095b5a3456d",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Urgent Care Note",
+    "date": "2016-12-27",
+    "section": "Medications",
+    "title": "Urgent Care Note - Mignon Rau - 2016-12-27",
+    "content": "Medications prescribed at this visit:\n- 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet, started 2016-12-27, for Diabetes mellitus type 2; stopped 2017-11-28.\n- budesonide 0.125 MG/ML Inhalation Suspension, started 2016-12-27, for Childhood asthma; stopped 2017-11-28.\n- albuterol 0.83 MG/ML Inhalation Solution, started 2016-12-27, for Childhood asthma; stopped 2017-11-28."
+  }
+]

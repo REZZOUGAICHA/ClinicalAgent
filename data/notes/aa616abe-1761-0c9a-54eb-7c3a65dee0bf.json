@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "aa616abe-1761-0c9a-54eb-7c3a65dee0bf",
+    "patient_id": "aa616abe-1761-0c9a-7959-07544679dafd",
+    "document_type": "Office Visit Note",
+    "date": "1960-05-20",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Jona Robel - 1960-05-20",
+    "content": "Patient: Jona Robel, female, born 1958-11-15 (patient ID aa616abe-1761-0c9a-7959-07544679dafd).\nVisit date: 1960-05-20.\nVisit type: Encounter for problem.\nClinician: Chanelle Schuster (General Practice).\nFacility: TUFTS MEDICAL CENTER, STONEHAM, MA."
+  },
+  {
+    "doc_id": "aa616abe-1761-0c9a-54eb-7c3a65dee0bf",
+    "patient_id": "aa616abe-1761-0c9a-7959-07544679dafd",
+    "document_type": "Office Visit Note",
+    "date": "1960-05-20",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Jona Robel - 1960-05-20",
+    "content": "Seen for Allergic disposition."
+  },
+  {
+    "doc_id": "aa616abe-1761-0c9a-54eb-7c3a65dee0bf",
+    "patient_id": "aa616abe-1761-0c9a-7959-07544679dafd",
+    "document_type": "Office Visit Note",
+    "date": "1960-05-20",
+    "section": "Allergies",
+    "title": "Office Visit Note - Jona Robel - 1960-05-20",
+    "content": "- Allergic disposition (environment allergy).\n- Mold (environment allergy); reaction: cutaneous hypersensitivity, mild.\n- Shellfish (food allergy); reaction: anaphylaxis, severe."
+  }
+]

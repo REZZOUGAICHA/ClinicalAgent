@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "ba419d35-0dfe-8af7-f9d5-84bc455eb49e",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Hospice Care Note",
+    "date": "2021-01-29",
+    "section": "Visit Information",
+    "title": "Hospice Care Note - Corie Kohler - 2021-01-29",
+    "content": "Patient: Corie Kohler, female, born 1925-09-18 (patient ID ba419d35-0dfe-8af7-347c-eebf02485a56).\nVisit date: 2021-01-29.\nVisit type: Admission to hospice.\nClinician: Jamey Olson (General Practice).\nFacility: COMMUNITY VISITING NURSE AGENCY INC., ATTLEBORO, MA."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-f9d5-84bc455eb49e",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Hospice Care Note",
+    "date": "2021-01-29",
+    "section": "Procedures",
+    "title": "Hospice Care Note - Corie Kohler - 2021-01-29",
+    "content": "- Certification procedure.\n- Notifications.\n- Initial patient assessment.\n- Development of individualized plan of care.\n- Hospice care.\n- Hospice care.\n- Hospice care.\n- Hospice care.\n- Hospice care.\n- Hospice care.\n- Hospice care.\n- Hospice care.\n- Hospice care.\n- Hospice care.\n- Hospice care.\n- Hospice care.\n- Hospice care.\n- Hospice care.\n- Hospice care.\n- Hospice care.\n- Hospice care.\n- Hospice care.\n- Hospice care.\n- Hospice care.\n- Hospice care.\n- Hospice care."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-f9d5-84bc455eb49e",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Hospice Care Note",
+    "date": "2021-01-29",
+    "section": "Immunizations",
+    "title": "Hospice Care Note - Corie Kohler - 2021-01-29",
+    "content": "- COVID-19 mRNA LNP-S PF 30 mcg/0.3 mL dose."
+  }
+]

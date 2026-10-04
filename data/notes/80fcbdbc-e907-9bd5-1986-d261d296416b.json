@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "80fcbdbc-e907-9bd5-1986-d261d296416b",
+    "patient_id": "80fcbdbc-e907-9bd5-2644-ad9ef5d6545b",
+    "document_type": "Emergency Department Note",
+    "date": "2018-08-21",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Jaime Aponte - 2018-08-21",
+    "content": "Patient: Jaime Aponte, male, born 1947-03-03 (patient ID 80fcbdbc-e907-9bd5-2644-ad9ef5d6545b).\nVisit date: 2018-08-21.\nVisit type: Emergency room admission.\nClinician: Jermaine Collins (General Practice).\nFacility: CROWN HOME HEALTHCARE MA INC, SAUGUS, MA."
+  },
+  {
+    "doc_id": "80fcbdbc-e907-9bd5-1986-d261d296416b",
+    "patient_id": "80fcbdbc-e907-9bd5-2644-ad9ef5d6545b",
+    "document_type": "Emergency Department Note",
+    "date": "2018-08-21",
+    "section": "Reason for Visit",
+    "title": "Emergency Department Note - Jaime Aponte - 2018-08-21",
+    "content": "Seen for Burn injury (morphologic abnormality)."
+  },
+  {
+    "doc_id": "80fcbdbc-e907-9bd5-1986-d261d296416b",
+    "patient_id": "80fcbdbc-e907-9bd5-2644-ad9ef5d6545b",
+    "document_type": "Emergency Department Note",
+    "date": "2018-08-21",
+    "section": "Assessment",
+    "title": "Emergency Department Note - Jaime Aponte - 2018-08-21",
+    "content": "Diagnoses recorded at this visit:\n- Burn injury (morphologic abnormality) (onset 2018-08-21), resolved 2018-10-21.\n- Epidermal burn of skin (onset 2018-08-21), resolved 2018-10-21."
+  },
+  {
+    "doc_id": "80fcbdbc-e907-9bd5-1986-d261d296416b",
+    "patient_id": "80fcbdbc-e907-9bd5-2644-ad9ef5d6545b",
+    "document_type": "Emergency Department Note",
+    "date": "2018-08-21",
+    "section": "Medications",
+    "title": "Emergency Department Note - Jaime Aponte - 2018-08-21",
+    "content": "Medications prescribed at this visit:\n- Ibuprofen 200 MG Oral Tablet, started 2018-08-21; stopped 2018-10-21."
+  },
+  {
+    "doc_id": "80fcbdbc-e907-9bd5-1986-d261d296416b",
+    "patient_id": "80fcbdbc-e907-9bd5-2644-ad9ef5d6545b",
+    "document_type": "Emergency Department Note",
+    "date": "2018-08-21",
+    "section": "Plan",
+    "title": "Emergency Department Note - Jaime Aponte - 2018-08-21",
+    "content": "- Burn care for Epidermal burn of skin, started 2018-08-21, ended 2018-10-21."
+  }
+]

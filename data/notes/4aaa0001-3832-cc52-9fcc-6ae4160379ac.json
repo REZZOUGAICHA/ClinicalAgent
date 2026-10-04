@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "4aaa0001-3832-cc52-9fcc-6ae4160379ac",
+    "patient_id": "4aaa0001-3832-cc52-e2f3-47aad08f4284",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2022-11-06",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Marvin Weissnat - 2022-11-06",
+    "content": "Patient: Marvin Weissnat, male, born 2006-02-05 (patient ID 4aaa0001-3832-cc52-e2f3-47aad08f4284).\nVisit date: 2022-11-06.\nVisit type: Encounter for check up.\nClinician: Alysha Koch (General Practice).\nFacility: TEWKSBURY HOSPITAL, TEWKSBURY, MA."
+  },
+  {
+    "doc_id": "4aaa0001-3832-cc52-9fcc-6ae4160379ac",
+    "patient_id": "4aaa0001-3832-cc52-e2f3-47aad08f4284",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2022-11-06",
+    "section": "Vital Signs",
+    "title": "Outpatient Procedure Note - Marvin Weissnat - 2022-11-06",
+    "content": "- Body Height: 172.8 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0\n- Body Weight: 68.0 kg\n- Body mass index (BMI) [Ratio]: 22.8 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 70.6 %\n- Diastolic Blood Pressure: 82.0 mm[Hg]\n- Systolic Blood Pressure: 112.0 mm[Hg]\n- Heart rate: 97.0 /min\n- Respiratory rate: 15.0 /min"
+  },
+  {
+    "doc_id": "4aaa0001-3832-cc52-9fcc-6ae4160379ac",
+    "patient_id": "4aaa0001-3832-cc52-e2f3-47aad08f4284",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2022-11-06",
+    "section": "Procedures",
+    "title": "Outpatient Procedure Note - Marvin Weissnat - 2022-11-06",
+    "content": "- Assessment of anxiety.\n- Assessment of substance use.\n- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test.\n- Anticipatory guidance.\n- Patient referral for dental care."
+  },
+  {
+    "doc_id": "4aaa0001-3832-cc52-9fcc-6ae4160379ac",
+    "patient_id": "4aaa0001-3832-cc52-e2f3-47aad08f4284",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2022-11-06",
+    "section": "Immunizations",
+    "title": "Outpatient Procedure Note - Marvin Weissnat - 2022-11-06",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "947c82ee-1735-c9ed-6eb4-a576dae5f84f",
+    "patient_id": "947c82ee-1735-c9ed-8210-38cb93d8070c",
+    "document_type": "Office Visit Note",
+    "date": "2020-07-30",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Marcell Hammes - 2020-07-30",
+    "content": "Patient: Marcell Hammes, female, born 2016-05-17 (patient ID 947c82ee-1735-c9ed-8210-38cb93d8070c).\nVisit date: 2020-07-30.\nVisit type: Encounter for symptom.\nClinician: Carmelina Goyette (General Practice).\nFacility: HEBREW SENIORLIFE AFFILIATED MEDICAL GROUP INC, ROSLINDALE, MA."
+  },
+  {
+    "doc_id": "947c82ee-1735-c9ed-6eb4-a576dae5f84f",
+    "patient_id": "947c82ee-1735-c9ed-8210-38cb93d8070c",
+    "document_type": "Office Visit Note",
+    "date": "2020-07-30",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Marcell Hammes - 2020-07-30",
+    "content": "Seen for Acute viral pharyngitis."
+  },
+  {
+    "doc_id": "947c82ee-1735-c9ed-6eb4-a576dae5f84f",
+    "patient_id": "947c82ee-1735-c9ed-8210-38cb93d8070c",
+    "document_type": "Office Visit Note",
+    "date": "2020-07-30",
+    "section": "Assessment",
+    "title": "Office Visit Note - Marcell Hammes - 2020-07-30",
+    "content": "Diagnoses recorded at this visit:\n- Acute viral pharyngitis (onset 2020-07-30), resolved 2020-08-06."
+  },
+  {
+    "doc_id": "947c82ee-1735-c9ed-6eb4-a576dae5f84f",
+    "patient_id": "947c82ee-1735-c9ed-8210-38cb93d8070c",
+    "document_type": "Office Visit Note",
+    "date": "2020-07-30",
+    "section": "Vital Signs",
+    "title": "Office Visit Note - Marcell Hammes - 2020-07-30",
+    "content": "- Body temperature: 37.5 \u00b0C"
+  },
+  {
+    "doc_id": "947c82ee-1735-c9ed-6eb4-a576dae5f84f",
+    "patient_id": "947c82ee-1735-c9ed-8210-38cb93d8070c",
+    "document_type": "Office Visit Note",
+    "date": "2020-07-30",
+    "section": "Procedures",
+    "title": "Office Visit Note - Marcell Hammes - 2020-07-30",
+    "content": "- Throat culture, for Acute viral pharyngitis."
+  }
+]

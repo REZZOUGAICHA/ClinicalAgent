@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "080b069b-5108-46b6-f9c3-3c3291543294",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Office Visit Note",
+    "date": "1967-09-14",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Chester Aufderhar - 1967-09-14",
+    "content": "Patient: Chester Aufderhar, male, born 1966-11-22 (patient ID 080b069b-5108-46b6-ecef-6aacd3b9ef3f).\nVisit date: 1967-09-14.\nVisit type: Encounter for problem.\nClinician: Harland Ryan (General Practice).\nFacility: SOUTHCOAST HOSPITAL GROUP INC, WAREHAM, MA."
+  },
+  {
+    "doc_id": "080b069b-5108-46b6-f9c3-3c3291543294",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Office Visit Note",
+    "date": "1967-09-14",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Chester Aufderhar - 1967-09-14",
+    "content": "Seen for Allergic disposition."
+  },
+  {
+    "doc_id": "080b069b-5108-46b6-f9c3-3c3291543294",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Office Visit Note",
+    "date": "1967-09-14",
+    "section": "Allergies",
+    "title": "Office Visit Note - Chester Aufderhar - 1967-09-14",
+    "content": "- Allergic disposition (environment allergy).\n- Bee venom (environment allergy).\n- Mold (environment allergy); reaction: nasal discharge present, mild.\n- House dust mite (environment allergy).\n- Animal dander (environment allergy); reaction: rhinoconjunctivitis, moderate.\n- Grass pollen (environment allergy).\n- Tree pollen (environment allergy).\n- Aspirin (medication allergy).\n- Fish (food allergy); reaction: dyspnea, moderate."
+  }
+]

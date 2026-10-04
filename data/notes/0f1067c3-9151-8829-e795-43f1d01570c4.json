@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "0f1067c3-9151-8829-e795-43f1d01570c4",
+    "patient_id": "0f1067c3-9151-8829-56cd-2eff898db59c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-07-02",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Virgie Aufderhar - 2020-07-02",
+    "content": "Patient: Virgie Aufderhar, female, born 2009-06-18 (patient ID 0f1067c3-9151-8829-56cd-2eff898db59c).\nVisit date: 2020-07-02.\nVisit type: Well child visit.\nClinician: Salvador Homenick (General Practice).\nFacility: HARBOR HEALTH SERVICES INC, DORCHESTER, MA."
+  },
+  {
+    "doc_id": "0f1067c3-9151-8829-e795-43f1d01570c4",
+    "patient_id": "0f1067c3-9151-8829-56cd-2eff898db59c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-07-02",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Virgie Aufderhar - 2020-07-02",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2020-07-02), resolved 2024-07-25."
+  },
+  {
+    "doc_id": "0f1067c3-9151-8829-e795-43f1d01570c4",
+    "patient_id": "0f1067c3-9151-8829-56cd-2eff898db59c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-07-02",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Virgie Aufderhar - 2020-07-02",
+    "content": "- Body Height: 155.1 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0\n- Body Weight: 50.8 kg\n- Body mass index (BMI) [Ratio]: 21.1 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 86.3 %\n- Diastolic Blood Pressure: 79.0 mm[Hg]\n- Systolic Blood Pressure: 101.0 mm[Hg]\n- Heart rate: 90.0 /min\n- Respiratory rate: 14.0 /min"
+  },
+  {
+    "doc_id": "0f1067c3-9151-8829-e795-43f1d01570c4",
+    "patient_id": "0f1067c3-9151-8829-56cd-2eff898db59c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-07-02",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Virgie Aufderhar - 2020-07-02",
+    "content": "- Leukocytes [#/volume] in Blood by Automated count: 8.0 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 4.3 10*6/uL\n- Hemoglobin [Mass/volume] in Blood: 13.3 g/dL\n- Hematocrit [Volume Fraction] of Blood by Automated count: 36.7 %\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 80.1 fL\n- MCH [Entitic mass] by Automated count: 30.4 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 33.2 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 45.3 fL\n- Platelets [#/volume] in Blood by Automated count: 339.8 10*3/uL\n- Platelet distribution width [Entitic volume] in Blood by Automated count: 17.0 fL\n- Platelet [Entitic mean volume] in Blood by Automated count: 11.1 fL"
+  },
+  {
+    "doc_id": "0f1067c3-9151-8829-e795-43f1d01570c4",
+    "patient_id": "0f1067c3-9151-8829-56cd-2eff898db59c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-07-02",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Virgie Aufderhar - 2020-07-02",
+    "content": "- Patient referral for dental care."
+  },
+  {
+    "doc_id": "0f1067c3-9151-8829-e795-43f1d01570c4",
+    "patient_id": "0f1067c3-9151-8829-56cd-2eff898db59c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-07-02",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Virgie Aufderhar - 2020-07-02",
+    "content": "- Tdap.\n- Influenza split virus trivalent PF.\n- HPV quadrivalent.\n- meningococcal MCV4P."
+  }
+]

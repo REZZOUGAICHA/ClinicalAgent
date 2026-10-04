@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "7811dc30-8c86-8164-f887-ad44be1378a6",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Office Visit Note",
+    "date": "1991-08-28",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Mignon Rau - 1991-08-28",
+    "content": "Patient: Mignon Rau, female, born 1970-04-21 (patient ID 7811dc30-8c86-8164-6c33-6b6f464745ef).\nVisit date: 1991-08-28.\nVisit type: Prenatal visit.\nClinician: Rudolf Vandervort (General Practice).\nFacility: BETH ISRAEL DEACONESS HOSPITAL MILTON INC, MILTON, MA."
+  },
+  {
+    "doc_id": "7811dc30-8c86-8164-f887-ad44be1378a6",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Office Visit Note",
+    "date": "1991-08-28",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Mignon Rau - 1991-08-28",
+    "content": "Seen for Complete miscarriage."
+  },
+  {
+    "doc_id": "7811dc30-8c86-8164-f887-ad44be1378a6",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Office Visit Note",
+    "date": "1991-08-28",
+    "section": "Assessment",
+    "title": "Office Visit Note - Mignon Rau - 1991-08-28",
+    "content": "Diagnoses recorded at this visit:\n- Past pregnancy history of miscarriage (onset 1991-08-28)."
+  }
+]

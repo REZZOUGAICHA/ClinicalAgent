@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "080b069b-5108-46b6-d3b3-1da0a1f39b8f",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2016-01-05",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Chester Aufderhar - 2016-01-05",
+    "content": "Patient: Chester Aufderhar, male, born 1966-11-22 (patient ID 080b069b-5108-46b6-ecef-6aacd3b9ef3f).\nVisit date: 2016-01-05.\nVisit type: General examination of patient.\nClinician: Sharyl Williamson (General Practice).\nFacility: COMPASSIONATE HEALTH CARE GROUP LLC, WAREHAM, MA."
+  },
+  {
+    "doc_id": "080b069b-5108-46b6-d3b3-1da0a1f39b8f",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2016-01-05",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Chester Aufderhar - 2016-01-05",
+    "content": "Diagnoses recorded at this visit:\n- Part-time employment (onset 2016-01-06), resolved 2017-01-11."
+  },
+  {
+    "doc_id": "080b069b-5108-46b6-d3b3-1da0a1f39b8f",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2016-01-05",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Chester Aufderhar - 2016-01-05",
+    "content": "Medications prescribed at this visit:\n- Hydrochlorothiazide 25 MG Oral Tablet, started 2016-01-05, for Essential hypertension; stopped 2017-01-10.\n- lisinopril 10 MG Oral Tablet, started 2016-01-05, for Essential hypertension; stopped 2017-01-10.\n- amLODIPine 2.5 MG Oral Tablet, started 2016-01-05, for Essential hypertension; stopped 2017-01-10."
+  }
+]

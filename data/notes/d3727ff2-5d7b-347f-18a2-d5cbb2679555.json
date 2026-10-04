@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "d3727ff2-5d7b-347f-18a2-d5cbb2679555",
+    "patient_id": "d3727ff2-5d7b-347f-d78c-edc4323cf890",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2014-05-29",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Eunice Fay - 2014-05-29",
+    "content": "Patient: Eunice Fay, female, born 2009-06-18 (patient ID d3727ff2-5d7b-347f-d78c-edc4323cf890).\nVisit date: 2014-05-29.\nVisit type: Well child visit.\nClinician: Douglas Kuhlman (General Practice).\nFacility: PERSONALIZED MEDICAL CARE LLC, CHESTNUT HILL, MA."
+  },
+  {
+    "doc_id": "d3727ff2-5d7b-347f-18a2-d5cbb2679555",
+    "patient_id": "d3727ff2-5d7b-347f-d78c-edc4323cf890",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2014-05-29",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Eunice Fay - 2014-05-29",
+    "content": "- Body Height: 108.5 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0\n- Body Weight: 18.0 kg\n- Body mass index (BMI) [Ratio]: 15.3 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 55.4 %\n- Diastolic Blood Pressure: 82.0 mm[Hg]\n- Systolic Blood Pressure: 94.0 mm[Hg]\n- Heart rate: 94.0 /min\n- Respiratory rate: 15.0 /min"
+  },
+  {
+    "doc_id": "d3727ff2-5d7b-347f-18a2-d5cbb2679555",
+    "patient_id": "d3727ff2-5d7b-347f-d78c-edc4323cf890",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2014-05-29",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Eunice Fay - 2014-05-29",
+    "content": "- Medication reconciliation."
+  },
+  {
+    "doc_id": "d3727ff2-5d7b-347f-18a2-d5cbb2679555",
+    "patient_id": "d3727ff2-5d7b-347f-d78c-edc4323cf890",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2014-05-29",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Eunice Fay - 2014-05-29",
+    "content": "- varicella.\n- IPV.\n- Influenza split virus trivalent PF.\n- DTaP.\n- MMR."
+  }
+]

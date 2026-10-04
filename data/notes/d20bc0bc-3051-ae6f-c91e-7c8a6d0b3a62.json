@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-c91e-7c8a6d0b3a62",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-04-07",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Lavette Kozey - 2021-04-07",
+    "content": "Patient: Lavette Kozey, female, born 2010-03-24 (patient ID d20bc0bc-3051-ae6f-f391-ceec7ec0370f).\nVisit date: 2021-04-07.\nVisit type: Well child visit.\nClinician: Anh Schroeder (General Practice).\nFacility: FAMILY PRACTICE GROUP PC, ARLINGTON, MA."
+  },
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-c91e-7c8a6d0b3a62",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-04-07",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Lavette Kozey - 2021-04-07",
+    "content": "- Body Height: 145.9 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0\n- Body Weight: 43.5 kg\n- Body mass index (BMI) [Ratio]: 20.4 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 82.3 %\n- Diastolic Blood Pressure: 76.0 mm[Hg]\n- Systolic Blood Pressure: 104.0 mm[Hg]\n- Heart rate: 82.0 /min\n- Respiratory rate: 14.0 /min"
+  },
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-c91e-7c8a6d0b3a62",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-04-07",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Lavette Kozey - 2021-04-07",
+    "content": "- Leukocytes [#/volume] in Blood by Automated count: 5.8 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 4.3 10*6/uL\n- Hemoglobin [Mass/volume] in Blood: 16.5 g/dL\n- Hematocrit [Volume Fraction] of Blood by Automated count: 46.7 %\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 81.8 fL\n- MCH [Entitic mass] by Automated count: 30.3 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 35.5 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 40.3 fL\n- Platelets [#/volume] in Blood by Automated count: 385.9 10*3/uL\n- Platelet distribution width [Entitic volume] in Blood by Automated count: 10.5 fL\n- Platelet [Entitic mean volume] in Blood by Automated count: 9.6 fL"
+  },
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-c91e-7c8a6d0b3a62",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-04-07",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Lavette Kozey - 2021-04-07",
+    "content": "- Medication reconciliation."
+  },
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-c91e-7c8a6d0b3a62",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-04-07",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Lavette Kozey - 2021-04-07",
+    "content": "- Tdap.\n- Influenza split virus trivalent PF.\n- HPV quadrivalent.\n- meningococcal MCV4P."
+  }
+]

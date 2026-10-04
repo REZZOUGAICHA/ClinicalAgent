@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-97a6-a1242b12e836",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Office Visit Note",
+    "date": "2023-09-12",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Aron Hammes - 2023-09-12",
+    "content": "Patient: Aron Hammes, male, born 2002-10-19 (patient ID 2de4dd0d-f665-8a2e-4c6b-997735e14ace).\nVisit date: 2023-09-12.\nVisit type: Encounter for symptom.\nClinician: Carroll Eichmann (General Practice).\nFacility: BERKSHIRE MEDICAL CENTER INC, PITTSFIELD, MA."
+  },
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-97a6-a1242b12e836",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Office Visit Note",
+    "date": "2023-09-12",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Aron Hammes - 2023-09-12",
+    "content": "Seen for Streptococcal sore throat."
+  },
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-97a6-a1242b12e836",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Office Visit Note",
+    "date": "2023-09-12",
+    "section": "Assessment",
+    "title": "Office Visit Note - Aron Hammes - 2023-09-12",
+    "content": "Diagnoses recorded at this visit:\n- Streptococcal sore throat (onset 2023-09-12), resolved 2023-09-21."
+  },
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-97a6-a1242b12e836",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Office Visit Note",
+    "date": "2023-09-12",
+    "section": "Vital Signs",
+    "title": "Office Visit Note - Aron Hammes - 2023-09-12",
+    "content": "- Body temperature: 37.3 \u00b0C"
+  },
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-97a6-a1242b12e836",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Office Visit Note",
+    "date": "2023-09-12",
+    "section": "Procedures",
+    "title": "Office Visit Note - Aron Hammes - 2023-09-12",
+    "content": "- Throat culture, for Streptococcal sore throat."
+  },
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-97a6-a1242b12e836",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Office Visit Note",
+    "date": "2023-09-12",
+    "section": "Medications",
+    "title": "Office Visit Note - Aron Hammes - 2023-09-12",
+    "content": "Medications prescribed at this visit:\n- Penicillin V Potassium 500 MG Oral Tablet, started 2023-09-12, for Streptococcal sore throat; stopped 2023-09-20."
+  }
+]

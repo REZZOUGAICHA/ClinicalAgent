@@ -1,0 +1,65 @@
+[
+  {
+    "doc_id": "a2fb233f-60e0-b477-07e5-19ad8fb5410e",
+    "patient_id": "a2fb233f-60e0-b477-cd38-af3923f792a3",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-05-19",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Tanner Mitchell - 2024-05-19",
+    "content": "Patient: Tanner Mitchell, male, born 1962-03-11 (patient ID a2fb233f-60e0-b477-cd38-af3923f792a3).\nVisit date: 2024-05-19.\nVisit type: General examination of patient.\nClinician: Patty Bashirian (General Practice).\nFacility: GARDEN STATE HEALTHCARE ASSOCIATES LLC, WEST NEWBURY, MA."
+  },
+  {
+    "doc_id": "a2fb233f-60e0-b477-07e5-19ad8fb5410e",
+    "patient_id": "a2fb233f-60e0-b477-cd38-af3923f792a3",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-05-19",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Tanner Mitchell - 2024-05-19",
+    "content": "Diagnoses recorded at this visit:\n- Part-time employment (onset 2024-05-19), resolved 2025-05-25.\n- Homeless (onset 2025-04-19), resolved 2025-12-21."
+  },
+  {
+    "doc_id": "a2fb233f-60e0-b477-07e5-19ad8fb5410e",
+    "patient_id": "a2fb233f-60e0-b477-cd38-af3923f792a3",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-05-19",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Tanner Mitchell - 2024-05-19",
+    "content": "- Body Height: 170.6 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0\n- Body Weight: 81.4 kg\n- Body mass index (BMI) [Ratio]: 28.0 kg/m2\n- Diastolic Blood Pressure: 90.0 mm[Hg]\n- Systolic Blood Pressure: 141.0 mm[Hg]\n- Heart rate: 88.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "a2fb233f-60e0-b477-07e5-19ad8fb5410e",
+    "patient_id": "a2fb233f-60e0-b477-cd38-af3923f792a3",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-05-19",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Tanner Mitchell - 2024-05-19",
+    "content": "- Hemoglobin A1c/Hemoglobin.total in Blood: 5.9 %\n- Glucose [Mass/volume] in Blood: 90.5 mg/dL\n- Urea nitrogen [Mass/volume] in Blood: 17.9 mg/dL\n- Creatinine [Mass/volume] in Blood: 1.1 mg/dL\n- Calcium [Mass/volume] in Blood: 8.6 mg/dL\n- Sodium [Moles/volume] in Blood: 143.1 mmol/L\n- Potassium [Moles/volume] in Blood: 4.5 mmol/L\n- Chloride [Moles/volume] in Blood: 103.7 mmol/L\n- Carbon dioxide  total [Moles/volume] in Blood: 23.4 mmol/L\n- Cholesterol [Mass/volume] in Serum or Plasma: 170.6 mg/dL\n- Triglyceride [Mass/volume] in Serum or Plasma: 148.4 mg/dL\n- Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay: 77.2 mg/dL\n- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 63.7 mg/dL\n- Leukocytes [#/volume] in Blood by Automated count: 4.4 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 5.3 10*6/uL\n- Hemoglobin [Mass/volume] in Blood: 15.8 g/dL\n- Hematocrit [Volume Fraction] of Blood by Automated count: 45.4 %\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 84.0 fL\n- MCH [Entitic mass] by Automated count: 29.5 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 35.6 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 46.0 fL\n- Platelets [#/volume] in Blood by Automated count: 425.9 10*3/uL\n- Platelet distribution width [Entitic volume] in Blood by Automated count: 15.6 fL\n- Platelet [Entitic mean volume] in Blood by Automated count: 11.6 fL"
+  },
+  {
+    "doc_id": "a2fb233f-60e0-b477-07e5-19ad8fb5410e",
+    "patient_id": "a2fb233f-60e0-b477-cd38-af3923f792a3",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-05-19",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Tanner Mitchell - 2024-05-19",
+    "content": "- Medication reconciliation.\n- Assessment of health and social care needs.\n- Depression screening.\n- Depression screening.\n- Depression screening using Patient Health Questionnaire Nine Item score.\n- Assessment of substance use.\n- Screening for drug abuse."
+  },
+  {
+    "doc_id": "a2fb233f-60e0-b477-07e5-19ad8fb5410e",
+    "patient_id": "a2fb233f-60e0-b477-cd38-af3923f792a3",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-05-19",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Tanner Mitchell - 2024-05-19",
+    "content": "Medications prescribed at this visit:\n- amLODIPine 2.5 MG Oral Tablet, started 2024-05-19, for Essential hypertension; stopped 2025-05-25."
+  },
+  {
+    "doc_id": "a2fb233f-60e0-b477-07e5-19ad8fb5410e",
+    "patient_id": "a2fb233f-60e0-b477-cd38-af3923f792a3",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-05-19",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Tanner Mitchell - 2024-05-19",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

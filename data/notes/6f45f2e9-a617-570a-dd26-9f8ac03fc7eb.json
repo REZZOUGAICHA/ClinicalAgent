@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "6f45f2e9-a617-570a-dd26-9f8ac03fc7eb",
+    "patient_id": "6f45f2e9-a617-570a-8867-dec1260088bb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2016-12-01",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Carey Mraz - 2016-12-01",
+    "content": "Patient: Carey Mraz, male, born 2013-06-27 (patient ID 6f45f2e9-a617-570a-8867-dec1260088bb).\nVisit date: 2016-12-01.\nVisit type: Well child visit.\nClinician: Ulysses Ziemann (General Practice).\nFacility: CENTER FOR DIGESTIVE WELLNESS PC, LEOMINSTER, MA."
+  },
+  {
+    "doc_id": "6f45f2e9-a617-570a-dd26-9f8ac03fc7eb",
+    "patient_id": "6f45f2e9-a617-570a-8867-dec1260088bb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2016-12-01",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Carey Mraz - 2016-12-01",
+    "content": "- Body Height: 105.6 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0\n- Body Weight: 21.6 kg\n- Weight-for-length Per age and sex: 98.8 %\n- Head Occipital-frontal circumference Percentile: 98.9 %\n- Head Occipital-frontal circumference: 53.2 cm\n- Body mass index (BMI) [Ratio]: 19.3 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 99.3 %\n- Diastolic Blood Pressure: 75.0 mm[Hg]\n- Systolic Blood Pressure: 111.0 mm[Hg]\n- Heart rate: 85.0 /min\n- Respiratory rate: 13.0 /min"
+  }
+]

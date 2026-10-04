@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "46976cf7-b0bf-be20-3102-45602ef4ff10",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-11-01",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Lindsay Zieme - 2024-11-01",
+    "content": "Patient: Lindsay Zieme, female, born 2007-09-14 (patient ID 46976cf7-b0bf-be20-39a5-9f425a52886d).\nVisit date: 2024-11-01.\nVisit type: Well child visit.\nClinician: Levi Abbott (General Practice).\nFacility: TREE OF LIFE HEALTHCARE ASSOCIATES, WORCESTER, MA."
+  },
+  {
+    "doc_id": "46976cf7-b0bf-be20-3102-45602ef4ff10",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-11-01",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Lindsay Zieme - 2024-11-01",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2024-11-01), resolved 2024-11-01."
+  },
+  {
+    "doc_id": "46976cf7-b0bf-be20-3102-45602ef4ff10",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-11-01",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Lindsay Zieme - 2024-11-01",
+    "content": "- Body Height: 162.9 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0\n- Body Weight: 59.4 kg\n- Body mass index (BMI) [Ratio]: 22.4 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 66.1 %\n- Diastolic Blood Pressure: 88.0 mm[Hg]\n- Systolic Blood Pressure: 112.0 mm[Hg]\n- Heart rate: 76.0 /min\n- Respiratory rate: 14.0 /min"
+  },
+  {
+    "doc_id": "46976cf7-b0bf-be20-3102-45602ef4ff10",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-11-01",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Lindsay Zieme - 2024-11-01",
+    "content": "- Medication reconciliation.\n- Depression screening.\n- Depression screening using Patient Health Questionnaire Nine Item score."
+  },
+  {
+    "doc_id": "46976cf7-b0bf-be20-3102-45602ef4ff10",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-11-01",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Lindsay Zieme - 2024-11-01",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

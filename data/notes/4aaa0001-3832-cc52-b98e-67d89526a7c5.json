@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "4aaa0001-3832-cc52-b98e-67d89526a7c5",
+    "patient_id": "4aaa0001-3832-cc52-e2f3-47aad08f4284",
+    "document_type": "Office Visit Note",
+    "date": "2024-04-14",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Marvin Weissnat - 2024-04-14",
+    "content": "Patient: Marvin Weissnat, male, born 2006-02-05 (patient ID 4aaa0001-3832-cc52-e2f3-47aad08f4284).\nVisit date: 2024-04-14.\nVisit type: Encounter for check up.\nClinician: Alysha Koch (General Practice).\nFacility: TEWKSBURY HOSPITAL, TEWKSBURY, MA."
+  },
+  {
+    "doc_id": "4aaa0001-3832-cc52-b98e-67d89526a7c5",
+    "patient_id": "4aaa0001-3832-cc52-e2f3-47aad08f4284",
+    "document_type": "Office Visit Note",
+    "date": "2024-04-14",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Marvin Weissnat - 2024-04-14",
+    "content": "Seen for Patient referral for dental care."
+  },
+  {
+    "doc_id": "4aaa0001-3832-cc52-b98e-67d89526a7c5",
+    "patient_id": "4aaa0001-3832-cc52-e2f3-47aad08f4284",
+    "document_type": "Office Visit Note",
+    "date": "2024-04-14",
+    "section": "Procedures",
+    "title": "Office Visit Note - Marvin Weissnat - 2024-04-14",
+    "content": "- Dental consultation and report, for Patient referral for dental care.\n- Dental care, for Patient referral for dental care.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Examination of gingivae, for Patient referral for dental care.\n- Oral health education, for Patient referral for dental care."
+  }
+]

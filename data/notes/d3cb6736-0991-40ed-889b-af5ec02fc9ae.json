@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "d3cb6736-0991-40ed-889b-af5ec02fc9ae",
+    "patient_id": "d3cb6736-0991-40ed-a220-7c714aba4c37",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2010-10-10",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Tristan Reichel - 2010-10-10",
+    "content": "Patient: Tristan Reichel, male, born 1982-08-01 (patient ID d3cb6736-0991-40ed-a220-7c714aba4c37).\nVisit date: 2010-10-10.\nVisit type: General examination of patient.\nClinician: Jarrett Gutmann (General Practice).\nFacility: ZANJABEE INTEGRATIVE MEDICINE AND PRIMARY CARE LLC, WOBURN, MA."
+  },
+  {
+    "doc_id": "d3cb6736-0991-40ed-889b-af5ec02fc9ae",
+    "patient_id": "d3cb6736-0991-40ed-a220-7c714aba4c37",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2010-10-10",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Tristan Reichel - 2010-10-10",
+    "content": "Diagnoses recorded at this visit:\n- Stress (onset 2010-10-10), resolved 2016-10-16."
+  }
+]

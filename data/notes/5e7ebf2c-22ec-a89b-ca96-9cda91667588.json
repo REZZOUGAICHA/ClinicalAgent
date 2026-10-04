@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-ca96-9cda91667588",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Office Visit Note",
+    "date": "2025-12-28",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Rosalba Effertz - 2025-12-28",
+    "content": "Patient: Rosalba Effertz, female, born 1973-08-05 (patient ID 5e7ebf2c-22ec-a89b-53ab-38edddd81be9).\nVisit date: 2025-12-28.\nVisit type: Encounter for symptom.\nClinician: Saundra Kuphal (General Practice).\nFacility: COOLEY DICKINSON HOSPITAL INC, NORTHAMPTON, MA."
+  },
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-ca96-9cda91667588",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Office Visit Note",
+    "date": "2025-12-28",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Rosalba Effertz - 2025-12-28",
+    "content": "Seen for Acute viral pharyngitis."
+  },
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-ca96-9cda91667588",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Office Visit Note",
+    "date": "2025-12-28",
+    "section": "Assessment",
+    "title": "Office Visit Note - Rosalba Effertz - 2025-12-28",
+    "content": "Diagnoses recorded at this visit:\n- Acute viral pharyngitis (onset 2025-12-28), resolved 2026-01-09."
+  },
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-ca96-9cda91667588",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Office Visit Note",
+    "date": "2025-12-28",
+    "section": "Vital Signs",
+    "title": "Office Visit Note - Rosalba Effertz - 2025-12-28",
+    "content": "- Body temperature: 37.9 \u00b0C"
+  }
+]

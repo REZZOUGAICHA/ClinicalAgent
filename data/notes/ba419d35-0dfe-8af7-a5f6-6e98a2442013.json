@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "ba419d35-0dfe-8af7-a5f6-6e98a2442013",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-02-26",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Corie Kohler - 2021-02-26",
+    "content": "Patient: Corie Kohler, female, born 1925-09-18 (patient ID ba419d35-0dfe-8af7-347c-eebf02485a56).\nVisit date: 2021-02-26.\nVisit type: Death Certification.\nClinician: Wynell Mayert (General Practice).\nFacility: WELLNESS ON WHEELS PC, NORTH ATTLEBORO, MA."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-a5f6-6e98a2442013",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-02-26",
+    "section": "Reason for Visit",
+    "title": "Annual Wellness Visit Note - Corie Kohler - 2021-02-26",
+    "content": "Seen for End-stage renal disease."
+  }
+]

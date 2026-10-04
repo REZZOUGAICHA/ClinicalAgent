@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "d57841fa-c9e2-a3d1-ee76-08f37b3b27d1",
+    "patient_id": "d57841fa-c9e2-a3d1-0e78-09bdbe4eed66",
+    "document_type": "Office Visit Note",
+    "date": "2021-09-06",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Jessica McKenzie - 2021-09-06",
+    "content": "Patient: Jessica McKenzie, female, born 1965-07-19 (patient ID d57841fa-c9e2-a3d1-0e78-09bdbe4eed66).\nVisit date: 2021-09-06.\nVisit type: Encounter for check up.\nClinician: Miguel Roberts (General Practice).\nFacility: SOUTH SHORE HOSPITAL INC., WEYMOUTH, MA."
+  },
+  {
+    "doc_id": "d57841fa-c9e2-a3d1-ee76-08f37b3b27d1",
+    "patient_id": "d57841fa-c9e2-a3d1-0e78-09bdbe4eed66",
+    "document_type": "Office Visit Note",
+    "date": "2021-09-06",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Jessica McKenzie - 2021-09-06",
+    "content": "Seen for Gingivitis."
+  },
+  {
+    "doc_id": "d57841fa-c9e2-a3d1-ee76-08f37b3b27d1",
+    "patient_id": "d57841fa-c9e2-a3d1-0e78-09bdbe4eed66",
+    "document_type": "Office Visit Note",
+    "date": "2021-09-06",
+    "section": "Procedures",
+    "title": "Office Visit Note - Jessica McKenzie - 2021-09-06",
+    "content": "- Dental consultation and report, for Gingivitis.\n- Dental care, for Gingivitis.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Dental plain X-ray bitewing.\n- Examination of gingivae, for Gingivitis.\n- Oral health education, for Gingivitis."
+  }
+]

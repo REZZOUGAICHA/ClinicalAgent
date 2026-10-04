@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-b4bb-e0302ce98aac",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Emergency Department Note",
+    "date": "2012-09-18",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Faustino Langworth - 2012-09-18",
+    "content": "Patient: Faustino Langworth, male, born 1998-06-17 (patient ID 5ba0a3f3-32f7-02b1-ec6a-8f568923954c).\nVisit date: 2012-09-18.\nVisit type: Emergency hospital admission.\nClinician: Judy Gleason (General Practice).\nFacility: CAMBRIDGE REHABILITATION & NURSING CENTER, CAMBRIDGE, MA."
+  },
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-b4bb-e0302ce98aac",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Emergency Department Note",
+    "date": "2012-09-18",
+    "section": "Reason for Visit",
+    "title": "Emergency Department Note - Faustino Langworth - 2012-09-18",
+    "content": "Seen for Chronic pain."
+  },
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-b4bb-e0302ce98aac",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Emergency Department Note",
+    "date": "2012-09-18",
+    "section": "Assessment",
+    "title": "Emergency Department Note - Faustino Langworth - 2012-09-18",
+    "content": "Diagnoses recorded at this visit:\n- Chronic pain (onset 2012-09-18)."
+  }
+]

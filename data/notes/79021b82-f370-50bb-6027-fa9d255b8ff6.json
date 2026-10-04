@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "79021b82-f370-50bb-6027-fa9d255b8ff6",
+    "patient_id": "79021b82-f370-50bb-c5a1-7333816d683f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-04-03",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Evette Farrell - 2024-04-03",
+    "content": "Patient: Evette Farrell, female, born 2013-03-20 (patient ID 79021b82-f370-50bb-c5a1-7333816d683f).\nVisit date: 2024-04-03.\nVisit type: Well child visit.\nClinician: Elmer Gusikowski (General Practice).\nFacility: WHITLEY WELLNESS LLC, CHARLESTOWN, MA."
+  },
+  {
+    "doc_id": "79021b82-f370-50bb-6027-fa9d255b8ff6",
+    "patient_id": "79021b82-f370-50bb-c5a1-7333816d683f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-04-03",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Evette Farrell - 2024-04-03",
+    "content": "- Body Height: 141.7 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0\n- Body Weight: 37.9 kg\n- Body mass index (BMI) [Ratio]: 18.9 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 69.3 %\n- Diastolic Blood Pressure: 82.0 mm[Hg]\n- Systolic Blood Pressure: 96.0 mm[Hg]\n- Heart rate: 68.0 /min\n- Respiratory rate: 14.0 /min"
+  },
+  {
+    "doc_id": "79021b82-f370-50bb-6027-fa9d255b8ff6",
+    "patient_id": "79021b82-f370-50bb-c5a1-7333816d683f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-04-03",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Evette Farrell - 2024-04-03",
+    "content": "- Leukocytes [#/volume] in Blood by Automated count: 6.4 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 5.0 10*6/uL\n- Hemoglobin [Mass/volume] in Blood: 14.4 g/dL\n- Hematocrit [Volume Fraction] of Blood by Automated count: 42.3 %\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 94.7 fL\n- MCH [Entitic mass] by Automated count: 30.0 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 33.8 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 43.1 fL\n- Platelets [#/volume] in Blood by Automated count: 185.8 10*3/uL\n- Platelet distribution width [Entitic volume] in Blood by Automated count: 10.4 fL\n- Platelet [Entitic mean volume] in Blood by Automated count: 11.9 fL"
+  },
+  {
+    "doc_id": "79021b82-f370-50bb-6027-fa9d255b8ff6",
+    "patient_id": "79021b82-f370-50bb-c5a1-7333816d683f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-04-03",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Evette Farrell - 2024-04-03",
+    "content": "Medications prescribed at this visit:\n- budesonide 0.25 MG/ML Inhalation Suspension, started 2024-04-03, for Childhood asthma; stopped 2024-05-29.\n- NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir], started 2024-04-03, for Childhood asthma; stopped 2024-05-29."
+  },
+  {
+    "doc_id": "79021b82-f370-50bb-6027-fa9d255b8ff6",
+    "patient_id": "79021b82-f370-50bb-c5a1-7333816d683f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-04-03",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Evette Farrell - 2024-04-03",
+    "content": "- Tdap.\n- Influenza split virus trivalent PF.\n- HPV quadrivalent.\n- meningococcal MCV4P."
+  }
+]

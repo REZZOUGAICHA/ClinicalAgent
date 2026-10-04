@@ -1,0 +1,65 @@
+[
+  {
+    "doc_id": "14a5a697-29a3-48b2-08bf-e07fca5a9d68",
+    "patient_id": "14a5a697-29a3-48b2-969a-3ceefe74a700",
+    "document_type": "Office Visit Note",
+    "date": "2020-12-07",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Drusilla Schumm - 2020-12-07",
+    "content": "Patient: Drusilla Schumm, female, born 1958-11-15 (patient ID 14a5a697-29a3-48b2-969a-3ceefe74a700).\nVisit date: 2020-12-07.\nVisit type: Encounter for symptom.\nClinician: Bennie Abbott (General Practice).\nFacility: LAHEY HOSPITAL & MEDICAL CENTER BURLINGTON, PEABODY, MA."
+  },
+  {
+    "doc_id": "14a5a697-29a3-48b2-08bf-e07fca5a9d68",
+    "patient_id": "14a5a697-29a3-48b2-969a-3ceefe74a700",
+    "document_type": "Office Visit Note",
+    "date": "2020-12-07",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Drusilla Schumm - 2020-12-07",
+    "content": "Seen for Suspected disease caused by Severe acute respiratory coronavirus 2."
+  },
+  {
+    "doc_id": "14a5a697-29a3-48b2-08bf-e07fca5a9d68",
+    "patient_id": "14a5a697-29a3-48b2-969a-3ceefe74a700",
+    "document_type": "Office Visit Note",
+    "date": "2020-12-07",
+    "section": "Assessment",
+    "title": "Office Visit Note - Drusilla Schumm - 2020-12-07",
+    "content": "Diagnoses recorded at this visit:\n- Nasal congestion (onset 2020-12-07), resolved 2020-12-18.\n- Cough (onset 2020-12-07), resolved 2020-12-18.\n- Fatigue (onset 2020-12-07), resolved 2020-12-18.\n- Fever (onset 2020-12-07), resolved 2020-12-18.\n- Disease caused by severe acute respiratory syndrome coronavirus 2 (onset 2020-12-07), resolved 2020-12-18."
+  },
+  {
+    "doc_id": "14a5a697-29a3-48b2-08bf-e07fca5a9d68",
+    "patient_id": "14a5a697-29a3-48b2-969a-3ceefe74a700",
+    "document_type": "Office Visit Note",
+    "date": "2020-12-07",
+    "section": "Vital Signs",
+    "title": "Office Visit Note - Drusilla Schumm - 2020-12-07",
+    "content": "- Body temperature: 39.9 \u00b0C\n- Respiratory rate: 26.9 /min\n- Heart rate: 74.6 /min\n- Oxygen saturation in Arterial blood: 77.9 %\n- Diastolic Blood Pressure: 78.0 mm[Hg]\n- Systolic Blood Pressure: 102.0 mm[Hg]\n- Body Weight: 79.5 kg"
+  },
+  {
+    "doc_id": "14a5a697-29a3-48b2-08bf-e07fca5a9d68",
+    "patient_id": "14a5a697-29a3-48b2-969a-3ceefe74a700",
+    "document_type": "Office Visit Note",
+    "date": "2020-12-07",
+    "section": "Laboratory Results",
+    "title": "Office Visit Note - Drusilla Schumm - 2020-12-07",
+    "content": "- Influenza virus A RNA [Presence] in Respiratory system specimen by NAA with probe detection: Negative (qualifier value)\n- Influenza virus B RNA [Presence] in Respiratory system specimen by NAA with probe detection: Negative (qualifier value)\n- Respiratory syncytial virus RNA [Presence] in Respiratory system specimen by NAA with probe detection: Negative (qualifier value)\n- Parainfluenza virus 1 RNA [Presence] in Respiratory system specimen by NAA with probe detection: Negative (qualifier value)\n- Parainfluenza virus 2 RNA [Presence] in Respiratory system specimen by NAA with probe detection: Negative (qualifier value)\n- Parainfluenza virus 3 RNA [Presence] in Respiratory system specimen by NAA with probe detection: Negative (qualifier value)\n- Rhinovirus RNA [Presence] in Respiratory system specimen by NAA with probe detection: Negative (qualifier value)\n- Human metapneumovirus RNA [Presence] in Respiratory system specimen by NAA with probe detection: Negative (qualifier value)\n- Adenovirus A+B+C+D+E DNA [Presence] in Respiratory system specimen by NAA with probe detection: Negative (qualifier value)\n- SARS-CoV-2 (COVID-19) RNA panel - Respiratory system specimen by NAA with probe detection: Detected (qualifier value)"
+  },
+  {
+    "doc_id": "14a5a697-29a3-48b2-08bf-e07fca5a9d68",
+    "patient_id": "14a5a697-29a3-48b2-969a-3ceefe74a700",
+    "document_type": "Office Visit Note",
+    "date": "2020-12-07",
+    "section": "Procedures",
+    "title": "Office Visit Note - Drusilla Schumm - 2020-12-07",
+    "content": "- Face mask (physical object), for Suspected disease caused by Severe acute respiratory coronavirus 2."
+  },
+  {
+    "doc_id": "14a5a697-29a3-48b2-08bf-e07fca5a9d68",
+    "patient_id": "14a5a697-29a3-48b2-969a-3ceefe74a700",
+    "document_type": "Office Visit Note",
+    "date": "2020-12-07",
+    "section": "Plan",
+    "title": "Office Visit Note - Drusilla Schumm - 2020-12-07",
+    "content": "- Infectious disease care plan, started 2020-12-07, ended 2020-12-19."
+  }
+]

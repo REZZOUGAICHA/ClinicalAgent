@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-1176-43de3ddc69d1",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Office Visit Note",
+    "date": "2020-12-16",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Faustino Langworth - 2020-12-16",
+    "content": "Patient: Faustino Langworth, male, born 1998-06-17 (patient ID 5ba0a3f3-32f7-02b1-ec6a-8f568923954c).\nVisit date: 2020-12-16.\nVisit type: Encounter for symptom.\nClinician: Floy Greenfelder (General Practice).\nFacility: CAMBRIDGE PUBLIC HEALTH COMMISSION, SOMERVILLE, MA."
+  },
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-1176-43de3ddc69d1",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Office Visit Note",
+    "date": "2020-12-16",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Faustino Langworth - 2020-12-16",
+    "content": "Seen for Acute bronchitis."
+  },
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-1176-43de3ddc69d1",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Office Visit Note",
+    "date": "2020-12-16",
+    "section": "Assessment",
+    "title": "Office Visit Note - Faustino Langworth - 2020-12-16",
+    "content": "Diagnoses recorded at this visit:\n- Acute bronchitis (onset 2020-12-16), resolved 2020-12-31."
+  },
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-1176-43de3ddc69d1",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Office Visit Note",
+    "date": "2020-12-16",
+    "section": "Medications",
+    "title": "Office Visit Note - Faustino Langworth - 2020-12-16",
+    "content": "Medications prescribed at this visit:\n- Acetaminophen 325 MG Oral Tablet, started 2020-12-16, for Acute bronchitis; stopped 2020-12-31."
+  },
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-1176-43de3ddc69d1",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Office Visit Note",
+    "date": "2020-12-16",
+    "section": "Plan",
+    "title": "Office Visit Note - Faustino Langworth - 2020-12-16",
+    "content": "- Respiratory therapy, started 2020-12-16, ended 2023-08-23."
+  }
+]

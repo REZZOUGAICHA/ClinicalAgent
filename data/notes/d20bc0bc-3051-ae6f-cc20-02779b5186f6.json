@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-cc20-02779b5186f6",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Office Visit Note",
+    "date": "2017-03-01",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Lavette Kozey - 2017-03-01",
+    "content": "Patient: Lavette Kozey, female, born 2010-03-24 (patient ID d20bc0bc-3051-ae6f-f391-ceec7ec0370f).\nVisit date: 2017-03-01.\nVisit type: Encounter for symptom.\nClinician: Beatriz Monroy (General Practice).\nFacility: FIRST PSYCHIATRIC PLANNERS INC, WOBURN, MA."
+  },
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-cc20-02779b5186f6",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Office Visit Note",
+    "date": "2017-03-01",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Lavette Kozey - 2017-03-01",
+    "content": "Seen for Viral sinusitis."
+  },
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-cc20-02779b5186f6",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Office Visit Note",
+    "date": "2017-03-01",
+    "section": "Assessment",
+    "title": "Office Visit Note - Lavette Kozey - 2017-03-01",
+    "content": "Diagnoses recorded at this visit:\n- Viral sinusitis (onset 2017-03-01), resolved 2017-03-16."
+  }
+]

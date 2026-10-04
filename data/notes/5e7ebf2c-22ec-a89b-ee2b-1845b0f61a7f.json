@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-ee2b-1845b0f61a7f",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Office Visit Note",
+    "date": "2024-08-04",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Rosalba Effertz - 2024-08-04",
+    "content": "Patient: Rosalba Effertz, female, born 1973-08-05 (patient ID 5e7ebf2c-22ec-a89b-53ab-38edddd81be9).\nVisit date: 2024-08-04.\nVisit type: Encounter for symptom.\nClinician: Saundra Kuphal (General Practice).\nFacility: COOLEY DICKINSON HOSPITAL INC, NORTHAMPTON, MA."
+  },
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-ee2b-1845b0f61a7f",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Office Visit Note",
+    "date": "2024-08-04",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Rosalba Effertz - 2024-08-04",
+    "content": "Seen for Acute bronchitis."
+  },
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-ee2b-1845b0f61a7f",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Office Visit Note",
+    "date": "2024-08-04",
+    "section": "Assessment",
+    "title": "Office Visit Note - Rosalba Effertz - 2024-08-04",
+    "content": "Diagnoses recorded at this visit:\n- Acute bronchitis (onset 2024-08-04), resolved 2024-08-12."
+  },
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-ee2b-1845b0f61a7f",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Office Visit Note",
+    "date": "2024-08-04",
+    "section": "Medications",
+    "title": "Office Visit Note - Rosalba Effertz - 2024-08-04",
+    "content": "Medications prescribed at this visit:\n- Acetaminophen 325 MG Oral Tablet, started 2024-08-04, for Acute bronchitis; stopped 2024-08-12."
+  },
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-ee2b-1845b0f61a7f",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Office Visit Note",
+    "date": "2024-08-04",
+    "section": "Plan",
+    "title": "Office Visit Note - Rosalba Effertz - 2024-08-04",
+    "content": "- Respiratory therapy, started 2024-08-04, ended 2024-08-12."
+  }
+]

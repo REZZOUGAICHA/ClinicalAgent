@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "05cc86a0-2d98-b046-1f37-3670f6fde0b5",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2008-03-28",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Carita Grady - 2008-03-28",
+    "content": "Patient: Carita Grady, female, born 1925-09-18 (patient ID 05cc86a0-2d98-b046-790a-211fd9e1ea92).\nVisit date: 2008-03-28.\nVisit type: General examination of patient.\nClinician: Zachery Rau (General Practice).\nFacility: WALPOLE MEDICAL CENTER PC, WALPOLE, MA."
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-1f37-3670f6fde0b5",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2008-03-28",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Carita Grady - 2008-03-28",
+    "content": "Diagnoses recorded at this visit:\n- Victim of intimate partner abuse (onset 2008-03-28)."
+  }
+]

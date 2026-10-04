@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-15cb-e4ef536f2c30",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2018-06-09",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Aron Hammes - 2018-06-09",
+    "content": "Patient: Aron Hammes, male, born 2002-10-19 (patient ID 2de4dd0d-f665-8a2e-4c6b-997735e14ace).\nVisit date: 2018-06-09.\nVisit type: Encounter for check up.\nClinician: Waldo Hintz (General Practice).\nFacility: BERKSHIRE MEDICAL CENTER INC - 1, PITTSFIELD, MA."
+  },
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-15cb-e4ef536f2c30",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2018-06-09",
+    "section": "Assessment",
+    "title": "Outpatient Procedure Note - Aron Hammes - 2018-06-09",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2018-06-09), resolved 2020-12-12.\n- Gingivitis (onset 2018-06-09), resolved 2018-06-23."
+  },
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-15cb-e4ef536f2c30",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2018-06-09",
+    "section": "Vital Signs",
+    "title": "Outpatient Procedure Note - Aron Hammes - 2018-06-09",
+    "content": "- Body Height: 164.3 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0\n- Body Weight: 52.8 kg\n- Body mass index (BMI) [Ratio]: 19.5 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 38.9 %\n- Diastolic Blood Pressure: 71.0 mm[Hg]\n- Systolic Blood Pressure: 130.0 mm[Hg]\n- Heart rate: 72.0 /min\n- Respiratory rate: 15.0 /min"
+  },
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-15cb-e4ef536f2c30",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2018-06-09",
+    "section": "Procedures",
+    "title": "Outpatient Procedure Note - Aron Hammes - 2018-06-09",
+    "content": "- Assessment of anxiety.\n- Assessment of substance use.\n- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test.\n- Anticipatory guidance.\n- Patient referral for dental care, for Gingivitis."
+  },
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-15cb-e4ef536f2c30",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2018-06-09",
+    "section": "Immunizations",
+    "title": "Outpatient Procedure Note - Aron Hammes - 2018-06-09",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

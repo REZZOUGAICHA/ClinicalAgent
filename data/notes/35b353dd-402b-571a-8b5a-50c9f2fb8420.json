@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "35b353dd-402b-571a-8b5a-50c9f2fb8420",
+    "patient_id": "35b353dd-402b-571a-d67a-af0a104d0854",
+    "document_type": "Emergency Department Note",
+    "date": "1977-02-02",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Jody Monahan - 1977-02-02",
+    "content": "Patient: Jody Monahan, male, born 1943-09-18 (patient ID 35b353dd-402b-571a-d67a-af0a104d0854).\nVisit date: 1977-02-02.\nVisit type: Encounter for problem.\nClinician: Angelic McCullough (General Practice).\nFacility: COURTYARD NURSING CARE CENTER, MEDFORD, MA."
+  },
+  {
+    "doc_id": "35b353dd-402b-571a-8b5a-50c9f2fb8420",
+    "patient_id": "35b353dd-402b-571a-d67a-af0a104d0854",
+    "document_type": "Emergency Department Note",
+    "date": "1977-02-02",
+    "section": "Reason for Visit",
+    "title": "Emergency Department Note - Jody Monahan - 1977-02-02",
+    "content": "Seen for Sepsis."
+  },
+  {
+    "doc_id": "35b353dd-402b-571a-8b5a-50c9f2fb8420",
+    "patient_id": "35b353dd-402b-571a-d67a-af0a104d0854",
+    "document_type": "Emergency Department Note",
+    "date": "1977-02-02",
+    "section": "Assessment",
+    "title": "Emergency Department Note - Jody Monahan - 1977-02-02",
+    "content": "Diagnoses recorded at this visit:\n- Sepsis (onset 1977-02-02)."
+  }
+]

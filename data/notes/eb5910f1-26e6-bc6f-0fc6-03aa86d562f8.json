@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "eb5910f1-26e6-bc6f-0fc6-03aa86d562f8",
+    "patient_id": "eb5910f1-26e6-bc6f-b300-716eae678d6f",
+    "document_type": "Emergency Department Note",
+    "date": "2026-05-03",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Larissa Bins - 2026-05-03",
+    "content": "Patient: Larissa Bins, female, born 1995-04-25 (patient ID eb5910f1-26e6-bc6f-b300-716eae678d6f).\nVisit date: 2026-05-03.\nVisit type: Encounter for symptom.\nClinician: Shameka Reichert (General Practice).\nFacility: LAKEVIEW HOUSE SKLD NRSG AND RESIDENTIAL CARE FAC, HAVERHILL, MA."
+  },
+  {
+    "doc_id": "eb5910f1-26e6-bc6f-0fc6-03aa86d562f8",
+    "patient_id": "eb5910f1-26e6-bc6f-b300-716eae678d6f",
+    "document_type": "Emergency Department Note",
+    "date": "2026-05-03",
+    "section": "Reason for Visit",
+    "title": "Emergency Department Note - Larissa Bins - 2026-05-03",
+    "content": "Seen for Acute infective cystitis."
+  },
+  {
+    "doc_id": "eb5910f1-26e6-bc6f-0fc6-03aa86d562f8",
+    "patient_id": "eb5910f1-26e6-bc6f-b300-716eae678d6f",
+    "document_type": "Emergency Department Note",
+    "date": "2026-05-03",
+    "section": "Vital Signs",
+    "title": "Emergency Department Note - Larissa Bins - 2026-05-03",
+    "content": "- Diastolic Blood Pressure: 76.6 mm[Hg]\n- Systolic Blood Pressure: 123.9 mm[Hg]\n- Heart rate: 88.0 /min\n- Respiratory rate: 16.5 /min\n- Oxygen saturation in Arterial blood: 99.2 %\n- Body temperature: 37.5 \u00b0C"
+  },
+  {
+    "doc_id": "eb5910f1-26e6-bc6f-0fc6-03aa86d562f8",
+    "patient_id": "eb5910f1-26e6-bc6f-b300-716eae678d6f",
+    "document_type": "Emergency Department Note",
+    "date": "2026-05-03",
+    "section": "Laboratory Results",
+    "title": "Emergency Department Note - Larissa Bins - 2026-05-03",
+    "content": "- Glucose [Mass/volume] in Urine by Test strip: 5.8 mg/dL\n- Ketones [Presence] in Urine by Test strip: Urine ketones not detected (finding)\n- Specific gravity of Urine by Test strip: 1.0\n- pH of Urine by Test strip: 6.7 pH\n- Protein [Mass/volume] in Urine by Test strip: 3.9 mg/dL\n- Nitrite [Presence] in Urine by Test strip: Nitrite detected in urine (finding)\n- Hemoglobin [Presence] in Urine by Test strip: Urine blood test = + (finding)\n- Leukocyte esterase [Presence] in Urine by Test strip: Urine leukocyte test one plus (finding)\n- Leukocytes [#/area] in Urine sediment by Microscopy high power field: 14.3 /[HPF]\n- Erythrocytes [#/area] in Urine sediment by Microscopy high power field: 2.5 /[HPF]\n- Epithelial cells [#/area] in Urine sediment by Microscopy high power field: 2.2 /[HPF]\n- Casts [Presence] in Urine sediment by Light microscopy: Urine microscopy: no casts (finding)\n- Mucus [Presence] in Urine sediment by Light microscopy: Mucus in urine (finding)\n- Bacteria [#/area] in Urine sediment by Microscopy high power field: Finding of presence of bacteria (finding)\n- Bacteria identified in Urine by Culture: Greater than 100 000 colony forming units per mL Escherichia coli"
+  },
+  {
+    "doc_id": "eb5910f1-26e6-bc6f-0fc6-03aa86d562f8",
+    "patient_id": "eb5910f1-26e6-bc6f-b300-716eae678d6f",
+    "document_type": "Emergency Department Note",
+    "date": "2026-05-03",
+    "section": "Procedures",
+    "title": "Emergency Department Note - Larissa Bins - 2026-05-03",
+    "content": "- History taking.\n- Discussion about signs and symptoms.\n- Triage: emergency center.\n- Taking patient vital signs.\n- History and physical examination with evaluation and management of patient.\n- Urinalysis with reflex to microscopy and culture.\n- Urine specimen collection.\n- Urinalysis with reflex to microscopy and culture.\n- Antibiotic therapy.\n- Patient discharge."
+  },
+  {
+    "doc_id": "eb5910f1-26e6-bc6f-0fc6-03aa86d562f8",
+    "patient_id": "eb5910f1-26e6-bc6f-b300-716eae678d6f",
+    "document_type": "Emergency Department Note",
+    "date": "2026-05-03",
+    "section": "Medications",
+    "title": "Emergency Department Note - Larissa Bins - 2026-05-03",
+    "content": "Medications prescribed at this visit:\n- nitrofurantoin  macrocrystals 25 MG / nitrofurantoin  monohydrate 75 MG Oral Capsule, started 2026-05-03, for Acute infective cystitis; stopped 2026-05-04."
+  }
+]

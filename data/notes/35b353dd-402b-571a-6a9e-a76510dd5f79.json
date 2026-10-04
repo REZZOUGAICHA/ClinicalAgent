@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "35b353dd-402b-571a-6a9e-a76510dd5f79",
+    "patient_id": "35b353dd-402b-571a-d67a-af0a104d0854",
+    "document_type": "Office Visit Note",
+    "date": "2025-08-22",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Jody Monahan - 2025-08-22",
+    "content": "Patient: Jody Monahan, male, born 1943-09-18 (patient ID 35b353dd-402b-571a-d67a-af0a104d0854).\nVisit date: 2025-08-22.\nVisit type: Encounter for symptom.\nClinician: Floy Greenfelder (General Practice).\nFacility: CAMBRIDGE PUBLIC HEALTH COMMISSION, SOMERVILLE, MA."
+  },
+  {
+    "doc_id": "35b353dd-402b-571a-6a9e-a76510dd5f79",
+    "patient_id": "35b353dd-402b-571a-d67a-af0a104d0854",
+    "document_type": "Office Visit Note",
+    "date": "2025-08-22",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Jody Monahan - 2025-08-22",
+    "content": "Seen for Viral sinusitis."
+  },
+  {
+    "doc_id": "35b353dd-402b-571a-6a9e-a76510dd5f79",
+    "patient_id": "35b353dd-402b-571a-d67a-af0a104d0854",
+    "document_type": "Office Visit Note",
+    "date": "2025-08-22",
+    "section": "Assessment",
+    "title": "Office Visit Note - Jody Monahan - 2025-08-22",
+    "content": "Diagnoses recorded at this visit:\n- Viral sinusitis (onset 2025-08-22), resolved 2025-08-31."
+  }
+]

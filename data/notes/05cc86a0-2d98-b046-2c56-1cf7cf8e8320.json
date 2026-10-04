@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "05cc86a0-2d98-b046-2c56-1cf7cf8e8320",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-05-31",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Carita Grady - 2019-05-31",
+    "content": "Patient: Carita Grady, female, born 1925-09-18 (patient ID 05cc86a0-2d98-b046-790a-211fd9e1ea92).\nVisit date: 2019-05-31.\nVisit type: General examination of patient.\nClinician: Zachery Rau (General Practice).\nFacility: WALPOLE MEDICAL CENTER PC, WALPOLE, MA."
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-2c56-1cf7cf8e8320",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-05-31",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Carita Grady - 2019-05-31",
+    "content": "- Body Height: 148.2 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0\n- Body Weight: 63.5 kg\n- Body mass index (BMI) [Ratio]: 28.9 kg/m2\n- Diastolic Blood Pressure: 77.0 mm[Hg]\n- Systolic Blood Pressure: 120.0 mm[Hg]\n- Heart rate: 87.0 /min\n- Respiratory rate: 14.0 /min"
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-2c56-1cf7cf8e8320",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-05-31",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Carita Grady - 2019-05-31",
+    "content": "- Hemoglobin A1c/Hemoglobin.total in Blood: 6.1 %\n- Glucose [Mass/volume] in Blood: 82.5 mg/dL\n- Urea nitrogen [Mass/volume] in Blood: 16.9 mg/dL\n- Creatinine [Mass/volume] in Blood: 0.4 mg/dL\n- Calcium [Mass/volume] in Blood: 9.9 mg/dL\n- Sodium [Moles/volume] in Blood: 141.3 mmol/L\n- Potassium [Moles/volume] in Blood: 4.1 mmol/L\n- Chloride [Moles/volume] in Blood: 108.4 mmol/L\n- Carbon dioxide  total [Moles/volume] in Blood: 25.2 mmol/L"
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-2c56-1cf7cf8e8320",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-05-31",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Carita Grady - 2019-05-31",
+    "content": "- Assessment of health and social care needs.\n- Assessment using Morse Fall Scale.\n- Depression screening.\n- Depression screening.\n- Patient referral for dental care."
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-2c56-1cf7cf8e8320",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-05-31",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Carita Grady - 2019-05-31",
+    "content": "Medications prescribed at this visit:\n- Alendronic acid 10 MG Oral Tablet, started 2019-05-31, for Osteoporosis; stopped 2019-11-08."
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-2c56-1cf7cf8e8320",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-05-31",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Carita Grady - 2019-05-31",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "7512bbb4-b22b-0979-d1db-7a335173f6ca",
+    "patient_id": "7512bbb4-b22b-0979-6edc-389e16607ac7",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-05-03",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Tamie Herzog - 2026-05-03",
+    "content": "Patient: Tamie Herzog, female, born 2025-02-23 (patient ID 7512bbb4-b22b-0979-6edc-389e16607ac7).\nVisit date: 2026-05-03.\nVisit type: Well child visit.\nClinician: Carlota Maya (General Practice).\nFacility: RIVER'S EDGE PRIMARY CARE LLC, CHICOPEE, MA."
+  },
+  {
+    "doc_id": "7512bbb4-b22b-0979-d1db-7a335173f6ca",
+    "patient_id": "7512bbb4-b22b-0979-6edc-389e16607ac7",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-05-03",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Tamie Herzog - 2026-05-03",
+    "content": "- Body Height: 76.1 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0\n- Body Weight: 11.5 kg\n- Weight-for-length Per age and sex: 96.4 %\n- Head Occipital-frontal circumference Percentile: 44.6 %\n- Head Occipital-frontal circumference: 45.6 cm\n- Diastolic Blood Pressure: 90.0 mm[Hg]\n- Systolic Blood Pressure: 105.0 mm[Hg]\n- Heart rate: 95.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "7512bbb4-b22b-0979-d1db-7a335173f6ca",
+    "patient_id": "7512bbb4-b22b-0979-6edc-389e16607ac7",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-05-03",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Tamie Herzog - 2026-05-03",
+    "content": "- Medication reconciliation."
+  },
+  {
+    "doc_id": "7512bbb4-b22b-0979-d1db-7a335173f6ca",
+    "patient_id": "7512bbb4-b22b-0979-6edc-389e16607ac7",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-05-03",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Tamie Herzog - 2026-05-03",
+    "content": "- Hib (PRP-OMP).\n- varicella.\n- MMR.\n- Pneumococcal conjugate PCV 13.\n- Hep A ped/adol 2 dose."
+  }
+]

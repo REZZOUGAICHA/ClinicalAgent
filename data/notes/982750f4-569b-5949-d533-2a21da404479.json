@@ -1,0 +1,65 @@
+[
+  {
+    "doc_id": "982750f4-569b-5949-d533-2a21da404479",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-07-10",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Dwana Wolf - 2019-07-10",
+    "content": "Patient: Dwana Wolf, female, born 1986-11-12 (patient ID 982750f4-569b-5949-196b-60699bdda3fb).\nVisit date: 2019-07-10.\nVisit type: General examination of patient.\nClinician: Hank Schneider (General Practice).\nFacility: LOWELL FAMILY MEDICAL CARE PC, LOWELL, MA."
+  },
+  {
+    "doc_id": "982750f4-569b-5949-d533-2a21da404479",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-07-10",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Dwana Wolf - 2019-07-10",
+    "content": "Diagnoses recorded at this visit:\n- Full-time employment (onset 2019-07-10), resolved 2021-07-21."
+  },
+  {
+    "doc_id": "982750f4-569b-5949-d533-2a21da404479",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-07-10",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Dwana Wolf - 2019-07-10",
+    "content": "- Body Height: 158.3 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0\n- Body Weight: 71.2 kg\n- Body mass index (BMI) [Ratio]: 28.4 kg/m2\n- Diastolic Blood Pressure: 85.0 mm[Hg]\n- Systolic Blood Pressure: 136.0 mm[Hg]\n- Heart rate: 89.0 /min\n- Respiratory rate: 15.0 /min"
+  },
+  {
+    "doc_id": "982750f4-569b-5949-d533-2a21da404479",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-07-10",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Dwana Wolf - 2019-07-10",
+    "content": "- Leukocytes [#/volume] in Blood by Automated count: 6.1 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 4.1 10*6/uL\n- Hemoglobin [Mass/volume] in Blood: 13.0 g/dL\n- Hematocrit [Volume Fraction] of Blood by Automated count: 37.3 %\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 86.8 fL\n- MCH [Entitic mass] by Automated count: 31.3 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 33.2 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 40.5 fL\n- Platelets [#/volume] in Blood by Automated count: 253.7 10*3/uL\n- Platelet distribution width [Entitic volume] in Blood by Automated count: 13.7 fL\n- Platelet [Entitic mean volume] in Blood by Automated count: 10.8 fL"
+  },
+  {
+    "doc_id": "982750f4-569b-5949-d533-2a21da404479",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-07-10",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Dwana Wolf - 2019-07-10",
+    "content": "- Medication reconciliation.\n- Assessment of health and social care needs.\n- Assessment of anxiety.\n- Depression screening.\n- Depression screening.\n- Assessment of substance use.\n- Screening for drug abuse."
+  },
+  {
+    "doc_id": "982750f4-569b-5949-d533-2a21da404479",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-07-10",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Dwana Wolf - 2019-07-10",
+    "content": "Medications prescribed at this visit:\n- Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet], started 2019-07-10; stopped 2020-07-15.\n- Acetaminophen 325 MG Oral Tablet [Tylenol], started 2019-07-10; stopped 2020-07-15.\n- tramadol hydrochloride 50 MG Oral Tablet, started 2019-07-10; stopped 2020-07-15."
+  },
+  {
+    "doc_id": "982750f4-569b-5949-d533-2a21da404479",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-07-10",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Dwana Wolf - 2019-07-10",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

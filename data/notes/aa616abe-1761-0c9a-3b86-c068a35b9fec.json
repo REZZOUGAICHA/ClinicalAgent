@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "aa616abe-1761-0c9a-3b86-c068a35b9fec",
+    "patient_id": "aa616abe-1761-0c9a-7959-07544679dafd",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2002-11-30",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Jona Robel - 2002-11-30",
+    "content": "Patient: Jona Robel, female, born 1958-11-15 (patient ID aa616abe-1761-0c9a-7959-07544679dafd).\nVisit date: 2002-11-30.\nVisit type: General examination of patient.\nClinician: Maren Aufderhar (General Practice).\nFacility: DUTTON FAMILY CARE ASSOCIATES LLP, WAKEFIELD, MA."
+  },
+  {
+    "doc_id": "aa616abe-1761-0c9a-3b86-c068a35b9fec",
+    "patient_id": "aa616abe-1761-0c9a-7959-07544679dafd",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2002-11-30",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Jona Robel - 2002-11-30",
+    "content": "Diagnoses recorded at this visit:\n- Social isolation (onset 2002-11-30), resolved 2008-11-15.\n- Has a criminal record (onset 2002-11-30)."
+  },
+  {
+    "doc_id": "aa616abe-1761-0c9a-3b86-c068a35b9fec",
+    "patient_id": "aa616abe-1761-0c9a-7959-07544679dafd",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2002-11-30",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Jona Robel - 2002-11-30",
+    "content": "- Body Height: 174.6 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0\n- Body Weight: 67.1 kg\n- Body mass index (BMI) [Ratio]: 22.0 kg/m2\n- Diastolic Blood Pressure: 75.0 mm[Hg]\n- Systolic Blood Pressure: 122.0 mm[Hg]\n- Heart rate: 79.0 /min\n- Respiratory rate: 14.0 /min"
+  },
+  {
+    "doc_id": "aa616abe-1761-0c9a-3b86-c068a35b9fec",
+    "patient_id": "aa616abe-1761-0c9a-7959-07544679dafd",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2002-11-30",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Jona Robel - 2002-11-30",
+    "content": "- Medication reconciliation.\n- Assessment of health and social care needs.\n- Assessment of anxiety.\n- Screening for domestic abuse."
+  },
+  {
+    "doc_id": "aa616abe-1761-0c9a-3b86-c068a35b9fec",
+    "patient_id": "aa616abe-1761-0c9a-7959-07544679dafd",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2002-11-30",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Jona Robel - 2002-11-30",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

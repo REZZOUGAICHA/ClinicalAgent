@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "f32a088b-988b-d7d5-84c6-04d18b45ecb5",
+    "patient_id": "f32a088b-988b-d7d5-008b-89ea4ed1fc48",
+    "document_type": "Office Visit Note",
+    "date": "2012-07-22",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Wayne McLaughlin - 2012-07-22",
+    "content": "Patient: Wayne McLaughlin, male, born 2006-08-16 (patient ID f32a088b-988b-d7d5-008b-89ea4ed1fc48).\nVisit date: 2012-07-22.\nVisit type: Encounter for problem.\nClinician: Chantell Krajcik (General Practice).\nFacility: FRANCISCAN HOSPITAL FOR CHILDREN INC, BOSTON, MA."
+  },
+  {
+    "doc_id": "f32a088b-988b-d7d5-84c6-04d18b45ecb5",
+    "patient_id": "f32a088b-988b-d7d5-008b-89ea4ed1fc48",
+    "document_type": "Office Visit Note",
+    "date": "2012-07-22",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Wayne McLaughlin - 2012-07-22",
+    "content": "Seen for Allergic disposition."
+  },
+  {
+    "doc_id": "f32a088b-988b-d7d5-84c6-04d18b45ecb5",
+    "patient_id": "f32a088b-988b-d7d5-008b-89ea4ed1fc48",
+    "document_type": "Office Visit Note",
+    "date": "2012-07-22",
+    "section": "Allergies",
+    "title": "Office Visit Note - Wayne McLaughlin - 2012-07-22",
+    "content": "- Allergic disposition (environment allergy).\n- Mold (environment allergy).\n- House dust mite (environment allergy).\n- Animal dander (environment allergy); reaction: rhinoconjunctivitis, moderate.\n- Grass pollen (environment allergy).\n- Tree pollen (environment allergy)."
+  },
+  {
+    "doc_id": "f32a088b-988b-d7d5-84c6-04d18b45ecb5",
+    "patient_id": "f32a088b-988b-d7d5-008b-89ea4ed1fc48",
+    "document_type": "Office Visit Note",
+    "date": "2012-07-22",
+    "section": "Medications",
+    "title": "Office Visit Note - Wayne McLaughlin - 2012-07-22",
+    "content": "Medications prescribed at this visit:\n- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector, started 2012-07-22; no stop date recorded."
+  },
+  {
+    "doc_id": "f32a088b-988b-d7d5-84c6-04d18b45ecb5",
+    "patient_id": "f32a088b-988b-d7d5-008b-89ea4ed1fc48",
+    "document_type": "Office Visit Note",
+    "date": "2012-07-22",
+    "section": "Plan",
+    "title": "Office Visit Note - Wayne McLaughlin - 2012-07-22",
+    "content": "- Self-care interventions, started 2012-07-22."
+  }
+]

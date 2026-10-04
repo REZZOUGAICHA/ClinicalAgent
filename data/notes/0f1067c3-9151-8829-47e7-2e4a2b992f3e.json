@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "0f1067c3-9151-8829-47e7-2e4a2b992f3e",
+    "patient_id": "0f1067c3-9151-8829-56cd-2eff898db59c",
+    "document_type": "Emergency Department Note",
+    "date": "2018-09-06",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Virgie Aufderhar - 2018-09-06",
+    "content": "Patient: Virgie Aufderhar, female, born 2009-06-18 (patient ID 0f1067c3-9151-8829-56cd-2eff898db59c).\nVisit date: 2018-09-06.\nVisit type: Emergency room admission.\nClinician: Thaddeus Sauer (General Practice).\nFacility: BOSTONIAN NURSING CARE & REHABILITATION CTR THE, DORCHESTER, MA."
+  },
+  {
+    "doc_id": "0f1067c3-9151-8829-47e7-2e4a2b992f3e",
+    "patient_id": "0f1067c3-9151-8829-56cd-2eff898db59c",
+    "document_type": "Emergency Department Note",
+    "date": "2018-09-06",
+    "section": "Reason for Visit",
+    "title": "Emergency Department Note - Virgie Aufderhar - 2018-09-06",
+    "content": "Seen for Sprain (morphologic abnormality)."
+  },
+  {
+    "doc_id": "0f1067c3-9151-8829-47e7-2e4a2b992f3e",
+    "patient_id": "0f1067c3-9151-8829-56cd-2eff898db59c",
+    "document_type": "Emergency Department Note",
+    "date": "2018-09-06",
+    "section": "Assessment",
+    "title": "Emergency Department Note - Virgie Aufderhar - 2018-09-06",
+    "content": "Diagnoses recorded at this visit:\n- Sprain (morphologic abnormality) (onset 2018-09-06), resolved 2018-09-22.\n- Sprain of wrist (onset 2018-09-06), resolved 2018-09-22."
+  },
+  {
+    "doc_id": "0f1067c3-9151-8829-47e7-2e4a2b992f3e",
+    "patient_id": "0f1067c3-9151-8829-56cd-2eff898db59c",
+    "document_type": "Emergency Department Note",
+    "date": "2018-09-06",
+    "section": "Medications",
+    "title": "Emergency Department Note - Virgie Aufderhar - 2018-09-06",
+    "content": "Medications prescribed at this visit:\n- Acetaminophen 160 MG Chewable Tablet, started 2018-09-06; stopped 2018-09-22."
+  },
+  {
+    "doc_id": "0f1067c3-9151-8829-47e7-2e4a2b992f3e",
+    "patient_id": "0f1067c3-9151-8829-56cd-2eff898db59c",
+    "document_type": "Emergency Department Note",
+    "date": "2018-09-06",
+    "section": "Plan",
+    "title": "Emergency Department Note - Virgie Aufderhar - 2018-09-06",
+    "content": "- Physiotherapy care plan for Sprain of wrist, started 2018-09-06, ended 2018-09-22."
+  }
+]

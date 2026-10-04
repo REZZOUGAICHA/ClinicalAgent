@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "7c913488-8c54-7aa0-092b-01efa1347b1a",
+    "patient_id": "7c913488-8c54-7aa0-a452-83dbc3ad8377",
+    "document_type": "Office Visit Note",
+    "date": "2020-04-02",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Dian Kiehn - 2020-04-02",
+    "content": "Patient: Dian Kiehn, female, born 2012-01-13 (patient ID 7c913488-8c54-7aa0-a452-83dbc3ad8377).\nVisit date: 2020-04-02.\nVisit type: Encounter for symptom.\nClinician: Vella Ankunding (General Practice).\nFacility: SOUTHCOAST HOSPITALS GROUP INC, FALL RIVER, MA."
+  },
+  {
+    "doc_id": "7c913488-8c54-7aa0-092b-01efa1347b1a",
+    "patient_id": "7c913488-8c54-7aa0-a452-83dbc3ad8377",
+    "document_type": "Office Visit Note",
+    "date": "2020-04-02",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Dian Kiehn - 2020-04-02",
+    "content": "Seen for Acute bronchitis."
+  },
+  {
+    "doc_id": "7c913488-8c54-7aa0-092b-01efa1347b1a",
+    "patient_id": "7c913488-8c54-7aa0-a452-83dbc3ad8377",
+    "document_type": "Office Visit Note",
+    "date": "2020-04-02",
+    "section": "Assessment",
+    "title": "Office Visit Note - Dian Kiehn - 2020-04-02",
+    "content": "Diagnoses recorded at this visit:\n- Acute bronchitis (onset 2020-04-02), resolved 2020-04-15."
+  },
+  {
+    "doc_id": "7c913488-8c54-7aa0-092b-01efa1347b1a",
+    "patient_id": "7c913488-8c54-7aa0-a452-83dbc3ad8377",
+    "document_type": "Office Visit Note",
+    "date": "2020-04-02",
+    "section": "Procedures",
+    "title": "Office Visit Note - Dian Kiehn - 2020-04-02",
+    "content": "- Sputum examination, for Acute bronchitis."
+  },
+  {
+    "doc_id": "7c913488-8c54-7aa0-092b-01efa1347b1a",
+    "patient_id": "7c913488-8c54-7aa0-a452-83dbc3ad8377",
+    "document_type": "Office Visit Note",
+    "date": "2020-04-02",
+    "section": "Medications",
+    "title": "Office Visit Note - Dian Kiehn - 2020-04-02",
+    "content": "Medications prescribed at this visit:\n- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution, started 2020-04-02, for Acute bronchitis; stopped 2020-04-15."
+  },
+  {
+    "doc_id": "7c913488-8c54-7aa0-092b-01efa1347b1a",
+    "patient_id": "7c913488-8c54-7aa0-a452-83dbc3ad8377",
+    "document_type": "Office Visit Note",
+    "date": "2020-04-02",
+    "section": "Plan",
+    "title": "Office Visit Note - Dian Kiehn - 2020-04-02",
+    "content": "- Respiratory therapy, started 2020-04-02, ended 2021-01-15."
+  }
+]

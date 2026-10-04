@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "922fb35e-148d-9e82-b42f-fb70efc7011e",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Office Visit Note",
+    "date": "2019-09-13",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Agnes Weber - 2019-09-13",
+    "content": "Patient: Agnes Weber, female, born 1986-12-19 (patient ID 922fb35e-148d-9e82-7e65-bfa05e3b3515).\nVisit date: 2019-09-13.\nVisit type: Postnatal visit.\nClinician: Chanell Robel (General Practice).\nFacility: WHITTIER REHABILITATION HOSPITAL - BRADFORD, WESTBOROUGH, MA."
+  },
+  {
+    "doc_id": "922fb35e-148d-9e82-b42f-fb70efc7011e",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Office Visit Note",
+    "date": "2019-09-13",
+    "section": "Procedures",
+    "title": "Office Visit Note - Agnes Weber - 2019-09-13",
+    "content": "- Physical examination procedure.\n- Depression screening."
+  }
+]

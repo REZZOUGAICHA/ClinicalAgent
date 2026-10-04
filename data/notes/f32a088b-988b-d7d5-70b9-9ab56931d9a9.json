@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "f32a088b-988b-d7d5-70b9-9ab56931d9a9",
+    "patient_id": "f32a088b-988b-d7d5-008b-89ea4ed1fc48",
+    "document_type": "Office Visit Note",
+    "date": "2009-12-08",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Wayne McLaughlin - 2009-12-08",
+    "content": "Patient: Wayne McLaughlin, male, born 2006-08-16 (patient ID f32a088b-988b-d7d5-008b-89ea4ed1fc48).\nVisit date: 2009-12-08.\nVisit type: Encounter for symptom.\nClinician: Chantell Krajcik (General Practice).\nFacility: FRANCISCAN HOSPITAL FOR CHILDREN INC, BOSTON, MA."
+  },
+  {
+    "doc_id": "f32a088b-988b-d7d5-70b9-9ab56931d9a9",
+    "patient_id": "f32a088b-988b-d7d5-008b-89ea4ed1fc48",
+    "document_type": "Office Visit Note",
+    "date": "2009-12-08",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Wayne McLaughlin - 2009-12-08",
+    "content": "Seen for Childhood asthma."
+  },
+  {
+    "doc_id": "f32a088b-988b-d7d5-70b9-9ab56931d9a9",
+    "patient_id": "f32a088b-988b-d7d5-008b-89ea4ed1fc48",
+    "document_type": "Office Visit Note",
+    "date": "2009-12-08",
+    "section": "Assessment",
+    "title": "Office Visit Note - Wayne McLaughlin - 2009-12-08",
+    "content": "Diagnoses recorded at this visit:\n- Childhood asthma (onset 2009-12-08), resolved 2025-09-15."
+  },
+  {
+    "doc_id": "f32a088b-988b-d7d5-70b9-9ab56931d9a9",
+    "patient_id": "f32a088b-988b-d7d5-008b-89ea4ed1fc48",
+    "document_type": "Office Visit Note",
+    "date": "2009-12-08",
+    "section": "Plan",
+    "title": "Office Visit Note - Wayne McLaughlin - 2009-12-08",
+    "content": "- Asthma self management for Childhood asthma, started 2009-12-08."
+  }
+]

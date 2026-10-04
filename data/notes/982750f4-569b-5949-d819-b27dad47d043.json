@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "982750f4-569b-5949-d819-b27dad47d043",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Office Visit Note",
+    "date": "2019-04-17",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Dwana Wolf - 2019-04-17",
+    "content": "Patient: Dwana Wolf, female, born 1986-11-12 (patient ID 982750f4-569b-5949-196b-60699bdda3fb).\nVisit date: 2019-04-17.\nVisit type: Postnatal visit.\nClinician: Marcus Schamberger (General Practice).\nFacility: THE LOWELL GENERAL HOSPITAL, WESTFORD, MA."
+  },
+  {
+    "doc_id": "982750f4-569b-5949-d819-b27dad47d043",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Office Visit Note",
+    "date": "2019-04-17",
+    "section": "Procedures",
+    "title": "Office Visit Note - Dwana Wolf - 2019-04-17",
+    "content": "- Physical examination procedure.\n- Depression screening."
+  }
+]

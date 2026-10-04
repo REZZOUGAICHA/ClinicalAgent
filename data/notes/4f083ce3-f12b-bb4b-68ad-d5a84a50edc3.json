@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "4f083ce3-f12b-bb4b-68ad-d5a84a50edc3",
+    "patient_id": "4f083ce3-f12b-bb4b-7353-e17f0cd55b0a",
+    "document_type": "Office Visit Note",
+    "date": "2024-04-02",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Ezekiel Walter - 2024-04-02",
+    "content": "Patient: Ezekiel Walter, male, born 1999-01-12 (patient ID 4f083ce3-f12b-bb4b-7353-e17f0cd55b0a).\nVisit date: 2024-04-02.\nVisit type: Encounter for check up.\nClinician: Eldora Langosh (General Practice).\nFacility: BRIGHAM AND WOMEN'S FAULKNER HOSPITAL INC., JAMAICA PLAIN, MA."
+  },
+  {
+    "doc_id": "4f083ce3-f12b-bb4b-68ad-d5a84a50edc3",
+    "patient_id": "4f083ce3-f12b-bb4b-7353-e17f0cd55b0a",
+    "document_type": "Office Visit Note",
+    "date": "2024-04-02",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Ezekiel Walter - 2024-04-02",
+    "content": "Seen for Patient referral for dental care."
+  },
+  {
+    "doc_id": "4f083ce3-f12b-bb4b-68ad-d5a84a50edc3",
+    "patient_id": "4f083ce3-f12b-bb4b-7353-e17f0cd55b0a",
+    "document_type": "Office Visit Note",
+    "date": "2024-04-02",
+    "section": "Procedures",
+    "title": "Office Visit Note - Ezekiel Walter - 2024-04-02",
+    "content": "- Dental consultation and report, for Patient referral for dental care.\n- Dental care, for Patient referral for dental care.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Examination of gingivae, for Patient referral for dental care.\n- Dental fluoride treatment, for Patient referral for dental care.\n- Oral health education, for Patient referral for dental care."
+  },
+  {
+    "doc_id": "4f083ce3-f12b-bb4b-68ad-d5a84a50edc3",
+    "patient_id": "4f083ce3-f12b-bb4b-7353-e17f0cd55b0a",
+    "document_type": "Office Visit Note",
+    "date": "2024-04-02",
+    "section": "Medications",
+    "title": "Office Visit Note - Ezekiel Walter - 2024-04-02",
+    "content": "Medications prescribed at this visit:\n- sodium fluoride 0.0272 MG/MG Oral Gel, started 2024-04-02, for Patient referral for dental care; stopped 2024-04-02."
+  }
+]

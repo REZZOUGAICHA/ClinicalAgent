@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "7811dc30-8c86-8164-edb2-d4a3f1b6e183",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Office Visit Note",
+    "date": "1973-12-28",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Mignon Rau - 1973-12-28",
+    "content": "Patient: Mignon Rau, female, born 1970-04-21 (patient ID 7811dc30-8c86-8164-6c33-6b6f464745ef).\nVisit date: 1973-12-28.\nVisit type: Encounter for symptom.\nClinician: Rudolf Vandervort (General Practice).\nFacility: BETH ISRAEL DEACONESS HOSPITAL MILTON INC, MILTON, MA."
+  },
+  {
+    "doc_id": "7811dc30-8c86-8164-edb2-d4a3f1b6e183",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Office Visit Note",
+    "date": "1973-12-28",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Mignon Rau - 1973-12-28",
+    "content": "Seen for Childhood asthma."
+  },
+  {
+    "doc_id": "7811dc30-8c86-8164-edb2-d4a3f1b6e183",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Office Visit Note",
+    "date": "1973-12-28",
+    "section": "Plan",
+    "title": "Office Visit Note - Mignon Rau - 1973-12-28",
+    "content": "- Asthma self management for Childhood asthma, started 1973-12-28."
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "26aa011e-0d75-d1a3-98e4-5122ba454d93",
+    "patient_id": "26aa011e-0d75-d1a3-3c5a-560a9450cc9d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-03-26",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Jesse Wolf - 2017-03-26",
+    "content": "Patient: Jesse Wolf, male, born 2010-04-04 (patient ID 26aa011e-0d75-d1a3-3c5a-560a9450cc9d).\nVisit date: 2017-03-26.\nVisit type: Well child visit.\nClinician: Odessa Hintz (General Practice).\nFacility: WESTFORD INTERNAL MEDICINE PC, WESTFORD, MA."
+  },
+  {
+    "doc_id": "26aa011e-0d75-d1a3-98e4-5122ba454d93",
+    "patient_id": "26aa011e-0d75-d1a3-3c5a-560a9450cc9d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-03-26",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Jesse Wolf - 2017-03-26",
+    "content": "- Body Height: 123.0 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0\n- Body Weight: 48.5 kg\n- Body mass index (BMI) [Ratio]: 32.0 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 99.9 %\n- Diastolic Blood Pressure: 69.0 mm[Hg]\n- Systolic Blood Pressure: 122.0 mm[Hg]\n- Heart rate: 95.0 /min\n- Respiratory rate: 12.0 /min"
+  },
+  {
+    "doc_id": "26aa011e-0d75-d1a3-98e4-5122ba454d93",
+    "patient_id": "26aa011e-0d75-d1a3-3c5a-560a9450cc9d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-03-26",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Jesse Wolf - 2017-03-26",
+    "content": "- Patient referral for dental care."
+  },
+  {
+    "doc_id": "26aa011e-0d75-d1a3-98e4-5122ba454d93",
+    "patient_id": "26aa011e-0d75-d1a3-3c5a-560a9450cc9d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-03-26",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Jesse Wolf - 2017-03-26",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "aee7bbe1-0c45-c028-ff24-64028b2c91e9",
+    "patient_id": "aee7bbe1-0c45-c028-1e62-1f4cdb30c273",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-01-29",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Wilfredo Fritsch - 2026-01-29",
+    "content": "Patient: Wilfredo Fritsch, male, born 2010-12-23 (patient ID aee7bbe1-0c45-c028-1e62-1f4cdb30c273).\nVisit date: 2026-01-29.\nVisit type: Well child visit.\nClinician: Victoria Roob (General Practice).\nFacility: DILIGENCEHEALTHCARE, BROCKTON, MA."
+  },
+  {
+    "doc_id": "aee7bbe1-0c45-c028-ff24-64028b2c91e9",
+    "patient_id": "aee7bbe1-0c45-c028-1e62-1f4cdb30c273",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-01-29",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Wilfredo Fritsch - 2026-01-29",
+    "content": "- Body Height: 175.2 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0\n- Body Weight: 73.6 kg\n- Body mass index (BMI) [Ratio]: 24.0 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 87.1 %\n- Diastolic Blood Pressure: 89.0 mm[Hg]\n- Systolic Blood Pressure: 115.0 mm[Hg]\n- Heart rate: 84.0 /min\n- Respiratory rate: 15.0 /min"
+  },
+  {
+    "doc_id": "aee7bbe1-0c45-c028-ff24-64028b2c91e9",
+    "patient_id": "aee7bbe1-0c45-c028-1e62-1f4cdb30c273",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-01-29",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Wilfredo Fritsch - 2026-01-29",
+    "content": "- Assessment of anxiety.\n- Depression screening.\n- Depression screening using Patient Health Questionnaire Nine Item score.\n- Assessment of substance use.\n- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test.\n- Anticipatory guidance.\n- Patient referral for dental care."
+  },
+  {
+    "doc_id": "aee7bbe1-0c45-c028-ff24-64028b2c91e9",
+    "patient_id": "aee7bbe1-0c45-c028-1e62-1f4cdb30c273",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-01-29",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Wilfredo Fritsch - 2026-01-29",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "46976cf7-b0bf-be20-1475-2a206b56b616",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Office Visit Note",
+    "date": "2018-09-17",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Lindsay Zieme - 2018-09-17",
+    "content": "Patient: Lindsay Zieme, female, born 2007-09-14 (patient ID 46976cf7-b0bf-be20-39a5-9f425a52886d).\nVisit date: 2018-09-17.\nVisit type: Encounter for symptom.\nClinician: Otha Roberts (General Practice).\nFacility: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC, WORCESTER, MA."
+  },
+  {
+    "doc_id": "46976cf7-b0bf-be20-1475-2a206b56b616",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Office Visit Note",
+    "date": "2018-09-17",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Lindsay Zieme - 2018-09-17",
+    "content": "Seen for Acute bronchitis."
+  },
+  {
+    "doc_id": "46976cf7-b0bf-be20-1475-2a206b56b616",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Office Visit Note",
+    "date": "2018-09-17",
+    "section": "Assessment",
+    "title": "Office Visit Note - Lindsay Zieme - 2018-09-17",
+    "content": "Diagnoses recorded at this visit:\n- Acute bronchitis (onset 2018-09-17), resolved 2018-10-07."
+  },
+  {
+    "doc_id": "46976cf7-b0bf-be20-1475-2a206b56b616",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Office Visit Note",
+    "date": "2018-09-17",
+    "section": "Procedures",
+    "title": "Office Visit Note - Lindsay Zieme - 2018-09-17",
+    "content": "- Sputum examination, for Acute bronchitis."
+  },
+  {
+    "doc_id": "46976cf7-b0bf-be20-1475-2a206b56b616",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Office Visit Note",
+    "date": "2018-09-17",
+    "section": "Medications",
+    "title": "Office Visit Note - Lindsay Zieme - 2018-09-17",
+    "content": "Medications prescribed at this visit:\n- Acetaminophen 325 MG Oral Tablet, started 2018-09-17, for Acute bronchitis; stopped 2018-10-07."
+  },
+  {
+    "doc_id": "46976cf7-b0bf-be20-1475-2a206b56b616",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Office Visit Note",
+    "date": "2018-09-17",
+    "section": "Plan",
+    "title": "Office Visit Note - Lindsay Zieme - 2018-09-17",
+    "content": "- Respiratory therapy, started 2018-09-17, ended 2019-10-04."
+  }
+]

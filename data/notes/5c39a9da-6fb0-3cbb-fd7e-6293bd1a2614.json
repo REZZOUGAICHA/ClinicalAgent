@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "5c39a9da-6fb0-3cbb-fd7e-6293bd1a2614",
+    "patient_id": "5c39a9da-6fb0-3cbb-0181-add875529d46",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2022-04-07",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Edmond Ferry - 2022-04-07",
+    "content": "Patient: Edmond Ferry, male, born 2011-03-31 (patient ID 5c39a9da-6fb0-3cbb-0181-add875529d46).\nVisit date: 2022-04-07.\nVisit type: Well child visit.\nClinician: Anh Schroeder (General Practice).\nFacility: FAMILY PRACTICE GROUP PC, ARLINGTON, MA."
+  },
+  {
+    "doc_id": "5c39a9da-6fb0-3cbb-fd7e-6293bd1a2614",
+    "patient_id": "5c39a9da-6fb0-3cbb-0181-add875529d46",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2022-04-07",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Edmond Ferry - 2022-04-07",
+    "content": "- Body Height: 127.8 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0\n- Body Weight: 26.9 kg\n- Body mass index (BMI) [Ratio]: 16.5 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 36.1 %\n- Diastolic Blood Pressure: 83.0 mm[Hg]\n- Systolic Blood Pressure: 128.0 mm[Hg]\n- Heart rate: 94.0 /min\n- Respiratory rate: 15.0 /min"
+  },
+  {
+    "doc_id": "5c39a9da-6fb0-3cbb-fd7e-6293bd1a2614",
+    "patient_id": "5c39a9da-6fb0-3cbb-0181-add875529d46",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2022-04-07",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Edmond Ferry - 2022-04-07",
+    "content": "- Leukocytes [#/volume] in Blood by Automated count: 3.7 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 5.2 10*6/uL\n- Hemoglobin [Mass/volume] in Blood: 16.4 g/dL\n- Hematocrit [Volume Fraction] of Blood by Automated count: 37.3 %\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 90.9 fL\n- MCH [Entitic mass] by Automated count: 27.7 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 35.4 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 39.7 fL\n- Platelets [#/volume] in Blood by Automated count: 268.6 10*3/uL\n- Platelet distribution width [Entitic volume] in Blood by Automated count: 12.1 fL\n- Platelet [Entitic mean volume] in Blood by Automated count: 10.0 fL"
+  },
+  {
+    "doc_id": "5c39a9da-6fb0-3cbb-fd7e-6293bd1a2614",
+    "patient_id": "5c39a9da-6fb0-3cbb-0181-add875529d46",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2022-04-07",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Edmond Ferry - 2022-04-07",
+    "content": "- Medication reconciliation."
+  },
+  {
+    "doc_id": "5c39a9da-6fb0-3cbb-fd7e-6293bd1a2614",
+    "patient_id": "5c39a9da-6fb0-3cbb-0181-add875529d46",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2022-04-07",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Edmond Ferry - 2022-04-07",
+    "content": "- Tdap.\n- Influenza split virus trivalent PF.\n- HPV quadrivalent.\n- meningococcal MCV4P."
+  }
+]

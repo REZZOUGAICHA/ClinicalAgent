@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "46ee9d82-b52c-856d-0564-b1f4bbc5806c",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-09-10",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Shalanda Koepp - 2019-09-10",
+    "content": "Patient: Shalanda Koepp, female, born 1996-06-18 (patient ID 46ee9d82-b52c-856d-069b-5064ff052225).\nVisit date: 2019-09-10.\nVisit type: General examination of patient.\nClinician: Pearlene Towne (General Practice).\nFacility: LOWELL COMMUNITY HEALTH CENTER, LOWELL, MA."
+  },
+  {
+    "doc_id": "46ee9d82-b52c-856d-0564-b1f4bbc5806c",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-09-10",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Shalanda Koepp - 2019-09-10",
+    "content": "Diagnoses recorded at this visit:\n- Full-time employment (onset 2019-09-10), resolved 2022-09-27."
+  },
+  {
+    "doc_id": "46ee9d82-b52c-856d-0564-b1f4bbc5806c",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-09-10",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Shalanda Koepp - 2019-09-10",
+    "content": "- Body Height: 153.2 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0\n- Body Weight: 63.0 kg\n- Body mass index (BMI) [Ratio]: 26.9 kg/m2\n- Diastolic Blood Pressure: 85.0 mm[Hg]\n- Systolic Blood Pressure: 125.0 mm[Hg]\n- Heart rate: 92.0 /min\n- Respiratory rate: 12.0 /min"
+  },
+  {
+    "doc_id": "46ee9d82-b52c-856d-0564-b1f4bbc5806c",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-09-10",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Shalanda Koepp - 2019-09-10",
+    "content": "- Medication reconciliation.\n- Assessment of health and social care needs.\n- Assessment of anxiety.\n- Depression screening.\n- Depression screening.\n- Assessment of substance use.\n- Assessment using Alcohol Use Disorders Identification Test - Consumption."
+  },
+  {
+    "doc_id": "46ee9d82-b52c-856d-0564-b1f4bbc5806c",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-09-10",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Shalanda Koepp - 2019-09-10",
+    "content": "Medications prescribed at this visit:\n- tramadol hydrochloride 50 MG Oral Tablet, started 2019-09-10; stopped 2020-09-15."
+  },
+  {
+    "doc_id": "46ee9d82-b52c-856d-0564-b1f4bbc5806c",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-09-10",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Shalanda Koepp - 2019-09-10",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

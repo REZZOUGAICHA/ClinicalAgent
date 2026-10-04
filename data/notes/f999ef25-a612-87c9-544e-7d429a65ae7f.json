@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "f999ef25-a612-87c9-544e-7d429a65ae7f",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Urgent Care Note",
+    "date": "2008-04-04",
+    "section": "Visit Information",
+    "title": "Urgent Care Note - Evangeline Ziemann - 2008-04-04",
+    "content": "Patient: Evangeline Ziemann, female, born 1925-09-18 (patient ID f999ef25-a612-87c9-206f-aacc9d469dc8).\nVisit date: 2008-04-04.\nVisit type: Urgent care clinic.\nClinician: Liberty Kihn (General Practice).\nFacility: WOONSOCKET URGENT CARE PC, BELLINGHAM, MA."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-544e-7d429a65ae7f",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Urgent Care Note",
+    "date": "2008-04-04",
+    "section": "Assessment",
+    "title": "Urgent Care Note - Evangeline Ziemann - 2008-04-04",
+    "content": "Diagnoses recorded at this visit:\n- Not in labor force (onset 2008-04-04), resolved 2008-05-02."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-544e-7d429a65ae7f",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Urgent Care Note",
+    "date": "2008-04-04",
+    "section": "Vital Signs",
+    "title": "Urgent Care Note - Evangeline Ziemann - 2008-04-04",
+    "content": "- Body Height: 154.2 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0\n- Body Weight: 65.1 kg\n- Body mass index (BMI) [Ratio]: 27.4 kg/m2\n- Diastolic Blood Pressure: 70.0 mm[Hg]\n- Systolic Blood Pressure: 126.0 mm[Hg]\n- Heart rate: 92.0 /min\n- Respiratory rate: 15.0 /min"
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-544e-7d429a65ae7f",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Urgent Care Note",
+    "date": "2008-04-04",
+    "section": "Laboratory Results",
+    "title": "Urgent Care Note - Evangeline Ziemann - 2008-04-04",
+    "content": "- Hemoglobin A1c/Hemoglobin.total in Blood: 3.8 %\n- Glucose [Mass/volume] in Blood: 69.9 mg/dL\n- Urea nitrogen [Mass/volume] in Blood: 9.0 mg/dL\n- Creatinine [Mass/volume] in Blood: 0.5 mg/dL\n- Calcium [Mass/volume] in Blood: 9.6 mg/dL\n- Sodium [Moles/volume] in Blood: 143.7 mmol/L\n- Potassium [Moles/volume] in Blood: 3.8 mmol/L\n- Chloride [Moles/volume] in Blood: 108.3 mmol/L\n- Carbon dioxide  total [Moles/volume] in Blood: 26.9 mmol/L"
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-544e-7d429a65ae7f",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Urgent Care Note",
+    "date": "2008-04-04",
+    "section": "Procedures",
+    "title": "Urgent Care Note - Evangeline Ziemann - 2008-04-04",
+    "content": "- Assessment of health and social care needs.\n- Assessment using Morse Fall Scale.\n- Depression screening.\n- Depression screening.\n- Patient referral for dental care."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-544e-7d429a65ae7f",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Urgent Care Note",
+    "date": "2008-04-04",
+    "section": "Medications",
+    "title": "Urgent Care Note - Evangeline Ziemann - 2008-04-04",
+    "content": "Medications prescribed at this visit:\n- insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin], started 2008-04-04, for Prediabetes; stopped 2008-04-11.\n- 24 HR tacrolimus 1 MG Extended Release Oral Tablet [Envarsus], started 2008-04-04, for History of renal transplant; stopped 2008-04-11.\n- lisinopril 10 MG Oral Tablet, started 2008-04-04, for Essential hypertension; stopped 2008-04-11."
+  }
+]

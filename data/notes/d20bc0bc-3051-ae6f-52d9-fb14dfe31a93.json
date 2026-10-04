@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-52d9-fb14dfe31a93",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-03-15",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Lavette Kozey - 2017-03-15",
+    "content": "Patient: Lavette Kozey, female, born 2010-03-24 (patient ID d20bc0bc-3051-ae6f-f391-ceec7ec0370f).\nVisit date: 2017-03-15.\nVisit type: Well child visit.\nClinician: Anh Schroeder (General Practice).\nFacility: FAMILY PRACTICE GROUP PC, ARLINGTON, MA."
+  },
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-52d9-fb14dfe31a93",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-03-15",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Lavette Kozey - 2017-03-15",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2017-03-15), resolved 2021-04-07."
+  },
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-52d9-fb14dfe31a93",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-03-15",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Lavette Kozey - 2017-03-15",
+    "content": "- Body Height: 122.5 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0\n- Body Weight: 29.7 kg\n- Body mass index (BMI) [Ratio]: 19.8 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 95.5 %\n- Diastolic Blood Pressure: 74.0 mm[Hg]\n- Systolic Blood Pressure: 109.0 mm[Hg]\n- Heart rate: 94.0 /min\n- Respiratory rate: 14.0 /min"
+  }
+]

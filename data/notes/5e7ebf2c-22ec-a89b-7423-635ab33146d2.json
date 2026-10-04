@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-7423-635ab33146d2",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2017-06-02",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Rosalba Effertz - 2017-06-02",
+    "content": "Patient: Rosalba Effertz, female, born 1973-08-05 (patient ID 5e7ebf2c-22ec-a89b-53ab-38edddd81be9).\nVisit date: 2017-06-02.\nVisit type: Consultation for treatment.\nClinician: Saundra Kuphal (General Practice).\nFacility: COOLEY DICKINSON HOSPITAL INC, NORTHAMPTON, MA."
+  },
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-7423-635ab33146d2",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2017-06-02",
+    "section": "Reason for Visit",
+    "title": "Outpatient Procedure Note - Rosalba Effertz - 2017-06-02",
+    "content": "Seen for Contraception care."
+  },
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-7423-635ab33146d2",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2017-06-02",
+    "section": "Procedures",
+    "title": "Outpatient Procedure Note - Rosalba Effertz - 2017-06-02",
+    "content": "- Intramuscular injection."
+  },
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-7423-635ab33146d2",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2017-06-02",
+    "section": "Medications",
+    "title": "Outpatient Procedure Note - Rosalba Effertz - 2017-06-02",
+    "content": "Medications prescribed at this visit:\n- 1 ML medroxyprogesterone acetate 150 MG/ML Injection, started 2017-06-02; stopped 2018-05-28."
+  }
+]

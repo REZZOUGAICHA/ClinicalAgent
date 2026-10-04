@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "f999ef25-a612-87c9-d641-bc49579fc461",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Office Visit Note",
+    "date": "2014-07-17",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Evangeline Ziemann - 2014-07-17",
+    "content": "Patient: Evangeline Ziemann, female, born 1925-09-18 (patient ID f999ef25-a612-87c9-206f-aacc9d469dc8).\nVisit date: 2014-07-17.\nVisit type: Telemedicine consultation with patient.\nClinician: Gabriel Reilly (General Practice).\nFacility: Fitchburg Outpatient Clinic, Fitchburg, MA."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-d641-bc49579fc461",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Office Visit Note",
+    "date": "2014-07-17",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Evangeline Ziemann - 2014-07-17",
+    "content": "Seen for Chronic congestive heart failure."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-d641-bc49579fc461",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Office Visit Note",
+    "date": "2014-07-17",
+    "section": "Vital Signs",
+    "title": "Office Visit Note - Evangeline Ziemann - 2014-07-17",
+    "content": "- Diastolic Blood Pressure: 61.0 mm[Hg]\n- Systolic Blood Pressure: 101.0 mm[Hg]"
+  }
+]

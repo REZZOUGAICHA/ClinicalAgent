@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "2c167999-289d-95fa-2563-20c329e6cef4",
+    "patient_id": "2c167999-289d-95fa-5c27-7d8b8d35348c",
+    "document_type": "Emergency Department Note",
+    "date": "2002-12-20",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Eliseo Nader - 2002-12-20",
+    "content": "Patient: Eliseo Nader, male, born 1974-01-12 (patient ID 2c167999-289d-95fa-5c27-7d8b8d35348c).\nVisit date: 2002-12-20.\nVisit type: Encounter for problem.\nClinician: Dong Auer (General Practice).\nFacility: CHESTNUT WOODS REHABILITATION AND HEALTHCARE CTR, SAUGUS, MA."
+  },
+  {
+    "doc_id": "2c167999-289d-95fa-2563-20c329e6cef4",
+    "patient_id": "2c167999-289d-95fa-5c27-7d8b8d35348c",
+    "document_type": "Emergency Department Note",
+    "date": "2002-12-20",
+    "section": "Reason for Visit",
+    "title": "Emergency Department Note - Eliseo Nader - 2002-12-20",
+    "content": "Seen for Sepsis."
+  },
+  {
+    "doc_id": "2c167999-289d-95fa-2563-20c329e6cef4",
+    "patient_id": "2c167999-289d-95fa-5c27-7d8b8d35348c",
+    "document_type": "Emergency Department Note",
+    "date": "2002-12-20",
+    "section": "Assessment",
+    "title": "Emergency Department Note - Eliseo Nader - 2002-12-20",
+    "content": "Diagnoses recorded at this visit:\n- Sepsis (onset 2002-12-20)."
+  }
+]

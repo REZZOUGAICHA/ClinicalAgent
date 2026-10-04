@@ -1,0 +1,65 @@
+[
+  {
+    "doc_id": "080b069b-5108-46b6-8ec3-8261b73d47ab",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-02-14",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Chester Aufderhar - 2023-02-14",
+    "content": "Patient: Chester Aufderhar, male, born 1966-11-22 (patient ID 080b069b-5108-46b6-ecef-6aacd3b9ef3f).\nVisit date: 2023-02-14.\nVisit type: General examination of patient.\nClinician: Sharyl Williamson (General Practice).\nFacility: COMPASSIONATE HEALTH CARE GROUP LLC, WAREHAM, MA."
+  },
+  {
+    "doc_id": "080b069b-5108-46b6-8ec3-8261b73d47ab",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-02-14",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Chester Aufderhar - 2023-02-14",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2023-02-14), resolved 2024-02-20.\n- Unemployed (onset 2023-02-15), resolved 2025-02-26.\n- Stress (onset 2023-02-15), resolved 2025-02-26."
+  },
+  {
+    "doc_id": "080b069b-5108-46b6-8ec3-8261b73d47ab",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-02-14",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Chester Aufderhar - 2023-02-14",
+    "content": "- Body Height: 186.4 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0\n- Body Weight: 96.4 kg\n- Body mass index (BMI) [Ratio]: 27.8 kg/m2\n- Diastolic Blood Pressure: 83.0 mm[Hg]\n- Systolic Blood Pressure: 97.0 mm[Hg]\n- Heart rate: 71.0 /min\n- Respiratory rate: 12.0 /min"
+  },
+  {
+    "doc_id": "080b069b-5108-46b6-8ec3-8261b73d47ab",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-02-14",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Chester Aufderhar - 2023-02-14",
+    "content": "- Hemoglobin A1c/Hemoglobin.total in Blood: 6.0 %\n- Glucose [Mass/volume] in Blood: 92.4 mg/dL\n- Urea nitrogen [Mass/volume] in Blood: 17.5 mg/dL\n- Creatinine [Mass/volume] in Blood: 1.1 mg/dL\n- Calcium [Mass/volume] in Blood: 8.9 mg/dL\n- Sodium [Moles/volume] in Blood: 136.8 mmol/L\n- Potassium [Moles/volume] in Blood: 4.2 mmol/L\n- Chloride [Moles/volume] in Blood: 109.0 mmol/L\n- Carbon dioxide  total [Moles/volume] in Blood: 20.3 mmol/L"
+  },
+  {
+    "doc_id": "080b069b-5108-46b6-8ec3-8261b73d47ab",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-02-14",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Chester Aufderhar - 2023-02-14",
+    "content": "- Assessment of health and social care needs.\n- Depression screening.\n- Depression screening.\n- Patient referral for dental care."
+  },
+  {
+    "doc_id": "080b069b-5108-46b6-8ec3-8261b73d47ab",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-02-14",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Chester Aufderhar - 2023-02-14",
+    "content": "Medications prescribed at this visit:\n- Hydrochlorothiazide 25 MG Oral Tablet, started 2023-02-14, for Essential hypertension; stopped 2024-02-20.\n- lisinopril 10 MG Oral Tablet, started 2023-02-14, for Essential hypertension; stopped 2024-02-20.\n- amLODIPine 2.5 MG Oral Tablet, started 2023-02-14, for Essential hypertension; stopped 2024-02-20."
+  },
+  {
+    "doc_id": "080b069b-5108-46b6-8ec3-8261b73d47ab",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-02-14",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Chester Aufderhar - 2023-02-14",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

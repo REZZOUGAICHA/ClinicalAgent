@@ -1,0 +1,65 @@
+[
+  {
+    "doc_id": "922fb35e-148d-9e82-a359-3cbf34bac77e",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-05-08",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Agnes Weber - 2020-05-08",
+    "content": "Patient: Agnes Weber, female, born 1986-12-19 (patient ID 922fb35e-148d-9e82-7e65-bfa05e3b3515).\nVisit date: 2020-05-08.\nVisit type: General examination of patient.\nClinician: Valentine Leannon (General Practice).\nFacility: SUNRISE HEALTHCARE LLC, SHREWSBURY, MA."
+  },
+  {
+    "doc_id": "922fb35e-148d-9e82-a359-3cbf34bac77e",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-05-08",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Agnes Weber - 2020-05-08",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2020-05-08), resolved 2020-05-08.\n- Full-time employment (onset 2020-05-08), resolved 2026-06-12."
+  },
+  {
+    "doc_id": "922fb35e-148d-9e82-a359-3cbf34bac77e",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-05-08",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Agnes Weber - 2020-05-08",
+    "content": "- Body Height: 176.6 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0\n- Body Weight: 75.6 kg\n- Body mass index (BMI) [Ratio]: 24.3 kg/m2\n- Diastolic Blood Pressure: 85.0 mm[Hg]\n- Systolic Blood Pressure: 120.0 mm[Hg]\n- Heart rate: 61.0 /min\n- Respiratory rate: 15.0 /min"
+  },
+  {
+    "doc_id": "922fb35e-148d-9e82-a359-3cbf34bac77e",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-05-08",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Agnes Weber - 2020-05-08",
+    "content": "- Cholesterol [Mass/volume] in Serum or Plasma: 131.7 mg/dL\n- Triglyceride [Mass/volume] in Serum or Plasma: 131.2 mg/dL\n- Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay: 51.9 mg/dL\n- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 53.5 mg/dL"
+  },
+  {
+    "doc_id": "922fb35e-148d-9e82-a359-3cbf34bac77e",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-05-08",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Agnes Weber - 2020-05-08",
+    "content": "- Medication reconciliation.\n- Assessment of health and social care needs.\n- Depression screening.\n- Depression screening.\n- Depression screening using Patient Health Questionnaire Nine Item score."
+  },
+  {
+    "doc_id": "922fb35e-148d-9e82-a359-3cbf34bac77e",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-05-08",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Agnes Weber - 2020-05-08",
+    "content": "Medications prescribed at this visit:\n- budesonide 0.25 MG/ML Inhalation Suspension, started 2020-05-08, for Childhood asthma; stopped 2020-06-26.\n- albuterol 0.21 MG/ML Inhalation Solution, started 2020-05-08, for Childhood asthma; stopped 2020-06-26."
+  },
+  {
+    "doc_id": "922fb35e-148d-9e82-a359-3cbf34bac77e",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-05-08",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Agnes Weber - 2020-05-08",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

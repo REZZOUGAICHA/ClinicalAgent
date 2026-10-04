@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "e74367bd-7385-97dc-93ab-972d51af815a",
+    "patient_id": "e74367bd-7385-97dc-2c7f-251b4cd9fe29",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2020-12-19",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Tennille Jerde - 2020-12-19",
+    "content": "Patient: Tennille Jerde, female, born 1960-09-24 (patient ID e74367bd-7385-97dc-2c7f-251b4cd9fe29).\nVisit date: 2020-12-19.\nVisit type: Encounter for check up.\nClinician: Omer Koepp (General Practice).\nFacility: CAMBRIDGE PUBLIC HEALTH COMMISSION, SOMERVILLE, MA."
+  },
+  {
+    "doc_id": "e74367bd-7385-97dc-93ab-972d51af815a",
+    "patient_id": "e74367bd-7385-97dc-2c7f-251b4cd9fe29",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2020-12-19",
+    "section": "Assessment",
+    "title": "Outpatient Procedure Note - Tennille Jerde - 2020-12-19",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2020-12-19), resolved 2020-12-19."
+  },
+  {
+    "doc_id": "e74367bd-7385-97dc-93ab-972d51af815a",
+    "patient_id": "e74367bd-7385-97dc-2c7f-251b4cd9fe29",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2020-12-19",
+    "section": "Laboratory Results",
+    "title": "Outpatient Procedure Note - Tennille Jerde - 2020-12-19",
+    "content": "- Hemoglobin A1c/Hemoglobin.total in Blood: 5.9 %"
+  },
+  {
+    "doc_id": "e74367bd-7385-97dc-93ab-972d51af815a",
+    "patient_id": "e74367bd-7385-97dc-2c7f-251b4cd9fe29",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2020-12-19",
+    "section": "Procedures",
+    "title": "Outpatient Procedure Note - Tennille Jerde - 2020-12-19",
+    "content": "- Medication reconciliation."
+  },
+  {
+    "doc_id": "e74367bd-7385-97dc-93ab-972d51af815a",
+    "patient_id": "e74367bd-7385-97dc-2c7f-251b4cd9fe29",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2020-12-19",
+    "section": "Medications",
+    "title": "Outpatient Procedure Note - Tennille Jerde - 2020-12-19",
+    "content": "Medications prescribed at this visit:\n- Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet], started 2020-12-19; stopped 2021-11-27.\n- Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin], started 2020-12-19; stopped 2021-11-27.\n- buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet, started 2020-12-19, for Opioid abuse; stopped 2021-11-27.\n- 12 HR Hydrocodone Bitartrate 10 MG Extended Release Oral Capsule, started 2020-12-19; stopped 2021-11-27."
+  }
+]

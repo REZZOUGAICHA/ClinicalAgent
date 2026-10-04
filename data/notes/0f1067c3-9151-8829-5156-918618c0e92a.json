@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "0f1067c3-9151-8829-5156-918618c0e92a",
+    "patient_id": "0f1067c3-9151-8829-56cd-2eff898db59c",
+    "document_type": "Office Visit Note",
+    "date": "2023-03-09",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Virgie Aufderhar - 2023-03-09",
+    "content": "Patient: Virgie Aufderhar, female, born 2009-06-18 (patient ID 0f1067c3-9151-8829-56cd-2eff898db59c).\nVisit date: 2023-03-09.\nVisit type: Outpatient procedure.\nClinician: Antwan Lindgren (General Practice).\nFacility: DR SOLOMON CARTER FULLER MENTAL HEALTH CENTER, BOSTON, MA."
+  },
+  {
+    "doc_id": "0f1067c3-9151-8829-5156-918618c0e92a",
+    "patient_id": "0f1067c3-9151-8829-56cd-2eff898db59c",
+    "document_type": "Office Visit Note",
+    "date": "2023-03-09",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Virgie Aufderhar - 2023-03-09",
+    "content": "Seen for Allergic disposition."
+  },
+  {
+    "doc_id": "0f1067c3-9151-8829-5156-918618c0e92a",
+    "patient_id": "0f1067c3-9151-8829-56cd-2eff898db59c",
+    "document_type": "Office Visit Note",
+    "date": "2023-03-09",
+    "section": "Procedures",
+    "title": "Office Visit Note - Virgie Aufderhar - 2023-03-09",
+    "content": "- Subcutaneous immunotherapy."
+  }
+]

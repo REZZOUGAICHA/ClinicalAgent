@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "d3cb6736-0991-40ed-fb71-98f01c6b8b23",
+    "patient_id": "d3cb6736-0991-40ed-a220-7c714aba4c37",
+    "document_type": "Office Visit Note",
+    "date": "2025-10-26",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Tristan Reichel - 2025-10-26",
+    "content": "Patient: Tristan Reichel, male, born 1982-08-01 (patient ID d3cb6736-0991-40ed-a220-7c714aba4c37).\nVisit date: 2025-10-26.\nVisit type: Encounter for check up.\nClinician: Beatriz Monroy (General Practice).\nFacility: FIRST PSYCHIATRIC PLANNERS INC, WOBURN, MA."
+  },
+  {
+    "doc_id": "d3cb6736-0991-40ed-fb71-98f01c6b8b23",
+    "patient_id": "d3cb6736-0991-40ed-a220-7c714aba4c37",
+    "document_type": "Office Visit Note",
+    "date": "2025-10-26",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Tristan Reichel - 2025-10-26",
+    "content": "Seen for Patient referral for dental care."
+  },
+  {
+    "doc_id": "d3cb6736-0991-40ed-fb71-98f01c6b8b23",
+    "patient_id": "d3cb6736-0991-40ed-a220-7c714aba4c37",
+    "document_type": "Office Visit Note",
+    "date": "2025-10-26",
+    "section": "Assessment",
+    "title": "Office Visit Note - Tristan Reichel - 2025-10-26",
+    "content": "Diagnoses recorded at this visit:\n- Leaking dental filling (onset 2025-10-26), resolved 2025-10-26."
+  },
+  {
+    "doc_id": "d3cb6736-0991-40ed-fb71-98f01c6b8b23",
+    "patient_id": "d3cb6736-0991-40ed-a220-7c714aba4c37",
+    "document_type": "Office Visit Note",
+    "date": "2025-10-26",
+    "section": "Procedures",
+    "title": "Office Visit Note - Tristan Reichel - 2025-10-26",
+    "content": "- Dental consultation and report, for Patient referral for dental care.\n- Dental care, for Patient referral for dental care.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Examination of gingivae, for Patient referral for dental care.\n- Application of composite dental filling material to dentin of tooth following fracture of tooth, for Leaking dental filling.\n- Oral health education, for Patient referral for dental care."
+  }
+]

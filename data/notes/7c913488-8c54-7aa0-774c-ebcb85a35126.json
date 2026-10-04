@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "7c913488-8c54-7aa0-774c-ebcb85a35126",
+    "patient_id": "7c913488-8c54-7aa0-a452-83dbc3ad8377",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2016-12-23",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Dian Kiehn - 2016-12-23",
+    "content": "Patient: Dian Kiehn, female, born 2012-01-13 (patient ID 7c913488-8c54-7aa0-a452-83dbc3ad8377).\nVisit date: 2016-12-23.\nVisit type: Well child visit.\nClinician: Adela King (General Practice).\nFacility: FAMILY SERVICE ASSOCIATION OF GREATER FALL RIVER INC, FALL RIVER, MA."
+  },
+  {
+    "doc_id": "7c913488-8c54-7aa0-774c-ebcb85a35126",
+    "patient_id": "7c913488-8c54-7aa0-a452-83dbc3ad8377",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2016-12-23",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Dian Kiehn - 2016-12-23",
+    "content": "- Body Height: 113.9 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0\n- Body Weight: 23.2 kg\n- Body mass index (BMI) [Ratio]: 17.9 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 93.5 %\n- Diastolic Blood Pressure: 65.0 mm[Hg]\n- Systolic Blood Pressure: 124.0 mm[Hg]\n- Heart rate: 75.0 /min\n- Respiratory rate: 14.0 /min"
+  },
+  {
+    "doc_id": "7c913488-8c54-7aa0-774c-ebcb85a35126",
+    "patient_id": "7c913488-8c54-7aa0-a452-83dbc3ad8377",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2016-12-23",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Dian Kiehn - 2016-12-23",
+    "content": "- Patient referral for dental care."
+  },
+  {
+    "doc_id": "7c913488-8c54-7aa0-774c-ebcb85a35126",
+    "patient_id": "7c913488-8c54-7aa0-a452-83dbc3ad8377",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2016-12-23",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Dian Kiehn - 2016-12-23",
+    "content": "- varicella.\n- IPV.\n- Influenza split virus trivalent PF.\n- DTaP.\n- MMR."
+  }
+]

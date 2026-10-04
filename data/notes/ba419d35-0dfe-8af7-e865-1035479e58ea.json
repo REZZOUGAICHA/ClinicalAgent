@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "ba419d35-0dfe-8af7-e865-1035479e58ea",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-08-02",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Corie Kohler - 2019-08-02",
+    "content": "Patient: Corie Kohler, female, born 1925-09-18 (patient ID ba419d35-0dfe-8af7-347c-eebf02485a56).\nVisit date: 2019-08-02.\nVisit type: General examination of patient.\nClinician: Wynell Mayert (General Practice).\nFacility: WELLNESS ON WHEELS PC, NORTH ATTLEBORO, MA."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-e865-1035479e58ea",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-08-02",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Corie Kohler - 2019-08-02",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2019-08-02), resolved 2019-08-02.\n- Stress (onset 2019-08-02).\n- Gingivitis (onset 2019-08-02), resolved 2019-08-16."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-e865-1035479e58ea",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-08-02",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Corie Kohler - 2019-08-02",
+    "content": "- Body Height: 164.1 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0\n- Body Weight: 82.0 kg\n- Body mass index (BMI) [Ratio]: 30.5 kg/m2\n- Diastolic Blood Pressure: 69.0 mm[Hg]\n- Systolic Blood Pressure: 114.0 mm[Hg]\n- Heart rate: 77.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-e865-1035479e58ea",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-08-02",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Corie Kohler - 2019-08-02",
+    "content": "- Medication reconciliation.\n- Assessment of health and social care needs.\n- Assessment of anxiety.\n- Assessment using Morse Fall Scale.\n- Depression screening.\n- Depression screening.\n- Patient referral for dental care, for Gingivitis."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-e865-1035479e58ea",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-08-02",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Corie Kohler - 2019-08-02",
+    "content": "Medications prescribed at this visit:\n- 24 HR tacrolimus 5 MG Extended Release Oral Capsule [Astagraf], started 2019-08-02, for History of renal transplant; stopped 2020-08-07.\n- lisinopril 10 MG Oral Tablet, started 2019-08-02, for Essential hypertension; stopped 2020-08-07."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-e865-1035479e58ea",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-08-02",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Corie Kohler - 2019-08-02",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

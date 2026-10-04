@@ -1,0 +1,65 @@
+[
+  {
+    "doc_id": "c86c400e-ff88-a1e3-7fcc-d6d28897606c",
+    "patient_id": "c86c400e-ff88-a1e3-2e23-caa4d8311f47",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1984-05-21",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Cristobal Montero - 1984-05-21",
+    "content": "Patient: Cristobal Montero, male, born 1947-03-03 (patient ID c86c400e-ff88-a1e3-2e23-caa4d8311f47).\nVisit date: 1984-05-21.\nVisit type: General examination of patient.\nClinician: Eddie Keeling (General Practice).\nFacility: PRIMARY CARE NORTH PC, LYNN, MA."
+  },
+  {
+    "doc_id": "c86c400e-ff88-a1e3-7fcc-d6d28897606c",
+    "patient_id": "c86c400e-ff88-a1e3-2e23-caa4d8311f47",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1984-05-21",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Cristobal Montero - 1984-05-21",
+    "content": "Diagnoses recorded at this visit:\n- Social isolation (onset 1984-05-21), resolved 1987-03-09."
+  },
+  {
+    "doc_id": "c86c400e-ff88-a1e3-7fcc-d6d28897606c",
+    "patient_id": "c86c400e-ff88-a1e3-2e23-caa4d8311f47",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1984-05-21",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Cristobal Montero - 1984-05-21",
+    "content": "- Body Height: 185.2 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0\n- Body Weight: 94.1 kg\n- Body mass index (BMI) [Ratio]: 27.4 kg/m2\n- Diastolic Blood Pressure: 84.0 mm[Hg]\n- Systolic Blood Pressure: 125.0 mm[Hg]\n- Heart rate: 74.0 /min\n- Respiratory rate: 15.0 /min"
+  },
+  {
+    "doc_id": "c86c400e-ff88-a1e3-7fcc-d6d28897606c",
+    "patient_id": "c86c400e-ff88-a1e3-2e23-caa4d8311f47",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1984-05-21",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Cristobal Montero - 1984-05-21",
+    "content": "- Cholesterol [Mass/volume] in Serum or Plasma: 171.6 mg/dL\n- Triglyceride [Mass/volume] in Serum or Plasma: 130.4 mg/dL\n- Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay: 92.2 mg/dL\n- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 53.4 mg/dL"
+  },
+  {
+    "doc_id": "c86c400e-ff88-a1e3-7fcc-d6d28897606c",
+    "patient_id": "c86c400e-ff88-a1e3-2e23-caa4d8311f47",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1984-05-21",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Cristobal Montero - 1984-05-21",
+    "content": "- Medication reconciliation.\n- Assessment of health and social care needs.\n- Depression screening.\n- Depression screening."
+  },
+  {
+    "doc_id": "c86c400e-ff88-a1e3-7fcc-d6d28897606c",
+    "patient_id": "c86c400e-ff88-a1e3-2e23-caa4d8311f47",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1984-05-21",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Cristobal Montero - 1984-05-21",
+    "content": "Medications prescribed at this visit:\n- clonazePAM 0.25 MG Oral Tablet, started 1984-05-21, for Seizure disorder; stopped 1985-01-08."
+  },
+  {
+    "doc_id": "c86c400e-ff88-a1e3-7fcc-d6d28897606c",
+    "patient_id": "c86c400e-ff88-a1e3-2e23-caa4d8311f47",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1984-05-21",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Cristobal Montero - 1984-05-21",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

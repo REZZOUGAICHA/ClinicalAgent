@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "080b069b-5108-46b6-9e65-3ee8ecc5ec5b",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1995-04-18",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Chester Aufderhar - 1995-04-18",
+    "content": "Patient: Chester Aufderhar, male, born 1966-11-22 (patient ID 080b069b-5108-46b6-ecef-6aacd3b9ef3f).\nVisit date: 1995-04-18.\nVisit type: General examination of patient.\nClinician: Sharyl Williamson (General Practice).\nFacility: COMPASSIONATE HEALTH CARE GROUP LLC, WAREHAM, MA."
+  },
+  {
+    "doc_id": "080b069b-5108-46b6-9e65-3ee8ecc5ec5b",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1995-04-18",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Chester Aufderhar - 1995-04-18",
+    "content": "Diagnoses recorded at this visit:\n- Prediabetes (onset 1995-04-18).\n- Anemia (onset 1995-04-18)."
+  },
+  {
+    "doc_id": "080b069b-5108-46b6-9e65-3ee8ecc5ec5b",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1995-04-18",
+    "section": "Plan",
+    "title": "Annual Wellness Visit Note - Chester Aufderhar - 1995-04-18",
+    "content": "- Diabetes self management plan for Prediabetes, started 1995-04-18."
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "7811dc30-8c86-8164-01bf-11274617fedc",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Emergency Department Note",
+    "date": "2023-07-07",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Mignon Rau - 2023-07-07",
+    "content": "Patient: Mignon Rau, female, born 1970-04-21 (patient ID 7811dc30-8c86-8164-6c33-6b6f464745ef).\nVisit date: 2023-07-07.\nVisit type: Emergency room admission.\nClinician: Thaddeus Sauer (General Practice).\nFacility: BOSTONIAN NURSING CARE & REHABILITATION CTR THE, DORCHESTER, MA."
+  },
+  {
+    "doc_id": "7811dc30-8c86-8164-01bf-11274617fedc",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Emergency Department Note",
+    "date": "2023-07-07",
+    "section": "Reason for Visit",
+    "title": "Emergency Department Note - Mignon Rau - 2023-07-07",
+    "content": "Seen for Fracture of bone."
+  },
+  {
+    "doc_id": "7811dc30-8c86-8164-01bf-11274617fedc",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Emergency Department Note",
+    "date": "2023-07-07",
+    "section": "Assessment",
+    "title": "Emergency Department Note - Mignon Rau - 2023-07-07",
+    "content": "Diagnoses recorded at this visit:\n- Fracture of bone (onset 2023-07-07), resolved 2023-08-20.\n- Fracture of ankle (onset 2023-07-07), resolved 2023-08-20."
+  },
+  {
+    "doc_id": "7811dc30-8c86-8164-01bf-11274617fedc",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Emergency Department Note",
+    "date": "2023-07-07",
+    "section": "Procedures",
+    "title": "Emergency Department Note - Mignon Rau - 2023-07-07",
+    "content": "- Plain X-ray of ankle region.\n- Bone immobilization, for Fracture of ankle.\n- Bone density scan, for Fracture of ankle."
+  },
+  {
+    "doc_id": "7811dc30-8c86-8164-01bf-11274617fedc",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Emergency Department Note",
+    "date": "2023-07-07",
+    "section": "Medications",
+    "title": "Emergency Department Note - Mignon Rau - 2023-07-07",
+    "content": "Medications prescribed at this visit:\n- Acetaminophen 325 MG Oral Tablet, started 2023-07-07; stopped 2023-08-20."
+  },
+  {
+    "doc_id": "7811dc30-8c86-8164-01bf-11274617fedc",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Emergency Department Note",
+    "date": "2023-07-07",
+    "section": "Plan",
+    "title": "Emergency Department Note - Mignon Rau - 2023-07-07",
+    "content": "- Fracture care for Fracture of ankle, started 2023-07-07, ended 2023-08-20."
+  }
+]

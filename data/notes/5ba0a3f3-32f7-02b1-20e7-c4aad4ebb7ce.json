@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-20e7-c4aad4ebb7ce",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Office Visit Note",
+    "date": "1999-10-09",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Faustino Langworth - 1999-10-09",
+    "content": "Patient: Faustino Langworth, male, born 1998-06-17 (patient ID 5ba0a3f3-32f7-02b1-ec6a-8f568923954c).\nVisit date: 1999-10-09.\nVisit type: Encounter for problem.\nClinician: Floy Greenfelder (General Practice).\nFacility: CAMBRIDGE PUBLIC HEALTH COMMISSION, SOMERVILLE, MA."
+  },
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-20e7-c4aad4ebb7ce",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Office Visit Note",
+    "date": "1999-10-09",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Faustino Langworth - 1999-10-09",
+    "content": "Seen for Allergic disposition."
+  },
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-20e7-c4aad4ebb7ce",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Office Visit Note",
+    "date": "1999-10-09",
+    "section": "Allergies",
+    "title": "Office Visit Note - Faustino Langworth - 1999-10-09",
+    "content": "- Allergic disposition (environment allergy).\n- Mold (environment allergy).\n- House dust mite (environment allergy).\n- Animal dander (environment allergy); reaction: rhinoconjunctivitis, moderate.\n- Grass pollen (environment allergy).\n- Tree pollen (environment allergy).\n- Cow's milk (food allergy); reaction: finding of vomiting, moderate.\n- Shellfish (food allergy); reaction: eruption of skin, moderate."
+  },
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-20e7-c4aad4ebb7ce",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Office Visit Note",
+    "date": "1999-10-09",
+    "section": "Medications",
+    "title": "Office Visit Note - Faustino Langworth - 1999-10-09",
+    "content": "Medications prescribed at this visit:\n- Fexofenadine hydrochloride 30 MG Oral Tablet, started 1999-10-09; no stop date recorded.\n- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector, started 1999-10-09; no stop date recorded."
+  }
+]

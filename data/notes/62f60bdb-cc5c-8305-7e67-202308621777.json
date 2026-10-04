@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "62f60bdb-cc5c-8305-7e67-202308621777",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Office Visit Note",
+    "date": "2019-11-13",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Angel Frami - 2019-11-13",
+    "content": "Patient: Angel Frami, female, born 1975-10-22 (patient ID 62f60bdb-cc5c-8305-b98b-f2b229a55eca).\nVisit date: 2019-11-13.\nVisit type: Encounter for problem.\nClinician: Ollie Dooley (General Practice).\nFacility: DR JOHN C CORRIGAN MENTAL HEALTH CENTER, FALL RIVER, MA."
+  },
+  {
+    "doc_id": "62f60bdb-cc5c-8305-7e67-202308621777",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Office Visit Note",
+    "date": "2019-11-13",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Angel Frami - 2019-11-13",
+    "content": "Seen for Anemia."
+  },
+  {
+    "doc_id": "62f60bdb-cc5c-8305-7e67-202308621777",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Office Visit Note",
+    "date": "2019-11-13",
+    "section": "Laboratory Results",
+    "title": "Office Visit Note - Angel Frami - 2019-11-13",
+    "content": "- Hemoglobin [Mass/volume] in Blood: 10.6 g/dL\n- Hematocrit [Volume Fraction] of Blood by calculation: 21.2 %\n- Leukocytes [#/volume] in Blood by Automated count: 4.6 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 5.3 10*6/uL\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 93.1 fL\n- MCH [Entitic mass] by Automated count: 29.2 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 34.4 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 40.5 fL\n- Platelets [#/volume] in Blood by Automated count: 421.3 10*3/uL\n- Platelet distribution width [Entitic volume] in Blood by Automated count: 13.9 fL\n- Platelet [Entitic mean volume] in Blood by Automated count: 11.0 fL"
+  },
+  {
+    "doc_id": "62f60bdb-cc5c-8305-7e67-202308621777",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Office Visit Note",
+    "date": "2019-11-13",
+    "section": "Procedures",
+    "title": "Office Visit Note - Angel Frami - 2019-11-13",
+    "content": "- Peripheral blood smear interpretation.\n- Review of systems.\n- Medication reconciliation.\n- Brief general examination.\n- Intravenous blood transfusion of packed cells."
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-ac82-c3178b927e4d",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Emergency Department Note",
+    "date": "2013-03-04",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Faustino Langworth - 2013-03-04",
+    "content": "Patient: Faustino Langworth, male, born 1998-06-17 (patient ID 5ba0a3f3-32f7-02b1-ec6a-8f568923954c).\nVisit date: 2013-03-04.\nVisit type: Emergency room admission.\nClinician: Judy Gleason (General Practice).\nFacility: CAMBRIDGE REHABILITATION & NURSING CENTER, CAMBRIDGE, MA."
+  },
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-ac82-c3178b927e4d",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Emergency Department Note",
+    "date": "2013-03-04",
+    "section": "Reason for Visit",
+    "title": "Emergency Department Note - Faustino Langworth - 2013-03-04",
+    "content": "Seen for Impacted molars."
+  },
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-ac82-c3178b927e4d",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Emergency Department Note",
+    "date": "2013-03-04",
+    "section": "Assessment",
+    "title": "Emergency Department Note - Faustino Langworth - 2013-03-04",
+    "content": "Diagnoses recorded at this visit:\n- Impacted molars (onset 2013-03-04)."
+  }
+]

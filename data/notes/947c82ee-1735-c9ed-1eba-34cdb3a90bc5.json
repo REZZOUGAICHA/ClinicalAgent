@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "947c82ee-1735-c9ed-1eba-34cdb3a90bc5",
+    "patient_id": "947c82ee-1735-c9ed-8210-38cb93d8070c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2016-08-23",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Marcell Hammes - 2016-08-23",
+    "content": "Patient: Marcell Hammes, female, born 2016-05-17 (patient ID 947c82ee-1735-c9ed-8210-38cb93d8070c).\nVisit date: 2016-08-23.\nVisit type: Well child visit.\nClinician: Kirby McKenzie (General Practice).\nFacility: BOSTON MEDICAL CENTER CORPORATION-, ROSLINDALE, MA."
+  },
+  {
+    "doc_id": "947c82ee-1735-c9ed-1eba-34cdb3a90bc5",
+    "patient_id": "947c82ee-1735-c9ed-8210-38cb93d8070c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2016-08-23",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Marcell Hammes - 2016-08-23",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2016-08-23), resolved 2016-10-25."
+  }
+]

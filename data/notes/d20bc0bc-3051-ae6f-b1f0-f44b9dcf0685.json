@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-b1f0-f44b9dcf0685",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Office Visit Note",
+    "date": "2024-05-08",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Lavette Kozey - 2024-05-08",
+    "content": "Patient: Lavette Kozey, female, born 2010-03-24 (patient ID d20bc0bc-3051-ae6f-f391-ceec7ec0370f).\nVisit date: 2024-05-08.\nVisit type: Encounter for check up.\nClinician: Beatriz Monroy (General Practice).\nFacility: FIRST PSYCHIATRIC PLANNERS INC, WOBURN, MA."
+  },
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-b1f0-f44b9dcf0685",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Office Visit Note",
+    "date": "2024-05-08",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Lavette Kozey - 2024-05-08",
+    "content": "Seen for Patient referral for dental care."
+  },
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-b1f0-f44b9dcf0685",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Office Visit Note",
+    "date": "2024-05-08",
+    "section": "Procedures",
+    "title": "Office Visit Note - Lavette Kozey - 2024-05-08",
+    "content": "- Dental consultation and report, for Patient referral for dental care.\n- Dental care, for Patient referral for dental care.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Examination of gingivae, for Patient referral for dental care.\n- Oral health education, for Patient referral for dental care."
+  }
+]

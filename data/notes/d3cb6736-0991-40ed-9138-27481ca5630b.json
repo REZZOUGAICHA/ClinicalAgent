@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "d3cb6736-0991-40ed-9138-27481ca5630b",
+    "patient_id": "d3cb6736-0991-40ed-a220-7c714aba4c37",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-08-16",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Tristan Reichel - 2026-08-16",
+    "content": "Patient: Tristan Reichel, male, born 1982-08-01 (patient ID d3cb6736-0991-40ed-a220-7c714aba4c37).\nVisit date: 2026-08-16.\nVisit type: General examination of patient.\nClinician: Jarrett Gutmann (General Practice).\nFacility: ZANJABEE INTEGRATIVE MEDICINE AND PRIMARY CARE LLC, WOBURN, MA."
+  },
+  {
+    "doc_id": "d3cb6736-0991-40ed-9138-27481ca5630b",
+    "patient_id": "d3cb6736-0991-40ed-a220-7c714aba4c37",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-08-16",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Tristan Reichel - 2026-08-16",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2026-08-16)."
+  },
+  {
+    "doc_id": "d3cb6736-0991-40ed-9138-27481ca5630b",
+    "patient_id": "d3cb6736-0991-40ed-a220-7c714aba4c37",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-08-16",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Tristan Reichel - 2026-08-16",
+    "content": "- Body Height: 182.6 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0\n- Body Weight: 101.7 kg\n- Body mass index (BMI) [Ratio]: 30.5 kg/m2\n- Diastolic Blood Pressure: 68.0 mm[Hg]\n- Systolic Blood Pressure: 104.0 mm[Hg]\n- Heart rate: 81.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "d3cb6736-0991-40ed-9138-27481ca5630b",
+    "patient_id": "d3cb6736-0991-40ed-a220-7c714aba4c37",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-08-16",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Tristan Reichel - 2026-08-16",
+    "content": "- Hemoglobin A1c/Hemoglobin.total in Blood: 5.9 %\n- Glucose [Mass/volume] in Blood: 74.8 mg/dL\n- Urea nitrogen [Mass/volume] in Blood: 19.4 mg/dL\n- Creatinine [Mass/volume] in Blood: 1.4 mg/dL\n- Calcium [Mass/volume] in Blood: 9.9 mg/dL\n- Sodium [Moles/volume] in Blood: 142.8 mmol/L\n- Potassium [Moles/volume] in Blood: 4.9 mmol/L\n- Chloride [Moles/volume] in Blood: 105.5 mmol/L\n- Carbon dioxide  total [Moles/volume] in Blood: 24.6 mmol/L"
+  },
+  {
+    "doc_id": "d3cb6736-0991-40ed-9138-27481ca5630b",
+    "patient_id": "d3cb6736-0991-40ed-a220-7c714aba4c37",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-08-16",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Tristan Reichel - 2026-08-16",
+    "content": "- Assessment of health and social care needs.\n- Assessment of anxiety.\n- Screening for domestic abuse.\n- Assessment of substance use.\n- Assessment using Alcohol Use Disorders Identification Test - Consumption."
+  },
+  {
+    "doc_id": "d3cb6736-0991-40ed-9138-27481ca5630b",
+    "patient_id": "d3cb6736-0991-40ed-a220-7c714aba4c37",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-08-16",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Tristan Reichel - 2026-08-16",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

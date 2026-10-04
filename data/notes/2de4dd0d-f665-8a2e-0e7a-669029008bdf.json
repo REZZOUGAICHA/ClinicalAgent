@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-0e7a-669029008bdf",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Office Visit Note",
+    "date": "2018-12-15",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Aron Hammes - 2018-12-15",
+    "content": "Patient: Aron Hammes, male, born 2002-10-19 (patient ID 2de4dd0d-f665-8a2e-4c6b-997735e14ace).\nVisit date: 2018-12-15.\nVisit type: Encounter for check up.\nClinician: Carroll Eichmann (General Practice).\nFacility: BERKSHIRE MEDICAL CENTER INC, PITTSFIELD, MA."
+  },
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-0e7a-669029008bdf",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Office Visit Note",
+    "date": "2018-12-15",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Aron Hammes - 2018-12-15",
+    "content": "Seen for Gingivitis."
+  },
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-0e7a-669029008bdf",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Office Visit Note",
+    "date": "2018-12-15",
+    "section": "Procedures",
+    "title": "Office Visit Note - Aron Hammes - 2018-12-15",
+    "content": "- Dental consultation and report, for Gingivitis.\n- Dental care, for Gingivitis.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Examination of gingivae, for Gingivitis.\n- Oral health education, for Gingivitis."
+  }
+]

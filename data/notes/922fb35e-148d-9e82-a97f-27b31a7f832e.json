@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "922fb35e-148d-9e82-a97f-27b31a7f832e",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2026-06-19",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Agnes Weber - 2026-06-19",
+    "content": "Patient: Agnes Weber, female, born 1986-12-19 (patient ID 922fb35e-148d-9e82-7e65-bfa05e3b3515).\nVisit date: 2026-06-19.\nVisit type: Patient encounter procedure.\nClinician: Chanell Robel (General Practice).\nFacility: WHITTIER REHABILITATION HOSPITAL - BRADFORD, WESTBOROUGH, MA."
+  },
+  {
+    "doc_id": "922fb35e-148d-9e82-a97f-27b31a7f832e",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2026-06-19",
+    "section": "Reason for Visit",
+    "title": "Outpatient Procedure Note - Agnes Weber - 2026-06-19",
+    "content": "Seen for Contraception care."
+  },
+  {
+    "doc_id": "922fb35e-148d-9e82-a97f-27b31a7f832e",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2026-06-19",
+    "section": "Procedures",
+    "title": "Outpatient Procedure Note - Agnes Weber - 2026-06-19",
+    "content": "- Removal of intrauterine contraceptive device."
+  }
+]

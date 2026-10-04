@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "05cc86a0-2d98-b046-469f-874785d433c3",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Office Visit Note",
+    "date": "2019-11-22",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Carita Grady - 2019-11-22",
+    "content": "Patient: Carita Grady, female, born 1925-09-18 (patient ID 05cc86a0-2d98-b046-790a-211fd9e1ea92).\nVisit date: 2019-11-22.\nVisit type: Encounter for check up.\nClinician: Nickolas Schumm (General Practice).\nFacility: ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE, FRAMINGHAM, MA."
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-469f-874785d433c3",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Office Visit Note",
+    "date": "2019-11-22",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Carita Grady - 2019-11-22",
+    "content": "Seen for Gingivitis."
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-469f-874785d433c3",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Office Visit Note",
+    "date": "2019-11-22",
+    "section": "Assessment",
+    "title": "Office Visit Note - Carita Grady - 2019-11-22",
+    "content": "Diagnoses recorded at this visit:\n- Gingival disease (onset 2019-11-22), resolved 2019-11-23.\n- Fractured dental filling (onset 2019-11-23), resolved 2019-11-23."
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-469f-874785d433c3",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Office Visit Note",
+    "date": "2019-11-22",
+    "section": "Procedures",
+    "title": "Office Visit Note - Carita Grady - 2019-11-22",
+    "content": "- Dental consultation and report, for Gingivitis.\n- Dental care, for Gingivitis.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Examination of gingivae, for Gingivitis.\n- Dental surgical procedure, for Gingival disease.\n- Dental application of desensitizing medicament, for Gingival disease.\n- Gingivectomy or gingivoplasty  per tooth, for Gingival disease.\n- Postoperative care for dental procedure.\n- Application of composite dental filling material to dentin of tooth following fracture of tooth, for Fractured dental filling.\n- Oral health education, for Gingivitis."
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "6fbddf55-7096-b883-719e-18f4b739e31a",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Office Visit Note",
+    "date": "2014-05-01",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Clarinda Farrell - 2014-05-01",
+    "content": "Patient: Clarinda Farrell, female, born 1981-07-01 (patient ID 6fbddf55-7096-b883-7cd3-260f27953080).\nVisit date: 2014-05-01.\nVisit type: Encounter for problem.\nClinician: Luther Jakubowski (General Practice).\nFacility: ENCOMPASS HEALTH REHABILITATION HOSP OF NEW ENGLAN, WOBURN, MA."
+  },
+  {
+    "doc_id": "6fbddf55-7096-b883-719e-18f4b739e31a",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Office Visit Note",
+    "date": "2014-05-01",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Clarinda Farrell - 2014-05-01",
+    "content": "Seen for Contact dermatitis."
+  },
+  {
+    "doc_id": "6fbddf55-7096-b883-719e-18f4b739e31a",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Office Visit Note",
+    "date": "2014-05-01",
+    "section": "Medications",
+    "title": "Office Visit Note - Clarinda Farrell - 2014-05-01",
+    "content": "Medications prescribed at this visit:\n- Hydrocortisone 10 MG/ML Topical Cream, started 2014-05-01, for Contact dermatitis; no stop date recorded."
+  }
+]

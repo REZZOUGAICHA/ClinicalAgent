@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "7c913488-8c54-7aa0-67bc-bfc9c86341fe",
+    "patient_id": "7c913488-8c54-7aa0-a452-83dbc3ad8377",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-02-07",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Dian Kiehn - 2025-02-07",
+    "content": "Patient: Dian Kiehn, female, born 2012-01-13 (patient ID 7c913488-8c54-7aa0-a452-83dbc3ad8377).\nVisit date: 2025-02-07.\nVisit type: Well child visit.\nClinician: Adela King (General Practice).\nFacility: FAMILY SERVICE ASSOCIATION OF GREATER FALL RIVER INC, FALL RIVER, MA."
+  },
+  {
+    "doc_id": "7c913488-8c54-7aa0-67bc-bfc9c86341fe",
+    "patient_id": "7c913488-8c54-7aa0-a452-83dbc3ad8377",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-02-07",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Dian Kiehn - 2025-02-07",
+    "content": "- Body Height: 166.5 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0\n- Body Weight: 63.3 kg\n- Body mass index (BMI) [Ratio]: 22.8 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 86.1 %\n- Diastolic Blood Pressure: 64.0 mm[Hg]\n- Systolic Blood Pressure: 122.0 mm[Hg]\n- Heart rate: 91.0 /min\n- Respiratory rate: 15.0 /min"
+  },
+  {
+    "doc_id": "7c913488-8c54-7aa0-67bc-bfc9c86341fe",
+    "patient_id": "7c913488-8c54-7aa0-a452-83dbc3ad8377",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-02-07",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Dian Kiehn - 2025-02-07",
+    "content": "- Depression screening.\n- Depression screening using Patient Health Questionnaire Nine Item score."
+  },
+  {
+    "doc_id": "7c913488-8c54-7aa0-67bc-bfc9c86341fe",
+    "patient_id": "7c913488-8c54-7aa0-a452-83dbc3ad8377",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-02-07",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Dian Kiehn - 2025-02-07",
+    "content": "- Influenza split virus trivalent PF.\n- HPV quadrivalent."
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "14a5a697-29a3-48b2-ad7a-cb5ce91f78d1",
+    "patient_id": "14a5a697-29a3-48b2-969a-3ceefe74a700",
+    "document_type": "Office Visit Note",
+    "date": "2022-09-14",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Drusilla Schumm - 2022-09-14",
+    "content": "Patient: Drusilla Schumm, female, born 1958-11-15 (patient ID 14a5a697-29a3-48b2-969a-3ceefe74a700).\nVisit date: 2022-09-14.\nVisit type: Screening surveillance.\nClinician: Bennie Abbott (General Practice).\nFacility: LAHEY HOSPITAL & MEDICAL CENTER BURLINGTON, PEABODY, MA."
+  },
+  {
+    "doc_id": "14a5a697-29a3-48b2-ad7a-cb5ce91f78d1",
+    "patient_id": "14a5a697-29a3-48b2-969a-3ceefe74a700",
+    "document_type": "Office Visit Note",
+    "date": "2022-09-14",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Drusilla Schumm - 2022-09-14",
+    "content": "Seen for Malignant neoplasm of breast."
+  },
+  {
+    "doc_id": "14a5a697-29a3-48b2-ad7a-cb5ce91f78d1",
+    "patient_id": "14a5a697-29a3-48b2-969a-3ceefe74a700",
+    "document_type": "Office Visit Note",
+    "date": "2022-09-14",
+    "section": "Procedures",
+    "title": "Office Visit Note - Drusilla Schumm - 2022-09-14",
+    "content": "- Mammography, for Malignant neoplasm of breast."
+  }
+]

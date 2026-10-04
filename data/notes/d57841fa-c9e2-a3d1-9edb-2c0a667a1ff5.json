@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "d57841fa-c9e2-a3d1-9edb-2c0a667a1ff5",
+    "patient_id": "d57841fa-c9e2-a3d1-0e78-09bdbe4eed66",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2002-10-07",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Jessica McKenzie - 2002-10-07",
+    "content": "Patient: Jessica McKenzie, female, born 1965-07-19 (patient ID d57841fa-c9e2-a3d1-0e78-09bdbe4eed66).\nVisit date: 2002-10-07.\nVisit type: General examination of patient.\nClinician: Leonie Wunsch (General Practice).\nFacility: SOUTH SHORE CENTER FOR WELLNESS LTD, NORWELL, MA."
+  },
+  {
+    "doc_id": "d57841fa-c9e2-a3d1-9edb-2c0a667a1ff5",
+    "patient_id": "d57841fa-c9e2-a3d1-0e78-09bdbe4eed66",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2002-10-07",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Jessica McKenzie - 2002-10-07",
+    "content": "Diagnoses recorded at this visit:\n- Body mass index 30+ - obesity (onset 2002-10-07).\n- Limited social contact (onset 2002-10-07), resolved 2020-08-17."
+  }
+]

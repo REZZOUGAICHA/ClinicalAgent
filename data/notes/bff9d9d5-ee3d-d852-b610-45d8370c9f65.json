@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "bff9d9d5-ee3d-d852-b610-45d8370c9f65",
+    "patient_id": "bff9d9d5-ee3d-d852-9c67-36d8361a4a4a",
+    "document_type": "Office Visit Note",
+    "date": "2024-01-09",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Rosario Ortiz - 2024-01-09",
+    "content": "Patient: Rosario Ortiz, male, born 1945-01-28 (patient ID bff9d9d5-ee3d-d852-9c67-36d8361a4a4a).\nVisit date: 2024-01-09.\nVisit type: Encounter for problem.\nClinician: Gabriel Reilly (General Practice).\nFacility: Fitchburg Outpatient Clinic, Fitchburg, MA."
+  },
+  {
+    "doc_id": "bff9d9d5-ee3d-d852-b610-45d8370c9f65",
+    "patient_id": "bff9d9d5-ee3d-d852-9c67-36d8361a4a4a",
+    "document_type": "Office Visit Note",
+    "date": "2024-01-09",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Rosario Ortiz - 2024-01-09",
+    "content": "Seen for Mitral valve stenosis."
+  },
+  {
+    "doc_id": "bff9d9d5-ee3d-d852-b610-45d8370c9f65",
+    "patient_id": "bff9d9d5-ee3d-d852-9c67-36d8361a4a4a",
+    "document_type": "Office Visit Note",
+    "date": "2024-01-09",
+    "section": "Assessment",
+    "title": "Office Visit Note - Rosario Ortiz - 2024-01-09",
+    "content": "Diagnoses recorded at this visit:\n- Mitral valve stenosis (onset 2024-01-09)."
+  }
+]

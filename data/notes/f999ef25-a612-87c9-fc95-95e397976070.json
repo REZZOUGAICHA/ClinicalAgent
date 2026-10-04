@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "f999ef25-a612-87c9-fc95-95e397976070",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Emergency Department Note",
+    "date": "1990-07-06",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Evangeline Ziemann - 1990-07-06",
+    "content": "Patient: Evangeline Ziemann, female, born 1925-09-18 (patient ID f999ef25-a612-87c9-206f-aacc9d469dc8).\nVisit date: 1990-07-06.\nVisit type: Emergency room admission.\nClinician: Javier Collier (General Practice).\nFacility: SERENITY HILL NURSING CENTER, WRENTHAM, MA."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-fc95-95e397976070",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Emergency Department Note",
+    "date": "1990-07-06",
+    "section": "Reason for Visit",
+    "title": "Emergency Department Note - Evangeline Ziemann - 1990-07-06",
+    "content": "Seen for Impacted molars."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-fc95-95e397976070",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Emergency Department Note",
+    "date": "1990-07-06",
+    "section": "Assessment",
+    "title": "Emergency Department Note - Evangeline Ziemann - 1990-07-06",
+    "content": "Diagnoses recorded at this visit:\n- Impacted molars (onset 1990-07-06)."
+  }
+]

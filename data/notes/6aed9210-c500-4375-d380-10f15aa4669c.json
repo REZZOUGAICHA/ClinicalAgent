@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "6aed9210-c500-4375-d380-10f15aa4669c",
+    "patient_id": "6aed9210-c500-4375-b0fc-3374c40b8591",
+    "document_type": "Emergency Department Note",
+    "date": "2007-05-29",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Lyman Runte - 2007-05-29",
+    "content": "Patient: Lyman Runte, male, born 1965-07-08 (patient ID 6aed9210-c500-4375-b0fc-3374c40b8591).\nVisit date: 2007-05-29.\nVisit type: Encounter for problem.\nClinician: Kip Krajcik (General Practice).\nFacility: DUFFY HEALTH CENTER, HYANNIS, MA."
+  },
+  {
+    "doc_id": "6aed9210-c500-4375-d380-10f15aa4669c",
+    "patient_id": "6aed9210-c500-4375-b0fc-3374c40b8591",
+    "document_type": "Emergency Department Note",
+    "date": "2007-05-29",
+    "section": "Reason for Visit",
+    "title": "Emergency Department Note - Lyman Runte - 2007-05-29",
+    "content": "Seen for Sepsis."
+  },
+  {
+    "doc_id": "6aed9210-c500-4375-d380-10f15aa4669c",
+    "patient_id": "6aed9210-c500-4375-b0fc-3374c40b8591",
+    "document_type": "Emergency Department Note",
+    "date": "2007-05-29",
+    "section": "Assessment",
+    "title": "Emergency Department Note - Lyman Runte - 2007-05-29",
+    "content": "Diagnoses recorded at this visit:\n- Sepsis (onset 2007-05-29)."
+  }
+]

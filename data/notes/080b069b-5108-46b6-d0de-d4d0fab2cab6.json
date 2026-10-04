@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "080b069b-5108-46b6-d0de-d4d0fab2cab6",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Office Visit Note",
+    "date": "2019-01-29",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Chester Aufderhar - 2019-01-29",
+    "content": "Patient: Chester Aufderhar, male, born 1966-11-22 (patient ID 080b069b-5108-46b6-ecef-6aacd3b9ef3f).\nVisit date: 2019-01-29.\nVisit type: Encounter for problem.\nClinician: Gabriel Reilly (General Practice).\nFacility: Fitchburg Outpatient Clinic, Fitchburg, MA."
+  },
+  {
+    "doc_id": "080b069b-5108-46b6-d0de-d4d0fab2cab6",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Office Visit Note",
+    "date": "2019-01-29",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Chester Aufderhar - 2019-01-29",
+    "content": "Seen for Ischemic heart disease."
+  },
+  {
+    "doc_id": "080b069b-5108-46b6-d0de-d4d0fab2cab6",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Office Visit Note",
+    "date": "2019-01-29",
+    "section": "Procedures",
+    "title": "Office Visit Note - Chester Aufderhar - 2019-01-29",
+    "content": "- Referral to cardiology service, for Ischemic heart disease."
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "46976cf7-b0bf-be20-b834-102b8ce61a13",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2026-08-18",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Lindsay Zieme - 2026-08-18",
+    "content": "Patient: Lindsay Zieme, female, born 2007-09-14 (patient ID 46976cf7-b0bf-be20-39a5-9f425a52886d).\nVisit date: 2026-08-18.\nVisit type: Consultation for treatment.\nClinician: Otha Roberts (General Practice).\nFacility: NEW ENGLAND REHABILITATION SERVICES OF CENTRAL MASSACHUSETTS INC, WORCESTER, MA."
+  },
+  {
+    "doc_id": "46976cf7-b0bf-be20-b834-102b8ce61a13",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2026-08-18",
+    "section": "Reason for Visit",
+    "title": "Outpatient Procedure Note - Lindsay Zieme - 2026-08-18",
+    "content": "Seen for Contraception care."
+  },
+  {
+    "doc_id": "46976cf7-b0bf-be20-b834-102b8ce61a13",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2026-08-18",
+    "section": "Medications",
+    "title": "Outpatient Procedure Note - Lindsay Zieme - 2026-08-18",
+    "content": "Medications prescribed at this visit:\n- {24 (drospirenone 3 MG / ethinyl estradiol 0.02 MG Oral Tablet) / 4 (inert ingredients 1 MG Oral Tablet) } Pack [Yaz 28 Day], started 2026-08-18; no stop date recorded."
+  }
+]

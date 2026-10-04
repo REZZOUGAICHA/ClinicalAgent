@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-1392-9eadce1cbc29",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2025-03-18",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Lavette Kozey - 2025-03-18",
+    "content": "Patient: Lavette Kozey, female, born 2010-03-24 (patient ID d20bc0bc-3051-ae6f-f391-ceec7ec0370f).\nVisit date: 2025-03-18.\nVisit type: Consultation for treatment.\nClinician: Beatriz Monroy (General Practice).\nFacility: FIRST PSYCHIATRIC PLANNERS INC, WOBURN, MA."
+  },
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-1392-9eadce1cbc29",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2025-03-18",
+    "section": "Reason for Visit",
+    "title": "Outpatient Procedure Note - Lavette Kozey - 2025-03-18",
+    "content": "Seen for Contraception care."
+  },
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-1392-9eadce1cbc29",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2025-03-18",
+    "section": "Medications",
+    "title": "Outpatient Procedure Note - Lavette Kozey - 2025-03-18",
+    "content": "Medications prescribed at this visit:\n- {5 (dienogest 2 MG / estradiol valerate 2 MG Oral Tablet) / 17 (dienogest 3 MG / estradiol valerate 2 MG Oral Tablet) / 2 (estradiol valerate 1 MG Oral Tablet) / 2 (estradiol valerate 3 MG Oral Tablet) / 2 (inert ingredients 1 MG Oral Tablet) } Pack [Natazia 28 Day], started 2025-03-18; stopped 2026-03-13."
+  }
+]

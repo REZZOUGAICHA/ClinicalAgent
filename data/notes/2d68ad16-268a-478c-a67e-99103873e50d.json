@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "2d68ad16-268a-478c-a67e-99103873e50d",
+    "patient_id": "2d68ad16-268a-478c-1f84-d0f1976e1a46",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-03-27",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Mauro Braun - 2020-03-27",
+    "content": "Patient: Mauro Braun, male, born 2020-02-21 (patient ID 2d68ad16-268a-478c-1f84-d0f1976e1a46).\nVisit date: 2020-03-27.\nVisit type: Well child visit.\nClinician: Rolland Lemke (General Practice).\nFacility: QUINCY CENTER PRIMARY CARE PC, QUINCY, MA."
+  },
+  {
+    "doc_id": "2d68ad16-268a-478c-a67e-99103873e50d",
+    "patient_id": "2d68ad16-268a-478c-1f84-d0f1976e1a46",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-03-27",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Mauro Braun - 2020-03-27",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2020-03-27), resolved 2020-03-27."
+  },
+  {
+    "doc_id": "2d68ad16-268a-478c-a67e-99103873e50d",
+    "patient_id": "2d68ad16-268a-478c-1f84-d0f1976e1a46",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-03-27",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Mauro Braun - 2020-03-27",
+    "content": "- Body Height: 54.7 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0\n- Body Weight: 4.7 kg\n- Weight-for-length Per age and sex: 48.1 %\n- Head Occipital-frontal circumference Percentile: 24.4 %\n- Head Occipital-frontal circumference: 38.1 cm\n- Diastolic Blood Pressure: 71.0 mm[Hg]\n- Systolic Blood Pressure: 98.0 mm[Hg]\n- Heart rate: 66.0 /min\n- Respiratory rate: 12.0 /min"
+  },
+  {
+    "doc_id": "2d68ad16-268a-478c-a67e-99103873e50d",
+    "patient_id": "2d68ad16-268a-478c-1f84-d0f1976e1a46",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-03-27",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Mauro Braun - 2020-03-27",
+    "content": "- Medication reconciliation."
+  },
+  {
+    "doc_id": "2d68ad16-268a-478c-a67e-99103873e50d",
+    "patient_id": "2d68ad16-268a-478c-1f84-d0f1976e1a46",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-03-27",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Mauro Braun - 2020-03-27",
+    "content": "- Hep B adolescent or pediatric."
+  }
+]

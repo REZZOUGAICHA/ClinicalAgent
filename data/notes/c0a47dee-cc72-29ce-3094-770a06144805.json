@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "c0a47dee-cc72-29ce-3094-770a06144805",
+    "patient_id": "c0a47dee-cc72-29ce-df5a-ea6d306c36a4",
+    "document_type": "Office Visit Note",
+    "date": "2025-09-22",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Jonathan Carroll - 2025-09-22",
+    "content": "Patient: Jonathan Carroll, male, born 1987-02-23 (patient ID c0a47dee-cc72-29ce-df5a-ea6d306c36a4).\nVisit date: 2025-09-22.\nVisit type: Encounter for symptom.\nClinician: Tabatha Roob (General Practice).\nFacility: STEWARD ST. ANNES HOSPITAL CORPORATION, FALL RIVER, MA."
+  },
+  {
+    "doc_id": "c0a47dee-cc72-29ce-3094-770a06144805",
+    "patient_id": "c0a47dee-cc72-29ce-df5a-ea6d306c36a4",
+    "document_type": "Office Visit Note",
+    "date": "2025-09-22",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Jonathan Carroll - 2025-09-22",
+    "content": "Seen for Viral sinusitis."
+  },
+  {
+    "doc_id": "c0a47dee-cc72-29ce-3094-770a06144805",
+    "patient_id": "c0a47dee-cc72-29ce-df5a-ea6d306c36a4",
+    "document_type": "Office Visit Note",
+    "date": "2025-09-22",
+    "section": "Assessment",
+    "title": "Office Visit Note - Jonathan Carroll - 2025-09-22",
+    "content": "Diagnoses recorded at this visit:\n- Viral sinusitis (onset 2025-09-22), resolved 2025-09-30."
+  }
+]

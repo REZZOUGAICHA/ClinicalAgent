@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "dd9da64b-7b38-4f91-56c5-39cd2225672b",
+    "patient_id": "dd9da64b-7b38-4f91-e75d-b1268dde60d4",
+    "document_type": "Office Visit Note",
+    "date": "2019-06-24",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Donnetta Jenkins - 2019-06-24",
+    "content": "Patient: Donnetta Jenkins, female, born 1987-01-26 (patient ID dd9da64b-7b38-4f91-e75d-b1268dde60d4).\nVisit date: 2019-06-24.\nVisit type: Encounter for check up.\nClinician: Gaston Grimes (General Practice).\nFacility: ANNA JAQUES HOSPITAL SUBACUTE UNIT, NEWBURYPORT, MA."
+  },
+  {
+    "doc_id": "dd9da64b-7b38-4f91-56c5-39cd2225672b",
+    "patient_id": "dd9da64b-7b38-4f91-e75d-b1268dde60d4",
+    "document_type": "Office Visit Note",
+    "date": "2019-06-24",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Donnetta Jenkins - 2019-06-24",
+    "content": "Seen for Patient referral for dental care."
+  },
+  {
+    "doc_id": "dd9da64b-7b38-4f91-56c5-39cd2225672b",
+    "patient_id": "dd9da64b-7b38-4f91-e75d-b1268dde60d4",
+    "document_type": "Office Visit Note",
+    "date": "2019-06-24",
+    "section": "Assessment",
+    "title": "Office Visit Note - Donnetta Jenkins - 2019-06-24",
+    "content": "Diagnoses recorded at this visit:\n- Infection of tooth (onset 2019-06-24), resolved 2019-06-24.\n- Primary dental caries (onset 2019-06-24), resolved 2019-06-24."
+  },
+  {
+    "doc_id": "dd9da64b-7b38-4f91-56c5-39cd2225672b",
+    "patient_id": "dd9da64b-7b38-4f91-e75d-b1268dde60d4",
+    "document_type": "Office Visit Note",
+    "date": "2019-06-24",
+    "section": "Procedures",
+    "title": "Office Visit Note - Donnetta Jenkins - 2019-06-24",
+    "content": "- Dental consultation and report, for Patient referral for dental care.\n- Dental care, for Patient referral for dental care.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Dental plain X-ray bitewing.\n- Dental surgical procedure, for Infection of tooth.\n- Dental application of desensitizing medicament, for Infection of tooth.\n- Simple extraction of tooth, for Infection of tooth.\n- Postoperative care for dental procedure.\n- Examination of gingivae, for Patient referral for dental care.\n- Restoration of tooth with coverage of all cusps using dental filling material, for Primary dental caries.\n- Dental fluoride treatment, for Patient referral for dental care.\n- Oral health education, for Patient referral for dental care."
+  },
+  {
+    "doc_id": "dd9da64b-7b38-4f91-56c5-39cd2225672b",
+    "patient_id": "dd9da64b-7b38-4f91-e75d-b1268dde60d4",
+    "document_type": "Office Visit Note",
+    "date": "2019-06-24",
+    "section": "Medications",
+    "title": "Office Visit Note - Donnetta Jenkins - 2019-06-24",
+    "content": "Medications prescribed at this visit:\n- sodium fluoride 0.0272 MG/MG Oral Gel, started 2019-06-24, for Patient referral for dental care; stopped 2019-06-24."
+  }
+]

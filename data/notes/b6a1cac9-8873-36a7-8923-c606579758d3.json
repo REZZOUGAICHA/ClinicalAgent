@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "b6a1cac9-8873-36a7-8923-c606579758d3",
+    "patient_id": "b6a1cac9-8873-36a7-e726-4aad8a07d44d",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2019-01-02",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Renaldo Crist - 2019-01-02",
+    "content": "Patient: Renaldo Crist, male, born 1993-04-14 (patient ID b6a1cac9-8873-36a7-e726-4aad8a07d44d).\nVisit date: 2019-01-02.\nVisit type: Encounter for check up.\nClinician: Eleni Franecki (General Practice).\nFacility: BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM INC., NEEDHAM, MA."
+  },
+  {
+    "doc_id": "b6a1cac9-8873-36a7-8923-c606579758d3",
+    "patient_id": "b6a1cac9-8873-36a7-e726-4aad8a07d44d",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2019-01-02",
+    "section": "Assessment",
+    "title": "Outpatient Procedure Note - Renaldo Crist - 2019-01-02",
+    "content": "Diagnoses recorded at this visit:\n- Unhealthy alcohol drinking behavior (onset 2019-01-02).\n- Gingivitis (onset 2019-01-02), resolved 2019-01-16."
+  },
+  {
+    "doc_id": "b6a1cac9-8873-36a7-8923-c606579758d3",
+    "patient_id": "b6a1cac9-8873-36a7-e726-4aad8a07d44d",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2019-01-02",
+    "section": "Vital Signs",
+    "title": "Outpatient Procedure Note - Renaldo Crist - 2019-01-02",
+    "content": "- Body Height: 177.2 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0\n- Body Weight: 86.7 kg\n- Body mass index (BMI) [Ratio]: 27.6 kg/m2\n- Diastolic Blood Pressure: 79.0 mm[Hg]\n- Systolic Blood Pressure: 124.0 mm[Hg]\n- Heart rate: 77.0 /min\n- Respiratory rate: 15.0 /min"
+  },
+  {
+    "doc_id": "b6a1cac9-8873-36a7-8923-c606579758d3",
+    "patient_id": "b6a1cac9-8873-36a7-e726-4aad8a07d44d",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2019-01-02",
+    "section": "Procedures",
+    "title": "Outpatient Procedure Note - Renaldo Crist - 2019-01-02",
+    "content": "- Assessment of health and social care needs.\n- Depression screening.\n- Depression screening.\n- Assessment of substance use.\n- Assessment using Alcohol Use Disorders Identification Test - Consumption.\n- Patient referral for dental care, for Gingivitis."
+  },
+  {
+    "doc_id": "b6a1cac9-8873-36a7-8923-c606579758d3",
+    "patient_id": "b6a1cac9-8873-36a7-e726-4aad8a07d44d",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2019-01-02",
+    "section": "Immunizations",
+    "title": "Outpatient Procedure Note - Renaldo Crist - 2019-01-02",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

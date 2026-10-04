@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "982750f4-569b-5949-a71f-86ff02bff2a7",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Office Visit Note",
+    "date": "2022-08-24",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Dwana Wolf - 2022-08-24",
+    "content": "Patient: Dwana Wolf, female, born 1986-11-12 (patient ID 982750f4-569b-5949-196b-60699bdda3fb).\nVisit date: 2022-08-24.\nVisit type: Encounter for check up.\nClinician: Marcus Schamberger (General Practice).\nFacility: THE LOWELL GENERAL HOSPITAL, WESTFORD, MA."
+  },
+  {
+    "doc_id": "982750f4-569b-5949-a71f-86ff02bff2a7",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Office Visit Note",
+    "date": "2022-08-24",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Dwana Wolf - 2022-08-24",
+    "content": "Seen for Gingivitis."
+  },
+  {
+    "doc_id": "982750f4-569b-5949-a71f-86ff02bff2a7",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Office Visit Note",
+    "date": "2022-08-24",
+    "section": "Assessment",
+    "title": "Office Visit Note - Dwana Wolf - 2022-08-24",
+    "content": "Diagnoses recorded at this visit:\n- Fractured dental filling (onset 2022-08-24), resolved 2022-08-24."
+  },
+  {
+    "doc_id": "982750f4-569b-5949-a71f-86ff02bff2a7",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Office Visit Note",
+    "date": "2022-08-24",
+    "section": "Procedures",
+    "title": "Office Visit Note - Dwana Wolf - 2022-08-24",
+    "content": "- Dental consultation and report, for Gingivitis.\n- Dental care, for Gingivitis.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Examination of gingivae, for Gingivitis.\n- Application of composite dental filling material to dentin of tooth following fracture of tooth, for Fractured dental filling.\n- Oral health education, for Gingivitis."
+  }
+]

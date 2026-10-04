@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "322ab5c6-5846-ac1e-5ce8-37b0c8291a16",
+    "patient_id": "322ab5c6-5846-ac1e-38cc-48b8cb441e20",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2021-08-20",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Lena Cummings - 2021-08-20",
+    "content": "Patient: Lena Cummings, female, born 1965-02-26 (patient ID 322ab5c6-5846-ac1e-38cc-48b8cb441e20).\nVisit date: 2021-08-20.\nVisit type: Administration of vaccine to produce active immunity.\nClinician: Beatriz Monroy (General Practice).\nFacility: FIRST PSYCHIATRIC PLANNERS INC, WOBURN, MA."
+  },
+  {
+    "doc_id": "322ab5c6-5846-ac1e-5ce8-37b0c8291a16",
+    "patient_id": "322ab5c6-5846-ac1e-38cc-48b8cb441e20",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2021-08-20",
+    "section": "Immunizations",
+    "title": "Outpatient Procedure Note - Lena Cummings - 2021-08-20",
+    "content": "- COVID-19 mRNA LNP-S PF 100 mcg/0.5mL dose or 50 mcg/0.25mL dose."
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "982750f4-569b-5949-588b-7f19533f9ce3",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-07-21",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Dwana Wolf - 2021-07-21",
+    "content": "Patient: Dwana Wolf, female, born 1986-11-12 (patient ID 982750f4-569b-5949-196b-60699bdda3fb).\nVisit date: 2021-07-21.\nVisit type: General examination of patient.\nClinician: Hank Schneider (General Practice).\nFacility: LOWELL FAMILY MEDICAL CARE PC, LOWELL, MA."
+  },
+  {
+    "doc_id": "982750f4-569b-5949-588b-7f19533f9ce3",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-07-21",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Dwana Wolf - 2021-07-21",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2021-07-21), resolved 2021-07-21.\n- Not in labor force (onset 2021-07-21), resolved 2022-07-27."
+  },
+  {
+    "doc_id": "982750f4-569b-5949-588b-7f19533f9ce3",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-07-21",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Dwana Wolf - 2021-07-21",
+    "content": "- Body Height: 158.3 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0\n- Body Weight: 74.2 kg\n- Body mass index (BMI) [Ratio]: 29.6 kg/m2\n- Diastolic Blood Pressure: 85.0 mm[Hg]\n- Systolic Blood Pressure: 134.0 mm[Hg]\n- Heart rate: 65.0 /min\n- Respiratory rate: 12.0 /min"
+  },
+  {
+    "doc_id": "982750f4-569b-5949-588b-7f19533f9ce3",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-07-21",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Dwana Wolf - 2021-07-21",
+    "content": "- Medication reconciliation.\n- Assessment of health and social care needs.\n- Assessment of anxiety.\n- Screening for domestic abuse.\n- Depression screening.\n- Depression screening.\n- Assessment of substance use.\n- Screening for drug abuse."
+  },
+  {
+    "doc_id": "982750f4-569b-5949-588b-7f19533f9ce3",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-07-21",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Dwana Wolf - 2021-07-21",
+    "content": "Medications prescribed at this visit:\n- Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet], started 2021-07-21; stopped 2022-07-27.\n- Acetaminophen 325 MG Oral Tablet [Tylenol], started 2021-07-21; stopped 2022-07-27.\n- tramadol hydrochloride 50 MG Oral Tablet, started 2021-07-21; stopped 2022-07-27."
+  },
+  {
+    "doc_id": "982750f4-569b-5949-588b-7f19533f9ce3",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-07-21",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Dwana Wolf - 2021-07-21",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "47d390c6-a1a2-1a80-d65b-9c0998f3cd5a",
+    "patient_id": "47d390c6-a1a2-1a80-dd1d-9722c7b24159",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-04-13",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Demarcus Jones - 2024-04-13",
+    "content": "Patient: Demarcus Jones, male, born 2009-03-07 (patient ID 47d390c6-a1a2-1a80-dd1d-9722c7b24159).\nVisit date: 2024-04-13.\nVisit type: Well child visit.\nClinician: Francene Halvorson (General Practice).\nFacility: HAVERHILL FAMILY OFFICE LLC, HAVERHILL, MA."
+  },
+  {
+    "doc_id": "47d390c6-a1a2-1a80-d65b-9c0998f3cd5a",
+    "patient_id": "47d390c6-a1a2-1a80-dd1d-9722c7b24159",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-04-13",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Demarcus Jones - 2024-04-13",
+    "content": "- Body Height: 174.8 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0\n- Body Weight: 65.7 kg\n- Body mass index (BMI) [Ratio]: 21.5 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 70.0 %\n- Diastolic Blood Pressure: 93.0 mm[Hg]\n- Systolic Blood Pressure: 111.0 mm[Hg]\n- Heart rate: 64.0 /min\n- Respiratory rate: 14.0 /min"
+  },
+  {
+    "doc_id": "47d390c6-a1a2-1a80-d65b-9c0998f3cd5a",
+    "patient_id": "47d390c6-a1a2-1a80-dd1d-9722c7b24159",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-04-13",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Demarcus Jones - 2024-04-13",
+    "content": "- Depression screening.\n- Depression screening using Patient Health Questionnaire Nine Item score.\n- Patient referral for dental care."
+  },
+  {
+    "doc_id": "47d390c6-a1a2-1a80-d65b-9c0998f3cd5a",
+    "patient_id": "47d390c6-a1a2-1a80-dd1d-9722c7b24159",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-04-13",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Demarcus Jones - 2024-04-13",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

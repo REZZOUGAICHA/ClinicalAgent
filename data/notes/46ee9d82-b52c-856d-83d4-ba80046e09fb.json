@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "46ee9d82-b52c-856d-83d4-ba80046e09fb",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Office Visit Note",
+    "date": "2026-07-14",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Shalanda Koepp - 2026-07-14",
+    "content": "Patient: Shalanda Koepp, female, born 1996-06-18 (patient ID 46ee9d82-b52c-856d-069b-5064ff052225).\nVisit date: 2026-07-14.\nVisit type: Prenatal visit.\nClinician: Alysha Koch (General Practice).\nFacility: TEWKSBURY HOSPITAL, TEWKSBURY, MA."
+  },
+  {
+    "doc_id": "46ee9d82-b52c-856d-83d4-ba80046e09fb",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Office Visit Note",
+    "date": "2026-07-14",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Shalanda Koepp - 2026-07-14",
+    "content": "Seen for Normal pregnancy."
+  },
+  {
+    "doc_id": "46ee9d82-b52c-856d-83d4-ba80046e09fb",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Office Visit Note",
+    "date": "2026-07-14",
+    "section": "Procedures",
+    "title": "Office Visit Note - Shalanda Koepp - 2026-07-14",
+    "content": "- Evaluation of uterine fundal height, for Normal pregnancy.\n- Auscultation of the fetal heart, for Normal pregnancy.\n- Detection of chromosomal aneuploidy in prenatal amniotic fluid specimen using fluorescence in situ hybridization screening technique, for Normal pregnancy."
+  }
+]

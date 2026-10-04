@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "6fbddf55-7096-b883-6d2c-4248634cfeb5",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Office Visit Note",
+    "date": "2018-11-19",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Clarinda Farrell - 2018-11-19",
+    "content": "Patient: Clarinda Farrell, female, born 1981-07-01 (patient ID 6fbddf55-7096-b883-7cd3-260f27953080).\nVisit date: 2018-11-19.\nVisit type: Encounter for symptom.\nClinician: Luther Jakubowski (General Practice).\nFacility: ENCOMPASS HEALTH REHABILITATION HOSP OF NEW ENGLAN, WOBURN, MA."
+  },
+  {
+    "doc_id": "6fbddf55-7096-b883-6d2c-4248634cfeb5",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Office Visit Note",
+    "date": "2018-11-19",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Clarinda Farrell - 2018-11-19",
+    "content": "Seen for Acute bronchitis."
+  },
+  {
+    "doc_id": "6fbddf55-7096-b883-6d2c-4248634cfeb5",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Office Visit Note",
+    "date": "2018-11-19",
+    "section": "Assessment",
+    "title": "Office Visit Note - Clarinda Farrell - 2018-11-19",
+    "content": "Diagnoses recorded at this visit:\n- Acute bronchitis (onset 2018-11-19), resolved 2018-12-02."
+  },
+  {
+    "doc_id": "6fbddf55-7096-b883-6d2c-4248634cfeb5",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Office Visit Note",
+    "date": "2018-11-19",
+    "section": "Procedures",
+    "title": "Office Visit Note - Clarinda Farrell - 2018-11-19",
+    "content": "- Measurement of respiratory function, for Acute bronchitis."
+  },
+  {
+    "doc_id": "6fbddf55-7096-b883-6d2c-4248634cfeb5",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Office Visit Note",
+    "date": "2018-11-19",
+    "section": "Medications",
+    "title": "Office Visit Note - Clarinda Farrell - 2018-11-19",
+    "content": "Medications prescribed at this visit:\n- Acetaminophen 325 MG Oral Tablet, started 2018-11-19, for Acute bronchitis; stopped 2018-12-02."
+  },
+  {
+    "doc_id": "6fbddf55-7096-b883-6d2c-4248634cfeb5",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Office Visit Note",
+    "date": "2018-11-19",
+    "section": "Plan",
+    "title": "Office Visit Note - Clarinda Farrell - 2018-11-19",
+    "content": "- Respiratory therapy, started 2018-11-19, ended 2021-07-07."
+  }
+]

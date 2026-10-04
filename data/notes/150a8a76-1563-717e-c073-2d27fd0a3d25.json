@@ -1,0 +1,65 @@
+[
+  {
+    "doc_id": "150a8a76-1563-717e-c073-2d27fd0a3d25",
+    "patient_id": "150a8a76-1563-717e-bf0f-f52045675f46",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1963-04-15",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Diego Armijo - 1963-04-15",
+    "content": "Patient: Diego Armijo, male, born 1947-03-03 (patient ID 150a8a76-1563-717e-bf0f-f52045675f46).\nVisit date: 1963-04-15.\nVisit type: Well child visit.\nClinician: Elijah White (General Practice).\nFacility: MELROSE FAMILY OPTICIANS LLC, MELROSE, MA."
+  },
+  {
+    "doc_id": "150a8a76-1563-717e-c073-2d27fd0a3d25",
+    "patient_id": "150a8a76-1563-717e-bf0f-f52045675f46",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1963-04-15",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Diego Armijo - 1963-04-15",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 1963-04-15)."
+  },
+  {
+    "doc_id": "150a8a76-1563-717e-c073-2d27fd0a3d25",
+    "patient_id": "150a8a76-1563-717e-bf0f-f52045675f46",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1963-04-15",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Diego Armijo - 1963-04-15",
+    "content": "- Body Height: 164.8 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0\n- Body Weight: 56.6 kg\n- Body mass index (BMI) [Ratio]: 20.8 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 53.2 %\n- Diastolic Blood Pressure: 73.0 mm[Hg]\n- Systolic Blood Pressure: 102.0 mm[Hg]\n- Heart rate: 95.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "150a8a76-1563-717e-c073-2d27fd0a3d25",
+    "patient_id": "150a8a76-1563-717e-bf0f-f52045675f46",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1963-04-15",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Diego Armijo - 1963-04-15",
+    "content": "- Leukocytes [#/volume] in Blood by Automated count: 8.9 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 4.7 10*6/uL\n- Hemoglobin [Mass/volume] in Blood: 16.8 g/dL\n- Hematocrit [Volume Fraction] of Blood by Automated count: 44.7 %\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 90.5 fL\n- MCH [Entitic mass] by Automated count: 32.1 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 33.5 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 45.3 fL\n- Platelets [#/volume] in Blood by Automated count: 275.3 10*3/uL\n- Platelet distribution width [Entitic volume] in Blood by Automated count: 10.8 fL\n- Platelet [Entitic mean volume] in Blood by Automated count: 12.0 fL"
+  },
+  {
+    "doc_id": "150a8a76-1563-717e-c073-2d27fd0a3d25",
+    "patient_id": "150a8a76-1563-717e-bf0f-f52045675f46",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1963-04-15",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Diego Armijo - 1963-04-15",
+    "content": "- Assessment of anxiety."
+  },
+  {
+    "doc_id": "150a8a76-1563-717e-c073-2d27fd0a3d25",
+    "patient_id": "150a8a76-1563-717e-bf0f-f52045675f46",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1963-04-15",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Diego Armijo - 1963-04-15",
+    "content": "Medications prescribed at this visit:\n- Diazepam 5 MG Oral Tablet, started 1963-04-15, for Seizure disorder; stopped 1963-09-18."
+  },
+  {
+    "doc_id": "150a8a76-1563-717e-c073-2d27fd0a3d25",
+    "patient_id": "150a8a76-1563-717e-bf0f-f52045675f46",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1963-04-15",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Diego Armijo - 1963-04-15",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

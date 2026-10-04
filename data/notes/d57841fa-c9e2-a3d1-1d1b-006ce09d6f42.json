@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "d57841fa-c9e2-a3d1-1d1b-006ce09d6f42",
+    "patient_id": "d57841fa-c9e2-a3d1-0e78-09bdbe4eed66",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1983-09-12",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Jessica McKenzie - 1983-09-12",
+    "content": "Patient: Jessica McKenzie, female, born 1965-07-19 (patient ID d57841fa-c9e2-a3d1-0e78-09bdbe4eed66).\nVisit date: 1983-09-12.\nVisit type: General examination of patient.\nClinician: Leonie Wunsch (General Practice).\nFacility: SOUTH SHORE CENTER FOR WELLNESS LTD, NORWELL, MA."
+  },
+  {
+    "doc_id": "d57841fa-c9e2-a3d1-1d1b-006ce09d6f42",
+    "patient_id": "d57841fa-c9e2-a3d1-0e78-09bdbe4eed66",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1983-09-12",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Jessica McKenzie - 1983-09-12",
+    "content": "Diagnoses recorded at this visit:\n- Received higher education (onset 1983-09-12)."
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "5c39a9da-6fb0-3cbb-617d-30f62b1ae1b4",
+    "patient_id": "5c39a9da-6fb0-3cbb-0181-add875529d46",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-04-02",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Edmond Ferry - 2020-04-02",
+    "content": "Patient: Edmond Ferry, male, born 2011-03-31 (patient ID 5c39a9da-6fb0-3cbb-0181-add875529d46).\nVisit date: 2020-04-02.\nVisit type: Well child visit.\nClinician: Anh Schroeder (General Practice).\nFacility: FAMILY PRACTICE GROUP PC, ARLINGTON, MA."
+  },
+  {
+    "doc_id": "5c39a9da-6fb0-3cbb-617d-30f62b1ae1b4",
+    "patient_id": "5c39a9da-6fb0-3cbb-0181-add875529d46",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-04-02",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Edmond Ferry - 2020-04-02",
+    "content": "- Body Height: 119.8 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0\n- Body Weight: 23.1 kg\n- Body mass index (BMI) [Ratio]: 16.1 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 48.8 %\n- Diastolic Blood Pressure: 80.0 mm[Hg]\n- Systolic Blood Pressure: 139.0 mm[Hg]\n- Heart rate: 70.0 /min\n- Respiratory rate: 16.0 /min"
+  },
+  {
+    "doc_id": "5c39a9da-6fb0-3cbb-617d-30f62b1ae1b4",
+    "patient_id": "5c39a9da-6fb0-3cbb-0181-add875529d46",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-04-02",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Edmond Ferry - 2020-04-02",
+    "content": "- Patient referral for dental care."
+  },
+  {
+    "doc_id": "5c39a9da-6fb0-3cbb-617d-30f62b1ae1b4",
+    "patient_id": "5c39a9da-6fb0-3cbb-0181-add875529d46",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-04-02",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Edmond Ferry - 2020-04-02",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

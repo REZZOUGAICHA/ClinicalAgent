@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "947c82ee-1735-c9ed-797a-f61b93809a67",
+    "patient_id": "947c82ee-1735-c9ed-8210-38cb93d8070c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-05-09",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Marcell Hammes - 2023-05-09",
+    "content": "Patient: Marcell Hammes, female, born 2016-05-17 (patient ID 947c82ee-1735-c9ed-8210-38cb93d8070c).\nVisit date: 2023-05-09.\nVisit type: Well child visit.\nClinician: Kirby McKenzie (General Practice).\nFacility: BOSTON MEDICAL CENTER CORPORATION-, ROSLINDALE, MA."
+  },
+  {
+    "doc_id": "947c82ee-1735-c9ed-797a-f61b93809a67",
+    "patient_id": "947c82ee-1735-c9ed-8210-38cb93d8070c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-05-09",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Marcell Hammes - 2023-05-09",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2023-05-09), resolved 2024-05-14."
+  },
+  {
+    "doc_id": "947c82ee-1735-c9ed-797a-f61b93809a67",
+    "patient_id": "947c82ee-1735-c9ed-8210-38cb93d8070c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-05-09",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Marcell Hammes - 2023-05-09",
+    "content": "- Body Height: 122.9 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0\n- Body Weight: 21.4 kg\n- Body mass index (BMI) [Ratio]: 14.2 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 18.3 %\n- Diastolic Blood Pressure: 84.0 mm[Hg]\n- Systolic Blood Pressure: 132.0 mm[Hg]\n- Heart rate: 63.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "947c82ee-1735-c9ed-797a-f61b93809a67",
+    "patient_id": "947c82ee-1735-c9ed-8210-38cb93d8070c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-05-09",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Marcell Hammes - 2023-05-09",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

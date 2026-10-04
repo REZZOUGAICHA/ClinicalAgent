@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-4f79-de49aec61736",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2010-10-24",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Rosalba Effertz - 2010-10-24",
+    "content": "Patient: Rosalba Effertz, female, born 1973-08-05 (patient ID 5e7ebf2c-22ec-a89b-53ab-38edddd81be9).\nVisit date: 2010-10-24.\nVisit type: General examination of patient.\nClinician: Sammie Hermann (General Practice).\nFacility: PARADIGM HEALTHCARE PC, NORTHAMPTON, MA."
+  },
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-4f79-de49aec61736",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2010-10-24",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Rosalba Effertz - 2010-10-24",
+    "content": "Diagnoses recorded at this visit:\n- Body mass index 30+ - obesity (onset 2010-10-24)."
+  }
+]

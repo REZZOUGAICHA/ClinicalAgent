@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "e74367bd-7385-97dc-b863-b2dfd889a288",
+    "patient_id": "e74367bd-7385-97dc-2c7f-251b4cd9fe29",
+    "document_type": "Hospice Care Note",
+    "date": "2025-09-27",
+    "section": "Visit Information",
+    "title": "Hospice Care Note - Tennille Jerde - 2025-09-27",
+    "content": "Patient: Tennille Jerde, female, born 1960-09-24 (patient ID e74367bd-7385-97dc-2c7f-251b4cd9fe29).\nVisit date: 2025-09-27.\nVisit type: Admission to hospice.\nClinician: Lamar Daniel (General Practice).\nFacility: MEDFORD VISITING NURSING ASSOCIATION, ARLINGTON, MA."
+  },
+  {
+    "doc_id": "e74367bd-7385-97dc-b863-b2dfd889a288",
+    "patient_id": "e74367bd-7385-97dc-2c7f-251b4cd9fe29",
+    "document_type": "Hospice Care Note",
+    "date": "2025-09-27",
+    "section": "Reason for Visit",
+    "title": "Hospice Care Note - Tennille Jerde - 2025-09-27",
+    "content": "Seen for Malignant neoplasm of breast."
+  },
+  {
+    "doc_id": "e74367bd-7385-97dc-b863-b2dfd889a288",
+    "patient_id": "e74367bd-7385-97dc-2c7f-251b4cd9fe29",
+    "document_type": "Hospice Care Note",
+    "date": "2025-09-27",
+    "section": "Procedures",
+    "title": "Hospice Care Note - Tennille Jerde - 2025-09-27",
+    "content": "- Certification procedure.\n- Notifications.\n- Initial patient assessment.\n- Development of individualized plan of care.\n- Hospice care.\n- Hospice care.\n- Hospice care.\n- Hospice care.\n- Hospice care.\n- Hospice care.\n- Hospice care.\n- Patient discharge."
+  }
+]

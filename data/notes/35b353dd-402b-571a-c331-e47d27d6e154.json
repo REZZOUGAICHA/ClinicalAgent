@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "35b353dd-402b-571a-c331-e47d27d6e154",
+    "patient_id": "35b353dd-402b-571a-d67a-af0a104d0854",
+    "document_type": "Urgent Care Note",
+    "date": "2018-05-19",
+    "section": "Visit Information",
+    "title": "Urgent Care Note - Jody Monahan - 2018-05-19",
+    "content": "Patient: Jody Monahan, male, born 1943-09-18 (patient ID 35b353dd-402b-571a-d67a-af0a104d0854).\nVisit date: 2018-05-19.\nVisit type: Urgent care clinic.\nClinician: Tracy Wilderman (General Practice).\nFacility: MASS GENERAL BRIGHAM URGENT CARE LLC, WOBURN, MA."
+  },
+  {
+    "doc_id": "35b353dd-402b-571a-c331-e47d27d6e154",
+    "patient_id": "35b353dd-402b-571a-d67a-af0a104d0854",
+    "document_type": "Urgent Care Note",
+    "date": "2018-05-19",
+    "section": "Assessment",
+    "title": "Urgent Care Note - Jody Monahan - 2018-05-19",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2018-05-19), resolved 2018-05-19."
+  },
+  {
+    "doc_id": "35b353dd-402b-571a-c331-e47d27d6e154",
+    "patient_id": "35b353dd-402b-571a-d67a-af0a104d0854",
+    "document_type": "Urgent Care Note",
+    "date": "2018-05-19",
+    "section": "Laboratory Results",
+    "title": "Urgent Care Note - Jody Monahan - 2018-05-19",
+    "content": "- Glucose [Mass/volume] in Serum or Plasma: 96.2 mg/dL\n- Urea nitrogen [Mass/volume] in Serum or Plasma: 15.6 mg/dL\n- Creatinine [Mass/volume] in Serum or Plasma: 1.7 mg/dL\n- Calcium [Mass/volume] in Serum or Plasma: 9.8 mg/dL\n- Sodium [Moles/volume] in Serum or Plasma: 137.7 mmol/L\n- Potassium [Moles/volume] in Serum or Plasma: 4.4 mmol/L\n- Chloride [Moles/volume] in Serum or Plasma: 108.0 mmol/L\n- Carbon dioxide  total [Moles/volume] in Serum or Plasma: 22.5 mmol/L\n- Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M: 105.1 mL/min/{1.73_m2}\n- Appearance of Urine: Cloudy urine (finding)\n- Odor of Urine: Urine smell ammoniacal (finding)\n- Clarity of Urine: Translucent (qualifier value)\n- Color of Urine: Brown color (qualifier value)\n- Glucose [Mass/volume] in Urine by Test strip: 2.4 mg/dL\n- Glucose [Presence] in Urine by Test strip: Urine glucose test = ++ (finding)\n- Bilirubin.total [Mass/volume] in Urine by Test strip: 1.2 mg/dL\n- Bilirubin.total [Presence] in Urine by Test strip: Finding of bilirubin in urine (finding)\n- Ketones [Mass/volume] in Urine by Test strip: 14.5 mg/dL\n- Ketones [Presence] in Urine by Test strip: Urine ketone test = trace (finding)\n- Specific gravity of Urine by Test strip: 1.0\n- pH of Urine by Test strip: 5.1 pH\n- Protein [Mass/volume] in Urine by Test strip: 137.8 mg/dL\n- Protein [Presence] in Urine by Test strip: Urine protein test = + (finding)\n- Nitrite [Presence] in Urine by Test strip: Nitrite not detected in urine (finding)\n- Hemoglobin [Presence] in Urine by Test strip: Blood not detected in urine (finding)\n- Leukocyte esterase [Presence] in Urine by Test strip: Urine leukocytes not detected (finding)"
+  },
+  {
+    "doc_id": "35b353dd-402b-571a-c331-e47d27d6e154",
+    "patient_id": "35b353dd-402b-571a-d67a-af0a104d0854",
+    "document_type": "Urgent Care Note",
+    "date": "2018-05-19",
+    "section": "Procedures",
+    "title": "Urgent Care Note - Jody Monahan - 2018-05-19",
+    "content": "- Medication reconciliation."
+  },
+  {
+    "doc_id": "35b353dd-402b-571a-c331-e47d27d6e154",
+    "patient_id": "35b353dd-402b-571a-d67a-af0a104d0854",
+    "document_type": "Urgent Care Note",
+    "date": "2018-05-19",
+    "section": "Medications",
+    "title": "Urgent Care Note - Jody Monahan - 2018-05-19",
+    "content": "Medications prescribed at this visit:\n- Hydrochlorothiazide 25 MG Oral Tablet, started 2018-05-19, for Essential hypertension; stopped 2018-05-26."
+  }
+]

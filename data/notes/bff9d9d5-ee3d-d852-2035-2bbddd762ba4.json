@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "bff9d9d5-ee3d-d852-2035-2bbddd762ba4",
+    "patient_id": "bff9d9d5-ee3d-d852-9c67-36d8361a4a4a",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2021-03-21",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Rosario Ortiz - 2021-03-21",
+    "content": "Patient: Rosario Ortiz, male, born 1945-01-28 (patient ID bff9d9d5-ee3d-d852-9c67-36d8361a4a4a).\nVisit date: 2021-03-21.\nVisit type: Administration of vaccine to produce active immunity.\nClinician: Eleni Franecki (General Practice).\nFacility: BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM INC., NEEDHAM, MA."
+  },
+  {
+    "doc_id": "bff9d9d5-ee3d-d852-2035-2bbddd762ba4",
+    "patient_id": "bff9d9d5-ee3d-d852-9c67-36d8361a4a4a",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2021-03-21",
+    "section": "Immunizations",
+    "title": "Outpatient Procedure Note - Rosario Ortiz - 2021-03-21",
+    "content": "- COVID-19 mRNA LNP-S PF 30 mcg/0.3 mL dose."
+  }
+]

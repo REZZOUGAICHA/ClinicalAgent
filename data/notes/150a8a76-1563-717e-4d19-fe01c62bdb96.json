@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "150a8a76-1563-717e-4d19-fe01c62bdb96",
+    "patient_id": "150a8a76-1563-717e-bf0f-f52045675f46",
+    "document_type": "Office Visit Note",
+    "date": "1964-09-21",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Diego Armijo - 1964-09-21",
+    "content": "Patient: Diego Armijo, male, born 1947-03-03 (patient ID 150a8a76-1563-717e-bf0f-f52045675f46).\nVisit date: 1964-09-21.\nVisit type: Encounter for check up.\nClinician: Zachery Pagac (General Practice).\nFacility: MELROSEWAKEFIELD HEALTHCARE INC, MELROSE, MA."
+  },
+  {
+    "doc_id": "150a8a76-1563-717e-4d19-fe01c62bdb96",
+    "patient_id": "150a8a76-1563-717e-bf0f-f52045675f46",
+    "document_type": "Office Visit Note",
+    "date": "1964-09-21",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Diego Armijo - 1964-09-21",
+    "content": "Seen for Patient referral for dental care."
+  },
+  {
+    "doc_id": "150a8a76-1563-717e-4d19-fe01c62bdb96",
+    "patient_id": "150a8a76-1563-717e-bf0f-f52045675f46",
+    "document_type": "Office Visit Note",
+    "date": "1964-09-21",
+    "section": "Procedures",
+    "title": "Office Visit Note - Diego Armijo - 1964-09-21",
+    "content": "- Dental consultation and report, for Patient referral for dental care.\n- Dental care, for Patient referral for dental care.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Dental plain X-ray bitewing.\n- Examination of gingivae, for Patient referral for dental care.\n- Oral health education, for Patient referral for dental care."
+  }
+]

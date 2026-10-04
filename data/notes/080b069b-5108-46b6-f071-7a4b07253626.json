@@ -1,0 +1,65 @@
+[
+  {
+    "doc_id": "080b069b-5108-46b6-f071-7a4b07253626",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-01-10",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Chester Aufderhar - 2017-01-10",
+    "content": "Patient: Chester Aufderhar, male, born 1966-11-22 (patient ID 080b069b-5108-46b6-ecef-6aacd3b9ef3f).\nVisit date: 2017-01-10.\nVisit type: General examination of patient.\nClinician: Sharyl Williamson (General Practice).\nFacility: COMPASSIONATE HEALTH CARE GROUP LLC, WAREHAM, MA."
+  },
+  {
+    "doc_id": "080b069b-5108-46b6-f071-7a4b07253626",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-01-10",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Chester Aufderhar - 2017-01-10",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2017-01-10), resolved 2017-01-10.\n- Full-time employment (onset 2017-01-11), resolved 2019-01-23.\n- Stress (onset 2017-01-11), resolved 2018-01-17."
+  },
+  {
+    "doc_id": "080b069b-5108-46b6-f071-7a4b07253626",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-01-10",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Chester Aufderhar - 2017-01-10",
+    "content": "- Body Height: 186.4 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0\n- Body Weight: 96.4 kg\n- Body mass index (BMI) [Ratio]: 27.8 kg/m2\n- Diastolic Blood Pressure: 84.0 mm[Hg]\n- Systolic Blood Pressure: 98.0 mm[Hg]\n- Heart rate: 72.0 /min\n- Respiratory rate: 14.0 /min"
+  },
+  {
+    "doc_id": "080b069b-5108-46b6-f071-7a4b07253626",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-01-10",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Chester Aufderhar - 2017-01-10",
+    "content": "- Hemoglobin A1c/Hemoglobin.total in Blood: 6.2 %\n- Glucose [Mass/volume] in Blood: 94.1 mg/dL\n- Urea nitrogen [Mass/volume] in Blood: 17.3 mg/dL\n- Creatinine [Mass/volume] in Blood: 1.2 mg/dL\n- Calcium [Mass/volume] in Blood: 9.4 mg/dL\n- Sodium [Moles/volume] in Blood: 138.6 mmol/L\n- Potassium [Moles/volume] in Blood: 4.2 mmol/L\n- Chloride [Moles/volume] in Blood: 102.2 mmol/L\n- Carbon dioxide  total [Moles/volume] in Blood: 23.2 mmol/L\n- Leukocytes [#/volume] in Blood by Automated count: 7.8 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 4.9 10*6/uL\n- Hemoglobin [Mass/volume] in Blood: 13.5 g/dL\n- Hematocrit [Volume Fraction] of Blood by Automated count: 39.4 %\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 94.3 fL\n- MCH [Entitic mass] by Automated count: 31.0 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 33.9 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 40.9 fL\n- Platelets [#/volume] in Blood by Automated count: 387.1 10*3/uL\n- Platelet distribution width [Entitic volume] in Blood by Automated count: 11.6 fL\n- Platelet [Entitic mean volume] in Blood by Automated count: 10.2 fL"
+  },
+  {
+    "doc_id": "080b069b-5108-46b6-f071-7a4b07253626",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-01-10",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Chester Aufderhar - 2017-01-10",
+    "content": "- Medication reconciliation.\n- Assessment of health and social care needs.\n- Assessment of anxiety.\n- Assessment of substance use.\n- Assessment using Alcohol Use Disorders Identification Test - Consumption."
+  },
+  {
+    "doc_id": "080b069b-5108-46b6-f071-7a4b07253626",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-01-10",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Chester Aufderhar - 2017-01-10",
+    "content": "Medications prescribed at this visit:\n- Hydrochlorothiazide 25 MG Oral Tablet, started 2017-01-10, for Essential hypertension; stopped 2018-01-16.\n- lisinopril 10 MG Oral Tablet, started 2017-01-10, for Essential hypertension; stopped 2018-01-16.\n- amLODIPine 2.5 MG Oral Tablet, started 2017-01-10, for Essential hypertension; stopped 2018-01-16."
+  },
+  {
+    "doc_id": "080b069b-5108-46b6-f071-7a4b07253626",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-01-10",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Chester Aufderhar - 2017-01-10",
+    "content": "- zoster vaccine live.\n- Influenza split virus trivalent PF."
+  }
+]

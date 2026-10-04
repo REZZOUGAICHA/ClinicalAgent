@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "4aaa0001-3832-cc52-dad8-70a801ef5860",
+    "patient_id": "4aaa0001-3832-cc52-e2f3-47aad08f4284",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-02-25",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Marvin Weissnat - 2018-02-25",
+    "content": "Patient: Marvin Weissnat, male, born 2006-02-05 (patient ID 4aaa0001-3832-cc52-e2f3-47aad08f4284).\nVisit date: 2018-02-25.\nVisit type: Well child visit.\nClinician: Benita VonRueden (General Practice).\nFacility: GREATER LAWRENCE FAMILY HEALTH CENTER INC, ANDOVER, MA."
+  },
+  {
+    "doc_id": "4aaa0001-3832-cc52-dad8-70a801ef5860",
+    "patient_id": "4aaa0001-3832-cc52-e2f3-47aad08f4284",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-02-25",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Marvin Weissnat - 2018-02-25",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2018-02-25), resolved 2018-02-25.\n- Gingivitis (onset 2018-02-25), resolved 2018-03-12."
+  },
+  {
+    "doc_id": "4aaa0001-3832-cc52-dad8-70a801ef5860",
+    "patient_id": "4aaa0001-3832-cc52-e2f3-47aad08f4284",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-02-25",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Marvin Weissnat - 2018-02-25",
+    "content": "- Body Height: 147.0 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0\n- Body Weight: 41.3 kg\n- Body mass index (BMI) [Ratio]: 19.1 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 69.0 %\n- Diastolic Blood Pressure: 86.0 mm[Hg]\n- Systolic Blood Pressure: 125.0 mm[Hg]\n- Heart rate: 77.0 /min\n- Respiratory rate: 15.0 /min"
+  },
+  {
+    "doc_id": "4aaa0001-3832-cc52-dad8-70a801ef5860",
+    "patient_id": "4aaa0001-3832-cc52-e2f3-47aad08f4284",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-02-25",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Marvin Weissnat - 2018-02-25",
+    "content": "- Medication reconciliation.\n- Depression screening.\n- Depression screening using Patient Health Questionnaire Nine Item score.\n- Patient referral for dental care, for Gingivitis."
+  },
+  {
+    "doc_id": "4aaa0001-3832-cc52-dad8-70a801ef5860",
+    "patient_id": "4aaa0001-3832-cc52-e2f3-47aad08f4284",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-02-25",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Marvin Weissnat - 2018-02-25",
+    "content": "- Influenza split virus trivalent PF.\n- HPV quadrivalent."
+  }
+]

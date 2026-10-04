@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "46976cf7-b0bf-be20-269f-08f8637a77a2",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Skilled Nursing Facility Note",
+    "date": "2022-03-07",
+    "section": "Visit Information",
+    "title": "Skilled Nursing Facility Note - Lindsay Zieme - 2022-03-07",
+    "content": "Patient: Lindsay Zieme, female, born 2007-09-14 (patient ID 46976cf7-b0bf-be20-39a5-9f425a52886d).\nVisit date: 2022-03-07.\nVisit type: Hospital admission.\nClinician: Shella Toy (General Practice).\nFacility: JEWISH HEALTHCARE CENTER INC, WORCESTER, MA."
+  },
+  {
+    "doc_id": "46976cf7-b0bf-be20-269f-08f8637a77a2",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Skilled Nursing Facility Note",
+    "date": "2022-03-07",
+    "section": "Reason for Visit",
+    "title": "Skilled Nursing Facility Note - Lindsay Zieme - 2022-03-07",
+    "content": "Seen for Patient transfer to skilled nursing facility."
+  },
+  {
+    "doc_id": "46976cf7-b0bf-be20-269f-08f8637a77a2",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Skilled Nursing Facility Note",
+    "date": "2022-03-07",
+    "section": "Procedures",
+    "title": "Skilled Nursing Facility Note - Lindsay Zieme - 2022-03-07",
+    "content": "- History AND physical examination.\n- Initial patient assessment.\n- Development of individualized plan of care.\n- Nursing care/supplementary surveillance.\n- Nursing care/supplementary surveillance.\n- Pre-discharge assessment.\n- Discharge from hospital."
+  }
+]

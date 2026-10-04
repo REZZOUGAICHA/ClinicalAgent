@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "62f60bdb-cc5c-8305-9b40-9ff6f582e0f0",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1993-12-15",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Angel Frami - 1993-12-15",
+    "content": "Patient: Angel Frami, female, born 1975-10-22 (patient ID 62f60bdb-cc5c-8305-b98b-f2b229a55eca).\nVisit date: 1993-12-15.\nVisit type: General examination of patient.\nClinician: Cody Ratke (General Practice).\nFacility: HEALTHFIRST FAMILY CARE CENTER INC, FALL RIVER, MA."
+  },
+  {
+    "doc_id": "62f60bdb-cc5c-8305-9b40-9ff6f582e0f0",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1993-12-15",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Angel Frami - 1993-12-15",
+    "content": "Diagnoses recorded at this visit:\n- Received higher education (onset 1993-12-15)."
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-2f00-aeab6864b4cd",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-12-18",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Aron Hammes - 2021-12-18",
+    "content": "Patient: Aron Hammes, male, born 2002-10-19 (patient ID 2de4dd0d-f665-8a2e-4c6b-997735e14ace).\nVisit date: 2021-12-18.\nVisit type: General examination of patient.\nClinician: Lola Orosco (General Practice).\nFacility: FAIRVIEW HOSPITAL, WILLIAMSTOWN, MA."
+  },
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-2f00-aeab6864b4cd",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-12-18",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Aron Hammes - 2021-12-18",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2021-12-18)."
+  },
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-2f00-aeab6864b4cd",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-12-18",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Aron Hammes - 2021-12-18",
+    "content": "- Body Height: 169.2 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0\n- Body Weight: 61.9 kg\n- Body mass index (BMI) [Ratio]: 21.6 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 36.9 %\n- Diastolic Blood Pressure: 68.0 mm[Hg]\n- Systolic Blood Pressure: 124.0 mm[Hg]\n- Heart rate: 89.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-2f00-aeab6864b4cd",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-12-18",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Aron Hammes - 2021-12-18",
+    "content": "- Assessment of health and social care needs.\n- Assessment of anxiety.\n- Depression screening.\n- Depression screening.\n- Assessment of substance use.\n- Screening for drug abuse.\n- Patient referral for dental care."
+  },
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-2f00-aeab6864b4cd",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-12-18",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Aron Hammes - 2021-12-18",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

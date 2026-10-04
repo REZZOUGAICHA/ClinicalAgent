@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "7c913488-8c54-7aa0-a9b0-193f3a3fbc3a",
+    "patient_id": "7c913488-8c54-7aa0-a452-83dbc3ad8377",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2026-01-12",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Dian Kiehn - 2026-01-12",
+    "content": "Patient: Dian Kiehn, female, born 2012-01-13 (patient ID 7c913488-8c54-7aa0-a452-83dbc3ad8377).\nVisit date: 2026-01-12.\nVisit type: Consultation for treatment.\nClinician: Vella Ankunding (General Practice).\nFacility: SOUTHCOAST HOSPITALS GROUP INC, FALL RIVER, MA."
+  },
+  {
+    "doc_id": "7c913488-8c54-7aa0-a9b0-193f3a3fbc3a",
+    "patient_id": "7c913488-8c54-7aa0-a452-83dbc3ad8377",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2026-01-12",
+    "section": "Reason for Visit",
+    "title": "Outpatient Procedure Note - Dian Kiehn - 2026-01-12",
+    "content": "Seen for Contraception care."
+  },
+  {
+    "doc_id": "7c913488-8c54-7aa0-a9b0-193f3a3fbc3a",
+    "patient_id": "7c913488-8c54-7aa0-a452-83dbc3ad8377",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2026-01-12",
+    "section": "Medications",
+    "title": "Outpatient Procedure Note - Dian Kiehn - 2026-01-12",
+    "content": "Medications prescribed at this visit:\n- {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Trinessa 28 Day], started 2026-01-12; no stop date recorded."
+  }
+]

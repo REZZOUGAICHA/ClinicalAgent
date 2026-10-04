@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "150a8a76-1563-717e-d49d-d12f2e7538cb",
+    "patient_id": "150a8a76-1563-717e-bf0f-f52045675f46",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1964-04-20",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Diego Armijo - 1964-04-20",
+    "content": "Patient: Diego Armijo, male, born 1947-03-03 (patient ID 150a8a76-1563-717e-bf0f-f52045675f46).\nVisit date: 1964-04-20.\nVisit type: Well child visit.\nClinician: Elijah White (General Practice).\nFacility: MELROSE FAMILY OPTICIANS LLC, MELROSE, MA."
+  },
+  {
+    "doc_id": "150a8a76-1563-717e-d49d-d12f2e7538cb",
+    "patient_id": "150a8a76-1563-717e-bf0f-f52045675f46",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1964-04-20",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Diego Armijo - 1964-04-20",
+    "content": "- Body Height: 166.8 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0\n- Body Weight: 59.5 kg\n- Body mass index (BMI) [Ratio]: 21.4 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 51.2 %\n- Diastolic Blood Pressure: 73.0 mm[Hg]\n- Systolic Blood Pressure: 99.0 mm[Hg]\n- Heart rate: 63.0 /min\n- Respiratory rate: 14.0 /min"
+  },
+  {
+    "doc_id": "150a8a76-1563-717e-d49d-d12f2e7538cb",
+    "patient_id": "150a8a76-1563-717e-bf0f-f52045675f46",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1964-04-20",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Diego Armijo - 1964-04-20",
+    "content": "- Depression screening.\n- Depression screening using Patient Health Questionnaire Nine Item score.\n- Assessment of substance use.\n- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test.\n- Anticipatory guidance."
+  },
+  {
+    "doc_id": "150a8a76-1563-717e-d49d-d12f2e7538cb",
+    "patient_id": "150a8a76-1563-717e-bf0f-f52045675f46",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1964-04-20",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Diego Armijo - 1964-04-20",
+    "content": "Medications prescribed at this visit:\n- carbamazepine 20 MG/ML Oral Suspension [Tegretol], started 1964-04-20, for Seizure disorder; stopped 1964-10-25."
+  },
+  {
+    "doc_id": "150a8a76-1563-717e-d49d-d12f2e7538cb",
+    "patient_id": "150a8a76-1563-717e-bf0f-f52045675f46",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1964-04-20",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Diego Armijo - 1964-04-20",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

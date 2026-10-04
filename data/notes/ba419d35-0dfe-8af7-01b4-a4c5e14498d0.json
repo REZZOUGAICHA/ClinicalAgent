@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "ba419d35-0dfe-8af7-01b4-a4c5e14498d0",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "2011-11-25",
+    "section": "Visit Information",
+    "title": "Inpatient Discharge Summary - Corie Kohler - 2011-11-25",
+    "content": "Patient: Corie Kohler, female, born 1925-09-18 (patient ID ba419d35-0dfe-8af7-347c-eebf02485a56).\nVisit date: 2011-11-25.\nVisit type: Drug rehabilitation and detoxification.\nClinician: Maricarmen Delafuente (General Practice).\nFacility: ARBOUR-FULLER HOSPITAL, SOUTH ATTLEBORO, MA."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-01b4-a4c5e14498d0",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "2011-11-25",
+    "section": "Reason for Visit",
+    "title": "Inpatient Discharge Summary - Corie Kohler - 2011-11-25",
+    "content": "Seen for Dependent drug abuse."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-01b4-a4c5e14498d0",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "2011-11-25",
+    "section": "Vital Signs",
+    "title": "Inpatient Discharge Summary - Corie Kohler - 2011-11-25",
+    "content": "- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 7.0"
+  }
+]

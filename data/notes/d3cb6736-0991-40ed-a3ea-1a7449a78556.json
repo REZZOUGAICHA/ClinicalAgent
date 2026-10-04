@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "d3cb6736-0991-40ed-a3ea-1a7449a78556",
+    "patient_id": "d3cb6736-0991-40ed-a220-7c714aba4c37",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2015-05-17",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Tristan Reichel - 2015-05-17",
+    "content": "Patient: Tristan Reichel, male, born 1982-08-01 (patient ID d3cb6736-0991-40ed-a220-7c714aba4c37).\nVisit date: 2015-05-17.\nVisit type: Encounter for check up.\nClinician: Beatriz Monroy (General Practice).\nFacility: FIRST PSYCHIATRIC PLANNERS INC, WOBURN, MA."
+  },
+  {
+    "doc_id": "d3cb6736-0991-40ed-a3ea-1a7449a78556",
+    "patient_id": "d3cb6736-0991-40ed-a220-7c714aba4c37",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2015-05-17",
+    "section": "Assessment",
+    "title": "Outpatient Procedure Note - Tristan Reichel - 2015-05-17",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2015-05-17), resolved 2016-10-16.\n- Part-time employment (onset 2015-05-17), resolved 2016-10-16."
+  }
+]

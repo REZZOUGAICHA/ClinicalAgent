@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "2c167999-289d-95fa-668e-8757e5daf6ef",
+    "patient_id": "2c167999-289d-95fa-5c27-7d8b8d35348c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2016-04-30",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Eliseo Nader - 2016-04-30",
+    "content": "Patient: Eliseo Nader, male, born 1974-01-12 (patient ID 2c167999-289d-95fa-5c27-7d8b8d35348c).\nVisit date: 2016-04-30.\nVisit type: General examination of patient.\nClinician: Eddie Keeling (General Practice).\nFacility: PRIMARY CARE NORTH PC, LYNN, MA."
+  },
+  {
+    "doc_id": "2c167999-289d-95fa-668e-8757e5daf6ef",
+    "patient_id": "2c167999-289d-95fa-5c27-7d8b8d35348c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2016-04-30",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Eliseo Nader - 2016-04-30",
+    "content": "Diagnoses recorded at this visit:\n- Part-time employment (onset 2016-04-30), resolved 2017-05-06.\n- Stress (onset 2016-04-30), resolved 2017-05-06."
+  }
+]

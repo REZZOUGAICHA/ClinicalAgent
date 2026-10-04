@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "d57841fa-c9e2-a3d1-22cd-6332f746bdd4",
+    "patient_id": "d57841fa-c9e2-a3d1-0e78-09bdbe4eed66",
+    "document_type": "Office Visit Note",
+    "date": "2026-02-28",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Jessica McKenzie - 2026-02-28",
+    "content": "Patient: Jessica McKenzie, female, born 1965-07-19 (patient ID d57841fa-c9e2-a3d1-0e78-09bdbe4eed66).\nVisit date: 2026-02-28.\nVisit type: Encounter for symptom.\nClinician: Miguel Roberts (General Practice).\nFacility: SOUTH SHORE HOSPITAL INC., WEYMOUTH, MA."
+  },
+  {
+    "doc_id": "d57841fa-c9e2-a3d1-22cd-6332f746bdd4",
+    "patient_id": "d57841fa-c9e2-a3d1-0e78-09bdbe4eed66",
+    "document_type": "Office Visit Note",
+    "date": "2026-02-28",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Jessica McKenzie - 2026-02-28",
+    "content": "Seen for Acute viral pharyngitis."
+  },
+  {
+    "doc_id": "d57841fa-c9e2-a3d1-22cd-6332f746bdd4",
+    "patient_id": "d57841fa-c9e2-a3d1-0e78-09bdbe4eed66",
+    "document_type": "Office Visit Note",
+    "date": "2026-02-28",
+    "section": "Assessment",
+    "title": "Office Visit Note - Jessica McKenzie - 2026-02-28",
+    "content": "Diagnoses recorded at this visit:\n- Acute viral pharyngitis (onset 2026-02-28), resolved 2026-03-07."
+  },
+  {
+    "doc_id": "d57841fa-c9e2-a3d1-22cd-6332f746bdd4",
+    "patient_id": "d57841fa-c9e2-a3d1-0e78-09bdbe4eed66",
+    "document_type": "Office Visit Note",
+    "date": "2026-02-28",
+    "section": "Vital Signs",
+    "title": "Office Visit Note - Jessica McKenzie - 2026-02-28",
+    "content": "- Body temperature: 37.4 \u00b0C"
+  }
+]

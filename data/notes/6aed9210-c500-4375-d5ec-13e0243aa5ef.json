@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "6aed9210-c500-4375-d5ec-13e0243aa5ef",
+    "patient_id": "6aed9210-c500-4375-b0fc-3374c40b8591",
+    "document_type": "Office Visit Note",
+    "date": "2007-07-27",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Lyman Runte - 2007-07-27",
+    "content": "Patient: Lyman Runte, male, born 1965-07-08 (patient ID 6aed9210-c500-4375-b0fc-3374c40b8591).\nVisit date: 2007-07-27.\nVisit type: Encounter for problem.\nClinician: Arden Bergstrom (General Practice).\nFacility: CAPE COD HOSPITAL INC, HYANNIS, MA."
+  },
+  {
+    "doc_id": "6aed9210-c500-4375-d5ec-13e0243aa5ef",
+    "patient_id": "6aed9210-c500-4375-b0fc-3374c40b8591",
+    "document_type": "Office Visit Note",
+    "date": "2007-07-27",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Lyman Runte - 2007-07-27",
+    "content": "Seen for Anemia."
+  },
+  {
+    "doc_id": "6aed9210-c500-4375-d5ec-13e0243aa5ef",
+    "patient_id": "6aed9210-c500-4375-b0fc-3374c40b8591",
+    "document_type": "Office Visit Note",
+    "date": "2007-07-27",
+    "section": "Medications",
+    "title": "Office Visit Note - Lyman Runte - 2007-07-27",
+    "content": "Medications prescribed at this visit:\n- Vitamin B12 5 MG/ML Injectable Solution, started 2007-07-27; no stop date recorded."
+  }
+]

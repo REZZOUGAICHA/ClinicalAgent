@@ -1,0 +1,65 @@
+[
+  {
+    "doc_id": "e74367bd-7385-97dc-0b93-081f6a5b9f01",
+    "patient_id": "e74367bd-7385-97dc-2c7f-251b4cd9fe29",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2016-10-29",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Tennille Jerde - 2016-10-29",
+    "content": "Patient: Tennille Jerde, female, born 1960-09-24 (patient ID e74367bd-7385-97dc-2c7f-251b4cd9fe29).\nVisit date: 2016-10-29.\nVisit type: General examination of patient.\nClinician: Vito Barton (General Practice).\nFacility: DAVIS SQUARE FAMILY PRACTICE, SOMERVILLE, MA."
+  },
+  {
+    "doc_id": "e74367bd-7385-97dc-0b93-081f6a5b9f01",
+    "patient_id": "e74367bd-7385-97dc-2c7f-251b4cd9fe29",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2016-10-29",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Tennille Jerde - 2016-10-29",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2016-10-29), resolved 2016-10-29.\n- Full-time employment (onset 2016-10-29), resolved 2018-04-21.\n- Social isolation (onset 2016-10-29), resolved 2017-11-04.\n- Stress (onset 2016-10-29), resolved 2018-04-21.\n- Gingivitis (onset 2016-10-29), resolved 2016-11-12."
+  },
+  {
+    "doc_id": "e74367bd-7385-97dc-0b93-081f6a5b9f01",
+    "patient_id": "e74367bd-7385-97dc-2c7f-251b4cd9fe29",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2016-10-29",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Tennille Jerde - 2016-10-29",
+    "content": "- Body Height: 163.0 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0\n- Body Weight: 75.1 kg\n- Body mass index (BMI) [Ratio]: 28.3 kg/m2\n- Diastolic Blood Pressure: 98.0 mm[Hg]\n- Systolic Blood Pressure: 123.0 mm[Hg]\n- Heart rate: 61.0 /min\n- Respiratory rate: 15.0 /min"
+  },
+  {
+    "doc_id": "e74367bd-7385-97dc-0b93-081f6a5b9f01",
+    "patient_id": "e74367bd-7385-97dc-2c7f-251b4cd9fe29",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2016-10-29",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Tennille Jerde - 2016-10-29",
+    "content": "- Hemoglobin A1c/Hemoglobin.total in Blood: 6.3 %\n- Glucose [Mass/volume] in Blood: 94.4 mg/dL\n- Urea nitrogen [Mass/volume] in Blood: 15.2 mg/dL\n- Creatinine [Mass/volume] in Blood: 0.9 mg/dL\n- Calcium [Mass/volume] in Blood: 9.8 mg/dL\n- Sodium [Moles/volume] in Blood: 138.7 mmol/L\n- Potassium [Moles/volume] in Blood: 3.8 mmol/L\n- Chloride [Moles/volume] in Blood: 108.7 mmol/L\n- Carbon dioxide  total [Moles/volume] in Blood: 22.1 mmol/L"
+  },
+  {
+    "doc_id": "e74367bd-7385-97dc-0b93-081f6a5b9f01",
+    "patient_id": "e74367bd-7385-97dc-2c7f-251b4cd9fe29",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2016-10-29",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Tennille Jerde - 2016-10-29",
+    "content": "- Medication reconciliation.\n- Assessment of health and social care needs.\n- Depression screening.\n- Depression screening.\n- Patient referral for dental care, for Gingivitis."
+  },
+  {
+    "doc_id": "e74367bd-7385-97dc-0b93-081f6a5b9f01",
+    "patient_id": "e74367bd-7385-97dc-2c7f-251b4cd9fe29",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2016-10-29",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Tennille Jerde - 2016-10-29",
+    "content": "Medications prescribed at this visit:\n- Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet], started 2016-10-29; stopped 2017-11-04.\n- Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin], started 2016-10-29; stopped 2017-11-04.\n- buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet, started 2016-10-29, for Opioid abuse; stopped 2017-11-04.\n- 12 HR Hydrocodone Bitartrate 10 MG Extended Release Oral Capsule, started 2016-10-29; stopped 2017-11-04."
+  },
+  {
+    "doc_id": "e74367bd-7385-97dc-0b93-081f6a5b9f01",
+    "patient_id": "e74367bd-7385-97dc-2c7f-251b4cd9fe29",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2016-10-29",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Tennille Jerde - 2016-10-29",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

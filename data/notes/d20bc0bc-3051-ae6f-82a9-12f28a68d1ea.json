@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-82a9-12f28a68d1ea",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Telehealth Visit Note",
+    "date": "2020-08-06",
+    "section": "Visit Information",
+    "title": "Telehealth Visit Note - Lavette Kozey - 2020-08-06",
+    "content": "Patient: Lavette Kozey, female, born 2010-03-24 (patient ID d20bc0bc-3051-ae6f-f391-ceec7ec0370f).\nVisit date: 2020-08-06.\nVisit type: Encounter for problem.\nClinician: Beatriz Monroy (General Practice).\nFacility: FIRST PSYCHIATRIC PLANNERS INC, WOBURN, MA."
+  },
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-82a9-12f28a68d1ea",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Telehealth Visit Note",
+    "date": "2020-08-06",
+    "section": "Reason for Visit",
+    "title": "Telehealth Visit Note - Lavette Kozey - 2020-08-06",
+    "content": "Seen for Wheat."
+  }
+]

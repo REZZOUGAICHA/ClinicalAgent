@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "7811dc30-8c86-8164-7888-e03885bb9381",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Office Visit Note",
+    "date": "1990-07-03",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Mignon Rau - 1990-07-03",
+    "content": "Patient: Mignon Rau, female, born 1970-04-21 (patient ID 7811dc30-8c86-8164-6c33-6b6f464745ef).\nVisit date: 1990-07-03.\nVisit type: Encounter for problem.\nClinician: Rudolf Vandervort (General Practice).\nFacility: BETH ISRAEL DEACONESS HOSPITAL MILTON INC, MILTON, MA."
+  },
+  {
+    "doc_id": "7811dc30-8c86-8164-7888-e03885bb9381",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Office Visit Note",
+    "date": "1990-07-03",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Mignon Rau - 1990-07-03",
+    "content": "Seen for Anemia."
+  },
+  {
+    "doc_id": "7811dc30-8c86-8164-7888-e03885bb9381",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Office Visit Note",
+    "date": "1990-07-03",
+    "section": "Medications",
+    "title": "Office Visit Note - Mignon Rau - 1990-07-03",
+    "content": "Medications prescribed at this visit:\n- Vitamin B12 5 MG/ML Injectable Solution, started 1990-07-03; no stop date recorded."
+  }
+]

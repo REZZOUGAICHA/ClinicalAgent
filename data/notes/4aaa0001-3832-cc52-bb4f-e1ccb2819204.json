@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "4aaa0001-3832-cc52-bb4f-e1ccb2819204",
+    "patient_id": "4aaa0001-3832-cc52-e2f3-47aad08f4284",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-03-31",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Marvin Weissnat - 2024-03-31",
+    "content": "Patient: Marvin Weissnat, male, born 2006-02-05 (patient ID 4aaa0001-3832-cc52-e2f3-47aad08f4284).\nVisit date: 2024-03-31.\nVisit type: General examination of patient.\nClinician: Benita VonRueden (General Practice).\nFacility: GREATER LAWRENCE FAMILY HEALTH CENTER INC, ANDOVER, MA."
+  },
+  {
+    "doc_id": "4aaa0001-3832-cc52-bb4f-e1ccb2819204",
+    "patient_id": "4aaa0001-3832-cc52-e2f3-47aad08f4284",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-03-31",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Marvin Weissnat - 2024-03-31",
+    "content": "Diagnoses recorded at this visit:\n- Only received primary school education (onset 2024-03-31).\n- Full-time employment (onset 2024-03-31), resolved 2025-04-06.\n- Lack of access to transportation (onset 2024-03-31).\n- Stress (onset 2024-03-31), resolved 2025-04-06."
+  },
+  {
+    "doc_id": "4aaa0001-3832-cc52-bb4f-e1ccb2819204",
+    "patient_id": "4aaa0001-3832-cc52-e2f3-47aad08f4284",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-03-31",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Marvin Weissnat - 2024-03-31",
+    "content": "- Body Height: 174.0 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0\n- Body Weight: 64.5 kg\n- Body mass index (BMI) [Ratio]: 21.3 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 40.5 %\n- Diastolic Blood Pressure: 85.0 mm[Hg]\n- Systolic Blood Pressure: 122.0 mm[Hg]\n- Heart rate: 61.0 /min\n- Respiratory rate: 15.0 /min"
+  },
+  {
+    "doc_id": "4aaa0001-3832-cc52-bb4f-e1ccb2819204",
+    "patient_id": "4aaa0001-3832-cc52-e2f3-47aad08f4284",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-03-31",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Marvin Weissnat - 2024-03-31",
+    "content": "- Medication reconciliation.\n- Assessment of health and social care needs.\n- Assessment of anxiety.\n- Depression screening.\n- Depression screening.\n- Assessment of substance use.\n- Assessment using Alcohol Use Disorders Identification Test - Consumption.\n- Patient referral for dental care."
+  },
+  {
+    "doc_id": "4aaa0001-3832-cc52-bb4f-e1ccb2819204",
+    "patient_id": "4aaa0001-3832-cc52-e2f3-47aad08f4284",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-03-31",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Marvin Weissnat - 2024-03-31",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

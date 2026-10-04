@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-11bf-86f0886b4595",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Office Visit Note",
+    "date": "2015-04-09",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Aron Hammes - 2015-04-09",
+    "content": "Patient: Aron Hammes, male, born 2002-10-19 (patient ID 2de4dd0d-f665-8a2e-4c6b-997735e14ace).\nVisit date: 2015-04-09.\nVisit type: Encounter for symptom.\nClinician: Carroll Eichmann (General Practice).\nFacility: BERKSHIRE MEDICAL CENTER INC, PITTSFIELD, MA."
+  },
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-11bf-86f0886b4595",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Office Visit Note",
+    "date": "2015-04-09",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Aron Hammes - 2015-04-09",
+    "content": "Seen for Acute bacterial sinusitis."
+  },
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-11bf-86f0886b4595",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Office Visit Note",
+    "date": "2015-04-09",
+    "section": "Assessment",
+    "title": "Office Visit Note - Aron Hammes - 2015-04-09",
+    "content": "Diagnoses recorded at this visit:\n- Chronic sinusitis (onset 2015-04-09)."
+  }
+]

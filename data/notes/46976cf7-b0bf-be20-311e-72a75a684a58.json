@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "46976cf7-b0bf-be20-311e-72a75a684a58",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Emergency Department Note",
+    "date": "2022-03-07",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Lindsay Zieme - 2022-03-07",
+    "content": "Patient: Lindsay Zieme, female, born 2007-09-14 (patient ID 46976cf7-b0bf-be20-39a5-9f425a52886d).\nVisit date: 2022-03-07.\nVisit type: Emergency room admission.\nClinician: Angele Bogan (General Practice).\nFacility: COMFORT HOME CARE LLC, WORCESTER, MA."
+  },
+  {
+    "doc_id": "46976cf7-b0bf-be20-311e-72a75a684a58",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Emergency Department Note",
+    "date": "2022-03-07",
+    "section": "Reason for Visit",
+    "title": "Emergency Department Note - Lindsay Zieme - 2022-03-07",
+    "content": "Seen for Burn injury (morphologic abnormality)."
+  },
+  {
+    "doc_id": "46976cf7-b0bf-be20-311e-72a75a684a58",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Emergency Department Note",
+    "date": "2022-03-07",
+    "section": "Assessment",
+    "title": "Emergency Department Note - Lindsay Zieme - 2022-03-07",
+    "content": "Diagnoses recorded at this visit:\n- Burn injury (morphologic abnormality) (onset 2022-03-07), resolved 2022-04-12.\n- Epidermal burn of skin (onset 2022-03-07), resolved 2022-04-12."
+  },
+  {
+    "doc_id": "46976cf7-b0bf-be20-311e-72a75a684a58",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Emergency Department Note",
+    "date": "2022-03-07",
+    "section": "Medications",
+    "title": "Emergency Department Note - Lindsay Zieme - 2022-03-07",
+    "content": "Medications prescribed at this visit:\n- Naproxen sodium 220 MG Oral Tablet, started 2022-03-07; stopped 2022-04-12."
+  },
+  {
+    "doc_id": "46976cf7-b0bf-be20-311e-72a75a684a58",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Emergency Department Note",
+    "date": "2022-03-07",
+    "section": "Plan",
+    "title": "Emergency Department Note - Lindsay Zieme - 2022-03-07",
+    "content": "- Burn care for Epidermal burn of skin, started 2022-03-07, ended 2022-04-12."
+  }
+]

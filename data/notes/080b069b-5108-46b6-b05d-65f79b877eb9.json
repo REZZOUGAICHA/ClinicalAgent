@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "080b069b-5108-46b6-b05d-65f79b877eb9",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "2019-02-07",
+    "section": "Visit Information",
+    "title": "Inpatient Discharge Summary - Chester Aufderhar - 2019-02-07",
+    "content": "Patient: Chester Aufderhar, male, born 1966-11-22 (patient ID 080b069b-5108-46b6-ecef-6aacd3b9ef3f).\nVisit date: 2019-02-07.\nVisit type: Patient transfer to intensive care unit.\nClinician: Gabriel Reilly (General Practice).\nFacility: Fitchburg Outpatient Clinic, Fitchburg, MA."
+  },
+  {
+    "doc_id": "080b069b-5108-46b6-b05d-65f79b877eb9",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "2019-02-07",
+    "section": "Reason for Visit",
+    "title": "Inpatient Discharge Summary - Chester Aufderhar - 2019-02-07",
+    "content": "Seen for History of coronary artery bypass grafting."
+  },
+  {
+    "doc_id": "080b069b-5108-46b6-b05d-65f79b877eb9",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "2019-02-07",
+    "section": "Vital Signs",
+    "title": "Inpatient Discharge Summary - Chester Aufderhar - 2019-02-07",
+    "content": "- Oxygen saturation in Arterial blood: 94.0 %\n- Oxygen saturation in Arterial blood: 94.0 %"
+  },
+  {
+    "doc_id": "080b069b-5108-46b6-b05d-65f79b877eb9",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "2019-02-07",
+    "section": "Laboratory Results",
+    "title": "Inpatient Discharge Summary - Chester Aufderhar - 2019-02-07",
+    "content": "- Leukocytes [#/volume] in Blood by Automated count: 8.5 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 4.2 10*6/uL\n- Hemoglobin [Mass/volume] in Blood: 12.0 g/dL\n- Hematocrit [Volume Fraction] of Blood by Automated count: 43.1 %\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 79.1 fL\n- MCH [Entitic mass] by Automated count: 31.2 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 34.4 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 12.7 %\n- Platelets [#/volume] in Blood by Automated count: 408.1 10*3/uL\n- Glucose [Mass/volume] in Serum or Plasma: 86.9 mg/dL\n- Urea nitrogen [Mass/volume] in Serum or Plasma: 11.1 mg/dL\n- Creatinine [Mass/volume] in Serum or Plasma: 2.8 mg/dL\n- Calcium [Mass/volume] in Serum or Plasma: 8.8 mg/dL\n- Sodium [Moles/volume] in Serum or Plasma: 136.7 mmol/L\n- Potassium [Moles/volume] in Serum or Plasma: 5.0 mmol/L\n- Chloride [Moles/volume] in Serum or Plasma: 106.7 mmol/L\n- Carbon dioxide  total [Moles/volume] in Serum or Plasma: 26.1 mmol/L\n- Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M: 7.9 mL/min\n- Protein [Mass/volume] in Serum or Plasma: 7.2 g/dL\n- Albumin [Mass/volume] in Serum or Plasma: 4.6 g/dL\n- Bilirubin.total [Mass/volume] in Serum or Plasma: 8.8 mg/dL\n- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 75.7 U/L\n- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 16.6 U/L\n- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 39.3 U/L\n- Magnesium [Mass/volume] in Serum or Plasma: 2.1 mg/dL\n- Phosphate [Mass/volume] in Serum or Plasma: 3.3 mg/dL\n- Prothrombin time (PT): 11.1 s\n- INR in Platelet poor plasma by Coagulation assay: 1.0\n- aPTT in Blood by Coagulation assay: 36.0 s\n- pH of Arterial blood: 7.2 [pH]\n- Carbon dioxide [Partial pressure] in Arterial blood: 42.5 mm[Hg]\n- Oxygen [Partial pressure] in Arterial blood: 94.7 mm[Hg]\n- Bicarbonate [Moles/volume] in Arterial blood: 26.0 mmol/L\n- Cholesterol [Mass/volume] in Serum or Plasma: 155.7 mg/dL\n- Triglyceride [Mass/volume] in Serum or Plasma: 144.6 mg/dL\n- Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay: 73.3 mg/dL\n- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 53.5 mg/dL\n- Leukocytes [#/volume] in Blood by Automated count: 4.2 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 5.1 10*6/uL\n- Hemoglobin [Mass/volume] in Blood: 13.9 g/dL\n- Hematocrit [Volume Fraction] of Blood by Automated count: 34.5 %\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 87.0 fL\n- MCH [Entitic mass] by Automated count: 30.1 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 35.2 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 15.2 %\n- Platelets [#/volume] in Blood by Automated count: 227.5 10*3/uL\n- Glucose [Mass/volume] in Serum or Plasma: 86.9 mg/dL\n- Urea nitrogen [Mass/volume] in Serum or Plasma: 11.1 mg/dL\n- Creatinine [Mass/volume] in Serum or Plasma: 2.6 mg/dL\n- Calcium [Mass/volume] in Serum or Plasma: 8.8 mg/dL\n- Sodium [Moles/volume] in Serum or Plasma: 136.7 mmol/L\n- Potassium [Moles/volume] in Serum or Plasma: 5.0 mmol/L\n- Chloride [Moles/volume] in Serum or Plasma: 106.7 mmol/L\n- Carbon dioxide  total [Moles/volume] in Serum or Plasma: 26.1 mmol/L\n- Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M: 7.4 mL/min\n- Protein [Mass/volume] in Serum or Plasma: 8.3 g/dL\n- Albumin [Mass/volume] in Serum or Plasma: 4.5 g/dL\n- Bilirubin.total [Mass/volume] in Serum or Plasma: 11.8 mg/dL\n- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 75.2 U/L\n- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 19.9 U/L\n- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 26.4 U/L\n- Magnesium [Mass/volume] in Serum or Plasma: 2.0 mg/dL\n- Phosphate [Mass/volume] in Serum or Plasma: 4.4 mg/dL\n- Prothrombin time (PT): 9.4 s\n- INR in Platelet poor plasma by Coagulation assay: 1.2\n- aPTT in Blood by Coagulation assay: 39.1 s\n- pH of Arterial blood: 6.8 [pH]\n- Carbon dioxide [Partial pressure] in Arterial blood: 36.8 mm[Hg]\n- Oxygen [Partial pressure] in Arterial blood: 81.6 mm[Hg]\n- Bicarbonate [Moles/volume] in Arterial blood: 23.9 mmol/L\n- Cholesterol [Mass/volume] in Serum or Plasma: 155.7 mg/dL\n- Triglyceride [Mass/volume] in Serum or Plasma: 144.6 mg/dL\n- Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay: 73.3 mg/dL\n- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 53.5 mg/dL"
+  },
+  {
+    "doc_id": "080b069b-5108-46b6-b05d-65f79b877eb9",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "2019-02-07",
+    "section": "Procedures",
+    "title": "Inpatient Discharge Summary - Chester Aufderhar - 2019-02-07",
+    "content": "- Removal of endotracheal tube.\n- Electrocardiographic procedure.\n- Plain X-ray of chest.\n- Transfusion of packed red blood cells.\n- Discharge to ward."
+  }
+]

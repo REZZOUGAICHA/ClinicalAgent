@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "c86c400e-ff88-a1e3-09d5-376b5584971e",
+    "patient_id": "c86c400e-ff88-a1e3-2e23-caa4d8311f47",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1988-01-18",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Cristobal Montero - 1988-01-18",
+    "content": "Patient: Cristobal Montero, male, born 1947-03-03 (patient ID c86c400e-ff88-a1e3-2e23-caa4d8311f47).\nVisit date: 1988-01-18.\nVisit type: Death Certification.\nClinician: Eddie Keeling (General Practice).\nFacility: PRIMARY CARE NORTH PC, LYNN, MA."
+  },
+  {
+    "doc_id": "c86c400e-ff88-a1e3-09d5-376b5584971e",
+    "patient_id": "c86c400e-ff88-a1e3-2e23-caa4d8311f47",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1988-01-18",
+    "section": "Reason for Visit",
+    "title": "Annual Wellness Visit Note - Cristobal Montero - 1988-01-18",
+    "content": "Seen for Sudden cardiac death."
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "d15b23ed-02d5-3e28-5465-acca64fccc96",
+    "patient_id": "d15b23ed-02d5-3e28-efbd-2604425317c5",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-06-17",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Ivan Goodwin - 2026-06-17",
+    "content": "Patient: Ivan Goodwin, male, born 2026-05-13 (patient ID d15b23ed-02d5-3e28-efbd-2604425317c5).\nVisit date: 2026-06-17.\nVisit type: Well child visit.\nClinician: Astrid Huels (General Practice).\nFacility: SOUTH SHORE INTERNAL MEDICINE ASSOCIATES INC., MILTON, MA."
+  },
+  {
+    "doc_id": "d15b23ed-02d5-3e28-5465-acca64fccc96",
+    "patient_id": "d15b23ed-02d5-3e28-efbd-2604425317c5",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-06-17",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Ivan Goodwin - 2026-06-17",
+    "content": "- Body Height: 57.1 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0\n- Body Weight: 5.2 kg\n- Weight-for-length Per age and sex: 46.8 %\n- Head Occipital-frontal circumference Percentile: 59.6 %\n- Head Occipital-frontal circumference: 39.6 cm\n- Diastolic Blood Pressure: 68.0 mm[Hg]\n- Systolic Blood Pressure: 126.0 mm[Hg]\n- Heart rate: 64.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "d15b23ed-02d5-3e28-5465-acca64fccc96",
+    "patient_id": "d15b23ed-02d5-3e28-efbd-2604425317c5",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-06-17",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Ivan Goodwin - 2026-06-17",
+    "content": "- Hep B adolescent or pediatric."
+  }
+]

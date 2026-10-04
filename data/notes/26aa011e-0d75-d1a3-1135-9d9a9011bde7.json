@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "26aa011e-0d75-d1a3-1135-9d9a9011bde7",
+    "patient_id": "26aa011e-0d75-d1a3-3c5a-560a9450cc9d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-04-12",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Jesse Wolf - 2020-04-12",
+    "content": "Patient: Jesse Wolf, male, born 2010-04-04 (patient ID 26aa011e-0d75-d1a3-3c5a-560a9450cc9d).\nVisit date: 2020-04-12.\nVisit type: Well child visit.\nClinician: Odessa Hintz (General Practice).\nFacility: WESTFORD INTERNAL MEDICINE PC, WESTFORD, MA."
+  },
+  {
+    "doc_id": "26aa011e-0d75-d1a3-1135-9d9a9011bde7",
+    "patient_id": "26aa011e-0d75-d1a3-3c5a-560a9450cc9d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-04-12",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Jesse Wolf - 2020-04-12",
+    "content": "Diagnoses recorded at this visit:\n- Gingivitis (onset 2020-04-12), resolved 2020-04-19."
+  },
+  {
+    "doc_id": "26aa011e-0d75-d1a3-1135-9d9a9011bde7",
+    "patient_id": "26aa011e-0d75-d1a3-3c5a-560a9450cc9d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-04-12",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Jesse Wolf - 2020-04-12",
+    "content": "- Body Height: 140.7 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0\n- Body Weight: 75.5 kg\n- Body mass index (BMI) [Ratio]: 38.1 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 99.7 %\n- Diastolic Blood Pressure: 70.0 mm[Hg]\n- Systolic Blood Pressure: 110.0 mm[Hg]\n- Heart rate: 74.0 /min\n- Respiratory rate: 15.0 /min"
+  },
+  {
+    "doc_id": "26aa011e-0d75-d1a3-1135-9d9a9011bde7",
+    "patient_id": "26aa011e-0d75-d1a3-3c5a-560a9450cc9d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-04-12",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Jesse Wolf - 2020-04-12",
+    "content": "- Medication reconciliation.\n- Patient referral for dental care, for Gingivitis."
+  },
+  {
+    "doc_id": "26aa011e-0d75-d1a3-1135-9d9a9011bde7",
+    "patient_id": "26aa011e-0d75-d1a3-3c5a-560a9450cc9d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-04-12",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Jesse Wolf - 2020-04-12",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "eb5910f1-26e6-bc6f-3d41-53b17c5f971b",
+    "patient_id": "eb5910f1-26e6-bc6f-b300-716eae678d6f",
+    "document_type": "Office Visit Note",
+    "date": "2021-11-30",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Larissa Bins - 2021-11-30",
+    "content": "Patient: Larissa Bins, female, born 1995-04-25 (patient ID eb5910f1-26e6-bc6f-b300-716eae678d6f).\nVisit date: 2021-11-30.\nVisit type: Prenatal visit.\nClinician: Jackelyn Pacocha (General Practice).\nFacility: WP ACQUISITION SUB LLC, HAVERHILL, MA."
+  },
+  {
+    "doc_id": "eb5910f1-26e6-bc6f-3d41-53b17c5f971b",
+    "patient_id": "eb5910f1-26e6-bc6f-b300-716eae678d6f",
+    "document_type": "Office Visit Note",
+    "date": "2021-11-30",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Larissa Bins - 2021-11-30",
+    "content": "Seen for Normal pregnancy."
+  },
+  {
+    "doc_id": "eb5910f1-26e6-bc6f-3d41-53b17c5f971b",
+    "patient_id": "eb5910f1-26e6-bc6f-b300-716eae678d6f",
+    "document_type": "Office Visit Note",
+    "date": "2021-11-30",
+    "section": "Procedures",
+    "title": "Office Visit Note - Larissa Bins - 2021-11-30",
+    "content": "- Hemogram  automated  with red blood cells  white blood cells  hemoglobin  hematocrit  indices  platelet count  and manual white blood cell differential, for Normal pregnancy.\n- Administration of vaccine product containing only Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae antigens, for Normal pregnancy.\n- Urine screening for glucose, for Normal pregnancy.\n- Evaluation of uterine fundal height, for Normal pregnancy.\n- Auscultation of the fetal heart, for Normal pregnancy."
+  }
+]

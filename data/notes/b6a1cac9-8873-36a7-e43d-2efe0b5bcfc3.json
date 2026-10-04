@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "b6a1cac9-8873-36a7-e43d-2efe0b5bcfc3",
+    "patient_id": "b6a1cac9-8873-36a7-e726-4aad8a07d44d",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2025-02-26",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Renaldo Crist - 2025-02-26",
+    "content": "Patient: Renaldo Crist, male, born 1993-04-14 (patient ID b6a1cac9-8873-36a7-e726-4aad8a07d44d).\nVisit date: 2025-02-26.\nVisit type: Encounter for check up.\nClinician: Eleni Franecki (General Practice).\nFacility: BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM INC., NEEDHAM, MA."
+  },
+  {
+    "doc_id": "b6a1cac9-8873-36a7-e43d-2efe0b5bcfc3",
+    "patient_id": "b6a1cac9-8873-36a7-e726-4aad8a07d44d",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2025-02-26",
+    "section": "Assessment",
+    "title": "Outpatient Procedure Note - Renaldo Crist - 2025-02-26",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2025-02-26), resolved 2025-02-26."
+  },
+  {
+    "doc_id": "b6a1cac9-8873-36a7-e43d-2efe0b5bcfc3",
+    "patient_id": "b6a1cac9-8873-36a7-e726-4aad8a07d44d",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2025-02-26",
+    "section": "Vital Signs",
+    "title": "Outpatient Procedure Note - Renaldo Crist - 2025-02-26",
+    "content": "- Body Height: 177.2 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0\n- Body Weight: 88.0 kg\n- Body mass index (BMI) [Ratio]: 28.0 kg/m2\n- Diastolic Blood Pressure: 78.0 mm[Hg]\n- Systolic Blood Pressure: 122.0 mm[Hg]\n- Heart rate: 100.0 /min\n- Respiratory rate: 12.0 /min"
+  },
+  {
+    "doc_id": "b6a1cac9-8873-36a7-e43d-2efe0b5bcfc3",
+    "patient_id": "b6a1cac9-8873-36a7-e726-4aad8a07d44d",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2025-02-26",
+    "section": "Procedures",
+    "title": "Outpatient Procedure Note - Renaldo Crist - 2025-02-26",
+    "content": "- Medication reconciliation.\n- Assessment of health and social care needs.\n- Depression screening.\n- Depression screening."
+  },
+  {
+    "doc_id": "b6a1cac9-8873-36a7-e43d-2efe0b5bcfc3",
+    "patient_id": "b6a1cac9-8873-36a7-e726-4aad8a07d44d",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2025-02-26",
+    "section": "Immunizations",
+    "title": "Outpatient Procedure Note - Renaldo Crist - 2025-02-26",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-3a7e-cf058718cd11",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Emergency Department Note",
+    "date": "1990-08-24",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Rosalba Effertz - 1990-08-24",
+    "content": "Patient: Rosalba Effertz, female, born 1973-08-05 (patient ID 5e7ebf2c-22ec-a89b-53ab-38edddd81be9).\nVisit date: 1990-08-24.\nVisit type: Emergency room admission.\nClinician: Terence Conn (General Practice).\nFacility: HOLYOKE VISITING NURSE ASSOC, HOLYOKE, MA."
+  },
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-3a7e-cf058718cd11",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Emergency Department Note",
+    "date": "1990-08-24",
+    "section": "Reason for Visit",
+    "title": "Emergency Department Note - Rosalba Effertz - 1990-08-24",
+    "content": "Seen for Chronic intractable migraine without aura."
+  },
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-3a7e-cf058718cd11",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Emergency Department Note",
+    "date": "1990-08-24",
+    "section": "Assessment",
+    "title": "Emergency Department Note - Rosalba Effertz - 1990-08-24",
+    "content": "Diagnoses recorded at this visit:\n- Chronic intractable migraine without aura (onset 1990-08-24)."
+  }
+]

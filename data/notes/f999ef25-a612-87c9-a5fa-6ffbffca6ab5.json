@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "f999ef25-a612-87c9-a5fa-6ffbffca6ab5",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Office Visit Note",
+    "date": "2016-07-15",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Evangeline Ziemann - 2016-07-15",
+    "content": "Patient: Evangeline Ziemann, female, born 1925-09-18 (patient ID f999ef25-a612-87c9-206f-aacc9d469dc8).\nVisit date: 2016-07-15.\nVisit type: Follow-up encounter.\nClinician: Nickolas Schumm (General Practice).\nFacility: ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE, FRAMINGHAM, MA."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-a5fa-6ffbffca6ab5",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Office Visit Note",
+    "date": "2016-07-15",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Evangeline Ziemann - 2016-07-15",
+    "content": "Seen for Loss of teeth."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-a5fa-6ffbffca6ab5",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Office Visit Note",
+    "date": "2016-07-15",
+    "section": "Procedures",
+    "title": "Office Visit Note - Evangeline Ziemann - 2016-07-15",
+    "content": "- Fitting of denture, for Loss of teeth."
+  }
+]

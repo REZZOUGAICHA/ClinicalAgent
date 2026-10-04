@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-f828-100a002799a1",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Office Visit Note",
+    "date": "2023-07-02",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Rosalba Effertz - 2023-07-02",
+    "content": "Patient: Rosalba Effertz, female, born 1973-08-05 (patient ID 5e7ebf2c-22ec-a89b-53ab-38edddd81be9).\nVisit date: 2023-07-02.\nVisit type: Encounter for symptom.\nClinician: Saundra Kuphal (General Practice).\nFacility: COOLEY DICKINSON HOSPITAL INC, NORTHAMPTON, MA."
+  },
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-f828-100a002799a1",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Office Visit Note",
+    "date": "2023-07-02",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Rosalba Effertz - 2023-07-02",
+    "content": "Seen for Viral sinusitis."
+  },
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-f828-100a002799a1",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Office Visit Note",
+    "date": "2023-07-02",
+    "section": "Assessment",
+    "title": "Office Visit Note - Rosalba Effertz - 2023-07-02",
+    "content": "Diagnoses recorded at this visit:\n- Viral sinusitis (onset 2023-07-02), resolved 2023-07-29."
+  }
+]

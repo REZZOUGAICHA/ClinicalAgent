@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "2c167999-289d-95fa-1b77-89c7314b6b09",
+    "patient_id": "2c167999-289d-95fa-5c27-7d8b8d35348c",
+    "document_type": "Office Visit Note",
+    "date": "2024-01-13",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Eliseo Nader - 2024-01-13",
+    "content": "Patient: Eliseo Nader, male, born 1974-01-12 (patient ID 2c167999-289d-95fa-5c27-7d8b8d35348c).\nVisit date: 2024-01-13.\nVisit type: Encounter for check up.\nClinician: Willian Batz (General Practice).\nFacility: BOSTON MEDICAL CENTER CORPORATION-, WINTHROP, MA."
+  },
+  {
+    "doc_id": "2c167999-289d-95fa-1b77-89c7314b6b09",
+    "patient_id": "2c167999-289d-95fa-5c27-7d8b8d35348c",
+    "document_type": "Office Visit Note",
+    "date": "2024-01-13",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Eliseo Nader - 2024-01-13",
+    "content": "Seen for Screening for malignant neoplasm of colon."
+  },
+  {
+    "doc_id": "2c167999-289d-95fa-1b77-89c7314b6b09",
+    "patient_id": "2c167999-289d-95fa-5c27-7d8b8d35348c",
+    "document_type": "Office Visit Note",
+    "date": "2024-01-13",
+    "section": "Procedures",
+    "title": "Office Visit Note - Eliseo Nader - 2024-01-13",
+    "content": "- Colonoscopy."
+  }
+]

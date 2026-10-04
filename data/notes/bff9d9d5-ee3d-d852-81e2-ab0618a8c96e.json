@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "bff9d9d5-ee3d-d852-81e2-ab0618a8c96e",
+    "patient_id": "bff9d9d5-ee3d-d852-9c67-36d8361a4a4a",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2016-05-29",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Rosario Ortiz - 2016-05-29",
+    "content": "Patient: Rosario Ortiz, male, born 1945-01-28 (patient ID bff9d9d5-ee3d-d852-9c67-36d8361a4a4a).\nVisit date: 2016-05-29.\nVisit type: General examination of patient.\nClinician: Cedrick Gleason (General Practice).\nFacility: WELLESLEY FAMILY CARE ASSOCIATES PC, WELLESLEY, MA."
+  },
+  {
+    "doc_id": "bff9d9d5-ee3d-d852-81e2-ab0618a8c96e",
+    "patient_id": "bff9d9d5-ee3d-d852-9c67-36d8361a4a4a",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2016-05-29",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Rosario Ortiz - 2016-05-29",
+    "content": "Diagnoses recorded at this visit:\n- Part-time employment (onset 2016-05-29), resolved 2017-06-04."
+  }
+]

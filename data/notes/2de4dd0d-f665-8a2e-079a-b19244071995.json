@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-079a-b19244071995",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Office Visit Note",
+    "date": "2022-01-01",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Aron Hammes - 2022-01-01",
+    "content": "Patient: Aron Hammes, male, born 2002-10-19 (patient ID 2de4dd0d-f665-8a2e-4c6b-997735e14ace).\nVisit date: 2022-01-01.\nVisit type: Encounter for check up.\nClinician: Carroll Eichmann (General Practice).\nFacility: BERKSHIRE MEDICAL CENTER INC, PITTSFIELD, MA."
+  },
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-079a-b19244071995",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Office Visit Note",
+    "date": "2022-01-01",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Aron Hammes - 2022-01-01",
+    "content": "Seen for Patient referral for dental care."
+  },
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-079a-b19244071995",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Office Visit Note",
+    "date": "2022-01-01",
+    "section": "Assessment",
+    "title": "Office Visit Note - Aron Hammes - 2022-01-01",
+    "content": "Diagnoses recorded at this visit:\n- Primary dental caries (onset 2022-01-01), resolved 2022-01-01."
+  },
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-079a-b19244071995",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Office Visit Note",
+    "date": "2022-01-01",
+    "section": "Procedures",
+    "title": "Office Visit Note - Aron Hammes - 2022-01-01",
+    "content": "- Dental consultation and report, for Patient referral for dental care.\n- Dental care, for Patient referral for dental care.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Examination of gingivae, for Patient referral for dental care.\n- Restoration of tooth with coverage of all cusps using dental filling material, for Primary dental caries.\n- Oral health education, for Patient referral for dental care."
+  }
+]

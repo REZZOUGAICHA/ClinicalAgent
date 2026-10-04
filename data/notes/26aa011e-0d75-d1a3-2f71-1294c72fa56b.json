@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "26aa011e-0d75-d1a3-2f71-1294c72fa56b",
+    "patient_id": "26aa011e-0d75-d1a3-3c5a-560a9450cc9d",
+    "document_type": "Office Visit Note",
+    "date": "2022-04-04",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Jesse Wolf - 2022-04-04",
+    "content": "Patient: Jesse Wolf, male, born 2010-04-04 (patient ID 26aa011e-0d75-d1a3-3c5a-560a9450cc9d).\nVisit date: 2022-04-04.\nVisit type: Encounter for check up.\nClinician: Marcus Schamberger (General Practice).\nFacility: THE LOWELL GENERAL HOSPITAL, WESTFORD, MA."
+  },
+  {
+    "doc_id": "26aa011e-0d75-d1a3-2f71-1294c72fa56b",
+    "patient_id": "26aa011e-0d75-d1a3-3c5a-560a9450cc9d",
+    "document_type": "Office Visit Note",
+    "date": "2022-04-04",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Jesse Wolf - 2022-04-04",
+    "content": "Seen for Epidermal burn of skin."
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "doc_id": "9661a432-4630-2cd9-9770-d95d5a8abd5b",
+    "patient_id": "9661a432-4630-2cd9-142c-386845fae837",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-06-25",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Paul Tremblay - 2019-06-25",
+    "content": "Patient: Paul Tremblay, male, born 1978-02-14 (patient ID 9661a432-4630-2cd9-142c-386845fae837).\nVisit date: 2019-06-25.\nVisit type: General examination of patient.\nClinician: Idella Runte (General Practice).\nFacility: SIGNATURE HEALTHCARE MEDICAL GROUP INC, WEST BRIDGEWATER, MA."
+  },
+  {
+    "doc_id": "9661a432-4630-2cd9-9770-d95d5a8abd5b",
+    "patient_id": "9661a432-4630-2cd9-142c-386845fae837",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-06-25",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Paul Tremblay - 2019-06-25",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2019-06-25), resolved 2019-06-25.\n- Gingivitis (onset 2019-06-25), resolved 2019-07-09."
+  },
+  {
+    "doc_id": "9661a432-4630-2cd9-9770-d95d5a8abd5b",
+    "patient_id": "9661a432-4630-2cd9-142c-386845fae837",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-06-25",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Paul Tremblay - 2019-06-25",
+    "content": "- Body Height: 167.2 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0\n- Body Weight: 85.6 kg\n- Body mass index (BMI) [Ratio]: 30.6 kg/m2\n- Diastolic Blood Pressure: 100.0 mm[Hg]\n- Systolic Blood Pressure: 109.0 mm[Hg]\n- Heart rate: 86.0 /min\n- Respiratory rate: 14.0 /min"
+  },
+  {
+    "doc_id": "9661a432-4630-2cd9-9770-d95d5a8abd5b",
+    "patient_id": "9661a432-4630-2cd9-142c-386845fae837",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-06-25",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Paul Tremblay - 2019-06-25",
+    "content": "- Hemoglobin A1c/Hemoglobin.total in Blood: 6.0 %\n- Glucose [Mass/volume] in Blood: 97.9 mg/dL\n- Urea nitrogen [Mass/volume] in Blood: 19.8 mg/dL\n- Creatinine [Mass/volume] in Blood: 1.4 mg/dL\n- Calcium [Mass/volume] in Blood: 9.4 mg/dL\n- Sodium [Moles/volume] in Blood: 142.3 mmol/L\n- Potassium [Moles/volume] in Blood: 4.1 mmol/L\n- Chloride [Moles/volume] in Blood: 104.7 mmol/L\n- Carbon dioxide  total [Moles/volume] in Blood: 21.6 mmol/L"
+  },
+  {
+    "doc_id": "9661a432-4630-2cd9-9770-d95d5a8abd5b",
+    "patient_id": "9661a432-4630-2cd9-142c-386845fae837",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-06-25",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Paul Tremblay - 2019-06-25",
+    "content": "- Medication reconciliation.\n- Assessment of health and social care needs.\n- Screening for domestic abuse.\n- Depression screening.\n- Depression screening.\n- Assessment of substance use.\n- Screening for drug abuse.\n- Patient referral for dental care, for Gingivitis."
+  },
+  {
+    "doc_id": "9661a432-4630-2cd9-9770-d95d5a8abd5b",
+    "patient_id": "9661a432-4630-2cd9-142c-386845fae837",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-06-25",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Paul Tremblay - 2019-06-25",
+    "content": "Medications prescribed at this visit:\n- lisinopril 10 MG Oral Tablet, started 2019-06-25, for Essential hypertension; stopped 2020-06-30.\n- amLODIPine 2.5 MG Oral Tablet, started 2019-06-25, for Essential hypertension; stopped 2020-06-30."
+  },
+  {
+    "doc_id": "9661a432-4630-2cd9-9770-d95d5a8abd5b",
+    "patient_id": "9661a432-4630-2cd9-142c-386845fae837",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-06-25",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Paul Tremblay - 2019-06-25",
+    "content": "- Influenza split virus trivalent PF.\n- Td (adult) 5 Lf tetanus toxoid preservative free adsorbed.\n- Hep A adult."
+  }
+]

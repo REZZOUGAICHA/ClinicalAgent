@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "e74367bd-7385-97dc-6fbb-b15f2045b28f",
+    "patient_id": "e74367bd-7385-97dc-2c7f-251b4cd9fe29",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2014-02-03",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Tennille Jerde - 2014-02-03",
+    "content": "Patient: Tennille Jerde, female, born 1960-09-24 (patient ID e74367bd-7385-97dc-2c7f-251b4cd9fe29).\nVisit date: 2014-02-03.\nVisit type: Encounter for problem.\nClinician: Omer Koepp (General Practice).\nFacility: CAMBRIDGE PUBLIC HEALTH COMMISSION, SOMERVILLE, MA."
+  },
+  {
+    "doc_id": "e74367bd-7385-97dc-6fbb-b15f2045b28f",
+    "patient_id": "e74367bd-7385-97dc-2c7f-251b4cd9fe29",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2014-02-03",
+    "section": "Reason for Visit",
+    "title": "Outpatient Procedure Note - Tennille Jerde - 2014-02-03",
+    "content": "Seen for Chronic pain."
+  },
+  {
+    "doc_id": "e74367bd-7385-97dc-6fbb-b15f2045b28f",
+    "patient_id": "e74367bd-7385-97dc-2c7f-251b4cd9fe29",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2014-02-03",
+    "section": "Assessment",
+    "title": "Outpatient Procedure Note - Tennille Jerde - 2014-02-03",
+    "content": "Diagnoses recorded at this visit:\n- Chronic pain (onset 2014-02-03).\n- Chronic low back pain (onset 2014-02-03).\n- Chronic neck pain (onset 2014-02-03)."
+  }
+]

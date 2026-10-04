@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "bff9d9d5-ee3d-d852-69b8-f42ca6f76d64",
+    "patient_id": "bff9d9d5-ee3d-d852-9c67-36d8361a4a4a",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-06-10",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Rosario Ortiz - 2018-06-10",
+    "content": "Patient: Rosario Ortiz, male, born 1945-01-28 (patient ID bff9d9d5-ee3d-d852-9c67-36d8361a4a4a).\nVisit date: 2018-06-10.\nVisit type: General examination of patient.\nClinician: Cedrick Gleason (General Practice).\nFacility: WELLESLEY FAMILY CARE ASSOCIATES PC, WELLESLEY, MA."
+  },
+  {
+    "doc_id": "bff9d9d5-ee3d-d852-69b8-f42ca6f76d64",
+    "patient_id": "bff9d9d5-ee3d-d852-9c67-36d8361a4a4a",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-06-10",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Rosario Ortiz - 2018-06-10",
+    "content": "Diagnoses recorded at this visit:\n- Hyperlipidemia (onset 2018-06-10).\n- Unemployed (onset 2018-06-10), resolved 2019-06-16."
+  },
+  {
+    "doc_id": "bff9d9d5-ee3d-d852-69b8-f42ca6f76d64",
+    "patient_id": "bff9d9d5-ee3d-d852-9c67-36d8361a4a4a",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-06-10",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Rosario Ortiz - 2018-06-10",
+    "content": "- Body Height: 180.8 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0\n- Body Weight: 97.9 kg\n- Body mass index (BMI) [Ratio]: 29.9 kg/m2\n- Diastolic Blood Pressure: 90.0 mm[Hg]\n- Systolic Blood Pressure: 127.0 mm[Hg]\n- Heart rate: 65.0 /min\n- Respiratory rate: 15.0 /min"
+  },
+  {
+    "doc_id": "bff9d9d5-ee3d-d852-69b8-f42ca6f76d64",
+    "patient_id": "bff9d9d5-ee3d-d852-9c67-36d8361a4a4a",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-06-10",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Rosario Ortiz - 2018-06-10",
+    "content": "- Hemoglobin A1c/Hemoglobin.total in Blood: 6.4 %\n- Cholesterol [Mass/volume] in Serum or Plasma: 284.3 mg/dL\n- Triglyceride [Mass/volume] in Serum or Plasma: 258.6 mg/dL\n- Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay: 139.1 mg/dL\n- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 23.3 mg/dL\n- Glucose [Mass/volume] in Blood: 74.8 mg/dL\n- Urea nitrogen [Mass/volume] in Blood: 11.1 mg/dL\n- Creatinine [Mass/volume] in Blood: 3.5 mg/dL\n- Calcium [Mass/volume] in Blood: 8.5 mg/dL\n- Sodium [Moles/volume] in Blood: 143.7 mmol/L\n- Potassium [Moles/volume] in Blood: 3.7 mmol/L\n- Chloride [Moles/volume] in Blood: 109.4 mmol/L\n- Carbon dioxide  total [Moles/volume] in Blood: 27.5 mmol/L\n- Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M: 88.9 mL/min\n- Protein [Mass/volume] in Serum or Plasma: 6.4 g/dL\n- Albumin [Mass/volume] in Serum or Plasma: 4.4 g/dL\n- Globulin [Mass/volume] in Serum by calculation: 3.4 g/L\n- Bilirubin.total [Mass/volume] in Serum or Plasma: 0.3 mg/dL\n- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 87.0 U/L\n- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 23.1 U/L\n- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 11.4 U/L\n- Glucose [Mass/volume] in Blood: 74.8 mg/dL\n- Urea nitrogen [Mass/volume] in Blood: 11.1 mg/dL\n- Creatinine [Mass/volume] in Blood: 0.9 mg/dL\n- Calcium [Mass/volume] in Blood: 8.5 mg/dL\n- Sodium [Moles/volume] in Blood: 143.7 mmol/L\n- Potassium [Moles/volume] in Blood: 3.7 mmol/L\n- Chloride [Moles/volume] in Blood: 109.4 mmol/L\n- Carbon dioxide  total [Moles/volume] in Blood: 27.5 mmol/L"
+  },
+  {
+    "doc_id": "bff9d9d5-ee3d-d852-69b8-f42ca6f76d64",
+    "patient_id": "bff9d9d5-ee3d-d852-9c67-36d8361a4a4a",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-06-10",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Rosario Ortiz - 2018-06-10",
+    "content": "- Assessment of health and social care needs.\n- Assessment of anxiety.\n- Assessment using Morse Fall Scale.\n- Screening for domestic abuse.\n- Depression screening.\n- Depression screening."
+  },
+  {
+    "doc_id": "bff9d9d5-ee3d-d852-69b8-f42ca6f76d64",
+    "patient_id": "bff9d9d5-ee3d-d852-9c67-36d8361a4a4a",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-06-10",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Rosario Ortiz - 2018-06-10",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

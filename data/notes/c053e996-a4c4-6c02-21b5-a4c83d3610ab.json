@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "c053e996-a4c4-6c02-21b5-a4c83d3610ab",
+    "patient_id": "c053e996-a4c4-6c02-e2b6-284227156c67",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2025-04-19",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Sharyn Hagenes - 2025-04-19",
+    "content": "Patient: Sharyn Hagenes, female, born 2023-09-15 (patient ID c053e996-a4c4-6c02-e2b6-284227156c67).\nVisit date: 2025-04-19.\nVisit type: Encounter for symptom.\nClinician: Bennett Rippin (General Practice).\nFacility: MILFORD REGIONAL MEDICAL CENTER, UPTON, MA."
+  },
+  {
+    "doc_id": "c053e996-a4c4-6c02-21b5-a4c83d3610ab",
+    "patient_id": "c053e996-a4c4-6c02-e2b6-284227156c67",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2025-04-19",
+    "section": "Reason for Visit",
+    "title": "Outpatient Procedure Note - Sharyn Hagenes - 2025-04-19",
+    "content": "Seen for Otitis media."
+  },
+  {
+    "doc_id": "c053e996-a4c4-6c02-21b5-a4c83d3610ab",
+    "patient_id": "c053e996-a4c4-6c02-e2b6-284227156c67",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2025-04-19",
+    "section": "Assessment",
+    "title": "Outpatient Procedure Note - Sharyn Hagenes - 2025-04-19",
+    "content": "Diagnoses recorded at this visit:\n- Otitis media (onset 2025-04-19), resolved 2025-08-22."
+  },
+  {
+    "doc_id": "c053e996-a4c4-6c02-21b5-a4c83d3610ab",
+    "patient_id": "c053e996-a4c4-6c02-e2b6-284227156c67",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2025-04-19",
+    "section": "Medications",
+    "title": "Outpatient Procedure Note - Sharyn Hagenes - 2025-04-19",
+    "content": "Medications prescribed at this visit:\n- Amoxicillin 500 MG Oral Tablet, started 2025-04-19; stopped 2025-05-03.\n- Acetaminophen 160 MG Chewable Tablet, started 2025-04-19; stopped 2025-05-03."
+  }
+]

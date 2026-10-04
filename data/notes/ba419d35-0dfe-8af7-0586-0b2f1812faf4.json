@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "ba419d35-0dfe-8af7-0586-0b2f1812faf4",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Office Visit Note",
+    "date": "2013-11-09",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Corie Kohler - 2013-11-09",
+    "content": "Patient: Corie Kohler, female, born 1925-09-18 (patient ID ba419d35-0dfe-8af7-347c-eebf02485a56).\nVisit date: 2013-11-09.\nVisit type: Encounter for problem.\nClinician: Maricarmen Delafuente (General Practice).\nFacility: ARBOUR-FULLER HOSPITAL, SOUTH ATTLEBORO, MA."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-0586-0b2f1812faf4",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Office Visit Note",
+    "date": "2013-11-09",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Corie Kohler - 2013-11-09",
+    "content": "Seen for Chronic kidney disease stage 4."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-0586-0b2f1812faf4",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Office Visit Note",
+    "date": "2013-11-09",
+    "section": "Laboratory Results",
+    "title": "Office Visit Note - Corie Kohler - 2013-11-09",
+    "content": "- Glucose [Mass/volume] in Blood: 76.6 mg/dL\n- Urea nitrogen [Mass/volume] in Blood: 14.3 mg/dL\n- Creatinine [Mass/volume] in Blood: 2.6 mg/dL\n- Calcium [Mass/volume] in Blood: 9.0 mg/dL\n- Sodium [Moles/volume] in Blood: 136.2 mmol/L\n- Potassium [Moles/volume] in Blood: 4.8 mmol/L\n- Chloride [Moles/volume] in Blood: 105.2 mmol/L\n- Carbon dioxide  total [Moles/volume] in Blood: 22.7 mmol/L\n- Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M: 4.4 mL/min\n- Protein [Mass/volume] in Serum or Plasma: 7.0 g/dL\n- Albumin [Mass/volume] in Serum or Plasma: 4.6 g/dL\n- Globulin [Mass/volume] in Serum by calculation: 2.8 g/L\n- Bilirubin.total [Mass/volume] in Serum or Plasma: 0.3 mg/dL\n- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 38.2 U/L\n- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 40.3 U/L\n- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 28.8 U/L\n- Appearance of Urine: Cloudy urine (finding)\n- Odor of Urine: Urine smell ammoniacal (finding)\n- Clarity of Urine: Translucent (qualifier value)\n- Color of Urine: Brown color (qualifier value)\n- Glucose [Mass/volume] in Urine by Test strip: 0.9 mg/dL\n- Glucose [Presence] in Urine by Test strip: Urine glucose test = ++ (finding)\n- Bilirubin.total [Mass/volume] in Urine by Test strip: 1.4 mg/dL\n- Bilirubin.total [Presence] in Urine by Test strip: Finding of bilirubin in urine (finding)\n- Ketones [Mass/volume] in Urine by Test strip: 0.6 mg/dL\n- Ketones [Presence] in Urine by Test strip: Urine ketone test = +++ (finding)\n- Specific gravity of Urine by Test strip: 1.0\n- pH of Urine by Test strip: 5.9 pH\n- Protein [Mass/volume] in Urine by Test strip: 393.0 mg/dL\n- Protein [Presence] in Urine by Test strip: Urine protein test = +++ (finding)\n- Nitrite [Presence] in Urine by Test strip: Nitrite not detected in urine (finding)\n- Hemoglobin [Presence] in Urine by Test strip: Blood not detected in urine (finding)\n- Leukocyte esterase [Presence] in Urine by Test strip: Urine leukocytes not detected (finding)"
+  }
+]

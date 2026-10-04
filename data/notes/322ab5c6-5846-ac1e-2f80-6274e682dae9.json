@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "322ab5c6-5846-ac1e-2f80-6274e682dae9",
+    "patient_id": "322ab5c6-5846-ac1e-38cc-48b8cb441e20",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-04-02",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Lena Cummings - 2021-04-02",
+    "content": "Patient: Lena Cummings, female, born 1965-02-26 (patient ID 322ab5c6-5846-ac1e-38cc-48b8cb441e20).\nVisit date: 2021-04-02.\nVisit type: General examination of patient.\nClinician: Anh Schroeder (General Practice).\nFacility: FAMILY PRACTICE GROUP PC, ARLINGTON, MA."
+  },
+  {
+    "doc_id": "322ab5c6-5846-ac1e-2f80-6274e682dae9",
+    "patient_id": "322ab5c6-5846-ac1e-38cc-48b8cb441e20",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-04-02",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Lena Cummings - 2021-04-02",
+    "content": "Diagnoses recorded at this visit:\n- Not in labor force (onset 2021-04-02), resolved 2023-04-14.\n- Victim of intimate partner abuse (onset 2021-04-02), resolved 2022-04-08."
+  },
+  {
+    "doc_id": "322ab5c6-5846-ac1e-2f80-6274e682dae9",
+    "patient_id": "322ab5c6-5846-ac1e-38cc-48b8cb441e20",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-04-02",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Lena Cummings - 2021-04-02",
+    "content": "- Body Height: 159.6 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0\n- Body Weight: 72.0 kg\n- Body mass index (BMI) [Ratio]: 28.3 kg/m2\n- Diastolic Blood Pressure: 77.0 mm[Hg]\n- Systolic Blood Pressure: 116.0 mm[Hg]\n- Heart rate: 63.0 /min\n- Respiratory rate: 14.0 /min"
+  },
+  {
+    "doc_id": "322ab5c6-5846-ac1e-2f80-6274e682dae9",
+    "patient_id": "322ab5c6-5846-ac1e-38cc-48b8cb441e20",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-04-02",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Lena Cummings - 2021-04-02",
+    "content": "- Cholesterol [Mass/volume] in Serum or Plasma: 183.0 mg/dL\n- Triglyceride [Mass/volume] in Serum or Plasma: 119.6 mg/dL\n- Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay: 89.6 mg/dL\n- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 69.5 mg/dL"
+  },
+  {
+    "doc_id": "322ab5c6-5846-ac1e-2f80-6274e682dae9",
+    "patient_id": "322ab5c6-5846-ac1e-38cc-48b8cb441e20",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-04-02",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Lena Cummings - 2021-04-02",
+    "content": "- Medication reconciliation.\n- Assessment of health and social care needs.\n- Assessment of anxiety.\n- Screening for domestic abuse.\n- Depression screening.\n- Depression screening.\n- Assessment of substance use.\n- Screening for drug abuse."
+  },
+  {
+    "doc_id": "322ab5c6-5846-ac1e-2f80-6274e682dae9",
+    "patient_id": "322ab5c6-5846-ac1e-38cc-48b8cb441e20",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-04-02",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Lena Cummings - 2021-04-02",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

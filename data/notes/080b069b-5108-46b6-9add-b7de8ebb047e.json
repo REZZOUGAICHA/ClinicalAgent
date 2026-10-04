@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "080b069b-5108-46b6-9add-b7de8ebb047e",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Office Visit Note",
+    "date": "2018-10-21",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Chester Aufderhar - 2018-10-21",
+    "content": "Patient: Chester Aufderhar, male, born 1966-11-22 (patient ID 080b069b-5108-46b6-ecef-6aacd3b9ef3f).\nVisit date: 2018-10-21.\nVisit type: Encounter for symptom.\nClinician: Harland Ryan (General Practice).\nFacility: SOUTHCOAST HOSPITAL GROUP INC, WAREHAM, MA."
+  },
+  {
+    "doc_id": "080b069b-5108-46b6-9add-b7de8ebb047e",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Office Visit Note",
+    "date": "2018-10-21",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Chester Aufderhar - 2018-10-21",
+    "content": "Seen for Acute bronchitis."
+  },
+  {
+    "doc_id": "080b069b-5108-46b6-9add-b7de8ebb047e",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Office Visit Note",
+    "date": "2018-10-21",
+    "section": "Assessment",
+    "title": "Office Visit Note - Chester Aufderhar - 2018-10-21",
+    "content": "Diagnoses recorded at this visit:\n- Acute bronchitis (onset 2018-10-22), resolved 2018-11-07."
+  },
+  {
+    "doc_id": "080b069b-5108-46b6-9add-b7de8ebb047e",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Office Visit Note",
+    "date": "2018-10-21",
+    "section": "Procedures",
+    "title": "Office Visit Note - Chester Aufderhar - 2018-10-21",
+    "content": "- Measurement of respiratory function, for Acute bronchitis."
+  },
+  {
+    "doc_id": "080b069b-5108-46b6-9add-b7de8ebb047e",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Office Visit Note",
+    "date": "2018-10-21",
+    "section": "Medications",
+    "title": "Office Visit Note - Chester Aufderhar - 2018-10-21",
+    "content": "Medications prescribed at this visit:\n- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution, started 2018-10-21, for Acute bronchitis; stopped 2018-11-06."
+  },
+  {
+    "doc_id": "080b069b-5108-46b6-9add-b7de8ebb047e",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Office Visit Note",
+    "date": "2018-10-21",
+    "section": "Plan",
+    "title": "Office Visit Note - Chester Aufderhar - 2018-10-21",
+    "content": "- Respiratory therapy, started 2018-10-22, ended 2019-01-22."
+  }
+]

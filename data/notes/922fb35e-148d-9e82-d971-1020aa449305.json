@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "922fb35e-148d-9e82-d971-1020aa449305",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Office Visit Note",
+    "date": "2024-08-02",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Agnes Weber - 2024-08-02",
+    "content": "Patient: Agnes Weber, female, born 1986-12-19 (patient ID 922fb35e-148d-9e82-7e65-bfa05e3b3515).\nVisit date: 2024-08-02.\nVisit type: Prenatal visit.\nClinician: Chanell Robel (General Practice).\nFacility: WHITTIER REHABILITATION HOSPITAL - BRADFORD, WESTBOROUGH, MA."
+  },
+  {
+    "doc_id": "922fb35e-148d-9e82-d971-1020aa449305",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Office Visit Note",
+    "date": "2024-08-02",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Agnes Weber - 2024-08-02",
+    "content": "Seen for Normal pregnancy."
+  },
+  {
+    "doc_id": "922fb35e-148d-9e82-d971-1020aa449305",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Office Visit Note",
+    "date": "2024-08-02",
+    "section": "Procedures",
+    "title": "Office Visit Note - Agnes Weber - 2024-08-02",
+    "content": "- Hemogram  automated  with red blood cells  white blood cells  hemoglobin  hematocrit  indices  platelet count  and manual white blood cell differential, for Normal pregnancy.\n- Administration of vaccine product containing only Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae antigens, for Normal pregnancy.\n- Urine screening for glucose, for Normal pregnancy.\n- Evaluation of uterine fundal height, for Normal pregnancy.\n- Auscultation of the fetal heart, for Normal pregnancy."
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-19bb-1aa716480b78",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Emergency Department Note",
+    "date": "2023-01-03",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Faustino Langworth - 2023-01-03",
+    "content": "Patient: Faustino Langworth, male, born 1998-06-17 (patient ID 5ba0a3f3-32f7-02b1-ec6a-8f568923954c).\nVisit date: 2023-01-03.\nVisit type: Emergency hospital admission.\nClinician: Judy Gleason (General Practice).\nFacility: CAMBRIDGE REHABILITATION & NURSING CENTER, CAMBRIDGE, MA."
+  },
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-19bb-1aa716480b78",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Emergency Department Note",
+    "date": "2023-01-03",
+    "section": "Reason for Visit",
+    "title": "Emergency Department Note - Faustino Langworth - 2023-01-03",
+    "content": "Seen for Chronic pain."
+  },
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-19bb-1aa716480b78",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Emergency Department Note",
+    "date": "2023-01-03",
+    "section": "Vital Signs",
+    "title": "Emergency Department Note - Faustino Langworth - 2023-01-03",
+    "content": "- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 8.0"
+  },
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-19bb-1aa716480b78",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Emergency Department Note",
+    "date": "2023-01-03",
+    "section": "Medications",
+    "title": "Emergency Department Note - Faustino Langworth - 2023-01-03",
+    "content": "Medications prescribed at this visit:\n- Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet, started 2023-01-03; stopped 2023-02-28."
+  }
+]

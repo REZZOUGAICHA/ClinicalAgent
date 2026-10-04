@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "6aed9210-c500-4375-36d5-f597f08b8b6b",
+    "patient_id": "6aed9210-c500-4375-b0fc-3374c40b8591",
+    "document_type": "Office Visit Note",
+    "date": "2026-09-24",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Lyman Runte - 2026-09-24",
+    "content": "Patient: Lyman Runte, male, born 1965-07-08 (patient ID 6aed9210-c500-4375-b0fc-3374c40b8591).\nVisit date: 2026-09-24.\nVisit type: Encounter for check up.\nClinician: Arden Bergstrom (General Practice).\nFacility: CAPE COD HOSPITAL INC, HYANNIS, MA."
+  },
+  {
+    "doc_id": "6aed9210-c500-4375-36d5-f597f08b8b6b",
+    "patient_id": "6aed9210-c500-4375-b0fc-3374c40b8591",
+    "document_type": "Office Visit Note",
+    "date": "2026-09-24",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Lyman Runte - 2026-09-24",
+    "content": "Seen for Gingivitis."
+  },
+  {
+    "doc_id": "6aed9210-c500-4375-36d5-f597f08b8b6b",
+    "patient_id": "6aed9210-c500-4375-b0fc-3374c40b8591",
+    "document_type": "Office Visit Note",
+    "date": "2026-09-24",
+    "section": "Procedures",
+    "title": "Office Visit Note - Lyman Runte - 2026-09-24",
+    "content": "- Dental consultation and report, for Gingivitis.\n- Dental care, for Gingivitis.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Examination of gingivae, for Gingivitis.\n- Oral health education, for Gingivitis."
+  }
+]

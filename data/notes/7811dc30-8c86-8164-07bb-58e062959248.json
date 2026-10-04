@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "7811dc30-8c86-8164-07bb-58e062959248",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Office Visit Note",
+    "date": "2023-08-20",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Mignon Rau - 2023-08-20",
+    "content": "Patient: Mignon Rau, female, born 1970-04-21 (patient ID 7811dc30-8c86-8164-6c33-6b6f464745ef).\nVisit date: 2023-08-20.\nVisit type: Encounter for check up.\nClinician: Rudolf Vandervort (General Practice).\nFacility: BETH ISRAEL DEACONESS HOSPITAL MILTON INC, MILTON, MA."
+  },
+  {
+    "doc_id": "7811dc30-8c86-8164-07bb-58e062959248",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Office Visit Note",
+    "date": "2023-08-20",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Mignon Rau - 2023-08-20",
+    "content": "Seen for Fracture of ankle."
+  }
+]

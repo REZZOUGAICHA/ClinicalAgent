@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "f999ef25-a612-87c9-1272-251e0585e9e4",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Emergency Department Note",
+    "date": "2014-12-26",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Evangeline Ziemann - 2014-12-26",
+    "content": "Patient: Evangeline Ziemann, female, born 1925-09-18 (patient ID f999ef25-a612-87c9-206f-aacc9d469dc8).\nVisit date: 2014-12-26.\nVisit type: Emergency room admission.\nClinician: Javier Collier (General Practice).\nFacility: SERENITY HILL NURSING CENTER, WRENTHAM, MA."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-1272-251e0585e9e4",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Emergency Department Note",
+    "date": "2014-12-26",
+    "section": "Reason for Visit",
+    "title": "Emergency Department Note - Evangeline Ziemann - 2014-12-26",
+    "content": "Seen for Sprain (morphologic abnormality)."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-1272-251e0585e9e4",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Emergency Department Note",
+    "date": "2014-12-26",
+    "section": "Assessment",
+    "title": "Emergency Department Note - Evangeline Ziemann - 2014-12-26",
+    "content": "Diagnoses recorded at this visit:\n- Sprain (morphologic abnormality) (onset 2014-12-26), resolved 2015-01-18.\n- Sprain of ankle (onset 2014-12-26), resolved 2015-01-18."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-1272-251e0585e9e4",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Emergency Department Note",
+    "date": "2014-12-26",
+    "section": "Medications",
+    "title": "Emergency Department Note - Evangeline Ziemann - 2014-12-26",
+    "content": "Medications prescribed at this visit:\n- Ibuprofen 200 MG Oral Tablet, started 2014-12-26; stopped 2015-01-18."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-1272-251e0585e9e4",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Emergency Department Note",
+    "date": "2014-12-26",
+    "section": "Plan",
+    "title": "Emergency Department Note - Evangeline Ziemann - 2014-12-26",
+    "content": "- Physiotherapy care plan for Sprain of ankle, started 2014-12-26, ended 2015-01-18."
+  }
+]

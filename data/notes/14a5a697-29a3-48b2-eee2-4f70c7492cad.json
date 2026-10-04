@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "14a5a697-29a3-48b2-eee2-4f70c7492cad",
+    "patient_id": "14a5a697-29a3-48b2-969a-3ceefe74a700",
+    "document_type": "Office Visit Note",
+    "date": "1971-06-18",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Drusilla Schumm - 1971-06-18",
+    "content": "Patient: Drusilla Schumm, female, born 1958-11-15 (patient ID 14a5a697-29a3-48b2-969a-3ceefe74a700).\nVisit date: 1971-06-18.\nVisit type: Encounter for symptom.\nClinician: Bennie Abbott (General Practice).\nFacility: LAHEY HOSPITAL & MEDICAL CENTER BURLINGTON, PEABODY, MA."
+  },
+  {
+    "doc_id": "14a5a697-29a3-48b2-eee2-4f70c7492cad",
+    "patient_id": "14a5a697-29a3-48b2-969a-3ceefe74a700",
+    "document_type": "Office Visit Note",
+    "date": "1971-06-18",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Drusilla Schumm - 1971-06-18",
+    "content": "Seen for Acute bacterial sinusitis."
+  },
+  {
+    "doc_id": "14a5a697-29a3-48b2-eee2-4f70c7492cad",
+    "patient_id": "14a5a697-29a3-48b2-969a-3ceefe74a700",
+    "document_type": "Office Visit Note",
+    "date": "1971-06-18",
+    "section": "Assessment",
+    "title": "Office Visit Note - Drusilla Schumm - 1971-06-18",
+    "content": "Diagnoses recorded at this visit:\n- Chronic sinusitis (onset 1971-06-18)."
+  }
+]

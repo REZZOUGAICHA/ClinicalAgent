@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "922fb35e-148d-9e82-57c5-9b25e938d207",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-05-03",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Agnes Weber - 2019-05-03",
+    "content": "Patient: Agnes Weber, female, born 1986-12-19 (patient ID 922fb35e-148d-9e82-7e65-bfa05e3b3515).\nVisit date: 2019-05-03.\nVisit type: General examination of patient.\nClinician: Valentine Leannon (General Practice).\nFacility: SUNRISE HEALTHCARE LLC, SHREWSBURY, MA."
+  },
+  {
+    "doc_id": "922fb35e-148d-9e82-57c5-9b25e938d207",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-05-03",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Agnes Weber - 2019-05-03",
+    "content": "Diagnoses recorded at this visit:\n- Part-time employment (onset 2019-05-03), resolved 2020-05-08.\n- Gingivitis (onset 2019-05-03), resolved 2019-05-17."
+  },
+  {
+    "doc_id": "922fb35e-148d-9e82-57c5-9b25e938d207",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-05-03",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Agnes Weber - 2019-05-03",
+    "content": "- Body Height: 176.6 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0\n- Body Weight: 74.4 kg\n- Body mass index (BMI) [Ratio]: 23.9 kg/m2\n- Diastolic Blood Pressure: 88.0 mm[Hg]\n- Systolic Blood Pressure: 124.0 mm[Hg]\n- Heart rate: 90.0 /min\n- Respiratory rate: 12.0 /min"
+  },
+  {
+    "doc_id": "922fb35e-148d-9e82-57c5-9b25e938d207",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-05-03",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Agnes Weber - 2019-05-03",
+    "content": "- Medication reconciliation.\n- Assessment of health and social care needs.\n- Assessment of anxiety.\n- Patient referral for dental care, for Gingivitis."
+  },
+  {
+    "doc_id": "922fb35e-148d-9e82-57c5-9b25e938d207",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-05-03",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Agnes Weber - 2019-05-03",
+    "content": "Medications prescribed at this visit:\n- budesonide 0.25 MG/ML Inhalation Suspension, started 2019-05-03, for Childhood asthma; stopped 2020-05-08.\n- albuterol 0.21 MG/ML Inhalation Solution, started 2019-05-03, for Childhood asthma; stopped 2020-05-08."
+  },
+  {
+    "doc_id": "922fb35e-148d-9e82-57c5-9b25e938d207",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-05-03",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Agnes Weber - 2019-05-03",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

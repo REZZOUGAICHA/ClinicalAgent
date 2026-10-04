@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "76b20010-c318-5754-badc-05437b4c03ce",
+    "patient_id": "76b20010-c318-5754-8c85-983aa538522f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2022-02-21",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Jody Hickle - 2022-02-21",
+    "content": "Patient: Jody Hickle, male, born 2018-03-19 (patient ID 76b20010-c318-5754-8c85-983aa538522f).\nVisit date: 2022-02-21.\nVisit type: Well child visit.\nClinician: Dane Tromp (General Practice).\nFacility: NEWBURYPORT FAMILY PRACTICE P.C., NEWBURYPORT, MA."
+  },
+  {
+    "doc_id": "76b20010-c318-5754-badc-05437b4c03ce",
+    "patient_id": "76b20010-c318-5754-8c85-983aa538522f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2022-02-21",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Jody Hickle - 2022-02-21",
+    "content": "- Body Height: 102.6 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0\n- Body Weight: 16.3 kg\n- Weight-for-length Per age and sex: 32.5 %\n- Head Occipital-frontal circumference Percentile: 58.8 %\n- Head Occipital-frontal circumference: 50.0 cm\n- Body mass index (BMI) [Ratio]: 15.5 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 45.2 %\n- Diastolic Blood Pressure: 92.0 mm[Hg]\n- Systolic Blood Pressure: 116.0 mm[Hg]\n- Heart rate: 98.0 /min\n- Respiratory rate: 15.0 /min"
+  },
+  {
+    "doc_id": "76b20010-c318-5754-badc-05437b4c03ce",
+    "patient_id": "76b20010-c318-5754-8c85-983aa538522f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2022-02-21",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Jody Hickle - 2022-02-21",
+    "content": "- Medication reconciliation."
+  },
+  {
+    "doc_id": "76b20010-c318-5754-badc-05437b4c03ce",
+    "patient_id": "76b20010-c318-5754-8c85-983aa538522f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2022-02-21",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Jody Hickle - 2022-02-21",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

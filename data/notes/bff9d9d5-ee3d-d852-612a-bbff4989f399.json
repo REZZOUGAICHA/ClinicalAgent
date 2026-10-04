@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "bff9d9d5-ee3d-d852-612a-bbff4989f399",
+    "patient_id": "bff9d9d5-ee3d-d852-9c67-36d8361a4a4a",
+    "document_type": "Office Visit Note",
+    "date": "2016-11-07",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Rosario Ortiz - 2016-11-07",
+    "content": "Patient: Rosario Ortiz, male, born 1945-01-28 (patient ID bff9d9d5-ee3d-d852-9c67-36d8361a4a4a).\nVisit date: 2016-11-07.\nVisit type: Encounter for symptom.\nClinician: Eleni Franecki (General Practice).\nFacility: BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM INC., NEEDHAM, MA."
+  },
+  {
+    "doc_id": "bff9d9d5-ee3d-d852-612a-bbff4989f399",
+    "patient_id": "bff9d9d5-ee3d-d852-9c67-36d8361a4a4a",
+    "document_type": "Office Visit Note",
+    "date": "2016-11-07",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Rosario Ortiz - 2016-11-07",
+    "content": "Seen for Viral sinusitis."
+  },
+  {
+    "doc_id": "bff9d9d5-ee3d-d852-612a-bbff4989f399",
+    "patient_id": "bff9d9d5-ee3d-d852-9c67-36d8361a4a4a",
+    "document_type": "Office Visit Note",
+    "date": "2016-11-07",
+    "section": "Assessment",
+    "title": "Office Visit Note - Rosario Ortiz - 2016-11-07",
+    "content": "Diagnoses recorded at this visit:\n- Viral sinusitis (onset 2016-11-07), resolved 2016-11-16."
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "f999ef25-a612-87c9-1084-94a6aea389dc",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2014-02-02",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Evangeline Ziemann - 2014-02-02",
+    "content": "Patient: Evangeline Ziemann, female, born 1925-09-18 (patient ID f999ef25-a612-87c9-206f-aacc9d469dc8).\nVisit date: 2014-02-02.\nVisit type: Encounter for problem.\nClinician: Nickolas Schumm (General Practice).\nFacility: ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE, FRAMINGHAM, MA."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-1084-94a6aea389dc",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2014-02-02",
+    "section": "Reason for Visit",
+    "title": "Outpatient Procedure Note - Evangeline Ziemann - 2014-02-02",
+    "content": "Seen for Chronic pain."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-1084-94a6aea389dc",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2014-02-02",
+    "section": "Assessment",
+    "title": "Outpatient Procedure Note - Evangeline Ziemann - 2014-02-02",
+    "content": "Diagnoses recorded at this visit:\n- Chronic low back pain (onset 2014-02-02).\n- Chronic neck pain (onset 2014-02-02)."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-1084-94a6aea389dc",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2014-02-02",
+    "section": "Plan",
+    "title": "Outpatient Procedure Note - Evangeline Ziemann - 2014-02-02",
+    "content": "- Therapy, started 2014-02-02, ended 2014-03-05."
+  }
+]

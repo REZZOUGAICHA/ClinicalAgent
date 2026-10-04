@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "f999ef25-a612-87c9-0d5f-8be1d05d226b",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Office Visit Note",
+    "date": "2011-06-15",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Evangeline Ziemann - 2011-06-15",
+    "content": "Patient: Evangeline Ziemann, female, born 1925-09-18 (patient ID f999ef25-a612-87c9-206f-aacc9d469dc8).\nVisit date: 2011-06-15.\nVisit type: Encounter for problem.\nClinician: Gabriel Reilly (General Practice).\nFacility: Fitchburg Outpatient Clinic, Fitchburg, MA."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-0d5f-8be1d05d226b",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Office Visit Note",
+    "date": "2011-06-15",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Evangeline Ziemann - 2011-06-15",
+    "content": "Seen for Chronic congestive heart failure."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-0d5f-8be1d05d226b",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Office Visit Note",
+    "date": "2011-06-15",
+    "section": "Laboratory Results",
+    "title": "Office Visit Note - Evangeline Ziemann - 2011-06-15",
+    "content": "- Left ventricular Ejection fraction: 92.8 %\n- Glucose [Mass/volume] in Blood: 86.1 mg/dL\n- Urea nitrogen [Mass/volume] in Blood: 18.3 mg/dL\n- Creatinine [Mass/volume] in Blood: 0.4 mg/dL\n- Calcium [Mass/volume] in Blood: 9.4 mg/dL\n- Sodium [Moles/volume] in Blood: 139.2 mmol/L\n- Potassium [Moles/volume] in Blood: 3.8 mmol/L\n- Chloride [Moles/volume] in Blood: 106.7 mmol/L\n- Carbon dioxide  total [Moles/volume] in Blood: 28.3 mmol/L"
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-0d5f-8be1d05d226b",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Office Visit Note",
+    "date": "2011-06-15",
+    "section": "Procedures",
+    "title": "Office Visit Note - Evangeline Ziemann - 2011-06-15",
+    "content": "- Echocardiography.\n- Medication reconciliation."
+  }
+]

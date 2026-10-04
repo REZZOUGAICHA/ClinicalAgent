@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-6362-d23526db5498",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-03-27",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Lavette Kozey - 2019-03-27",
+    "content": "Patient: Lavette Kozey, female, born 2010-03-24 (patient ID d20bc0bc-3051-ae6f-f391-ceec7ec0370f).\nVisit date: 2019-03-27.\nVisit type: Well child visit.\nClinician: Anh Schroeder (General Practice).\nFacility: FAMILY PRACTICE GROUP PC, ARLINGTON, MA."
+  },
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-6362-d23526db5498",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-03-27",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Lavette Kozey - 2019-03-27",
+    "content": "- Body Height: 134.6 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0\n- Body Weight: 35.2 kg\n- Body mass index (BMI) [Ratio]: 19.5 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 87.1 %\n- Diastolic Blood Pressure: 74.0 mm[Hg]\n- Systolic Blood Pressure: 107.0 mm[Hg]\n- Heart rate: 71.0 /min\n- Respiratory rate: 14.0 /min"
+  },
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-6362-d23526db5498",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-03-27",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Lavette Kozey - 2019-03-27",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

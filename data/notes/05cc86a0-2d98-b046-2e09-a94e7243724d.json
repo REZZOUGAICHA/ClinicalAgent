@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "05cc86a0-2d98-b046-2e09-a94e7243724d",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Office Visit Note",
+    "date": "1955-11-13",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Carita Grady - 1955-11-13",
+    "content": "Patient: Carita Grady, female, born 1925-09-18 (patient ID 05cc86a0-2d98-b046-790a-211fd9e1ea92).\nVisit date: 1955-11-13.\nVisit type: Prenatal visit.\nClinician: Nickolas Schumm (General Practice).\nFacility: ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE, FRAMINGHAM, MA."
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-2e09-a94e7243724d",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Office Visit Note",
+    "date": "1955-11-13",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Carita Grady - 1955-11-13",
+    "content": "Seen for Tubal pregnancy."
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-2e09-a94e7243724d",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Office Visit Note",
+    "date": "1955-11-13",
+    "section": "Assessment",
+    "title": "Office Visit Note - Carita Grady - 1955-11-13",
+    "content": "Diagnoses recorded at this visit:\n- Past pregnancy history of miscarriage (onset 1955-11-13)."
+  }
+]

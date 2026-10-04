@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "ba419d35-0dfe-8af7-61dc-031bf3fa8341",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Office Visit Note",
+    "date": "2011-09-18",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Corie Kohler - 2011-09-18",
+    "content": "Patient: Corie Kohler, female, born 1925-09-18 (patient ID ba419d35-0dfe-8af7-347c-eebf02485a56).\nVisit date: 2011-09-18.\nVisit type: Encounter for problem.\nClinician: Maricarmen Delafuente (General Practice).\nFacility: ARBOUR-FULLER HOSPITAL, SOUTH ATTLEBORO, MA."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-61dc-031bf3fa8341",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Office Visit Note",
+    "date": "2011-09-18",
+    "section": "Assessment",
+    "title": "Office Visit Note - Corie Kohler - 2011-09-18",
+    "content": "Diagnoses recorded at this visit:\n- Awaiting transplantation of kidney (onset 2011-09-18), resolved 2016-10-14."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-61dc-031bf3fa8341",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Office Visit Note",
+    "date": "2011-09-18",
+    "section": "Laboratory Results",
+    "title": "Office Visit Note - Corie Kohler - 2011-09-18",
+    "content": "- Glucose [Mass/volume] in Blood: 81.1 mg/dL\n- Urea Nitrogen [Mass/volume] in Blood: 14.2 mg/dL\n- Creatinine [Mass/volume] in Blood: 2.7 mg/dL\n- Calcium [Mass/volume] in Blood: 8.9 mg/dL\n- Sodium [Moles/volume] in Blood: 136.2 mmol/L\n- Potassium [Moles/volume] in Blood: 4.8 mmol/L\n- Chloride [Moles/volume] in Blood: 106.9 mmol/L\n- Carbon dioxide  total [Moles/volume] in Blood: 22.0 mmol/L\n- Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M: 5.8 mL/min\n- Appearance of Urine: Cloudy urine (finding)\n- Appearance of Urine: Urine smell ammoniacal (finding)\n- Clarity of Urine: Translucent (qualifier value)\n- Color of Urine: Brown color (qualifier value)\n- Glucose [Mass/volume] in Urine by Test strip: 1.7 mg/dL\n- Glucose [Presence] in Urine by Test strip: Urine glucose test = ++ (finding)\n- Bilirubin.total [Mass/volume] in Urine by Test strip: 0.5 mg/dL\n- Bilirubin.total [Presence] in Urine by Test strip: Finding of bilirubin in urine (finding)\n- Ketones [Mass/volume] in Urine by Test strip: 4.0 mg/dL\n- Ketones [Presence] in Urine by Test strip: Urine ketone test = +++ (finding)\n- Specific gravity of Urine by Test strip: 1.0\n- pH of Urine by Test strip: 5.7 pH\n- Protein [Mass/volume] in Urine by Test strip: 404.3 mg/dL\n- Protein [Presence] in Urine by Test strip: Urine protein test = +++ (finding)\n- Nitrite [Presence] in Urine by Test strip: Nitrite not detected in urine (finding)\n- Hemoglobin [Presence] in Urine by Test strip: Blood not detected in urine (finding)\n- Leukocyte esterase [Presence] in Urine by Test strip: Urine leukocytes not detected (finding)"
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-61dc-031bf3fa8341",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Office Visit Note",
+    "date": "2011-09-18",
+    "section": "Procedures",
+    "title": "Office Visit Note - Corie Kohler - 2011-09-18",
+    "content": "- Referral to transplant surgeon, for Awaiting transplantation of kidney."
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "47d390c6-a1a2-1a80-106a-324a7c745754",
+    "patient_id": "47d390c6-a1a2-1a80-dd1d-9722c7b24159",
+    "document_type": "Office Visit Note",
+    "date": "2020-01-25",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Demarcus Jones - 2020-01-25",
+    "content": "Patient: Demarcus Jones, male, born 2009-03-07 (patient ID 47d390c6-a1a2-1a80-dd1d-9722c7b24159).\nVisit date: 2020-01-25.\nVisit type: Encounter for check up.\nClinician: Jackelyn Pacocha (General Practice).\nFacility: WP ACQUISITION SUB LLC, HAVERHILL, MA."
+  },
+  {
+    "doc_id": "47d390c6-a1a2-1a80-106a-324a7c745754",
+    "patient_id": "47d390c6-a1a2-1a80-dd1d-9722c7b24159",
+    "document_type": "Office Visit Note",
+    "date": "2020-01-25",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Demarcus Jones - 2020-01-25",
+    "content": "Seen for Fracture of forearm."
+  }
+]

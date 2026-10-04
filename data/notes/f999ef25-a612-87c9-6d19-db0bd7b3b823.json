@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "f999ef25-a612-87c9-6d19-db0bd7b3b823",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Office Visit Note",
+    "date": "2010-05-17",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Evangeline Ziemann - 2010-05-17",
+    "content": "Patient: Evangeline Ziemann, female, born 1925-09-18 (patient ID f999ef25-a612-87c9-206f-aacc9d469dc8).\nVisit date: 2010-05-17.\nVisit type: Encounter for problem.\nClinician: Gabriel Reilly (General Practice).\nFacility: Fitchburg Outpatient Clinic, Fitchburg, MA."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-6d19-db0bd7b3b823",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Office Visit Note",
+    "date": "2010-05-17",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Evangeline Ziemann - 2010-05-17",
+    "content": "Seen for Chronic congestive heart failure."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-6d19-db0bd7b3b823",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Office Visit Note",
+    "date": "2010-05-17",
+    "section": "Laboratory Results",
+    "title": "Office Visit Note - Evangeline Ziemann - 2010-05-17",
+    "content": "- Left ventricular Ejection fraction: 68.0 %\n- Glucose [Mass/volume] in Blood: 91.8 mg/dL\n- Urea nitrogen [Mass/volume] in Blood: 12.6 mg/dL\n- Creatinine [Mass/volume] in Blood: 0.4 mg/dL\n- Calcium [Mass/volume] in Blood: 9.0 mg/dL\n- Sodium [Moles/volume] in Blood: 136.7 mmol/L\n- Potassium [Moles/volume] in Blood: 5.1 mmol/L\n- Chloride [Moles/volume] in Blood: 110.2 mmol/L\n- Carbon dioxide  total [Moles/volume] in Blood: 23.4 mmol/L"
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-6d19-db0bd7b3b823",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Office Visit Note",
+    "date": "2010-05-17",
+    "section": "Procedures",
+    "title": "Office Visit Note - Evangeline Ziemann - 2010-05-17",
+    "content": "- Echocardiography.\n- Medication reconciliation."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-6d19-db0bd7b3b823",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Office Visit Note",
+    "date": "2010-05-17",
+    "section": "Medications",
+    "title": "Office Visit Note - Evangeline Ziemann - 2010-05-17",
+    "content": "Medications prescribed at this visit:\n- Furosemide 40 MG Oral Tablet, started 2010-05-17, for Chronic congestive heart failure; stopped 2010-12-10."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-6d19-db0bd7b3b823",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Office Visit Note",
+    "date": "2010-05-17",
+    "section": "Plan",
+    "title": "Office Visit Note - Evangeline Ziemann - 2010-05-17",
+    "content": "- Heart failure self management plan for Chronic congestive heart failure, started 2010-05-17."
+  }
+]

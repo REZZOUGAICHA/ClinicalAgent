@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-c7bc-e7b9d64e2508",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Emergency Department Note",
+    "date": "2024-05-27",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Lavette Kozey - 2024-05-27",
+    "content": "Patient: Lavette Kozey, female, born 2010-03-24 (patient ID d20bc0bc-3051-ae6f-f391-ceec7ec0370f).\nVisit date: 2024-05-27.\nVisit type: Emergency room admission.\nClinician: Barton Hahn (General Practice).\nFacility: MEDFORD REHABILITATION AND NURSING CENTER, MEDFORD, MA."
+  },
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-c7bc-e7b9d64e2508",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Emergency Department Note",
+    "date": "2024-05-27",
+    "section": "Reason for Visit",
+    "title": "Emergency Department Note - Lavette Kozey - 2024-05-27",
+    "content": "Seen for Fracture of bone."
+  },
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-c7bc-e7b9d64e2508",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Emergency Department Note",
+    "date": "2024-05-27",
+    "section": "Assessment",
+    "title": "Emergency Department Note - Lavette Kozey - 2024-05-27",
+    "content": "Diagnoses recorded at this visit:\n- Fracture of bone (onset 2024-05-27), resolved 2024-08-12.\n- Fracture of ankle (onset 2024-05-27), resolved 2024-08-12."
+  },
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-c7bc-e7b9d64e2508",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Emergency Department Note",
+    "date": "2024-05-27",
+    "section": "Procedures",
+    "title": "Emergency Department Note - Lavette Kozey - 2024-05-27",
+    "content": "- Plain X-ray of ankle region.\n- Bone immobilization, for Fracture of ankle."
+  },
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-c7bc-e7b9d64e2508",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Emergency Department Note",
+    "date": "2024-05-27",
+    "section": "Medications",
+    "title": "Emergency Department Note - Lavette Kozey - 2024-05-27",
+    "content": "Medications prescribed at this visit:\n- Naproxen sodium 220 MG Oral Tablet, started 2024-05-27; stopped 2024-08-12."
+  },
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-c7bc-e7b9d64e2508",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Emergency Department Note",
+    "date": "2024-05-27",
+    "section": "Plan",
+    "title": "Emergency Department Note - Lavette Kozey - 2024-05-27",
+    "content": "- Fracture care for Fracture of ankle, started 2024-05-27, ended 2024-08-12."
+  }
+]

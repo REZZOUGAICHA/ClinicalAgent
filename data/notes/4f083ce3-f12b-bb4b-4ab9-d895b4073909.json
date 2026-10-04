@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "4f083ce3-f12b-bb4b-4ab9-d895b4073909",
+    "patient_id": "4f083ce3-f12b-bb4b-7353-e17f0cd55b0a",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2021-06-01",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Ezekiel Walter - 2021-06-01",
+    "content": "Patient: Ezekiel Walter, male, born 1999-01-12 (patient ID 4f083ce3-f12b-bb4b-7353-e17f0cd55b0a).\nVisit date: 2021-06-01.\nVisit type: Administration of vaccine to produce active immunity.\nClinician: Iva O'Keefe (General Practice).\nFacility: BRIGHAM AND WOMEN'S FAULKNER HOSPITAL INC., BOSTON, MA."
+  },
+  {
+    "doc_id": "4f083ce3-f12b-bb4b-4ab9-d895b4073909",
+    "patient_id": "4f083ce3-f12b-bb4b-7353-e17f0cd55b0a",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2021-06-01",
+    "section": "Immunizations",
+    "title": "Outpatient Procedure Note - Ezekiel Walter - 2021-06-01",
+    "content": "- COVID-19 mRNA LNP-S PF 30 mcg/0.3 mL dose."
+  }
+]

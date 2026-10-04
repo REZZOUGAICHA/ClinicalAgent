@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "c0a47dee-cc72-29ce-f0c9-6c5a92f6c50a",
+    "patient_id": "c0a47dee-cc72-29ce-df5a-ea6d306c36a4",
+    "document_type": "Office Visit Note",
+    "date": "1988-02-24",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Jonathan Carroll - 1988-02-24",
+    "content": "Patient: Jonathan Carroll, male, born 1987-02-23 (patient ID c0a47dee-cc72-29ce-df5a-ea6d306c36a4).\nVisit date: 1988-02-24.\nVisit type: Encounter for problem.\nClinician: Tabatha Roob (General Practice).\nFacility: STEWARD ST. ANNES HOSPITAL CORPORATION, FALL RIVER, MA."
+  },
+  {
+    "doc_id": "c0a47dee-cc72-29ce-f0c9-6c5a92f6c50a",
+    "patient_id": "c0a47dee-cc72-29ce-df5a-ea6d306c36a4",
+    "document_type": "Office Visit Note",
+    "date": "1988-02-24",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Jonathan Carroll - 1988-02-24",
+    "content": "Seen for Allergic disposition."
+  },
+  {
+    "doc_id": "c0a47dee-cc72-29ce-f0c9-6c5a92f6c50a",
+    "patient_id": "c0a47dee-cc72-29ce-df5a-ea6d306c36a4",
+    "document_type": "Office Visit Note",
+    "date": "1988-02-24",
+    "section": "Allergies",
+    "title": "Office Visit Note - Jonathan Carroll - 1988-02-24",
+    "content": "- Allergic disposition (environment allergy).\n- Peanut (food allergy); reaction: wheal, moderate."
+  },
+  {
+    "doc_id": "c0a47dee-cc72-29ce-f0c9-6c5a92f6c50a",
+    "patient_id": "c0a47dee-cc72-29ce-df5a-ea6d306c36a4",
+    "document_type": "Office Visit Note",
+    "date": "1988-02-24",
+    "section": "Medications",
+    "title": "Office Visit Note - Jonathan Carroll - 1988-02-24",
+    "content": "Medications prescribed at this visit:\n- Terfenadine 60 MG Oral Tablet, started 1988-02-24; no stop date recorded.\n- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector, started 1988-02-24; no stop date recorded."
+  }
+]

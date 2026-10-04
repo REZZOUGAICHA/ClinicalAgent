@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "c0a47dee-cc72-29ce-4ae8-e3d1eca273f2",
+    "patient_id": "c0a47dee-cc72-29ce-df5a-ea6d306c36a4",
+    "document_type": "Office Visit Note",
+    "date": "2018-05-21",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Jonathan Carroll - 2018-05-21",
+    "content": "Patient: Jonathan Carroll, male, born 1987-02-23 (patient ID c0a47dee-cc72-29ce-df5a-ea6d306c36a4).\nVisit date: 2018-05-21.\nVisit type: Encounter for check up.\nClinician: Tabatha Roob (General Practice).\nFacility: STEWARD ST. ANNES HOSPITAL CORPORATION, FALL RIVER, MA."
+  },
+  {
+    "doc_id": "c0a47dee-cc72-29ce-4ae8-e3d1eca273f2",
+    "patient_id": "c0a47dee-cc72-29ce-df5a-ea6d306c36a4",
+    "document_type": "Office Visit Note",
+    "date": "2018-05-21",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Jonathan Carroll - 2018-05-21",
+    "content": "Seen for Gingivitis."
+  },
+  {
+    "doc_id": "c0a47dee-cc72-29ce-4ae8-e3d1eca273f2",
+    "patient_id": "c0a47dee-cc72-29ce-df5a-ea6d306c36a4",
+    "document_type": "Office Visit Note",
+    "date": "2018-05-21",
+    "section": "Assessment",
+    "title": "Office Visit Note - Jonathan Carroll - 2018-05-21",
+    "content": "Diagnoses recorded at this visit:\n- Gingival disease (onset 2018-05-21), resolved 2018-05-21.\n- Suspected disease caused by Severe acute respiratory coronavirus 2 (onset 2021-02-28), resolved 2021-02-28."
+  },
+  {
+    "doc_id": "c0a47dee-cc72-29ce-4ae8-e3d1eca273f2",
+    "patient_id": "c0a47dee-cc72-29ce-df5a-ea6d306c36a4",
+    "document_type": "Office Visit Note",
+    "date": "2018-05-21",
+    "section": "Procedures",
+    "title": "Office Visit Note - Jonathan Carroll - 2018-05-21",
+    "content": "- Dental consultation and report, for Gingivitis.\n- Dental care, for Gingivitis.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Dental plain X-ray bitewing.\n- Examination of gingivae, for Gingivitis.\n- Dental surgical procedure, for Gingival disease.\n- Dental application of desensitizing medicament, for Gingival disease.\n- Gingivectomy or gingivoplasty  per tooth, for Gingival disease.\n- Postoperative care for dental procedure.\n- Oral health education, for Gingivitis."
+  }
+]

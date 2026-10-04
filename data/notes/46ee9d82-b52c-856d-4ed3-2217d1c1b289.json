@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "46ee9d82-b52c-856d-4ed3-2217d1c1b289",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2021-11-04",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Shalanda Koepp - 2021-11-04",
+    "content": "Patient: Shalanda Koepp, female, born 1996-06-18 (patient ID 46ee9d82-b52c-856d-069b-5064ff052225).\nVisit date: 2021-11-04.\nVisit type: Consultation for treatment.\nClinician: Alysha Koch (General Practice).\nFacility: TEWKSBURY HOSPITAL, TEWKSBURY, MA."
+  },
+  {
+    "doc_id": "46ee9d82-b52c-856d-4ed3-2217d1c1b289",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2021-11-04",
+    "section": "Reason for Visit",
+    "title": "Outpatient Procedure Note - Shalanda Koepp - 2021-11-04",
+    "content": "Seen for Contraception care."
+  },
+  {
+    "doc_id": "46ee9d82-b52c-856d-4ed3-2217d1c1b289",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2021-11-04",
+    "section": "Medications",
+    "title": "Outpatient Procedure Note - Shalanda Koepp - 2021-11-04",
+    "content": "Medications prescribed at this visit:\n- {7 (ethinyl estradiol 0.01 MG Oral Tablet) / 84 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) } Pack [Seasonique], started 2021-11-04; stopped 2022-10-30."
+  }
+]

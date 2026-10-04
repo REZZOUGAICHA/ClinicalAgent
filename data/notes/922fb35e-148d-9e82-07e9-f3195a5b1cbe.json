@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "922fb35e-148d-9e82-07e9-f3195a5b1cbe",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Office Visit Note",
+    "date": "2019-06-21",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Agnes Weber - 2019-06-21",
+    "content": "Patient: Agnes Weber, female, born 1986-12-19 (patient ID 922fb35e-148d-9e82-7e65-bfa05e3b3515).\nVisit date: 2019-06-21.\nVisit type: Prenatal visit.\nClinician: Chanell Robel (General Practice).\nFacility: WHITTIER REHABILITATION HOSPITAL - BRADFORD, WESTBOROUGH, MA."
+  },
+  {
+    "doc_id": "922fb35e-148d-9e82-07e9-f3195a5b1cbe",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Office Visit Note",
+    "date": "2019-06-21",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Agnes Weber - 2019-06-21",
+    "content": "Seen for Normal pregnancy."
+  },
+  {
+    "doc_id": "922fb35e-148d-9e82-07e9-f3195a5b1cbe",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Office Visit Note",
+    "date": "2019-06-21",
+    "section": "Procedures",
+    "title": "Office Visit Note - Agnes Weber - 2019-06-21",
+    "content": "- Evaluation of uterine fundal height, for Normal pregnancy.\n- Auscultation of the fetal heart, for Normal pregnancy."
+  }
+]

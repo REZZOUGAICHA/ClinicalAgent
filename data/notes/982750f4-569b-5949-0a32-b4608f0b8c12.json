@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "982750f4-569b-5949-0a32-b4608f0b8c12",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2022-08-17",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Dwana Wolf - 2022-08-17",
+    "content": "Patient: Dwana Wolf, female, born 1986-11-12 (patient ID 982750f4-569b-5949-196b-60699bdda3fb).\nVisit date: 2022-08-17.\nVisit type: Patient encounter procedure.\nClinician: Marcus Schamberger (General Practice).\nFacility: THE LOWELL GENERAL HOSPITAL, WESTFORD, MA."
+  },
+  {
+    "doc_id": "982750f4-569b-5949-0a32-b4608f0b8c12",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2022-08-17",
+    "section": "Reason for Visit",
+    "title": "Outpatient Procedure Note - Dwana Wolf - 2022-08-17",
+    "content": "Seen for Contraception care."
+  },
+  {
+    "doc_id": "982750f4-569b-5949-0a32-b4608f0b8c12",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2022-08-17",
+    "section": "Procedures",
+    "title": "Outpatient Procedure Note - Dwana Wolf - 2022-08-17",
+    "content": "- Insertion of intrauterine contraceptive device."
+  }
+]

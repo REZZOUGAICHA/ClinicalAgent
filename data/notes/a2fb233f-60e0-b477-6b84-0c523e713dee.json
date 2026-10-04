@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "a2fb233f-60e0-b477-6b84-0c523e713dee",
+    "patient_id": "a2fb233f-60e0-b477-cd38-af3923f792a3",
+    "document_type": "Office Visit Note",
+    "date": "2022-05-22",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Tanner Mitchell - 2022-05-22",
+    "content": "Patient: Tanner Mitchell, male, born 1962-03-11 (patient ID a2fb233f-60e0-b477-cd38-af3923f792a3).\nVisit date: 2022-05-22.\nVisit type: Encounter for check up.\nClinician: Tracie Lesch (General Practice).\nFacility: ANNA JAQUES HOSPITAL SUBACUTE UNIT, NEWBURYPORT, MA."
+  },
+  {
+    "doc_id": "a2fb233f-60e0-b477-6b84-0c523e713dee",
+    "patient_id": "a2fb233f-60e0-b477-cd38-af3923f792a3",
+    "document_type": "Office Visit Note",
+    "date": "2022-05-22",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Tanner Mitchell - 2022-05-22",
+    "content": "Seen for Patient referral for dental care."
+  },
+  {
+    "doc_id": "a2fb233f-60e0-b477-6b84-0c523e713dee",
+    "patient_id": "a2fb233f-60e0-b477-cd38-af3923f792a3",
+    "document_type": "Office Visit Note",
+    "date": "2022-05-22",
+    "section": "Procedures",
+    "title": "Office Visit Note - Tanner Mitchell - 2022-05-22",
+    "content": "- Dental consultation and report, for Patient referral for dental care.\n- Dental care, for Patient referral for dental care.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Examination of gingivae, for Patient referral for dental care.\n- Dental fluoride treatment, for Patient referral for dental care.\n- Oral health education, for Patient referral for dental care."
+  },
+  {
+    "doc_id": "a2fb233f-60e0-b477-6b84-0c523e713dee",
+    "patient_id": "a2fb233f-60e0-b477-cd38-af3923f792a3",
+    "document_type": "Office Visit Note",
+    "date": "2022-05-22",
+    "section": "Medications",
+    "title": "Office Visit Note - Tanner Mitchell - 2022-05-22",
+    "content": "Medications prescribed at this visit:\n- sodium fluoride 0.0272 MG/MG Oral Gel, started 2022-05-22, for Patient referral for dental care; stopped 2022-05-22."
+  }
+]

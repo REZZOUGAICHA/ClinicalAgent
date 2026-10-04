@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "eb5910f1-26e6-bc6f-1b2f-322919866594",
+    "patient_id": "eb5910f1-26e6-bc6f-b300-716eae678d6f",
+    "document_type": "Office Visit Note",
+    "date": "2024-10-12",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Larissa Bins - 2024-10-12",
+    "content": "Patient: Larissa Bins, female, born 1995-04-25 (patient ID eb5910f1-26e6-bc6f-b300-716eae678d6f).\nVisit date: 2024-10-12.\nVisit type: Encounter for problem.\nClinician: Gabriel Reilly (General Practice).\nFacility: Fitchburg Outpatient Clinic, Fitchburg, MA."
+  },
+  {
+    "doc_id": "eb5910f1-26e6-bc6f-1b2f-322919866594",
+    "patient_id": "eb5910f1-26e6-bc6f-b300-716eae678d6f",
+    "document_type": "Office Visit Note",
+    "date": "2024-10-12",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Larissa Bins - 2024-10-12",
+    "content": "Seen for Aortic valve stenosis."
+  },
+  {
+    "doc_id": "eb5910f1-26e6-bc6f-1b2f-322919866594",
+    "patient_id": "eb5910f1-26e6-bc6f-b300-716eae678d6f",
+    "document_type": "Office Visit Note",
+    "date": "2024-10-12",
+    "section": "Procedures",
+    "title": "Office Visit Note - Larissa Bins - 2024-10-12",
+    "content": "- Referral for echocardiography, for Aortic valve stenosis.\n- Transthoracic echocardiography."
+  }
+]

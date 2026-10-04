@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "150a8a76-1563-717e-2423-3781349cce3e",
+    "patient_id": "150a8a76-1563-717e-bf0f-f52045675f46",
+    "document_type": "Emergency Department Note",
+    "date": "1958-12-17",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Diego Armijo - 1958-12-17",
+    "content": "Patient: Diego Armijo, male, born 1947-03-03 (patient ID 150a8a76-1563-717e-bf0f-f52045675f46).\nVisit date: 1958-12-17.\nVisit type: Emergency room admission.\nClinician: Lane Gutmann (General Practice).\nFacility: GREENWOOD NURSING & REHABILITATION CENTER, WAKEFIELD, MA."
+  },
+  {
+    "doc_id": "150a8a76-1563-717e-2423-3781349cce3e",
+    "patient_id": "150a8a76-1563-717e-bf0f-f52045675f46",
+    "document_type": "Emergency Department Note",
+    "date": "1958-12-17",
+    "section": "Reason for Visit",
+    "title": "Emergency Department Note - Diego Armijo - 1958-12-17",
+    "content": "Seen for Seizure disorder."
+  },
+  {
+    "doc_id": "150a8a76-1563-717e-2423-3781349cce3e",
+    "patient_id": "150a8a76-1563-717e-bf0f-f52045675f46",
+    "document_type": "Emergency Department Note",
+    "date": "1958-12-17",
+    "section": "Assessment",
+    "title": "Emergency Department Note - Diego Armijo - 1958-12-17",
+    "content": "Diagnoses recorded at this visit:\n- Seizure disorder (onset 1958-12-17).\n- History of seizure (onset 1958-12-17).\n- Epilepsy (onset 1958-12-17)."
+  },
+  {
+    "doc_id": "150a8a76-1563-717e-2423-3781349cce3e",
+    "patient_id": "150a8a76-1563-717e-bf0f-f52045675f46",
+    "document_type": "Emergency Department Note",
+    "date": "1958-12-17",
+    "section": "Procedures",
+    "title": "Emergency Department Note - Diego Armijo - 1958-12-17",
+    "content": "- Electroencephalogram."
+  },
+  {
+    "doc_id": "150a8a76-1563-717e-2423-3781349cce3e",
+    "patient_id": "150a8a76-1563-717e-bf0f-f52045675f46",
+    "document_type": "Emergency Department Note",
+    "date": "1958-12-17",
+    "section": "Medications",
+    "title": "Emergency Department Note - Diego Armijo - 1958-12-17",
+    "content": "Medications prescribed at this visit:\n- Diazepam 5 MG Oral Tablet, started 1958-12-17, for Seizure disorder; stopped 1959-07-14."
+  }
+]

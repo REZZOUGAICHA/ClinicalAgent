@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "c86c400e-ff88-a1e3-2894-0c586e58b4b4",
+    "patient_id": "c86c400e-ff88-a1e3-2e23-caa4d8311f47",
+    "document_type": "Office Visit Note",
+    "date": "1984-06-26",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Cristobal Montero - 1984-06-26",
+    "content": "Patient: Cristobal Montero, male, born 1947-03-03 (patient ID c86c400e-ff88-a1e3-2e23-caa4d8311f47).\nVisit date: 1984-06-26.\nVisit type: Follow-up encounter.\nClinician: Lorette Hauck (General Practice).\nFacility: WHITTIER REHABILTATION HOSPITAL, LYNN, MA."
+  },
+  {
+    "doc_id": "c86c400e-ff88-a1e3-2894-0c586e58b4b4",
+    "patient_id": "c86c400e-ff88-a1e3-2e23-caa4d8311f47",
+    "document_type": "Office Visit Note",
+    "date": "1984-06-26",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Cristobal Montero - 1984-06-26",
+    "content": "Seen for Loss of teeth."
+  },
+  {
+    "doc_id": "c86c400e-ff88-a1e3-2894-0c586e58b4b4",
+    "patient_id": "c86c400e-ff88-a1e3-2e23-caa4d8311f47",
+    "document_type": "Office Visit Note",
+    "date": "1984-06-26",
+    "section": "Procedures",
+    "title": "Office Visit Note - Cristobal Montero - 1984-06-26",
+    "content": "- Fitting of denture, for Loss of teeth."
+  }
+]

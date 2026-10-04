@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "ba419d35-0dfe-8af7-d626-f49d9afe203b",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2011-07-01",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Corie Kohler - 2011-07-01",
+    "content": "Patient: Corie Kohler, female, born 1925-09-18 (patient ID ba419d35-0dfe-8af7-347c-eebf02485a56).\nVisit date: 2011-07-01.\nVisit type: Encounter for check up.\nClinician: Maricarmen Delafuente (General Practice).\nFacility: ARBOUR-FULLER HOSPITAL, SOUTH ATTLEBORO, MA."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-d626-f49d9afe203b",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2011-07-01",
+    "section": "Assessment",
+    "title": "Outpatient Procedure Note - Corie Kohler - 2011-07-01",
+    "content": "Diagnoses recorded at this visit:\n- Chronic kidney disease stage 3 (onset 2011-07-01), resolved 2016-10-14.\n- Proteinuria due to type 2 diabetes mellitus (onset 2011-07-01).\n- Part-time employment (onset 2011-07-01), resolved 2011-07-29.\n- Stress (onset 2011-07-01), resolved 2011-07-29.\n- Gingivitis (onset 2011-07-01), resolved 2011-07-15."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-d626-f49d9afe203b",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2011-07-01",
+    "section": "Vital Signs",
+    "title": "Outpatient Procedure Note - Corie Kohler - 2011-07-01",
+    "content": "- Body Height: 164.1 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0\n- Body Weight: 82.0 kg\n- Body mass index (BMI) [Ratio]: 30.5 kg/m2\n- Diastolic Blood Pressure: 73.0 mm[Hg]\n- Systolic Blood Pressure: 109.0 mm[Hg]\n- Heart rate: 96.0 /min\n- Respiratory rate: 12.0 /min"
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-d626-f49d9afe203b",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2011-07-01",
+    "section": "Laboratory Results",
+    "title": "Outpatient Procedure Note - Corie Kohler - 2011-07-01",
+    "content": "- Glucose [Mass/volume] in Serum or Plasma: 84.1 mg/dL\n- Urea nitrogen [Mass/volume] in Serum or Plasma: 17.9 mg/dL\n- Creatinine [Mass/volume] in Serum or Plasma: 2.0 mg/dL\n- Calcium [Mass/volume] in Serum or Plasma: 9.1 mg/dL\n- Sodium [Moles/volume] in Serum or Plasma: 142.5 mmol/L\n- Potassium [Moles/volume] in Serum or Plasma: 4.6 mmol/L\n- Chloride [Moles/volume] in Serum or Plasma: 105.2 mmol/L\n- Carbon dioxide  total [Moles/volume] in Serum or Plasma: 24.9 mmol/L\n- Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M: 58.1 mL/min/{1.73_m2}\n- Appearance of Urine: Cloudy urine (finding)\n- Odor of Urine: Urine smell ammoniacal (finding)\n- Clarity of Urine: Translucent (qualifier value)\n- Color of Urine: Brown color (qualifier value)\n- Glucose [Mass/volume] in Urine by Test strip: 1.6 mg/dL\n- Glucose [Presence] in Urine by Test strip: Urine glucose test = ++ (finding)\n- Bilirubin.total [Mass/volume] in Urine by Test strip: 1.3 mg/dL\n- Bilirubin.total [Presence] in Urine by Test strip: Finding of bilirubin in urine (finding)\n- Ketones [Mass/volume] in Urine by Test strip: 12.9 mg/dL\n- Ketones [Presence] in Urine by Test strip: Urine ketone test = ++ (finding)\n- Specific gravity of Urine by Test strip: 1.0\n- pH of Urine by Test strip: 5.1 pH\n- Protein [Mass/volume] in Urine by Test strip: 265.6 mg/dL\n- Protein [Presence] in Urine by Test strip: Urine protein test = ++ (finding)\n- Nitrite [Presence] in Urine by Test strip: Nitrite not detected in urine (finding)\n- Hemoglobin [Presence] in Urine by Test strip: Blood not detected in urine (finding)\n- Leukocyte esterase [Presence] in Urine by Test strip: Urine leukocytes not detected (finding)"
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-d626-f49d9afe203b",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2011-07-01",
+    "section": "Procedures",
+    "title": "Outpatient Procedure Note - Corie Kohler - 2011-07-01",
+    "content": "- Assessment of health and social care needs.\n- Assessment of anxiety.\n- Assessment using Morse Fall Scale.\n- Patient referral for dental care, for Gingivitis."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-d626-f49d9afe203b",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2011-07-01",
+    "section": "Medications",
+    "title": "Outpatient Procedure Note - Corie Kohler - 2011-07-01",
+    "content": "Medications prescribed at this visit:\n- lisinopril 10 MG Oral Tablet, started 2011-07-01, for Essential hypertension; stopped 2011-07-29."
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "c86c400e-ff88-a1e3-f493-6f70524b4d17",
+    "patient_id": "c86c400e-ff88-a1e3-2e23-caa4d8311f47",
+    "document_type": "Emergency Department Note",
+    "date": "1984-03-11",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Cristobal Montero - 1984-03-11",
+    "content": "Patient: Cristobal Montero, male, born 1947-03-03 (patient ID c86c400e-ff88-a1e3-2e23-caa4d8311f47).\nVisit date: 1984-03-11.\nVisit type: Emergency room admission.\nClinician: Dong Auer (General Practice).\nFacility: CHESTNUT WOODS REHABILITATION AND HEALTHCARE CTR, SAUGUS, MA."
+  },
+  {
+    "doc_id": "c86c400e-ff88-a1e3-f493-6f70524b4d17",
+    "patient_id": "c86c400e-ff88-a1e3-2e23-caa4d8311f47",
+    "document_type": "Emergency Department Note",
+    "date": "1984-03-11",
+    "section": "Reason for Visit",
+    "title": "Emergency Department Note - Cristobal Montero - 1984-03-11",
+    "content": "Seen for Burn injury (morphologic abnormality)."
+  },
+  {
+    "doc_id": "c86c400e-ff88-a1e3-f493-6f70524b4d17",
+    "patient_id": "c86c400e-ff88-a1e3-2e23-caa4d8311f47",
+    "document_type": "Emergency Department Note",
+    "date": "1984-03-11",
+    "section": "Assessment",
+    "title": "Emergency Department Note - Cristobal Montero - 1984-03-11",
+    "content": "Diagnoses recorded at this visit:\n- Burn injury (morphologic abnormality) (onset 1984-03-11), resolved 1984-05-28.\n- Partial thickness burn (onset 1984-03-11), resolved 1984-05-28."
+  },
+  {
+    "doc_id": "c86c400e-ff88-a1e3-f493-6f70524b4d17",
+    "patient_id": "c86c400e-ff88-a1e3-2e23-caa4d8311f47",
+    "document_type": "Emergency Department Note",
+    "date": "1984-03-11",
+    "section": "Medications",
+    "title": "Emergency Department Note - Cristobal Montero - 1984-03-11",
+    "content": "Medications prescribed at this visit:\n- Cefuroxime 250 MG Oral Tablet, started 1984-03-11; stopped 1984-05-28.\n- Meperidine Hydrochloride 50 MG Oral Tablet, started 1984-03-11; no stop date recorded.\n- Acetaminophen 325 MG Oral Tablet, started 1984-03-11; stopped 1984-05-28."
+  },
+  {
+    "doc_id": "c86c400e-ff88-a1e3-f493-6f70524b4d17",
+    "patient_id": "c86c400e-ff88-a1e3-2e23-caa4d8311f47",
+    "document_type": "Emergency Department Note",
+    "date": "1984-03-11",
+    "section": "Plan",
+    "title": "Emergency Department Note - Cristobal Montero - 1984-03-11",
+    "content": "- Burn care for Partial thickness burn, started 1984-03-11, ended 1984-05-28."
+  }
+]

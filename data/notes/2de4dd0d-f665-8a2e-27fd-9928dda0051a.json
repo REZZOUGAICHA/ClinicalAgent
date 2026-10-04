@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-27fd-9928dda0051a",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-12-12",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Aron Hammes - 2020-12-12",
+    "content": "Patient: Aron Hammes, male, born 2002-10-19 (patient ID 2de4dd0d-f665-8a2e-4c6b-997735e14ace).\nVisit date: 2020-12-12.\nVisit type: General examination of patient.\nClinician: Lola Orosco (General Practice).\nFacility: FAIRVIEW HOSPITAL, WILLIAMSTOWN, MA."
+  },
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-27fd-9928dda0051a",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-12-12",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Aron Hammes - 2020-12-12",
+    "content": "Diagnoses recorded at this visit:\n- Housing unsatisfactory (onset 2020-12-12).\n- Received higher education (onset 2020-12-12).\n- Full-time employment (onset 2020-12-12).\n- Stress (onset 2020-12-12).\n- Gingivitis (onset 2020-12-12), resolved 2020-12-26."
+  },
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-27fd-9928dda0051a",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-12-12",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Aron Hammes - 2020-12-12",
+    "content": "- Body Height: 168.8 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0\n- Body Weight: 61.4 kg\n- Body mass index (BMI) [Ratio]: 21.6 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 44.6 %\n- Diastolic Blood Pressure: 70.0 mm[Hg]\n- Systolic Blood Pressure: 133.0 mm[Hg]\n- Heart rate: 61.0 /min\n- Respiratory rate: 15.0 /min"
+  },
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-27fd-9928dda0051a",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-12-12",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Aron Hammes - 2020-12-12",
+    "content": "- Medication reconciliation.\n- Assessment of health and social care needs.\n- Screening for domestic abuse.\n- Depression screening.\n- Depression screening.\n- Assessment of substance use.\n- Screening for drug abuse.\n- Patient referral for dental care, for Gingivitis."
+  },
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-27fd-9928dda0051a",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-12-12",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Aron Hammes - 2020-12-12",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "46ee9d82-b52c-856d-1777-228fc00faa23",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2014-07-24",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Shalanda Koepp - 2014-07-24",
+    "content": "Patient: Shalanda Koepp, female, born 1996-06-18 (patient ID 46ee9d82-b52c-856d-069b-5064ff052225).\nVisit date: 2014-07-24.\nVisit type: Encounter for problem.\nClinician: Alysha Koch (General Practice).\nFacility: TEWKSBURY HOSPITAL, TEWKSBURY, MA."
+  },
+  {
+    "doc_id": "46ee9d82-b52c-856d-1777-228fc00faa23",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2014-07-24",
+    "section": "Reason for Visit",
+    "title": "Outpatient Procedure Note - Shalanda Koepp - 2014-07-24",
+    "content": "Seen for Chronic pain."
+  },
+  {
+    "doc_id": "46ee9d82-b52c-856d-1777-228fc00faa23",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2014-07-24",
+    "section": "Assessment",
+    "title": "Outpatient Procedure Note - Shalanda Koepp - 2014-07-24",
+    "content": "Diagnoses recorded at this visit:\n- Chronic pain (onset 2014-07-24).\n- Chronic low back pain (onset 2014-07-24).\n- Fibromyalgia (onset 2014-07-24)."
+  }
+]

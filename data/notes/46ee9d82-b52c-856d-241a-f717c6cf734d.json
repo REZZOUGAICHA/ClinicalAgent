@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "46ee9d82-b52c-856d-241a-f717c6cf734d",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Office Visit Note",
+    "date": "2018-02-06",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Shalanda Koepp - 2018-02-06",
+    "content": "Patient: Shalanda Koepp, female, born 1996-06-18 (patient ID 46ee9d82-b52c-856d-069b-5064ff052225).\nVisit date: 2018-02-06.\nVisit type: Prenatal initial visit.\nClinician: Alysha Koch (General Practice).\nFacility: TEWKSBURY HOSPITAL, TEWKSBURY, MA."
+  },
+  {
+    "doc_id": "46ee9d82-b52c-856d-241a-f717c6cf734d",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Office Visit Note",
+    "date": "2018-02-06",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Shalanda Koepp - 2018-02-06",
+    "content": "Seen for Normal pregnancy."
+  },
+  {
+    "doc_id": "46ee9d82-b52c-856d-241a-f717c6cf734d",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Office Visit Note",
+    "date": "2018-02-06",
+    "section": "Assessment",
+    "title": "Office Visit Note - Shalanda Koepp - 2018-02-06",
+    "content": "Diagnoses recorded at this visit:\n- Normal pregnancy (onset 2018-02-06), resolved 2018-10-02."
+  },
+  {
+    "doc_id": "46ee9d82-b52c-856d-241a-f717c6cf734d",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Office Visit Note",
+    "date": "2018-02-06",
+    "section": "Procedures",
+    "title": "Office Visit Note - Shalanda Koepp - 2018-02-06",
+    "content": "- Standard pregnancy test, for Normal pregnancy.\n- Ultrasound scan for fetal viability, for Normal pregnancy.\n- Evaluation of uterine fundal height, for Normal pregnancy.\n- Auscultation of the fetal heart, for Normal pregnancy.\n- Blood group typing, for Normal pregnancy.\n- Hemogram  automated  with red blood cells  white blood cells  hemoglobin  hematocrit  indices  platelet count  and manual white blood cell differential, for Normal pregnancy.\n- Hepatitis B surface antigen measurement, for Normal pregnancy.\n- Human immunodeficiency virus antigen test, for Normal pregnancy.\n- Chlamydia antigen test, for Normal pregnancy.\n- Gonorrhea infection titer test, for Normal pregnancy.\n- Syphilis infectious titer test, for Normal pregnancy.\n- Urine culture, for Normal pregnancy.\n- Cytopathology procedure  preparation of smear  genital source, for Normal pregnancy.\n- Urine screening test for diabetes, for Normal pregnancy.\n- Hepatitis C antibody  confirmatory test, for Normal pregnancy.\n- Rubella screening test, for Normal pregnancy.\n- Measurement of Varicella-zoster virus antibody, for Normal pregnancy.\n- Skin test for tuberculosis  Tine test, for Normal pregnancy.\n- Urinalysis  protein  qualitative, for Normal pregnancy.\n- Physical examination procedure, for Normal pregnancy."
+  },
+  {
+    "doc_id": "46ee9d82-b52c-856d-241a-f717c6cf734d",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Office Visit Note",
+    "date": "2018-02-06",
+    "section": "Plan",
+    "title": "Office Visit Note - Shalanda Koepp - 2018-02-06",
+    "content": "- Routine antenatal care, started 2018-02-06, ended 2018-10-02."
+  }
+]

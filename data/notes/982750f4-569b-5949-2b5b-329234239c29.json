@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "982750f4-569b-5949-2b5b-329234239c29",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Office Visit Note",
+    "date": "2025-08-27",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Dwana Wolf - 2025-08-27",
+    "content": "Patient: Dwana Wolf, female, born 1986-11-12 (patient ID 982750f4-569b-5949-196b-60699bdda3fb).\nVisit date: 2025-08-27.\nVisit type: Encounter for check up.\nClinician: Marcus Schamberger (General Practice).\nFacility: THE LOWELL GENERAL HOSPITAL, WESTFORD, MA."
+  },
+  {
+    "doc_id": "982750f4-569b-5949-2b5b-329234239c29",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Office Visit Note",
+    "date": "2025-08-27",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Dwana Wolf - 2025-08-27",
+    "content": "Seen for Gingivitis."
+  },
+  {
+    "doc_id": "982750f4-569b-5949-2b5b-329234239c29",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Office Visit Note",
+    "date": "2025-08-27",
+    "section": "Assessment",
+    "title": "Office Visit Note - Dwana Wolf - 2025-08-27",
+    "content": "Diagnoses recorded at this visit:\n- Gingival disease (onset 2025-08-27), resolved 2025-08-27."
+  },
+  {
+    "doc_id": "982750f4-569b-5949-2b5b-329234239c29",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Office Visit Note",
+    "date": "2025-08-27",
+    "section": "Procedures",
+    "title": "Office Visit Note - Dwana Wolf - 2025-08-27",
+    "content": "- Dental consultation and report, for Gingivitis.\n- Dental care, for Gingivitis.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Dental plain X-ray bitewing.\n- Examination of gingivae, for Gingivitis.\n- Dental surgical procedure, for Gingival disease.\n- Dental application of desensitizing medicament, for Gingival disease.\n- Gingivectomy or gingivoplasty  per tooth, for Gingival disease.\n- Postoperative care for dental procedure.\n- Oral health education, for Gingivitis."
+  }
+]

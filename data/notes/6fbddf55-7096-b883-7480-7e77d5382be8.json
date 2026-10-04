@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "6fbddf55-7096-b883-7480-7e77d5382be8",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Office Visit Note",
+    "date": "2023-08-21",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Clarinda Farrell - 2023-08-21",
+    "content": "Patient: Clarinda Farrell, female, born 1981-07-01 (patient ID 6fbddf55-7096-b883-7cd3-260f27953080).\nVisit date: 2023-08-21.\nVisit type: Prenatal visit.\nClinician: Luther Jakubowski (General Practice).\nFacility: ENCOMPASS HEALTH REHABILITATION HOSP OF NEW ENGLAN, WOBURN, MA."
+  },
+  {
+    "doc_id": "6fbddf55-7096-b883-7480-7e77d5382be8",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Office Visit Note",
+    "date": "2023-08-21",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Clarinda Farrell - 2023-08-21",
+    "content": "Seen for Tubal pregnancy."
+  },
+  {
+    "doc_id": "6fbddf55-7096-b883-7480-7e77d5382be8",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Office Visit Note",
+    "date": "2023-08-21",
+    "section": "Assessment",
+    "title": "Office Visit Note - Clarinda Farrell - 2023-08-21",
+    "content": "Diagnoses recorded at this visit:\n- Past pregnancy history of miscarriage (onset 2023-08-21)."
+  },
+  {
+    "doc_id": "6fbddf55-7096-b883-7480-7e77d5382be8",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Office Visit Note",
+    "date": "2023-08-21",
+    "section": "Procedures",
+    "title": "Office Visit Note - Clarinda Farrell - 2023-08-21",
+    "content": "- Passive immunization, for Normal pregnancy.\n- Physical examination procedure, for Normal pregnancy.\n- Depression screening, for Tubal pregnancy."
+  }
+]

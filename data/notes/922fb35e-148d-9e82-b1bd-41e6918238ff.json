@@ -1,0 +1,65 @@
+[
+  {
+    "doc_id": "922fb35e-148d-9e82-b1bd-41e6918238ff",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-05-26",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Agnes Weber - 2023-05-26",
+    "content": "Patient: Agnes Weber, female, born 1986-12-19 (patient ID 922fb35e-148d-9e82-7e65-bfa05e3b3515).\nVisit date: 2023-05-26.\nVisit type: General examination of patient.\nClinician: Valentine Leannon (General Practice).\nFacility: SUNRISE HEALTHCARE LLC, SHREWSBURY, MA."
+  },
+  {
+    "doc_id": "922fb35e-148d-9e82-b1bd-41e6918238ff",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-05-26",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Agnes Weber - 2023-05-26",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2023-05-26), resolved 2023-05-26."
+  },
+  {
+    "doc_id": "922fb35e-148d-9e82-b1bd-41e6918238ff",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-05-26",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Agnes Weber - 2023-05-26",
+    "content": "- Body Height: 176.6 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0\n- Body Weight: 80.5 kg\n- Body mass index (BMI) [Ratio]: 25.8 kg/m2\n- Diastolic Blood Pressure: 92.0 mm[Hg]\n- Systolic Blood Pressure: 135.0 mm[Hg]\n- Heart rate: 98.0 /min\n- Respiratory rate: 14.0 /min"
+  },
+  {
+    "doc_id": "922fb35e-148d-9e82-b1bd-41e6918238ff",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-05-26",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Agnes Weber - 2023-05-26",
+    "content": "- Cholesterol [Mass/volume] in Serum or Plasma: 178.2 mg/dL\n- Triglyceride [Mass/volume] in Serum or Plasma: 113.3 mg/dL\n- Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay: 92.3 mg/dL\n- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 63.2 mg/dL\n- Leukocytes [#/volume] in Blood by Automated count: 4.0 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 5.2 10*6/uL\n- Hemoglobin [Mass/volume] in Blood: 15.5 g/dL\n- Hematocrit [Volume Fraction] of Blood by Automated count: 41.4 %\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 87.4 fL\n- MCH [Entitic mass] by Automated count: 30.5 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 34.5 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 45.9 fL\n- Platelets [#/volume] in Blood by Automated count: 251.3 10*3/uL\n- Platelet distribution width [Entitic volume] in Blood by Automated count: 10.0 fL\n- Platelet [Entitic mean volume] in Blood by Automated count: 10.7 fL"
+  },
+  {
+    "doc_id": "922fb35e-148d-9e82-b1bd-41e6918238ff",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-05-26",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Agnes Weber - 2023-05-26",
+    "content": "- Medication reconciliation.\n- Assessment of health and social care needs.\n- Depression screening.\n- Depression screening.\n- Assessment of substance use.\n- Assessment using Alcohol Use Disorders Identification Test - Consumption."
+  },
+  {
+    "doc_id": "922fb35e-148d-9e82-b1bd-41e6918238ff",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-05-26",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Agnes Weber - 2023-05-26",
+    "content": "Medications prescribed at this visit:\n- budesonide 0.25 MG/ML Inhalation Suspension, started 2023-05-26, for Childhood asthma; stopped 2024-05-31.\n- albuterol 0.21 MG/ML Inhalation Solution, started 2023-05-26, for Childhood asthma; stopped 2024-05-31."
+  },
+  {
+    "doc_id": "922fb35e-148d-9e82-b1bd-41e6918238ff",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-05-26",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Agnes Weber - 2023-05-26",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

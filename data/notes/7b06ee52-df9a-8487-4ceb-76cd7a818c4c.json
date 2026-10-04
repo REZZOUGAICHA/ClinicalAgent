@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "7b06ee52-df9a-8487-4ceb-76cd7a818c4c",
+    "patient_id": "7b06ee52-df9a-8487-0be6-dff27cc7d519",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-09-30",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Ressie Nader - 2019-09-30",
+    "content": "Patient: Ressie Nader, female, born 2001-08-06 (patient ID 7b06ee52-df9a-8487-0be6-dff27cc7d519).\nVisit date: 2019-09-30.\nVisit type: General examination of patient.\nClinician: Morgan Marvin (General Practice).\nFacility: FAMILY MEDICINE ASSOCIATES OF SOUTH ATTLEBORO P.C., SOUTH ATTLEBORO, MA."
+  },
+  {
+    "doc_id": "7b06ee52-df9a-8487-4ceb-76cd7a818c4c",
+    "patient_id": "7b06ee52-df9a-8487-0be6-dff27cc7d519",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-09-30",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Ressie Nader - 2019-09-30",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2019-09-30), resolved 2019-09-30.\n- Received higher education (onset 2019-09-30).\n- Unemployed (onset 2019-09-30).\n- Limited social contact (onset 2019-09-30).\n- Stress (onset 2019-09-30), resolved 2020-10-05.\n- Gingivitis (onset 2019-09-30), resolved 2019-10-14."
+  },
+  {
+    "doc_id": "7b06ee52-df9a-8487-4ceb-76cd7a818c4c",
+    "patient_id": "7b06ee52-df9a-8487-0be6-dff27cc7d519",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-09-30",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Ressie Nader - 2019-09-30",
+    "content": "- Body Height: 154.0 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0\n- Body Weight: 60.1 kg\n- Body mass index (BMI) [Ratio]: 25.3 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 83.3 %\n- Diastolic Blood Pressure: 89.0 mm[Hg]\n- Systolic Blood Pressure: 101.0 mm[Hg]\n- Heart rate: 85.0 /min\n- Respiratory rate: 14.0 /min"
+  },
+  {
+    "doc_id": "7b06ee52-df9a-8487-4ceb-76cd7a818c4c",
+    "patient_id": "7b06ee52-df9a-8487-0be6-dff27cc7d519",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-09-30",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Ressie Nader - 2019-09-30",
+    "content": "- Medication reconciliation.\n- Assessment of health and social care needs.\n- Assessment of anxiety.\n- Depression screening.\n- Depression screening.\n- Assessment of substance use.\n- Screening for drug abuse.\n- Patient referral for dental care, for Gingivitis."
+  },
+  {
+    "doc_id": "7b06ee52-df9a-8487-4ceb-76cd7a818c4c",
+    "patient_id": "7b06ee52-df9a-8487-0be6-dff27cc7d519",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-09-30",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Ressie Nader - 2019-09-30",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "doc_id": "9661a432-4630-2cd9-90ee-4f956bdf0308",
+    "patient_id": "9661a432-4630-2cd9-142c-386845fae837",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-06-13",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Paul Tremblay - 2017-06-13",
+    "content": "Patient: Paul Tremblay, male, born 1978-02-14 (patient ID 9661a432-4630-2cd9-142c-386845fae837).\nVisit date: 2017-06-13.\nVisit type: General examination of patient.\nClinician: Idella Runte (General Practice).\nFacility: SIGNATURE HEALTHCARE MEDICAL GROUP INC, WEST BRIDGEWATER, MA."
+  },
+  {
+    "doc_id": "9661a432-4630-2cd9-90ee-4f956bdf0308",
+    "patient_id": "9661a432-4630-2cd9-142c-386845fae837",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-06-13",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Paul Tremblay - 2017-06-13",
+    "content": "Diagnoses recorded at this visit:\n- Full-time employment (onset 2017-06-13), resolved 2021-07-06."
+  },
+  {
+    "doc_id": "9661a432-4630-2cd9-90ee-4f956bdf0308",
+    "patient_id": "9661a432-4630-2cd9-142c-386845fae837",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-06-13",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Paul Tremblay - 2017-06-13",
+    "content": "- Body Height: 167.2 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0\n- Body Weight: 85.6 kg\n- Body mass index (BMI) [Ratio]: 30.6 kg/m2\n- Diastolic Blood Pressure: 99.0 mm[Hg]\n- Systolic Blood Pressure: 114.0 mm[Hg]\n- Heart rate: 63.0 /min\n- Respiratory rate: 14.0 /min"
+  },
+  {
+    "doc_id": "9661a432-4630-2cd9-90ee-4f956bdf0308",
+    "patient_id": "9661a432-4630-2cd9-142c-386845fae837",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-06-13",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Paul Tremblay - 2017-06-13",
+    "content": "- Hemoglobin A1c/Hemoglobin.total in Blood: 6.3 %\n- Glucose [Mass/volume] in Blood: 82.1 mg/dL\n- Urea nitrogen [Mass/volume] in Blood: 12.7 mg/dL\n- Creatinine [Mass/volume] in Blood: 1.2 mg/dL\n- Calcium [Mass/volume] in Blood: 9.1 mg/dL\n- Sodium [Moles/volume] in Blood: 142.6 mmol/L\n- Potassium [Moles/volume] in Blood: 4.7 mmol/L\n- Chloride [Moles/volume] in Blood: 102.6 mmol/L\n- Carbon dioxide  total [Moles/volume] in Blood: 29.0 mmol/L"
+  },
+  {
+    "doc_id": "9661a432-4630-2cd9-90ee-4f956bdf0308",
+    "patient_id": "9661a432-4630-2cd9-142c-386845fae837",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-06-13",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Paul Tremblay - 2017-06-13",
+    "content": "- Assessment of health and social care needs.\n- Assessment of anxiety.\n- Depression screening.\n- Depression screening.\n- Assessment of substance use.\n- Screening for drug abuse."
+  },
+  {
+    "doc_id": "9661a432-4630-2cd9-90ee-4f956bdf0308",
+    "patient_id": "9661a432-4630-2cd9-142c-386845fae837",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-06-13",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Paul Tremblay - 2017-06-13",
+    "content": "Medications prescribed at this visit:\n- lisinopril 10 MG Oral Tablet, started 2017-06-13, for Essential hypertension; stopped 2018-06-19.\n- amLODIPine 2.5 MG Oral Tablet, started 2017-06-13, for Essential hypertension; stopped 2018-06-19."
+  },
+  {
+    "doc_id": "9661a432-4630-2cd9-90ee-4f956bdf0308",
+    "patient_id": "9661a432-4630-2cd9-142c-386845fae837",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-06-13",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Paul Tremblay - 2017-06-13",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

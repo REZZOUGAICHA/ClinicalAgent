@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "6aed9210-c500-4375-eb38-25ab0cf7708d",
+    "patient_id": "6aed9210-c500-4375-b0fc-3374c40b8591",
+    "document_type": "Office Visit Note",
+    "date": "2022-02-02",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Lyman Runte - 2022-02-02",
+    "content": "Patient: Lyman Runte, male, born 1965-07-08 (patient ID 6aed9210-c500-4375-b0fc-3374c40b8591).\nVisit date: 2022-02-02.\nVisit type: Encounter for symptom.\nClinician: Arden Bergstrom (General Practice).\nFacility: CAPE COD HOSPITAL INC, HYANNIS, MA."
+  },
+  {
+    "doc_id": "6aed9210-c500-4375-eb38-25ab0cf7708d",
+    "patient_id": "6aed9210-c500-4375-b0fc-3374c40b8591",
+    "document_type": "Office Visit Note",
+    "date": "2022-02-02",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Lyman Runte - 2022-02-02",
+    "content": "Seen for Acute bronchitis."
+  },
+  {
+    "doc_id": "6aed9210-c500-4375-eb38-25ab0cf7708d",
+    "patient_id": "6aed9210-c500-4375-b0fc-3374c40b8591",
+    "document_type": "Office Visit Note",
+    "date": "2022-02-02",
+    "section": "Assessment",
+    "title": "Office Visit Note - Lyman Runte - 2022-02-02",
+    "content": "Diagnoses recorded at this visit:\n- Acute bronchitis (onset 2022-02-02), resolved 2022-02-22."
+  },
+  {
+    "doc_id": "6aed9210-c500-4375-eb38-25ab0cf7708d",
+    "patient_id": "6aed9210-c500-4375-b0fc-3374c40b8591",
+    "document_type": "Office Visit Note",
+    "date": "2022-02-02",
+    "section": "Procedures",
+    "title": "Office Visit Note - Lyman Runte - 2022-02-02",
+    "content": "- Measurement of respiratory function, for Acute bronchitis."
+  },
+  {
+    "doc_id": "6aed9210-c500-4375-eb38-25ab0cf7708d",
+    "patient_id": "6aed9210-c500-4375-b0fc-3374c40b8591",
+    "document_type": "Office Visit Note",
+    "date": "2022-02-02",
+    "section": "Medications",
+    "title": "Office Visit Note - Lyman Runte - 2022-02-02",
+    "content": "Medications prescribed at this visit:\n- Acetaminophen 325 MG Oral Tablet, started 2022-02-02, for Acute bronchitis; stopped 2022-02-21."
+  },
+  {
+    "doc_id": "6aed9210-c500-4375-eb38-25ab0cf7708d",
+    "patient_id": "6aed9210-c500-4375-b0fc-3374c40b8591",
+    "document_type": "Office Visit Note",
+    "date": "2022-02-02",
+    "section": "Plan",
+    "title": "Office Visit Note - Lyman Runte - 2022-02-02",
+    "content": "- Respiratory therapy, started 2022-02-03, ended 2022-08-18."
+  }
+]

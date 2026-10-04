@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "76b20010-c318-5754-4ef9-e745ef98bf9b",
+    "patient_id": "76b20010-c318-5754-8c85-983aa538522f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-03-04",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Jody Hickle - 2024-03-04",
+    "content": "Patient: Jody Hickle, male, born 2018-03-19 (patient ID 76b20010-c318-5754-8c85-983aa538522f).\nVisit date: 2024-03-04.\nVisit type: Well child visit.\nClinician: Dane Tromp (General Practice).\nFacility: NEWBURYPORT FAMILY PRACTICE P.C., NEWBURYPORT, MA."
+  },
+  {
+    "doc_id": "76b20010-c318-5754-4ef9-e745ef98bf9b",
+    "patient_id": "76b20010-c318-5754-8c85-983aa538522f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-03-04",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Jody Hickle - 2024-03-04",
+    "content": "- Body Height: 115.9 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0\n- Body Weight: 21.6 kg\n- Body mass index (BMI) [Ratio]: 16.1 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 68.7 %\n- Diastolic Blood Pressure: 89.0 mm[Hg]\n- Systolic Blood Pressure: 115.0 mm[Hg]\n- Heart rate: 98.0 /min\n- Respiratory rate: 15.0 /min"
+  },
+  {
+    "doc_id": "76b20010-c318-5754-4ef9-e745ef98bf9b",
+    "patient_id": "76b20010-c318-5754-8c85-983aa538522f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-03-04",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Jody Hickle - 2024-03-04",
+    "content": "- Leukocytes [#/volume] in Blood by Automated count: 5.8 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 4.0 10*6/uL\n- Hemoglobin [Mass/volume] in Blood: 13.3 g/dL\n- Hematocrit [Volume Fraction] of Blood by Automated count: 42.3 %\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 92.0 fL\n- MCH [Entitic mass] by Automated count: 32.3 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 33.4 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 43.5 fL\n- Platelets [#/volume] in Blood by Automated count: 237.0 10*3/uL\n- Platelet distribution width [Entitic volume] in Blood by Automated count: 14.2 fL\n- Platelet [Entitic mean volume] in Blood by Automated count: 9.5 fL"
+  },
+  {
+    "doc_id": "76b20010-c318-5754-4ef9-e745ef98bf9b",
+    "patient_id": "76b20010-c318-5754-8c85-983aa538522f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-03-04",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Jody Hickle - 2024-03-04",
+    "content": "- Medication reconciliation."
+  },
+  {
+    "doc_id": "76b20010-c318-5754-4ef9-e745ef98bf9b",
+    "patient_id": "76b20010-c318-5754-8c85-983aa538522f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-03-04",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Jody Hickle - 2024-03-04",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "e74367bd-7385-97dc-08a7-e88585c79bde",
+    "patient_id": "e74367bd-7385-97dc-2c7f-251b4cd9fe29",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2015-10-24",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Tennille Jerde - 2015-10-24",
+    "content": "Patient: Tennille Jerde, female, born 1960-09-24 (patient ID e74367bd-7385-97dc-2c7f-251b4cd9fe29).\nVisit date: 2015-10-24.\nVisit type: General examination of patient.\nClinician: Vito Barton (General Practice).\nFacility: DAVIS SQUARE FAMILY PRACTICE, SOMERVILLE, MA."
+  },
+  {
+    "doc_id": "e74367bd-7385-97dc-08a7-e88585c79bde",
+    "patient_id": "e74367bd-7385-97dc-2c7f-251b4cd9fe29",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2015-10-24",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Tennille Jerde - 2015-10-24",
+    "content": "Diagnoses recorded at this visit:\n- Part-time employment (onset 2015-10-24), resolved 2016-10-29."
+  },
+  {
+    "doc_id": "e74367bd-7385-97dc-08a7-e88585c79bde",
+    "patient_id": "e74367bd-7385-97dc-2c7f-251b4cd9fe29",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2015-10-24",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Tennille Jerde - 2015-10-24",
+    "content": "Medications prescribed at this visit:\n- Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet], started 2015-10-24; stopped 2016-10-29.\n- Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin], started 2015-10-24; stopped 2016-10-29.\n- buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet, started 2015-10-24, for Opioid abuse; stopped 2016-10-29.\n- 12 HR Hydrocodone Bitartrate 10 MG Extended Release Oral Capsule, started 2015-10-24; stopped 2016-10-29."
+  }
+]

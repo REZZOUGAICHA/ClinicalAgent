@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "7c913488-8c54-7aa0-5966-0a24106303bf",
+    "patient_id": "7c913488-8c54-7aa0-a452-83dbc3ad8377",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-01-15",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Dian Kiehn - 2021-01-15",
+    "content": "Patient: Dian Kiehn, female, born 2012-01-13 (patient ID 7c913488-8c54-7aa0-a452-83dbc3ad8377).\nVisit date: 2021-01-15.\nVisit type: Well child visit.\nClinician: Adela King (General Practice).\nFacility: FAMILY SERVICE ASSOCIATION OF GREATER FALL RIVER INC, FALL RIVER, MA."
+  },
+  {
+    "doc_id": "7c913488-8c54-7aa0-5966-0a24106303bf",
+    "patient_id": "7c913488-8c54-7aa0-a452-83dbc3ad8377",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-01-15",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Dian Kiehn - 2021-01-15",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2021-01-15), resolved 2026-02-13.\n- Gingivitis (onset 2021-01-15), resolved 2021-01-22."
+  },
+  {
+    "doc_id": "7c913488-8c54-7aa0-5966-0a24106303bf",
+    "patient_id": "7c913488-8c54-7aa0-a452-83dbc3ad8377",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-01-15",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Dian Kiehn - 2021-01-15",
+    "content": "- Body Height: 141.7 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0\n- Body Weight: 38.8 kg\n- Body mass index (BMI) [Ratio]: 19.3 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 86.1 %\n- Diastolic Blood Pressure: 74.0 mm[Hg]\n- Systolic Blood Pressure: 131.0 mm[Hg]\n- Heart rate: 73.0 /min\n- Respiratory rate: 14.0 /min"
+  },
+  {
+    "doc_id": "7c913488-8c54-7aa0-5966-0a24106303bf",
+    "patient_id": "7c913488-8c54-7aa0-a452-83dbc3ad8377",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-01-15",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Dian Kiehn - 2021-01-15",
+    "content": "- Patient referral for dental care, for Gingivitis."
+  },
+  {
+    "doc_id": "7c913488-8c54-7aa0-5966-0a24106303bf",
+    "patient_id": "7c913488-8c54-7aa0-a452-83dbc3ad8377",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-01-15",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Dian Kiehn - 2021-01-15",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

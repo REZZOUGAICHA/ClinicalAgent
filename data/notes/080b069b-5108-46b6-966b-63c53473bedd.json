@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "080b069b-5108-46b6-966b-63c53473bedd",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Office Visit Note",
+    "date": "2019-12-02",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Chester Aufderhar - 2019-12-02",
+    "content": "Patient: Chester Aufderhar, male, born 1966-11-22 (patient ID 080b069b-5108-46b6-ecef-6aacd3b9ef3f).\nVisit date: 2019-12-02.\nVisit type: Encounter for symptom.\nClinician: Harland Ryan (General Practice).\nFacility: SOUTHCOAST HOSPITAL GROUP INC, WAREHAM, MA."
+  },
+  {
+    "doc_id": "080b069b-5108-46b6-966b-63c53473bedd",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Office Visit Note",
+    "date": "2019-12-02",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Chester Aufderhar - 2019-12-02",
+    "content": "Seen for Acute viral pharyngitis."
+  },
+  {
+    "doc_id": "080b069b-5108-46b6-966b-63c53473bedd",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Office Visit Note",
+    "date": "2019-12-02",
+    "section": "Assessment",
+    "title": "Office Visit Note - Chester Aufderhar - 2019-12-02",
+    "content": "Diagnoses recorded at this visit:\n- Acute viral pharyngitis (onset 2019-12-02), resolved 2019-12-16."
+  },
+  {
+    "doc_id": "080b069b-5108-46b6-966b-63c53473bedd",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Office Visit Note",
+    "date": "2019-12-02",
+    "section": "Vital Signs",
+    "title": "Office Visit Note - Chester Aufderhar - 2019-12-02",
+    "content": "- Body temperature: 38.0 \u00b0C"
+  }
+]

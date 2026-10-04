@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "c86c400e-ff88-a1e3-857d-3dadbb0556e5",
+    "patient_id": "c86c400e-ff88-a1e3-2e23-caa4d8311f47",
+    "document_type": "Office Visit Note",
+    "date": "1986-09-20",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Cristobal Montero - 1986-09-20",
+    "content": "Patient: Cristobal Montero, male, born 1947-03-03 (patient ID c86c400e-ff88-a1e3-2e23-caa4d8311f47).\nVisit date: 1986-09-20.\nVisit type: Encounter for symptom.\nClinician: Lorette Hauck (General Practice).\nFacility: WHITTIER REHABILTATION HOSPITAL, LYNN, MA."
+  },
+  {
+    "doc_id": "c86c400e-ff88-a1e3-857d-3dadbb0556e5",
+    "patient_id": "c86c400e-ff88-a1e3-2e23-caa4d8311f47",
+    "document_type": "Office Visit Note",
+    "date": "1986-09-20",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Cristobal Montero - 1986-09-20",
+    "content": "Seen for Acute viral pharyngitis."
+  },
+  {
+    "doc_id": "c86c400e-ff88-a1e3-857d-3dadbb0556e5",
+    "patient_id": "c86c400e-ff88-a1e3-2e23-caa4d8311f47",
+    "document_type": "Office Visit Note",
+    "date": "1986-09-20",
+    "section": "Assessment",
+    "title": "Office Visit Note - Cristobal Montero - 1986-09-20",
+    "content": "Diagnoses recorded at this visit:\n- Acute viral pharyngitis (onset 1986-09-20), resolved 1986-10-03."
+  },
+  {
+    "doc_id": "c86c400e-ff88-a1e3-857d-3dadbb0556e5",
+    "patient_id": "c86c400e-ff88-a1e3-2e23-caa4d8311f47",
+    "document_type": "Office Visit Note",
+    "date": "1986-09-20",
+    "section": "Vital Signs",
+    "title": "Office Visit Note - Cristobal Montero - 1986-09-20",
+    "content": "- Body temperature: 37.2 \u00b0C"
+  }
+]

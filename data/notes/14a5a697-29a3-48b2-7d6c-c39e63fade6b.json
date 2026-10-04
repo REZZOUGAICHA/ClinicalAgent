@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "14a5a697-29a3-48b2-7d6c-c39e63fade6b",
+    "patient_id": "14a5a697-29a3-48b2-969a-3ceefe74a700",
+    "document_type": "Office Visit Note",
+    "date": "2020-09-25",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Drusilla Schumm - 2020-09-25",
+    "content": "Patient: Drusilla Schumm, female, born 1958-11-15 (patient ID 14a5a697-29a3-48b2-969a-3ceefe74a700).\nVisit date: 2020-09-25.\nVisit type: Gynecology service (qualifier value).\nClinician: Bennie Abbott (General Practice).\nFacility: LAHEY HOSPITAL & MEDICAL CENTER BURLINGTON, PEABODY, MA."
+  },
+  {
+    "doc_id": "14a5a697-29a3-48b2-7d6c-c39e63fade6b",
+    "patient_id": "14a5a697-29a3-48b2-969a-3ceefe74a700",
+    "document_type": "Office Visit Note",
+    "date": "2020-09-25",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Drusilla Schumm - 2020-09-25",
+    "content": "Seen for Malignant neoplasm of breast."
+  },
+  {
+    "doc_id": "14a5a697-29a3-48b2-7d6c-c39e63fade6b",
+    "patient_id": "14a5a697-29a3-48b2-969a-3ceefe74a700",
+    "document_type": "Office Visit Note",
+    "date": "2020-09-25",
+    "section": "Assessment",
+    "title": "Office Visit Note - Drusilla Schumm - 2020-09-25",
+    "content": "Diagnoses recorded at this visit:\n- Suspected disease caused by Severe acute respiratory coronavirus 2 (onset 2020-12-07), resolved 2020-12-07."
+  },
+  {
+    "doc_id": "14a5a697-29a3-48b2-7d6c-c39e63fade6b",
+    "patient_id": "14a5a697-29a3-48b2-969a-3ceefe74a700",
+    "document_type": "Office Visit Note",
+    "date": "2020-09-25",
+    "section": "Procedures",
+    "title": "Office Visit Note - Drusilla Schumm - 2020-09-25",
+    "content": "- Manual pelvic examination, for Malignant neoplasm of breast.\n- Cytopathology procedure  preparation of smear  genital source, for Malignant neoplasm of breast."
+  }
+]

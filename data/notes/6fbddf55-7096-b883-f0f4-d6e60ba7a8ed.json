@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "6fbddf55-7096-b883-f0f4-d6e60ba7a8ed",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "2023-08-04",
+    "section": "Visit Information",
+    "title": "Inpatient Discharge Summary - Clarinda Farrell - 2023-08-04",
+    "content": "Patient: Clarinda Farrell, female, born 1981-07-01 (patient ID 6fbddf55-7096-b883-7cd3-260f27953080).\nVisit date: 2023-08-04.\nVisit type: Admission to surgical department.\nClinician: Luther Jakubowski (General Practice).\nFacility: ENCOMPASS HEALTH REHABILITATION HOSP OF NEW ENGLAN, WOBURN, MA."
+  },
+  {
+    "doc_id": "6fbddf55-7096-b883-f0f4-d6e60ba7a8ed",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "2023-08-04",
+    "section": "Reason for Visit",
+    "title": "Inpatient Discharge Summary - Clarinda Farrell - 2023-08-04",
+    "content": "Seen for Tubal pregnancy."
+  },
+  {
+    "doc_id": "6fbddf55-7096-b883-f0f4-d6e60ba7a8ed",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "2023-08-04",
+    "section": "Procedures",
+    "title": "Inpatient Discharge Summary - Clarinda Farrell - 2023-08-04",
+    "content": "- Excision of fallopian tube and surgical removal of ectopic pregnancy, for Tubal pregnancy.\n- Postoperative care."
+  }
+]

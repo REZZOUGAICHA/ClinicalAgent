@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "6fbddf55-7096-b883-3e1d-53bd43953ca2",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-09-19",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Clarinda Farrell - 2018-09-19",
+    "content": "Patient: Clarinda Farrell, female, born 1981-07-01 (patient ID 6fbddf55-7096-b883-7cd3-260f27953080).\nVisit date: 2018-09-19.\nVisit type: General examination of patient.\nClinician: Lorinda Pouros (General Practice).\nFacility: CLARITY HEALTH & WELLNESS LLC, BURLINGTON, MA."
+  },
+  {
+    "doc_id": "6fbddf55-7096-b883-3e1d-53bd43953ca2",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-09-19",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Clarinda Farrell - 2018-09-19",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2018-09-19), resolved 2021-07-07."
+  },
+  {
+    "doc_id": "6fbddf55-7096-b883-3e1d-53bd43953ca2",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-09-19",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Clarinda Farrell - 2018-09-19",
+    "content": "- Body Height: 164.8 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0\n- Body Weight: 78.5 kg\n- Body mass index (BMI) [Ratio]: 28.9 kg/m2\n- Diastolic Blood Pressure: 83.0 mm[Hg]\n- Systolic Blood Pressure: 114.0 mm[Hg]\n- Heart rate: 62.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "6fbddf55-7096-b883-3e1d-53bd43953ca2",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-09-19",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Clarinda Farrell - 2018-09-19",
+    "content": "- Cholesterol [Mass/volume] in Serum or Plasma: 144.3 mg/dL\n- Triglyceride [Mass/volume] in Serum or Plasma: 107.2 mg/dL\n- Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay: 60.1 mg/dL\n- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 62.8 mg/dL"
+  },
+  {
+    "doc_id": "6fbddf55-7096-b883-3e1d-53bd43953ca2",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-09-19",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Clarinda Farrell - 2018-09-19",
+    "content": "- Assessment of health and social care needs.\n- Assessment of anxiety.\n- Depression screening.\n- Depression screening.\n- Assessment of substance use.\n- Screening for drug abuse."
+  },
+  {
+    "doc_id": "6fbddf55-7096-b883-3e1d-53bd43953ca2",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-09-19",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Clarinda Farrell - 2018-09-19",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

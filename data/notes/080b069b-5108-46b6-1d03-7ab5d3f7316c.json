@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "080b069b-5108-46b6-1d03-7ab5d3f7316c",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Office Visit Note",
+    "date": "2019-01-31",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Chester Aufderhar - 2019-01-31",
+    "content": "Patient: Chester Aufderhar, male, born 1966-11-22 (patient ID 080b069b-5108-46b6-ecef-6aacd3b9ef3f).\nVisit date: 2019-01-31.\nVisit type: Encounter for problem.\nClinician: Gabriel Reilly (General Practice).\nFacility: Fitchburg Outpatient Clinic, Fitchburg, MA."
+  },
+  {
+    "doc_id": "080b069b-5108-46b6-1d03-7ab5d3f7316c",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Office Visit Note",
+    "date": "2019-01-31",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Chester Aufderhar - 2019-01-31",
+    "content": "Seen for Ischemic heart disease."
+  },
+  {
+    "doc_id": "080b069b-5108-46b6-1d03-7ab5d3f7316c",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Office Visit Note",
+    "date": "2019-01-31",
+    "section": "Assessment",
+    "title": "Office Visit Note - Chester Aufderhar - 2019-01-31",
+    "content": "Diagnoses recorded at this visit:\n- Abnormal findings diagnostic imaging heart+coronary circulat (onset 2019-01-31)."
+  },
+  {
+    "doc_id": "080b069b-5108-46b6-1d03-7ab5d3f7316c",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Office Visit Note",
+    "date": "2019-01-31",
+    "section": "Procedures",
+    "title": "Office Visit Note - Chester Aufderhar - 2019-01-31",
+    "content": "- Consultation for treatment, for Ischemic heart disease.\n- Angiography of coronary artery, for Ischemic heart disease.\n- Post anesthesia care management, for Abnormal findings diagnostic imaging heart+coronary circulat.\n- Referral to cardiac surgery service, for Abnormal findings diagnostic imaging heart+coronary circulat."
+  }
+]

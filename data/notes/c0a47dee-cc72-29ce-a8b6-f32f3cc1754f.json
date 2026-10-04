@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "c0a47dee-cc72-29ce-a8b6-f32f3cc1754f",
+    "patient_id": "c0a47dee-cc72-29ce-df5a-ea6d306c36a4",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2017-04-24",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Jonathan Carroll - 2017-04-24",
+    "content": "Patient: Jonathan Carroll, male, born 1987-02-23 (patient ID c0a47dee-cc72-29ce-df5a-ea6d306c36a4).\nVisit date: 2017-04-24.\nVisit type: Encounter for check up.\nClinician: Tabatha Roob (General Practice).\nFacility: STEWARD ST. ANNES HOSPITAL CORPORATION, FALL RIVER, MA."
+  },
+  {
+    "doc_id": "c0a47dee-cc72-29ce-a8b6-f32f3cc1754f",
+    "patient_id": "c0a47dee-cc72-29ce-df5a-ea6d306c36a4",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2017-04-24",
+    "section": "Assessment",
+    "title": "Outpatient Procedure Note - Jonathan Carroll - 2017-04-24",
+    "content": "Diagnoses recorded at this visit:\n- Full-time employment (onset 2017-04-24), resolved 2018-05-07."
+  },
+  {
+    "doc_id": "c0a47dee-cc72-29ce-a8b6-f32f3cc1754f",
+    "patient_id": "c0a47dee-cc72-29ce-df5a-ea6d306c36a4",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2017-04-24",
+    "section": "Vital Signs",
+    "title": "Outpatient Procedure Note - Jonathan Carroll - 2017-04-24",
+    "content": "- Body Height: 177.4 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0\n- Body Weight: 85.9 kg\n- Body mass index (BMI) [Ratio]: 27.3 kg/m2\n- Diastolic Blood Pressure: 83.0 mm[Hg]\n- Systolic Blood Pressure: 113.0 mm[Hg]\n- Heart rate: 99.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "c0a47dee-cc72-29ce-a8b6-f32f3cc1754f",
+    "patient_id": "c0a47dee-cc72-29ce-df5a-ea6d306c36a4",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2017-04-24",
+    "section": "Laboratory Results",
+    "title": "Outpatient Procedure Note - Jonathan Carroll - 2017-04-24",
+    "content": "- Cholesterol [Mass/volume] in Serum or Plasma: 134.6 mg/dL\n- Triglyceride [Mass/volume] in Serum or Plasma: 127.4 mg/dL\n- Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay: 57.3 mg/dL\n- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 51.8 mg/dL"
+  },
+  {
+    "doc_id": "c0a47dee-cc72-29ce-a8b6-f32f3cc1754f",
+    "patient_id": "c0a47dee-cc72-29ce-df5a-ea6d306c36a4",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2017-04-24",
+    "section": "Procedures",
+    "title": "Outpatient Procedure Note - Jonathan Carroll - 2017-04-24",
+    "content": "- Medication reconciliation.\n- Assessment of health and social care needs.\n- Screening for domestic abuse.\n- Depression screening.\n- Depression screening.\n- Assessment of substance use.\n- Screening for drug abuse."
+  },
+  {
+    "doc_id": "c0a47dee-cc72-29ce-a8b6-f32f3cc1754f",
+    "patient_id": "c0a47dee-cc72-29ce-df5a-ea6d306c36a4",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2017-04-24",
+    "section": "Immunizations",
+    "title": "Outpatient Procedure Note - Jonathan Carroll - 2017-04-24",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "75d6a35c-c2e1-5b9f-f3bf-f66c3d9c4fe1",
+    "patient_id": "75d6a35c-c2e1-5b9f-e7f8-6a5b05af8fc8",
+    "document_type": "Office Visit Note",
+    "date": "2018-11-19",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Hiram Batz - 2018-11-19",
+    "content": "Patient: Hiram Batz, male, born 2013-02-01 (patient ID 75d6a35c-c2e1-5b9f-e7f8-6a5b05af8fc8).\nVisit date: 2018-11-19.\nVisit type: Encounter for symptom.\nClinician: Bennett Rippin (General Practice).\nFacility: MILFORD REGIONAL MEDICAL CENTER, UPTON, MA."
+  },
+  {
+    "doc_id": "75d6a35c-c2e1-5b9f-f3bf-f66c3d9c4fe1",
+    "patient_id": "75d6a35c-c2e1-5b9f-e7f8-6a5b05af8fc8",
+    "document_type": "Office Visit Note",
+    "date": "2018-11-19",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Hiram Batz - 2018-11-19",
+    "content": "Seen for Acute viral pharyngitis."
+  },
+  {
+    "doc_id": "75d6a35c-c2e1-5b9f-f3bf-f66c3d9c4fe1",
+    "patient_id": "75d6a35c-c2e1-5b9f-e7f8-6a5b05af8fc8",
+    "document_type": "Office Visit Note",
+    "date": "2018-11-19",
+    "section": "Assessment",
+    "title": "Office Visit Note - Hiram Batz - 2018-11-19",
+    "content": "Diagnoses recorded at this visit:\n- Acute viral pharyngitis (onset 2018-11-19), resolved 2018-11-29."
+  },
+  {
+    "doc_id": "75d6a35c-c2e1-5b9f-f3bf-f66c3d9c4fe1",
+    "patient_id": "75d6a35c-c2e1-5b9f-e7f8-6a5b05af8fc8",
+    "document_type": "Office Visit Note",
+    "date": "2018-11-19",
+    "section": "Vital Signs",
+    "title": "Office Visit Note - Hiram Batz - 2018-11-19",
+    "content": "- Body temperature: 37.2 \u00b0C"
+  },
+  {
+    "doc_id": "75d6a35c-c2e1-5b9f-f3bf-f66c3d9c4fe1",
+    "patient_id": "75d6a35c-c2e1-5b9f-e7f8-6a5b05af8fc8",
+    "document_type": "Office Visit Note",
+    "date": "2018-11-19",
+    "section": "Procedures",
+    "title": "Office Visit Note - Hiram Batz - 2018-11-19",
+    "content": "- Throat culture, for Acute viral pharyngitis."
+  }
+]

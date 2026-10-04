@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "ba419d35-0dfe-8af7-b854-54767bbd0ee8",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2010-06-04",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Corie Kohler - 2010-06-04",
+    "content": "Patient: Corie Kohler, female, born 1925-09-18 (patient ID ba419d35-0dfe-8af7-347c-eebf02485a56).\nVisit date: 2010-06-04.\nVisit type: General examination of patient.\nClinician: Wynell Mayert (General Practice).\nFacility: WELLNESS ON WHEELS PC, NORTH ATTLEBORO, MA."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-b854-54767bbd0ee8",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2010-06-04",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Corie Kohler - 2010-06-04",
+    "content": "Diagnoses recorded at this visit:\n- Full-time employment (onset 2010-06-04), resolved 2011-07-01."
+  }
+]

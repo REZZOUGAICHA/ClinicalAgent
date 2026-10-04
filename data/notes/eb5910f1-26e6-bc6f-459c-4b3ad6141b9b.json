@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "eb5910f1-26e6-bc6f-459c-4b3ad6141b9b",
+    "patient_id": "eb5910f1-26e6-bc6f-b300-716eae678d6f",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2026-07-21",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Larissa Bins - 2026-07-21",
+    "content": "Patient: Larissa Bins, female, born 1995-04-25 (patient ID eb5910f1-26e6-bc6f-b300-716eae678d6f).\nVisit date: 2026-07-21.\nVisit type: Consultation for treatment.\nClinician: Jackelyn Pacocha (General Practice).\nFacility: WP ACQUISITION SUB LLC, HAVERHILL, MA."
+  },
+  {
+    "doc_id": "eb5910f1-26e6-bc6f-459c-4b3ad6141b9b",
+    "patient_id": "eb5910f1-26e6-bc6f-b300-716eae678d6f",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2026-07-21",
+    "section": "Reason for Visit",
+    "title": "Outpatient Procedure Note - Larissa Bins - 2026-07-21",
+    "content": "Seen for Contraception care."
+  },
+  {
+    "doc_id": "eb5910f1-26e6-bc6f-459c-4b3ad6141b9b",
+    "patient_id": "eb5910f1-26e6-bc6f-b300-716eae678d6f",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2026-07-21",
+    "section": "Medications",
+    "title": "Outpatient Procedure Note - Larissa Bins - 2026-07-21",
+    "content": "Medications prescribed at this visit:\n- 21 DAY ethinyl estradiol 0.000625 MG/HR / etonogestrel 0.005 MG/HR Vaginal System [NuvaRing], started 2026-07-21; no stop date recorded."
+  }
+]

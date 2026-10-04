@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "f95a6723-14a5-c4b6-5412-7153d88c42f2",
+    "patient_id": "f95a6723-14a5-c4b6-78df-fa97f7ab361c",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2021-06-23",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Roxann Sauer - 2021-06-23",
+    "content": "Patient: Roxann Sauer, female, born 1986-08-23 (patient ID f95a6723-14a5-c4b6-78df-fa97f7ab361c).\nVisit date: 2021-06-23.\nVisit type: Consultation for treatment.\nClinician: Chu Weber (General Practice).\nFacility: STURDY MEMORIAL HOSPITAL INC, ATTLEBORO, MA."
+  },
+  {
+    "doc_id": "f95a6723-14a5-c4b6-5412-7153d88c42f2",
+    "patient_id": "f95a6723-14a5-c4b6-78df-fa97f7ab361c",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2021-06-23",
+    "section": "Reason for Visit",
+    "title": "Outpatient Procedure Note - Roxann Sauer - 2021-06-23",
+    "content": "Seen for Contraception care."
+  },
+  {
+    "doc_id": "f95a6723-14a5-c4b6-5412-7153d88c42f2",
+    "patient_id": "f95a6723-14a5-c4b6-78df-fa97f7ab361c",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2021-06-23",
+    "section": "Medications",
+    "title": "Outpatient Procedure Note - Roxann Sauer - 2021-06-23",
+    "content": "Medications prescribed at this visit:\n- {5 (dienogest 2 MG / estradiol valerate 2 MG Oral Tablet) / 17 (dienogest 3 MG / estradiol valerate 2 MG Oral Tablet) / 2 (estradiol valerate 1 MG Oral Tablet) / 2 (estradiol valerate 3 MG Oral Tablet) / 2 (inert ingredients 1 MG Oral Tablet) } Pack [Natazia 28 Day], started 2021-06-23; stopped 2022-06-18."
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "26aa011e-0d75-d1a3-9a41-99d58913cd4b",
+    "patient_id": "26aa011e-0d75-d1a3-3c5a-560a9450cc9d",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2026-07-19",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Jesse Wolf - 2026-07-19",
+    "content": "Patient: Jesse Wolf, male, born 2010-04-04 (patient ID 26aa011e-0d75-d1a3-3c5a-560a9450cc9d).\nVisit date: 2026-07-19.\nVisit type: Encounter for check up.\nClinician: Marcus Schamberger (General Practice).\nFacility: THE LOWELL GENERAL HOSPITAL, WESTFORD, MA."
+  },
+  {
+    "doc_id": "26aa011e-0d75-d1a3-9a41-99d58913cd4b",
+    "patient_id": "26aa011e-0d75-d1a3-3c5a-560a9450cc9d",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2026-07-19",
+    "section": "Assessment",
+    "title": "Outpatient Procedure Note - Jesse Wolf - 2026-07-19",
+    "content": "Diagnoses recorded at this visit:\n- Gingivitis (onset 2026-07-19), resolved 2026-08-02."
+  },
+  {
+    "doc_id": "26aa011e-0d75-d1a3-9a41-99d58913cd4b",
+    "patient_id": "26aa011e-0d75-d1a3-3c5a-560a9450cc9d",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2026-07-19",
+    "section": "Vital Signs",
+    "title": "Outpatient Procedure Note - Jesse Wolf - 2026-07-19",
+    "content": "- Body Height: 176.2 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0\n- Body Weight: 104.2 kg\n- Body mass index (BMI) [Ratio]: 33.6 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 98.9 %\n- Diastolic Blood Pressure: 73.0 mm[Hg]\n- Systolic Blood Pressure: 119.0 mm[Hg]\n- Heart rate: 94.0 /min\n- Respiratory rate: 14.0 /min"
+  },
+  {
+    "doc_id": "26aa011e-0d75-d1a3-9a41-99d58913cd4b",
+    "patient_id": "26aa011e-0d75-d1a3-3c5a-560a9450cc9d",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2026-07-19",
+    "section": "Procedures",
+    "title": "Outpatient Procedure Note - Jesse Wolf - 2026-07-19",
+    "content": "- Medication reconciliation.\n- Depression screening.\n- Depression screening using Patient Health Questionnaire Nine Item score.\n- Assessment of substance use.\n- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test.\n- Anticipatory guidance.\n- Patient referral for dental care, for Gingivitis."
+  }
+]

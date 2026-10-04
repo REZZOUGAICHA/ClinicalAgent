@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "05cc86a0-2d98-b046-a35d-08e619704758",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2002-02-22",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Carita Grady - 2002-02-22",
+    "content": "Patient: Carita Grady, female, born 1925-09-18 (patient ID 05cc86a0-2d98-b046-790a-211fd9e1ea92).\nVisit date: 2002-02-22.\nVisit type: General examination of patient.\nClinician: Zachery Rau (General Practice).\nFacility: WALPOLE MEDICAL CENTER PC, WALPOLE, MA."
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-a35d-08e619704758",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2002-02-22",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Carita Grady - 2002-02-22",
+    "content": "Diagnoses recorded at this visit:\n- Hyperlipidemia (onset 2002-02-22)."
+  }
+]

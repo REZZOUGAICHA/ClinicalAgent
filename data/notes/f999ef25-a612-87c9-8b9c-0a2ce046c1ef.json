@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "f999ef25-a612-87c9-8b9c-0a2ce046c1ef",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Office Visit Note",
+    "date": "1983-10-03",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Evangeline Ziemann - 1983-10-03",
+    "content": "Patient: Evangeline Ziemann, female, born 1925-09-18 (patient ID f999ef25-a612-87c9-206f-aacc9d469dc8).\nVisit date: 1983-10-03.\nVisit type: Encounter for problem.\nClinician: Nickolas Schumm (General Practice).\nFacility: ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE, FRAMINGHAM, MA."
+  },
+  {
+    "doc_id": "f999ef25-a612-87c9-8b9c-0a2ce046c1ef",
+    "patient_id": "f999ef25-a612-87c9-206f-aacc9d469dc8",
+    "document_type": "Office Visit Note",
+    "date": "1983-10-03",
+    "section": "Plan",
+    "title": "Office Visit Note - Evangeline Ziemann - 1983-10-03",
+    "content": "- Dialysis care plan, started 1983-10-03."
+  }
+]

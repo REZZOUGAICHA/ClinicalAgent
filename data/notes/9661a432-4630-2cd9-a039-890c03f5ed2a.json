@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "9661a432-4630-2cd9-a039-890c03f5ed2a",
+    "patient_id": "9661a432-4630-2cd9-142c-386845fae837",
+    "document_type": "Skilled Nursing Facility Note",
+    "date": "2021-08-13",
+    "section": "Visit Information",
+    "title": "Skilled Nursing Facility Note - Paul Tremblay - 2021-08-13",
+    "content": "Patient: Paul Tremblay, male, born 1978-02-14 (patient ID 9661a432-4630-2cd9-142c-386845fae837).\nVisit date: 2021-08-13.\nVisit type: Hospital admission.\nClinician: Silas Stamm (General Practice).\nFacility: SACHEM CENTER FOR HEALTH & REHABILITATION, EAST BRIDGEWATER, MA."
+  },
+  {
+    "doc_id": "9661a432-4630-2cd9-a039-890c03f5ed2a",
+    "patient_id": "9661a432-4630-2cd9-142c-386845fae837",
+    "document_type": "Skilled Nursing Facility Note",
+    "date": "2021-08-13",
+    "section": "Reason for Visit",
+    "title": "Skilled Nursing Facility Note - Paul Tremblay - 2021-08-13",
+    "content": "Seen for Patient transfer to skilled nursing facility."
+  },
+  {
+    "doc_id": "9661a432-4630-2cd9-a039-890c03f5ed2a",
+    "patient_id": "9661a432-4630-2cd9-142c-386845fae837",
+    "document_type": "Skilled Nursing Facility Note",
+    "date": "2021-08-13",
+    "section": "Procedures",
+    "title": "Skilled Nursing Facility Note - Paul Tremblay - 2021-08-13",
+    "content": "- History AND physical examination.\n- Initial patient assessment.\n- Development of individualized plan of care.\n- Nursing care/supplementary surveillance.\n- Pre-discharge assessment.\n- Discharge from hospital."
+  }
+]

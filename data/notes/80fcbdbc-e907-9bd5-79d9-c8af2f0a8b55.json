@@ -1,0 +1,65 @@
+[
+  {
+    "doc_id": "80fcbdbc-e907-9bd5-79d9-c8af2f0a8b55",
+    "patient_id": "80fcbdbc-e907-9bd5-2644-ad9ef5d6545b",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-08-11",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Jaime Aponte - 2025-08-11",
+    "content": "Patient: Jaime Aponte, male, born 1947-03-03 (patient ID 80fcbdbc-e907-9bd5-2644-ad9ef5d6545b).\nVisit date: 2025-08-11.\nVisit type: General examination of patient.\nClinician: Nicholle Satterfield (General Practice).\nFacility: MELROSE INTERNAL MEDICINE ASSOC PC, MELROSE, MA."
+  },
+  {
+    "doc_id": "80fcbdbc-e907-9bd5-79d9-c8af2f0a8b55",
+    "patient_id": "80fcbdbc-e907-9bd5-2644-ad9ef5d6545b",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-08-11",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Jaime Aponte - 2025-08-11",
+    "content": "Diagnoses recorded at this visit:\n- Unemployed (onset 2025-08-11), resolved 2026-08-17.\n- Stress (onset 2025-08-11)."
+  },
+  {
+    "doc_id": "80fcbdbc-e907-9bd5-79d9-c8af2f0a8b55",
+    "patient_id": "80fcbdbc-e907-9bd5-2644-ad9ef5d6545b",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-08-11",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Jaime Aponte - 2025-08-11",
+    "content": "- Body Height: 167.7 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0\n- Body Weight: 79.1 kg\n- Body mass index (BMI) [Ratio]: 28.1 kg/m2\n- Diastolic Blood Pressure: 70.0 mm[Hg]\n- Systolic Blood Pressure: 89.0 mm[Hg]\n- Heart rate: 60.0 /min\n- Respiratory rate: 12.0 /min"
+  },
+  {
+    "doc_id": "80fcbdbc-e907-9bd5-79d9-c8af2f0a8b55",
+    "patient_id": "80fcbdbc-e907-9bd5-2644-ad9ef5d6545b",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-08-11",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Jaime Aponte - 2025-08-11",
+    "content": "- Hemoglobin A1c/Hemoglobin.total in Blood: 7.0 %\n- Glucose [Mass/volume] in Blood: 119.7 mg/dL\n- Urea nitrogen [Mass/volume] in Blood: 12.3 mg/dL\n- Creatinine [Mass/volume] in Blood: 0.7 mg/dL\n- Calcium [Mass/volume] in Blood: 8.8 mg/dL\n- Sodium [Moles/volume] in Blood: 143.8 mmol/L\n- Potassium [Moles/volume] in Blood: 4.1 mmol/L\n- Chloride [Moles/volume] in Blood: 101.2 mmol/L\n- Carbon dioxide  total [Moles/volume] in Blood: 28.3 mmol/L\n- Cholesterol [Mass/volume] in Serum or Plasma: 210.9 mg/dL\n- Triglyceride [Mass/volume] in Serum or Plasma: 177.1 mg/dL\n- Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay: 127.9 mg/dL\n- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 47.5 mg/dL\n- Microalbumin/Creatinine [Mass Ratio] in Urine: 16.7 mg/g\n- Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M: 155.3 mL/min/{1.73_m2}"
+  },
+  {
+    "doc_id": "80fcbdbc-e907-9bd5-79d9-c8af2f0a8b55",
+    "patient_id": "80fcbdbc-e907-9bd5-2644-ad9ef5d6545b",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-08-11",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Jaime Aponte - 2025-08-11",
+    "content": "- Assessment of health and social care needs.\n- Assessment using Morse Fall Scale.\n- Depression screening.\n- Depression screening.\n- Assessment of substance use.\n- Assessment using Alcohol Use Disorders Identification Test - Consumption."
+  },
+  {
+    "doc_id": "80fcbdbc-e907-9bd5-79d9-c8af2f0a8b55",
+    "patient_id": "80fcbdbc-e907-9bd5-2644-ad9ef5d6545b",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-08-11",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Jaime Aponte - 2025-08-11",
+    "content": "Medications prescribed at this visit:\n- Hydrochlorothiazide 25 MG Oral Tablet, started 2025-08-11, for Essential hypertension; stopped 2026-08-17.\n- lisinopril 10 MG Oral Tablet, started 2025-08-11, for Essential hypertension; stopped 2026-08-17.\n- amLODIPine 2.5 MG Oral Tablet, started 2025-08-11, for Essential hypertension; stopped 2026-08-17."
+  },
+  {
+    "doc_id": "80fcbdbc-e907-9bd5-79d9-c8af2f0a8b55",
+    "patient_id": "80fcbdbc-e907-9bd5-2644-ad9ef5d6545b",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-08-11",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Jaime Aponte - 2025-08-11",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

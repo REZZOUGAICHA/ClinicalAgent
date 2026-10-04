@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "322ab5c6-5846-ac1e-8cc7-2499328e706c",
+    "patient_id": "322ab5c6-5846-ac1e-38cc-48b8cb441e20",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-03-10",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Lena Cummings - 2017-03-10",
+    "content": "Patient: Lena Cummings, female, born 1965-02-26 (patient ID 322ab5c6-5846-ac1e-38cc-48b8cb441e20).\nVisit date: 2017-03-10.\nVisit type: General examination of patient.\nClinician: Anh Schroeder (General Practice).\nFacility: FAMILY PRACTICE GROUP PC, ARLINGTON, MA."
+  },
+  {
+    "doc_id": "322ab5c6-5846-ac1e-8cc7-2499328e706c",
+    "patient_id": "322ab5c6-5846-ac1e-38cc-48b8cb441e20",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-03-10",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Lena Cummings - 2017-03-10",
+    "content": "Diagnoses recorded at this visit:\n- Full-time employment (onset 2017-03-10), resolved 2018-03-16.\n- Gingivitis (onset 2017-03-10), resolved 2017-03-24."
+  },
+  {
+    "doc_id": "322ab5c6-5846-ac1e-8cc7-2499328e706c",
+    "patient_id": "322ab5c6-5846-ac1e-38cc-48b8cb441e20",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-03-10",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Lena Cummings - 2017-03-10",
+    "content": "- Body Height: 159.6 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0\n- Body Weight: 74.9 kg\n- Body mass index (BMI) [Ratio]: 29.4 kg/m2\n- Diastolic Blood Pressure: 82.0 mm[Hg]\n- Systolic Blood Pressure: 112.0 mm[Hg]\n- Heart rate: 73.0 /min\n- Respiratory rate: 14.0 /min"
+  },
+  {
+    "doc_id": "322ab5c6-5846-ac1e-8cc7-2499328e706c",
+    "patient_id": "322ab5c6-5846-ac1e-38cc-48b8cb441e20",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-03-10",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Lena Cummings - 2017-03-10",
+    "content": "- Leukocytes [#/volume] in Blood by Automated count: 7.7 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 4.3 10*6/uL\n- Hemoglobin [Mass/volume] in Blood: 13.6 g/dL\n- Hematocrit [Volume Fraction] of Blood by Automated count: 49.0 %\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 81.8 fL\n- MCH [Entitic mass] by Automated count: 32.4 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 33.7 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 44.8 fL\n- Platelets [#/volume] in Blood by Automated count: 232.7 10*3/uL\n- Platelet distribution width [Entitic volume] in Blood by Automated count: 11.1 fL\n- Platelet [Entitic mean volume] in Blood by Automated count: 12.2 fL"
+  },
+  {
+    "doc_id": "322ab5c6-5846-ac1e-8cc7-2499328e706c",
+    "patient_id": "322ab5c6-5846-ac1e-38cc-48b8cb441e20",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-03-10",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Lena Cummings - 2017-03-10",
+    "content": "- Medication reconciliation.\n- Assessment of health and social care needs.\n- Depression screening.\n- Depression screening.\n- Assessment of substance use.\n- Assessment using Alcohol Use Disorders Identification Test - Consumption.\n- Patient referral for dental care, for Gingivitis."
+  },
+  {
+    "doc_id": "322ab5c6-5846-ac1e-8cc7-2499328e706c",
+    "patient_id": "322ab5c6-5846-ac1e-38cc-48b8cb441e20",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-03-10",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Lena Cummings - 2017-03-10",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

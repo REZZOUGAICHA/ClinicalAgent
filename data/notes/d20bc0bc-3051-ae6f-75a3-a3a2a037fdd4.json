@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-75a3-a3a2a037fdd4",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2016-03-09",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Lavette Kozey - 2016-03-09",
+    "content": "Patient: Lavette Kozey, female, born 2010-03-24 (patient ID d20bc0bc-3051-ae6f-f391-ceec7ec0370f).\nVisit date: 2016-03-09.\nVisit type: Well child visit.\nClinician: Anh Schroeder (General Practice).\nFacility: FAMILY PRACTICE GROUP PC, ARLINGTON, MA."
+  },
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-75a3-a3a2a037fdd4",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2016-03-09",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Lavette Kozey - 2016-03-09",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2016-03-09), resolved 2017-02-22."
+  },
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-75a3-a3a2a037fdd4",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2016-03-09",
+    "section": "Plan",
+    "title": "Annual Wellness Visit Note - Lavette Kozey - 2016-03-09",
+    "content": "- Weight management program, started 2016-03-09."
+  }
+]

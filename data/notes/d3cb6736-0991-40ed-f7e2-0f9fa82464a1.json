@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "d3cb6736-0991-40ed-f7e2-0f9fa82464a1",
+    "patient_id": "d3cb6736-0991-40ed-a220-7c714aba4c37",
+    "document_type": "Office Visit Note",
+    "date": "2016-10-30",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Tristan Reichel - 2016-10-30",
+    "content": "Patient: Tristan Reichel, male, born 1982-08-01 (patient ID d3cb6736-0991-40ed-a220-7c714aba4c37).\nVisit date: 2016-10-30.\nVisit type: Encounter for check up.\nClinician: Beatriz Monroy (General Practice).\nFacility: FIRST PSYCHIATRIC PLANNERS INC, WOBURN, MA."
+  },
+  {
+    "doc_id": "d3cb6736-0991-40ed-f7e2-0f9fa82464a1",
+    "patient_id": "d3cb6736-0991-40ed-a220-7c714aba4c37",
+    "document_type": "Office Visit Note",
+    "date": "2016-10-30",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Tristan Reichel - 2016-10-30",
+    "content": "Seen for Gingivitis."
+  },
+  {
+    "doc_id": "d3cb6736-0991-40ed-f7e2-0f9fa82464a1",
+    "patient_id": "d3cb6736-0991-40ed-a220-7c714aba4c37",
+    "document_type": "Office Visit Note",
+    "date": "2016-10-30",
+    "section": "Assessment",
+    "title": "Office Visit Note - Tristan Reichel - 2016-10-30",
+    "content": "Diagnoses recorded at this visit:\n- Acute infective cystitis (onset 2017-08-18), resolved 2017-08-20."
+  },
+  {
+    "doc_id": "d3cb6736-0991-40ed-f7e2-0f9fa82464a1",
+    "patient_id": "d3cb6736-0991-40ed-a220-7c714aba4c37",
+    "document_type": "Office Visit Note",
+    "date": "2016-10-30",
+    "section": "Procedures",
+    "title": "Office Visit Note - Tristan Reichel - 2016-10-30",
+    "content": "- Dental consultation and report, for Gingivitis.\n- Dental care, for Gingivitis.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Examination of gingivae, for Gingivitis.\n- Oral health education, for Gingivitis."
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "150a8a76-1563-717e-ab08-3a56b44ffcb7",
+    "patient_id": "150a8a76-1563-717e-bf0f-f52045675f46",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1965-04-26",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Diego Armijo - 1965-04-26",
+    "content": "Patient: Diego Armijo, male, born 1947-03-03 (patient ID 150a8a76-1563-717e-bf0f-f52045675f46).\nVisit date: 1965-04-26.\nVisit type: General examination of patient.\nClinician: Elijah White (General Practice).\nFacility: MELROSE FAMILY OPTICIANS LLC, MELROSE, MA."
+  },
+  {
+    "doc_id": "150a8a76-1563-717e-ab08-3a56b44ffcb7",
+    "patient_id": "150a8a76-1563-717e-bf0f-f52045675f46",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1965-04-26",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Diego Armijo - 1965-04-26",
+    "content": "Diagnoses recorded at this visit:\n- Housing unsatisfactory (onset 1965-04-26).\n- Educated to high school level (onset 1965-04-26).\n- Full-time employment (onset 1965-04-26).\n- Gingivitis (onset 1965-04-26), resolved 1965-05-10."
+  },
+  {
+    "doc_id": "150a8a76-1563-717e-ab08-3a56b44ffcb7",
+    "patient_id": "150a8a76-1563-717e-bf0f-f52045675f46",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1965-04-26",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Diego Armijo - 1965-04-26",
+    "content": "- Body Height: 167.7 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0\n- Body Weight: 58.9 kg\n- Body mass index (BMI) [Ratio]: 20.9 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 35.3 %\n- Diastolic Blood Pressure: 70.0 mm[Hg]\n- Systolic Blood Pressure: 96.0 mm[Hg]\n- Heart rate: 63.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "150a8a76-1563-717e-ab08-3a56b44ffcb7",
+    "patient_id": "150a8a76-1563-717e-bf0f-f52045675f46",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1965-04-26",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Diego Armijo - 1965-04-26",
+    "content": "- Assessment of health and social care needs.\n- Assessment of anxiety.\n- Depression screening.\n- Depression screening.\n- Assessment of substance use.\n- Screening for drug abuse.\n- Patient referral for dental care, for Gingivitis."
+  },
+  {
+    "doc_id": "150a8a76-1563-717e-ab08-3a56b44ffcb7",
+    "patient_id": "150a8a76-1563-717e-bf0f-f52045675f46",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1965-04-26",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Diego Armijo - 1965-04-26",
+    "content": "Medications prescribed at this visit:\n- clonazePAM 0.25 MG Oral Tablet, started 1965-04-26, for Seizure disorder; no stop date recorded."
+  }
+]

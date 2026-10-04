@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "5e688e99-61b3-5c88-3a58-d94b1507d7f1",
+    "patient_id": "5e688e99-61b3-5c88-3f60-21df8aaced27",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-03-06",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Wallace Effertz - 2025-03-06",
+    "content": "Patient: Wallace Effertz, male, born 2010-01-28 (patient ID 5e688e99-61b3-5c88-3f60-21df8aaced27).\nVisit date: 2025-03-06.\nVisit type: Well child visit.\nClinician: Daniel Cas\u00e1rez (General Practice).\nFacility: LYNN COMMUNITY HEALTH, LYNN, MA."
+  },
+  {
+    "doc_id": "5e688e99-61b3-5c88-3a58-d94b1507d7f1",
+    "patient_id": "5e688e99-61b3-5c88-3f60-21df8aaced27",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-03-06",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Wallace Effertz - 2025-03-06",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2025-03-06).\n- Gingivitis (onset 2025-03-06), resolved 2025-03-20."
+  },
+  {
+    "doc_id": "5e688e99-61b3-5c88-3a58-d94b1507d7f1",
+    "patient_id": "5e688e99-61b3-5c88-3f60-21df8aaced27",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-03-06",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Wallace Effertz - 2025-03-06",
+    "content": "- Body Height: 167.3 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0\n- Body Weight: 84.9 kg\n- Body mass index (BMI) [Ratio]: 30.3 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 98.0 %\n- Diastolic Blood Pressure: 90.0 mm[Hg]\n- Systolic Blood Pressure: 126.0 mm[Hg]\n- Heart rate: 87.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "5e688e99-61b3-5c88-3a58-d94b1507d7f1",
+    "patient_id": "5e688e99-61b3-5c88-3f60-21df8aaced27",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-03-06",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Wallace Effertz - 2025-03-06",
+    "content": "- Assessment of anxiety.\n- Depression screening.\n- Depression screening using Patient Health Questionnaire Nine Item score.\n- Patient referral for dental care, for Gingivitis."
+  },
+  {
+    "doc_id": "5e688e99-61b3-5c88-3a58-d94b1507d7f1",
+    "patient_id": "5e688e99-61b3-5c88-3f60-21df8aaced27",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2025-03-06",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Wallace Effertz - 2025-03-06",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

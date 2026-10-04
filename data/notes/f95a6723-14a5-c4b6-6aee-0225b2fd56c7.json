@@ -1,0 +1,65 @@
+[
+  {
+    "doc_id": "f95a6723-14a5-c4b6-6aee-0225b2fd56c7",
+    "patient_id": "f95a6723-14a5-c4b6-78df-fa97f7ab361c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-02-03",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Roxann Sauer - 2024-02-03",
+    "content": "Patient: Roxann Sauer, female, born 1986-08-23 (patient ID f95a6723-14a5-c4b6-78df-fa97f7ab361c).\nVisit date: 2024-02-03.\nVisit type: General examination of patient.\nClinician: Amado Adams (General Practice).\nFacility: BL HEALTHCARE INC DELEWARE, FOXBOROUGH, MA."
+  },
+  {
+    "doc_id": "f95a6723-14a5-c4b6-6aee-0225b2fd56c7",
+    "patient_id": "f95a6723-14a5-c4b6-78df-fa97f7ab361c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-02-03",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Roxann Sauer - 2024-02-03",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2024-02-03), resolved 2024-02-03.\n- Stress (onset 2024-02-03)."
+  },
+  {
+    "doc_id": "f95a6723-14a5-c4b6-6aee-0225b2fd56c7",
+    "patient_id": "f95a6723-14a5-c4b6-78df-fa97f7ab361c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-02-03",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Roxann Sauer - 2024-02-03",
+    "content": "- Body Height: 163.2 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0\n- Body Weight: 79.8 kg\n- Body mass index (BMI) [Ratio]: 30.0 kg/m2\n- Diastolic Blood Pressure: 90.0 mm[Hg]\n- Systolic Blood Pressure: 118.0 mm[Hg]\n- Heart rate: 81.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "f95a6723-14a5-c4b6-6aee-0225b2fd56c7",
+    "patient_id": "f95a6723-14a5-c4b6-78df-fa97f7ab361c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-02-03",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Roxann Sauer - 2024-02-03",
+    "content": "- Hemoglobin A1c/Hemoglobin.total in Blood: 6.3 %\n- Glucose [Mass/volume] in Blood: 77.0 mg/dL\n- Urea nitrogen [Mass/volume] in Blood: 18.8 mg/dL\n- Creatinine [Mass/volume] in Blood: 1.0 mg/dL\n- Calcium [Mass/volume] in Blood: 9.0 mg/dL\n- Sodium [Moles/volume] in Blood: 143.4 mmol/L\n- Potassium [Moles/volume] in Blood: 5.1 mmol/L\n- Chloride [Moles/volume] in Blood: 107.4 mmol/L\n- Carbon dioxide  total [Moles/volume] in Blood: 25.0 mmol/L"
+  },
+  {
+    "doc_id": "f95a6723-14a5-c4b6-6aee-0225b2fd56c7",
+    "patient_id": "f95a6723-14a5-c4b6-78df-fa97f7ab361c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-02-03",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Roxann Sauer - 2024-02-03",
+    "content": "- Medication reconciliation.\n- Assessment of health and social care needs.\n- Screening for domestic abuse.\n- Depression screening.\n- Depression screening.\n- Assessment of substance use.\n- Screening for drug abuse.\n- Patient referral for dental care."
+  },
+  {
+    "doc_id": "f95a6723-14a5-c4b6-6aee-0225b2fd56c7",
+    "patient_id": "f95a6723-14a5-c4b6-78df-fa97f7ab361c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-02-03",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Roxann Sauer - 2024-02-03",
+    "content": "Medications prescribed at this visit:\n- 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent], started 2024-02-03, for Childhood asthma; stopped 2025-02-08.\n- albuterol 0.83 MG/ML Inhalation Solution, started 2024-02-03, for Childhood asthma; stopped 2025-02-08."
+  },
+  {
+    "doc_id": "f95a6723-14a5-c4b6-6aee-0225b2fd56c7",
+    "patient_id": "f95a6723-14a5-c4b6-78df-fa97f7ab361c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-02-03",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Roxann Sauer - 2024-02-03",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

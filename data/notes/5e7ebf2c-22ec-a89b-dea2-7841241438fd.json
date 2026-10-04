@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-dea2-7841241438fd",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1995-10-08",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Rosalba Effertz - 1995-10-08",
+    "content": "Patient: Rosalba Effertz, female, born 1973-08-05 (patient ID 5e7ebf2c-22ec-a89b-53ab-38edddd81be9).\nVisit date: 1995-10-08.\nVisit type: General examination of patient.\nClinician: Sammie Hermann (General Practice).\nFacility: PARADIGM HEALTHCARE PC, NORTHAMPTON, MA."
+  },
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-dea2-7841241438fd",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1995-10-08",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Rosalba Effertz - 1995-10-08",
+    "content": "Diagnoses recorded at this visit:\n- Prediabetes (onset 1995-10-08).\n- Anemia (onset 1995-10-08).\n- Transport problem (onset 1995-10-08)."
+  },
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-dea2-7841241438fd",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1995-10-08",
+    "section": "Plan",
+    "title": "Annual Wellness Visit Note - Rosalba Effertz - 1995-10-08",
+    "content": "- Diabetes self management plan for Prediabetes, started 1995-10-08."
+  }
+]

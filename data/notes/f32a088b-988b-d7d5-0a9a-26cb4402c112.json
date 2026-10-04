@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "f32a088b-988b-d7d5-0a9a-26cb4402c112",
+    "patient_id": "f32a088b-988b-d7d5-008b-89ea4ed1fc48",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2021-06-30",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Wayne McLaughlin - 2021-06-30",
+    "content": "Patient: Wayne McLaughlin, male, born 2006-08-16 (patient ID f32a088b-988b-d7d5-008b-89ea4ed1fc48).\nVisit date: 2021-06-30.\nVisit type: Administration of vaccine to produce active immunity.\nClinician: Chantell Krajcik (General Practice).\nFacility: FRANCISCAN HOSPITAL FOR CHILDREN INC, BOSTON, MA."
+  },
+  {
+    "doc_id": "f32a088b-988b-d7d5-0a9a-26cb4402c112",
+    "patient_id": "f32a088b-988b-d7d5-008b-89ea4ed1fc48",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2021-06-30",
+    "section": "Immunizations",
+    "title": "Outpatient Procedure Note - Wayne McLaughlin - 2021-06-30",
+    "content": "- COVID-19 mRNA LNP-S PF 30 mcg/0.3 mL dose."
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "62f60bdb-cc5c-8305-c6f7-e880755ad7f2",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-03-01",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Angel Frami - 2017-03-01",
+    "content": "Patient: Angel Frami, female, born 1975-10-22 (patient ID 62f60bdb-cc5c-8305-b98b-f2b229a55eca).\nVisit date: 2017-03-01.\nVisit type: General examination of patient.\nClinician: Cody Ratke (General Practice).\nFacility: HEALTHFIRST FAMILY CARE CENTER INC, FALL RIVER, MA."
+  },
+  {
+    "doc_id": "62f60bdb-cc5c-8305-c6f7-e880755ad7f2",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-03-01",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Angel Frami - 2017-03-01",
+    "content": "Diagnoses recorded at this visit:\n- Part-time employment (onset 2017-03-01), resolved 2018-03-07.\n- Limited social contact (onset 2017-03-01), resolved 2018-03-07.\n- Stress (onset 2017-03-01), resolved 2018-03-07.\n- Reports of violence in the environment (onset 2017-03-01), resolved 2018-03-07.\n- Victim of intimate partner abuse (onset 2017-03-01), resolved 2018-03-07."
+  },
+  {
+    "doc_id": "62f60bdb-cc5c-8305-c6f7-e880755ad7f2",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-03-01",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Angel Frami - 2017-03-01",
+    "content": "- Body Height: 152.6 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0\n- Body Weight: 50.7 kg\n- Body mass index (BMI) [Ratio]: 21.8 kg/m2\n- Diastolic Blood Pressure: 69.0 mm[Hg]\n- Systolic Blood Pressure: 118.0 mm[Hg]\n- Heart rate: 86.0 /min\n- Respiratory rate: 14.0 /min"
+  },
+  {
+    "doc_id": "62f60bdb-cc5c-8305-c6f7-e880755ad7f2",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-03-01",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Angel Frami - 2017-03-01",
+    "content": "- Assessment of health and social care needs.\n- Depression screening.\n- Depression screening.\n- Assessment of substance use.\n- Assessment using Alcohol Use Disorders Identification Test - Consumption.\n- Patient referral for dental care."
+  },
+  {
+    "doc_id": "62f60bdb-cc5c-8305-c6f7-e880755ad7f2",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-03-01",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Angel Frami - 2017-03-01",
+    "content": "Medications prescribed at this visit:\n- Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet, started 2017-03-01; stopped 2018-03-07.\n- Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin], started 2017-03-01; stopped 2018-03-07.\n- 72 HR Fentanyl 0.025 MG/HR Transdermal System, started 2017-03-01; stopped 2018-03-07."
+  },
+  {
+    "doc_id": "62f60bdb-cc5c-8305-c6f7-e880755ad7f2",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-03-01",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Angel Frami - 2017-03-01",
+    "content": "- Influenza split virus trivalent PF.\n- Td (adult) 5 Lf tetanus toxoid preservative free adsorbed.\n- Hep A adult."
+  }
+]

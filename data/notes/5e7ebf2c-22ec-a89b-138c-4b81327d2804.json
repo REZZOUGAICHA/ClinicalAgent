@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-138c-4b81327d2804",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Office Visit Note",
+    "date": "2023-08-13",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Rosalba Effertz - 2023-08-13",
+    "content": "Patient: Rosalba Effertz, female, born 1973-08-05 (patient ID 5e7ebf2c-22ec-a89b-53ab-38edddd81be9).\nVisit date: 2023-08-13.\nVisit type: Encounter for check up.\nClinician: Saundra Kuphal (General Practice).\nFacility: COOLEY DICKINSON HOSPITAL INC, NORTHAMPTON, MA."
+  },
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-138c-4b81327d2804",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Office Visit Note",
+    "date": "2023-08-13",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Rosalba Effertz - 2023-08-13",
+    "content": "Seen for Screening for malignant neoplasm of colon."
+  },
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-138c-4b81327d2804",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Office Visit Note",
+    "date": "2023-08-13",
+    "section": "Procedures",
+    "title": "Office Visit Note - Rosalba Effertz - 2023-08-13",
+    "content": "- Colonoscopy."
+  }
+]

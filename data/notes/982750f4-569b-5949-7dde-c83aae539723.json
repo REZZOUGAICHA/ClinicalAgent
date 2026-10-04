@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "982750f4-569b-5949-7dde-c83aae539723",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Office Visit Note",
+    "date": "2026-09-02",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Dwana Wolf - 2026-09-02",
+    "content": "Patient: Dwana Wolf, female, born 1986-11-12 (patient ID 982750f4-569b-5949-196b-60699bdda3fb).\nVisit date: 2026-09-02.\nVisit type: Encounter for check up.\nClinician: Marcus Schamberger (General Practice).\nFacility: THE LOWELL GENERAL HOSPITAL, WESTFORD, MA."
+  },
+  {
+    "doc_id": "982750f4-569b-5949-7dde-c83aae539723",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Office Visit Note",
+    "date": "2026-09-02",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Dwana Wolf - 2026-09-02",
+    "content": "Seen for Patient referral for dental care."
+  },
+  {
+    "doc_id": "982750f4-569b-5949-7dde-c83aae539723",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Office Visit Note",
+    "date": "2026-09-02",
+    "section": "Procedures",
+    "title": "Office Visit Note - Dwana Wolf - 2026-09-02",
+    "content": "- Dental consultation and report, for Patient referral for dental care.\n- Dental care, for Patient referral for dental care.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Dental plain X-ray bitewing.\n- Examination of gingivae, for Patient referral for dental care.\n- Oral health education, for Patient referral for dental care."
+  }
+]

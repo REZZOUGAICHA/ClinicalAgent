@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "947c82ee-1735-c9ed-650c-e34b188d1ebb",
+    "patient_id": "947c82ee-1735-c9ed-8210-38cb93d8070c",
+    "document_type": "Office Visit Note",
+    "date": "2021-05-04",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Marcell Hammes - 2021-05-04",
+    "content": "Patient: Marcell Hammes, female, born 2016-05-17 (patient ID 947c82ee-1735-c9ed-8210-38cb93d8070c).\nVisit date: 2021-05-04.\nVisit type: Encounter for check up.\nClinician: Carmelina Goyette (General Practice).\nFacility: HEBREW SENIORLIFE AFFILIATED MEDICAL GROUP INC, ROSLINDALE, MA."
+  },
+  {
+    "doc_id": "947c82ee-1735-c9ed-650c-e34b188d1ebb",
+    "patient_id": "947c82ee-1735-c9ed-8210-38cb93d8070c",
+    "document_type": "Office Visit Note",
+    "date": "2021-05-04",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Marcell Hammes - 2021-05-04",
+    "content": "Seen for Patient referral for dental care."
+  },
+  {
+    "doc_id": "947c82ee-1735-c9ed-650c-e34b188d1ebb",
+    "patient_id": "947c82ee-1735-c9ed-8210-38cb93d8070c",
+    "document_type": "Office Visit Note",
+    "date": "2021-05-04",
+    "section": "Assessment",
+    "title": "Office Visit Note - Marcell Hammes - 2021-05-04",
+    "content": "Diagnoses recorded at this visit:\n- Primary dental caries (onset 2021-05-04), resolved 2021-05-04."
+  },
+  {
+    "doc_id": "947c82ee-1735-c9ed-650c-e34b188d1ebb",
+    "patient_id": "947c82ee-1735-c9ed-8210-38cb93d8070c",
+    "document_type": "Office Visit Note",
+    "date": "2021-05-04",
+    "section": "Procedures",
+    "title": "Office Visit Note - Marcell Hammes - 2021-05-04",
+    "content": "- Dental consultation and report, for Patient referral for dental care.\n- Dental care, for Patient referral for dental care.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Dental plain X-ray bitewing.\n- Examination of gingivae, for Patient referral for dental care.\n- Restoration of tooth with coverage of all cusps using dental filling material, for Primary dental caries.\n- Oral health education, for Patient referral for dental care."
+  }
+]

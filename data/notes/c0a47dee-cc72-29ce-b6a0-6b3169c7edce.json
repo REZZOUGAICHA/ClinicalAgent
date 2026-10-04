@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "c0a47dee-cc72-29ce-b6a0-6b3169c7edce",
+    "patient_id": "c0a47dee-cc72-29ce-df5a-ea6d306c36a4",
+    "document_type": "Office Visit Note",
+    "date": "2025-02-27",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Jonathan Carroll - 2025-02-27",
+    "content": "Patient: Jonathan Carroll, male, born 1987-02-23 (patient ID c0a47dee-cc72-29ce-df5a-ea6d306c36a4).\nVisit date: 2025-02-27.\nVisit type: Encounter for check up.\nClinician: Tabatha Roob (General Practice).\nFacility: STEWARD ST. ANNES HOSPITAL CORPORATION, FALL RIVER, MA."
+  },
+  {
+    "doc_id": "c0a47dee-cc72-29ce-b6a0-6b3169c7edce",
+    "patient_id": "c0a47dee-cc72-29ce-df5a-ea6d306c36a4",
+    "document_type": "Office Visit Note",
+    "date": "2025-02-27",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Jonathan Carroll - 2025-02-27",
+    "content": "Seen for Concussion with no loss of consciousness."
+  }
+]

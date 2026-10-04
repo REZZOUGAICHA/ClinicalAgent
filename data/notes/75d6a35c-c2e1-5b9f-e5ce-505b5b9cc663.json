@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "75d6a35c-c2e1-5b9f-e5ce-505b5b9cc663",
+    "patient_id": "75d6a35c-c2e1-5b9f-e7f8-6a5b05af8fc8",
+    "document_type": "Office Visit Note",
+    "date": "2025-04-02",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Hiram Batz - 2025-04-02",
+    "content": "Patient: Hiram Batz, male, born 2013-02-01 (patient ID 75d6a35c-c2e1-5b9f-e7f8-6a5b05af8fc8).\nVisit date: 2025-04-02.\nVisit type: Encounter for symptom.\nClinician: Bennett Rippin (General Practice).\nFacility: MILFORD REGIONAL MEDICAL CENTER, UPTON, MA."
+  },
+  {
+    "doc_id": "75d6a35c-c2e1-5b9f-e5ce-505b5b9cc663",
+    "patient_id": "75d6a35c-c2e1-5b9f-e7f8-6a5b05af8fc8",
+    "document_type": "Office Visit Note",
+    "date": "2025-04-02",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Hiram Batz - 2025-04-02",
+    "content": "Seen for Acute bronchitis."
+  },
+  {
+    "doc_id": "75d6a35c-c2e1-5b9f-e5ce-505b5b9cc663",
+    "patient_id": "75d6a35c-c2e1-5b9f-e7f8-6a5b05af8fc8",
+    "document_type": "Office Visit Note",
+    "date": "2025-04-02",
+    "section": "Assessment",
+    "title": "Office Visit Note - Hiram Batz - 2025-04-02",
+    "content": "Diagnoses recorded at this visit:\n- Acute bronchitis (onset 2025-04-02), resolved 2025-04-22."
+  },
+  {
+    "doc_id": "75d6a35c-c2e1-5b9f-e5ce-505b5b9cc663",
+    "patient_id": "75d6a35c-c2e1-5b9f-e7f8-6a5b05af8fc8",
+    "document_type": "Office Visit Note",
+    "date": "2025-04-02",
+    "section": "Procedures",
+    "title": "Office Visit Note - Hiram Batz - 2025-04-02",
+    "content": "- Sputum examination, for Acute bronchitis."
+  },
+  {
+    "doc_id": "75d6a35c-c2e1-5b9f-e5ce-505b5b9cc663",
+    "patient_id": "75d6a35c-c2e1-5b9f-e7f8-6a5b05af8fc8",
+    "document_type": "Office Visit Note",
+    "date": "2025-04-02",
+    "section": "Medications",
+    "title": "Office Visit Note - Hiram Batz - 2025-04-02",
+    "content": "Medications prescribed at this visit:\n- Acetaminophen 325 MG Oral Tablet, started 2025-04-02, for Acute bronchitis; stopped 2025-04-22."
+  },
+  {
+    "doc_id": "75d6a35c-c2e1-5b9f-e5ce-505b5b9cc663",
+    "patient_id": "75d6a35c-c2e1-5b9f-e7f8-6a5b05af8fc8",
+    "document_type": "Office Visit Note",
+    "date": "2025-04-02",
+    "section": "Plan",
+    "title": "Office Visit Note - Hiram Batz - 2025-04-02",
+    "content": "- Respiratory therapy, started 2025-04-02, ended 2026-02-27."
+  }
+]

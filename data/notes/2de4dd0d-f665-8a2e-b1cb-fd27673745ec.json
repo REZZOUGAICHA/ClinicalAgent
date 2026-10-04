@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-b1cb-fd27673745ec",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Office Visit Note",
+    "date": "2019-01-01",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Aron Hammes - 2019-01-01",
+    "content": "Patient: Aron Hammes, male, born 2002-10-19 (patient ID 2de4dd0d-f665-8a2e-4c6b-997735e14ace).\nVisit date: 2019-01-01.\nVisit type: Encounter for symptom.\nClinician: Carroll Eichmann (General Practice).\nFacility: BERKSHIRE MEDICAL CENTER INC, PITTSFIELD, MA."
+  },
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-b1cb-fd27673745ec",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Office Visit Note",
+    "date": "2019-01-01",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Aron Hammes - 2019-01-01",
+    "content": "Seen for Acute bronchitis."
+  },
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-b1cb-fd27673745ec",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Office Visit Note",
+    "date": "2019-01-01",
+    "section": "Assessment",
+    "title": "Office Visit Note - Aron Hammes - 2019-01-01",
+    "content": "Diagnoses recorded at this visit:\n- Acute bronchitis (onset 2019-01-02), resolved 2019-01-09."
+  },
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-b1cb-fd27673745ec",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Office Visit Note",
+    "date": "2019-01-01",
+    "section": "Medications",
+    "title": "Office Visit Note - Aron Hammes - 2019-01-01",
+    "content": "Medications prescribed at this visit:\n- Acetaminophen 325 MG Oral Tablet, started 2019-01-01, for Acute bronchitis; stopped 2019-01-08."
+  },
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-b1cb-fd27673745ec",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Office Visit Note",
+    "date": "2019-01-01",
+    "section": "Plan",
+    "title": "Office Visit Note - Aron Hammes - 2019-01-01",
+    "content": "- Respiratory therapy, started 2019-01-02, ended 2019-12-07."
+  }
+]

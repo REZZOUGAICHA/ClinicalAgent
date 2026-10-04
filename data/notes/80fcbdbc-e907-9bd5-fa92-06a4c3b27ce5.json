@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "80fcbdbc-e907-9bd5-fa92-06a4c3b27ce5",
+    "patient_id": "80fcbdbc-e907-9bd5-2644-ad9ef5d6545b",
+    "document_type": "Office Visit Note",
+    "date": "2019-03-13",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Jaime Aponte - 2019-03-13",
+    "content": "Patient: Jaime Aponte, male, born 1947-03-03 (patient ID 80fcbdbc-e907-9bd5-2644-ad9ef5d6545b).\nVisit date: 2019-03-13.\nVisit type: Encounter for symptom.\nClinician: Zachery Pagac (General Practice).\nFacility: MELROSEWAKEFIELD HEALTHCARE INC, MELROSE, MA."
+  },
+  {
+    "doc_id": "80fcbdbc-e907-9bd5-fa92-06a4c3b27ce5",
+    "patient_id": "80fcbdbc-e907-9bd5-2644-ad9ef5d6545b",
+    "document_type": "Office Visit Note",
+    "date": "2019-03-13",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Jaime Aponte - 2019-03-13",
+    "content": "Seen for Acute bronchitis."
+  },
+  {
+    "doc_id": "80fcbdbc-e907-9bd5-fa92-06a4c3b27ce5",
+    "patient_id": "80fcbdbc-e907-9bd5-2644-ad9ef5d6545b",
+    "document_type": "Office Visit Note",
+    "date": "2019-03-13",
+    "section": "Assessment",
+    "title": "Office Visit Note - Jaime Aponte - 2019-03-13",
+    "content": "Diagnoses recorded at this visit:\n- Acute bronchitis (onset 2019-03-13), resolved 2019-03-22."
+  },
+  {
+    "doc_id": "80fcbdbc-e907-9bd5-fa92-06a4c3b27ce5",
+    "patient_id": "80fcbdbc-e907-9bd5-2644-ad9ef5d6545b",
+    "document_type": "Office Visit Note",
+    "date": "2019-03-13",
+    "section": "Procedures",
+    "title": "Office Visit Note - Jaime Aponte - 2019-03-13",
+    "content": "- Sputum examination, for Acute bronchitis."
+  },
+  {
+    "doc_id": "80fcbdbc-e907-9bd5-fa92-06a4c3b27ce5",
+    "patient_id": "80fcbdbc-e907-9bd5-2644-ad9ef5d6545b",
+    "document_type": "Office Visit Note",
+    "date": "2019-03-13",
+    "section": "Medications",
+    "title": "Office Visit Note - Jaime Aponte - 2019-03-13",
+    "content": "Medications prescribed at this visit:\n- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution, started 2019-03-13, for Acute bronchitis; stopped 2019-03-22.\n- Hydrochlorothiazide 25 MG Oral Tablet, started 2019-03-22, for Essential hypertension; stopped 2019-03-25.\n- lisinopril 10 MG Oral Tablet, started 2019-03-22, for Essential hypertension; stopped 2019-03-25.\n- amLODIPine 2.5 MG Oral Tablet, started 2019-03-22, for Essential hypertension; stopped 2019-03-25."
+  },
+  {
+    "doc_id": "80fcbdbc-e907-9bd5-fa92-06a4c3b27ce5",
+    "patient_id": "80fcbdbc-e907-9bd5-2644-ad9ef5d6545b",
+    "document_type": "Office Visit Note",
+    "date": "2019-03-13",
+    "section": "Plan",
+    "title": "Office Visit Note - Jaime Aponte - 2019-03-13",
+    "content": "- Respiratory therapy, started 2019-03-13, ended 2019-03-22."
+  }
+]

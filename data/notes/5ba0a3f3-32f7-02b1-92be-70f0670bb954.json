@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-92be-70f0670bb954",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Office Visit Note",
+    "date": "2026-09-09",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Faustino Langworth - 2026-09-09",
+    "content": "Patient: Faustino Langworth, male, born 1998-06-17 (patient ID 5ba0a3f3-32f7-02b1-ec6a-8f568923954c).\nVisit date: 2026-09-09.\nVisit type: Encounter for check up.\nClinician: Floy Greenfelder (General Practice).\nFacility: CAMBRIDGE PUBLIC HEALTH COMMISSION, SOMERVILLE, MA."
+  },
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-92be-70f0670bb954",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Office Visit Note",
+    "date": "2026-09-09",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Faustino Langworth - 2026-09-09",
+    "content": "Seen for Gingivitis."
+  },
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-92be-70f0670bb954",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Office Visit Note",
+    "date": "2026-09-09",
+    "section": "Assessment",
+    "title": "Office Visit Note - Faustino Langworth - 2026-09-09",
+    "content": "Diagnoses recorded at this visit:\n- Fractured dental filling (onset 2026-09-09), resolved 2026-09-09."
+  },
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-92be-70f0670bb954",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Office Visit Note",
+    "date": "2026-09-09",
+    "section": "Procedures",
+    "title": "Office Visit Note - Faustino Langworth - 2026-09-09",
+    "content": "- Dental consultation and report, for Gingivitis.\n- Dental care, for Gingivitis.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Examination of gingivae, for Gingivitis.\n- Application of composite dental filling material to dentin of tooth following fracture of tooth, for Fractured dental filling.\n- Oral health education, for Gingivitis."
+  }
+]

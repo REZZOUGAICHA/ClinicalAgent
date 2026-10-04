@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "6aed9210-c500-4375-7976-ce781796634a",
+    "patient_id": "6aed9210-c500-4375-b0fc-3374c40b8591",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2016-07-14",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Lyman Runte - 2016-07-14",
+    "content": "Patient: Lyman Runte, male, born 1965-07-08 (patient ID 6aed9210-c500-4375-b0fc-3374c40b8591).\nVisit date: 2016-07-14.\nVisit type: General examination of patient.\nClinician: Junior Leffler (General Practice).\nFacility: PULMONARY INTERNISTS AND CONSULTANTS PC, HYANNIS, MA."
+  },
+  {
+    "doc_id": "6aed9210-c500-4375-7976-ce781796634a",
+    "patient_id": "6aed9210-c500-4375-b0fc-3374c40b8591",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2016-07-14",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Lyman Runte - 2016-07-14",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2016-07-14), resolved 2017-07-20.\n- Limited social contact (onset 2016-07-14), resolved 2017-07-20.\n- Stress (onset 2016-07-14), resolved 2018-07-26."
+  }
+]

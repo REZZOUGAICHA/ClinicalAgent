@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "bff9d9d5-ee3d-d852-1b1d-e6ea087d934a",
+    "patient_id": "bff9d9d5-ee3d-d852-9c67-36d8361a4a4a",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-06-16",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Rosario Ortiz - 2019-06-16",
+    "content": "Patient: Rosario Ortiz, male, born 1945-01-28 (patient ID bff9d9d5-ee3d-d852-9c67-36d8361a4a4a).\nVisit date: 2019-06-16.\nVisit type: General examination of patient.\nClinician: Cedrick Gleason (General Practice).\nFacility: WELLESLEY FAMILY CARE ASSOCIATES PC, WELLESLEY, MA."
+  },
+  {
+    "doc_id": "bff9d9d5-ee3d-d852-1b1d-e6ea087d934a",
+    "patient_id": "bff9d9d5-ee3d-d852-9c67-36d8361a4a4a",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-06-16",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Rosario Ortiz - 2019-06-16",
+    "content": "Diagnoses recorded at this visit:\n- Full-time employment (onset 2019-06-16), resolved 2023-07-09.\n- Limited social contact (onset 2019-06-16)."
+  },
+  {
+    "doc_id": "bff9d9d5-ee3d-d852-1b1d-e6ea087d934a",
+    "patient_id": "bff9d9d5-ee3d-d852-9c67-36d8361a4a4a",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-06-16",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Rosario Ortiz - 2019-06-16",
+    "content": "- Body Height: 180.8 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0\n- Body Weight: 91.5 kg\n- Body mass index (BMI) [Ratio]: 28.0 kg/m2\n- Diastolic Blood Pressure: 91.0 mm[Hg]\n- Systolic Blood Pressure: 121.0 mm[Hg]\n- Heart rate: 94.0 /min\n- Respiratory rate: 14.0 /min"
+  },
+  {
+    "doc_id": "bff9d9d5-ee3d-d852-1b1d-e6ea087d934a",
+    "patient_id": "bff9d9d5-ee3d-d852-9c67-36d8361a4a4a",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-06-16",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Rosario Ortiz - 2019-06-16",
+    "content": "- Hemoglobin A1c/Hemoglobin.total in Blood: 6.1 %\n- Glucose [Mass/volume] in Blood: 86.1 mg/dL\n- Urea nitrogen [Mass/volume] in Blood: 18.4 mg/dL\n- Creatinine [Mass/volume] in Blood: 0.8 mg/dL\n- Calcium [Mass/volume] in Blood: 9.7 mg/dL\n- Sodium [Moles/volume] in Blood: 141.1 mmol/L\n- Potassium [Moles/volume] in Blood: 4.0 mmol/L\n- Chloride [Moles/volume] in Blood: 104.8 mmol/L\n- Carbon dioxide  total [Moles/volume] in Blood: 28.2 mmol/L\n- Cholesterol [Mass/volume] in Serum or Plasma: 167.1 mg/dL\n- Triglyceride [Mass/volume] in Serum or Plasma: 104.2 mg/dL\n- Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay: 87.1 mg/dL\n- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 59.2 mg/dL"
+  },
+  {
+    "doc_id": "bff9d9d5-ee3d-d852-1b1d-e6ea087d934a",
+    "patient_id": "bff9d9d5-ee3d-d852-9c67-36d8361a4a4a",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-06-16",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Rosario Ortiz - 2019-06-16",
+    "content": "- Medication reconciliation.\n- Assessment of health and social care needs.\n- Assessment of anxiety.\n- Assessment using Morse Fall Scale.\n- Screening for domestic abuse.\n- Depression screening.\n- Depression screening."
+  },
+  {
+    "doc_id": "bff9d9d5-ee3d-d852-1b1d-e6ea087d934a",
+    "patient_id": "bff9d9d5-ee3d-d852-9c67-36d8361a4a4a",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-06-16",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Rosario Ortiz - 2019-06-16",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

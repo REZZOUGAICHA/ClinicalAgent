@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "26aa011e-0d75-d1a3-7830-7d5a105075da",
+    "patient_id": "26aa011e-0d75-d1a3-3c5a-560a9450cc9d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-04-07",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Jesse Wolf - 2019-04-07",
+    "content": "Patient: Jesse Wolf, male, born 2010-04-04 (patient ID 26aa011e-0d75-d1a3-3c5a-560a9450cc9d).\nVisit date: 2019-04-07.\nVisit type: Well child visit.\nClinician: Odessa Hintz (General Practice).\nFacility: WESTFORD INTERNAL MEDICINE PC, WESTFORD, MA."
+  },
+  {
+    "doc_id": "26aa011e-0d75-d1a3-7830-7d5a105075da",
+    "patient_id": "26aa011e-0d75-d1a3-3c5a-560a9450cc9d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-04-07",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Jesse Wolf - 2019-04-07",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2019-04-07), resolved 2020-04-12."
+  },
+  {
+    "doc_id": "26aa011e-0d75-d1a3-7830-7d5a105075da",
+    "patient_id": "26aa011e-0d75-d1a3-3c5a-560a9450cc9d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-04-07",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Jesse Wolf - 2019-04-07",
+    "content": "- Body Height: 135.5 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0\n- Body Weight: 65.5 kg\n- Body mass index (BMI) [Ratio]: 35.7 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 99.7 %\n- Diastolic Blood Pressure: 69.0 mm[Hg]\n- Systolic Blood Pressure: 122.0 mm[Hg]\n- Heart rate: 86.0 /min\n- Respiratory rate: 15.0 /min"
+  },
+  {
+    "doc_id": "26aa011e-0d75-d1a3-7830-7d5a105075da",
+    "patient_id": "26aa011e-0d75-d1a3-3c5a-560a9450cc9d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-04-07",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Jesse Wolf - 2019-04-07",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

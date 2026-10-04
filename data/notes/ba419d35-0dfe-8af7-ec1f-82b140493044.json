@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "ba419d35-0dfe-8af7-ec1f-82b140493044",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Emergency Department Note",
+    "date": "1999-11-05",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Corie Kohler - 1999-11-05",
+    "content": "Patient: Corie Kohler, female, born 1925-09-18 (patient ID ba419d35-0dfe-8af7-347c-eebf02485a56).\nVisit date: 1999-11-05.\nVisit type: Emergency room admission.\nClinician: Javier Collier (General Practice).\nFacility: SERENITY HILL NURSING CENTER, WRENTHAM, MA."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-ec1f-82b140493044",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Emergency Department Note",
+    "date": "1999-11-05",
+    "section": "Assessment",
+    "title": "Emergency Department Note - Corie Kohler - 1999-11-05",
+    "content": "Diagnoses recorded at this visit:\n- Chronic kidney disease stage 1 (onset 1999-11-05), resolved 2016-10-14.\n- Disorder of kidney due to diabetes mellitus (onset 1999-11-05).\n- Ischemic heart disease (onset 1999-11-05)."
+  }
+]

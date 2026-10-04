@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "ba419d35-0dfe-8af7-e972-f0cb9c54ff59",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2012-06-15",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Corie Kohler - 2012-06-15",
+    "content": "Patient: Corie Kohler, female, born 1925-09-18 (patient ID ba419d35-0dfe-8af7-347c-eebf02485a56).\nVisit date: 2012-06-15.\nVisit type: General examination of patient.\nClinician: Wynell Mayert (General Practice).\nFacility: WELLNESS ON WHEELS PC, NORTH ATTLEBORO, MA."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-e972-f0cb9c54ff59",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2012-06-15",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Corie Kohler - 2012-06-15",
+    "content": "- Body Height: 164.1 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0\n- Body Weight: 82.0 kg\n- Body mass index (BMI) [Ratio]: 30.5 kg/m2\n- Diastolic Blood Pressure: 75.0 mm[Hg]\n- Systolic Blood Pressure: 110.0 mm[Hg]\n- Heart rate: 95.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-e972-f0cb9c54ff59",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2012-06-15",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Corie Kohler - 2012-06-15",
+    "content": "- Glucose [Mass/volume] in Serum or Plasma: 69.4 mg/dL\n- Urea nitrogen [Mass/volume] in Serum or Plasma: 17.2 mg/dL\n- Creatinine [Mass/volume] in Serum or Plasma: 2.4 mg/dL\n- Calcium [Mass/volume] in Serum or Plasma: 9.1 mg/dL\n- Sodium [Moles/volume] in Serum or Plasma: 144.0 mmol/L\n- Potassium [Moles/volume] in Serum or Plasma: 5.1 mmol/L\n- Chloride [Moles/volume] in Serum or Plasma: 109.7 mmol/L\n- Carbon dioxide  total [Moles/volume] in Serum or Plasma: 28.8 mmol/L\n- Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M: 29.0 mL/min/{1.73_m2}\n- Appearance of Urine: Cloudy urine (finding)\n- Odor of Urine: Urine smell ammoniacal (finding)\n- Clarity of Urine: Translucent (qualifier value)\n- Color of Urine: Brown color (qualifier value)\n- Glucose [Mass/volume] in Urine by Test strip: 2.0 mg/dL\n- Glucose [Presence] in Urine by Test strip: Urine glucose test = ++ (finding)\n- Bilirubin.total [Mass/volume] in Urine by Test strip: 0.2 mg/dL\n- Bilirubin.total [Presence] in Urine by Test strip: Finding of bilirubin in urine (finding)\n- Ketones [Mass/volume] in Urine by Test strip: 7.1 mg/dL\n- Ketones [Presence] in Urine by Test strip: Urine ketone test = +++ (finding)\n- Specific gravity of Urine by Test strip: 1.0\n- pH of Urine by Test strip: 6.4 pH\n- Protein [Mass/volume] in Urine by Test strip: 360.1 mg/dL\n- Protein [Presence] in Urine by Test strip: Urine protein test = +++ (finding)\n- Nitrite [Presence] in Urine by Test strip: Nitrite not detected in urine (finding)\n- Hemoglobin [Presence] in Urine by Test strip: Blood not detected in urine (finding)\n- Leukocyte esterase [Presence] in Urine by Test strip: Urine leukocytes not detected (finding)\n- Cholesterol [Mass/volume] in Serum or Plasma: 177.9 mg/dL\n- Triglyceride [Mass/volume] in Serum or Plasma: 103.1 mg/dL\n- Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay: 107.0 mg/dL\n- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 50.3 mg/dL"
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-e972-f0cb9c54ff59",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2012-06-15",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Corie Kohler - 2012-06-15",
+    "content": "- Assessment of health and social care needs.\n- Assessment using Morse Fall Scale.\n- Depression screening.\n- Depression screening."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-e972-f0cb9c54ff59",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2012-06-15",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Corie Kohler - 2012-06-15",
+    "content": "Medications prescribed at this visit:\n- lisinopril 10 MG Oral Tablet, started 2012-06-15, for Essential hypertension; stopped 2012-06-22."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-e972-f0cb9c54ff59",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2012-06-15",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Corie Kohler - 2012-06-15",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

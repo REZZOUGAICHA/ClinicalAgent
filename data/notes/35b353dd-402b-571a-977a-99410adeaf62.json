@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "35b353dd-402b-571a-977a-99410adeaf62",
+    "patient_id": "35b353dd-402b-571a-d67a-af0a104d0854",
+    "document_type": "Office Visit Note",
+    "date": "2018-06-23",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Jody Monahan - 2018-06-23",
+    "content": "Patient: Jody Monahan, male, born 1943-09-18 (patient ID 35b353dd-402b-571a-d67a-af0a104d0854).\nVisit date: 2018-06-23.\nVisit type: Encounter for check up.\nClinician: Floy Greenfelder (General Practice).\nFacility: CAMBRIDGE PUBLIC HEALTH COMMISSION, SOMERVILLE, MA."
+  },
+  {
+    "doc_id": "35b353dd-402b-571a-977a-99410adeaf62",
+    "patient_id": "35b353dd-402b-571a-d67a-af0a104d0854",
+    "document_type": "Office Visit Note",
+    "date": "2018-06-23",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Jody Monahan - 2018-06-23",
+    "content": "Seen for Gingivitis."
+  },
+  {
+    "doc_id": "35b353dd-402b-571a-977a-99410adeaf62",
+    "patient_id": "35b353dd-402b-571a-d67a-af0a104d0854",
+    "document_type": "Office Visit Note",
+    "date": "2018-06-23",
+    "section": "Procedures",
+    "title": "Office Visit Note - Jody Monahan - 2018-06-23",
+    "content": "- Dental consultation and report, for Gingivitis.\n- Dental care, for Gingivitis.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Dental plain X-ray bitewing.\n- Examination of gingivae, for Gingivitis.\n- Dental fluoride treatment, for Gingivitis.\n- Oral health education, for Gingivitis."
+  },
+  {
+    "doc_id": "35b353dd-402b-571a-977a-99410adeaf62",
+    "patient_id": "35b353dd-402b-571a-d67a-af0a104d0854",
+    "document_type": "Office Visit Note",
+    "date": "2018-06-23",
+    "section": "Medications",
+    "title": "Office Visit Note - Jody Monahan - 2018-06-23",
+    "content": "Medications prescribed at this visit:\n- sodium fluoride 0.0272 MG/MG Oral Gel, started 2018-06-23, for Gingivitis; stopped 2018-06-23."
+  }
+]

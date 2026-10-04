@@ -1,0 +1,65 @@
+[
+  {
+    "doc_id": "a2fb233f-60e0-b477-a9d4-1c6549469d7e",
+    "patient_id": "a2fb233f-60e0-b477-cd38-af3923f792a3",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-04-21",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Tanner Mitchell - 2019-04-21",
+    "content": "Patient: Tanner Mitchell, male, born 1962-03-11 (patient ID a2fb233f-60e0-b477-cd38-af3923f792a3).\nVisit date: 2019-04-21.\nVisit type: General examination of patient.\nClinician: Patty Bashirian (General Practice).\nFacility: GARDEN STATE HEALTHCARE ASSOCIATES LLC, WEST NEWBURY, MA."
+  },
+  {
+    "doc_id": "a2fb233f-60e0-b477-a9d4-1c6549469d7e",
+    "patient_id": "a2fb233f-60e0-b477-cd38-af3923f792a3",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-04-21",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Tanner Mitchell - 2019-04-21",
+    "content": "Diagnoses recorded at this visit:\n- Stress (onset 2019-04-21), resolved 2020-04-26."
+  },
+  {
+    "doc_id": "a2fb233f-60e0-b477-a9d4-1c6549469d7e",
+    "patient_id": "a2fb233f-60e0-b477-cd38-af3923f792a3",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-04-21",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Tanner Mitchell - 2019-04-21",
+    "content": "- Body Height: 170.6 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0\n- Body Weight: 81.4 kg\n- Body mass index (BMI) [Ratio]: 28.0 kg/m2\n- Diastolic Blood Pressure: 92.0 mm[Hg]\n- Systolic Blood Pressure: 141.0 mm[Hg]\n- Heart rate: 74.0 /min\n- Respiratory rate: 14.0 /min"
+  },
+  {
+    "doc_id": "a2fb233f-60e0-b477-a9d4-1c6549469d7e",
+    "patient_id": "a2fb233f-60e0-b477-cd38-af3923f792a3",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-04-21",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Tanner Mitchell - 2019-04-21",
+    "content": "- Hemoglobin A1c/Hemoglobin.total in Blood: 6.1 %\n- Glucose [Mass/volume] in Blood: 68.7 mg/dL\n- Urea nitrogen [Mass/volume] in Blood: 8.7 mg/dL\n- Creatinine [Mass/volume] in Blood: 1.1 mg/dL\n- Calcium [Mass/volume] in Blood: 9.9 mg/dL\n- Sodium [Moles/volume] in Blood: 143.7 mmol/L\n- Potassium [Moles/volume] in Blood: 4.4 mmol/L\n- Chloride [Moles/volume] in Blood: 110.0 mmol/L\n- Carbon dioxide  total [Moles/volume] in Blood: 26.2 mmol/L\n- Leukocytes [#/volume] in Blood by Automated count: 7.1 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 5.0 10*6/uL\n- Hemoglobin [Mass/volume] in Blood: 15.5 g/dL\n- Hematocrit [Volume Fraction] of Blood by Automated count: 44.3 %\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 92.1 fL\n- MCH [Entitic mass] by Automated count: 28.4 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 34.4 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 43.4 fL\n- Platelets [#/volume] in Blood by Automated count: 257.5 10*3/uL\n- Platelet distribution width [Entitic volume] in Blood by Automated count: 15.5 fL\n- Platelet [Entitic mean volume] in Blood by Automated count: 11.0 fL"
+  },
+  {
+    "doc_id": "a2fb233f-60e0-b477-a9d4-1c6549469d7e",
+    "patient_id": "a2fb233f-60e0-b477-cd38-af3923f792a3",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-04-21",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Tanner Mitchell - 2019-04-21",
+    "content": "- Assessment of health and social care needs.\n- Assessment of anxiety.\n- Depression screening.\n- Depression screening.\n- Assessment of substance use.\n- Screening for drug abuse."
+  },
+  {
+    "doc_id": "a2fb233f-60e0-b477-a9d4-1c6549469d7e",
+    "patient_id": "a2fb233f-60e0-b477-cd38-af3923f792a3",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-04-21",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Tanner Mitchell - 2019-04-21",
+    "content": "Medications prescribed at this visit:\n- amLODIPine 2.5 MG Oral Tablet, started 2019-04-21, for Essential hypertension; stopped 2020-04-26."
+  },
+  {
+    "doc_id": "a2fb233f-60e0-b477-a9d4-1c6549469d7e",
+    "patient_id": "a2fb233f-60e0-b477-cd38-af3923f792a3",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-04-21",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Tanner Mitchell - 2019-04-21",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

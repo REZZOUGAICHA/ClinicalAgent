@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-959d-143fabc8225e",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2017-08-27",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Rosalba Effertz - 2017-08-27",
+    "content": "Patient: Rosalba Effertz, female, born 1973-08-05 (patient ID 5e7ebf2c-22ec-a89b-53ab-38edddd81be9).\nVisit date: 2017-08-27.\nVisit type: Patient encounter procedure.\nClinician: Saundra Kuphal (General Practice).\nFacility: COOLEY DICKINSON HOSPITAL INC, NORTHAMPTON, MA."
+  },
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-959d-143fabc8225e",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2017-08-27",
+    "section": "Reason for Visit",
+    "title": "Outpatient Procedure Note - Rosalba Effertz - 2017-08-27",
+    "content": "Seen for Contraception care."
+  },
+  {
+    "doc_id": "5e7ebf2c-22ec-a89b-959d-143fabc8225e",
+    "patient_id": "5e7ebf2c-22ec-a89b-53ab-38edddd81be9",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2017-08-27",
+    "section": "Procedures",
+    "title": "Outpatient Procedure Note - Rosalba Effertz - 2017-08-27",
+    "content": "- Removal of subcutaneous contraceptive.\n- Implantation of subcutaneous contraceptive."
+  }
+]

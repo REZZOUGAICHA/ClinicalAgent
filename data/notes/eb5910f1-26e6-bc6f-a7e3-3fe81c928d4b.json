@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "eb5910f1-26e6-bc6f-a7e3-3fe81c928d4b",
+    "patient_id": "eb5910f1-26e6-bc6f-b300-716eae678d6f",
+    "document_type": "Office Visit Note",
+    "date": "2016-11-29",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Larissa Bins - 2016-11-29",
+    "content": "Patient: Larissa Bins, female, born 1995-04-25 (patient ID eb5910f1-26e6-bc6f-b300-716eae678d6f).\nVisit date: 2016-11-29.\nVisit type: Prenatal visit.\nClinician: Jackelyn Pacocha (General Practice).\nFacility: WP ACQUISITION SUB LLC, HAVERHILL, MA."
+  },
+  {
+    "doc_id": "eb5910f1-26e6-bc6f-a7e3-3fe81c928d4b",
+    "patient_id": "eb5910f1-26e6-bc6f-b300-716eae678d6f",
+    "document_type": "Office Visit Note",
+    "date": "2016-11-29",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Larissa Bins - 2016-11-29",
+    "content": "Seen for Normal pregnancy."
+  },
+  {
+    "doc_id": "eb5910f1-26e6-bc6f-a7e3-3fe81c928d4b",
+    "patient_id": "eb5910f1-26e6-bc6f-b300-716eae678d6f",
+    "document_type": "Office Visit Note",
+    "date": "2016-11-29",
+    "section": "Procedures",
+    "title": "Office Visit Note - Larissa Bins - 2016-11-29",
+    "content": "- Evaluation of uterine fundal height, for Normal pregnancy.\n- Auscultation of the fetal heart, for Normal pregnancy."
+  }
+]

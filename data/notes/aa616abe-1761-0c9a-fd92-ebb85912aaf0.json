@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "aa616abe-1761-0c9a-fd92-ebb85912aaf0",
+    "patient_id": "aa616abe-1761-0c9a-7959-07544679dafd",
+    "document_type": "Skilled Nursing Facility Note",
+    "date": "2004-07-27",
+    "section": "Visit Information",
+    "title": "Skilled Nursing Facility Note - Jona Robel - 2004-07-27",
+    "content": "Patient: Jona Robel, female, born 1958-11-15 (patient ID aa616abe-1761-0c9a-7959-07544679dafd).\nVisit date: 2004-07-27.\nVisit type: Hospital admission.\nClinician: Lane Gutmann (General Practice).\nFacility: GREENWOOD NURSING & REHABILITATION CENTER, WAKEFIELD, MA."
+  },
+  {
+    "doc_id": "aa616abe-1761-0c9a-fd92-ebb85912aaf0",
+    "patient_id": "aa616abe-1761-0c9a-7959-07544679dafd",
+    "document_type": "Skilled Nursing Facility Note",
+    "date": "2004-07-27",
+    "section": "Reason for Visit",
+    "title": "Skilled Nursing Facility Note - Jona Robel - 2004-07-27",
+    "content": "Seen for Patient transfer to skilled nursing facility."
+  },
+  {
+    "doc_id": "aa616abe-1761-0c9a-fd92-ebb85912aaf0",
+    "patient_id": "aa616abe-1761-0c9a-7959-07544679dafd",
+    "document_type": "Skilled Nursing Facility Note",
+    "date": "2004-07-27",
+    "section": "Procedures",
+    "title": "Skilled Nursing Facility Note - Jona Robel - 2004-07-27",
+    "content": "- History AND physical examination.\n- Initial patient assessment.\n- Development of individualized plan of care.\n- Nursing care/supplementary surveillance.\n- Nursing care/supplementary surveillance.\n- Professional / ancillary services care.\n- Care regimes assessment.\n- Nursing care/supplementary surveillance.\n- Professional / ancillary services care.\n- Nursing care/supplementary surveillance.\n- Occupational therapy.\n- Nursing care/supplementary surveillance.\n- Physical therapy procedure.\n- Pre-discharge assessment.\n- Discharge from hospital."
+  }
+]

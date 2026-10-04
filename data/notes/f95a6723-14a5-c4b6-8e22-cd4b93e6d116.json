@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "f95a6723-14a5-c4b6-8e22-cd4b93e6d116",
+    "patient_id": "f95a6723-14a5-c4b6-78df-fa97f7ab361c",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2016-07-19",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Roxann Sauer - 2016-07-19",
+    "content": "Patient: Roxann Sauer, female, born 1986-08-23 (patient ID f95a6723-14a5-c4b6-78df-fa97f7ab361c).\nVisit date: 2016-07-19.\nVisit type: Consultation for treatment.\nClinician: Chu Weber (General Practice).\nFacility: STURDY MEMORIAL HOSPITAL INC, ATTLEBORO, MA."
+  },
+  {
+    "doc_id": "f95a6723-14a5-c4b6-8e22-cd4b93e6d116",
+    "patient_id": "f95a6723-14a5-c4b6-78df-fa97f7ab361c",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2016-07-19",
+    "section": "Reason for Visit",
+    "title": "Outpatient Procedure Note - Roxann Sauer - 2016-07-19",
+    "content": "Seen for Contraception care."
+  },
+  {
+    "doc_id": "f95a6723-14a5-c4b6-8e22-cd4b93e6d116",
+    "patient_id": "f95a6723-14a5-c4b6-78df-fa97f7ab361c",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2016-07-19",
+    "section": "Medications",
+    "title": "Outpatient Procedure Note - Roxann Sauer - 2016-07-19",
+    "content": "Medications prescribed at this visit:\n- 1 ML medroxyprogesterone acetate 150 MG/ML Injection, started 2016-07-19; stopped 2017-07-14."
+  }
+]

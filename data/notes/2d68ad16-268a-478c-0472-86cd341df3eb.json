@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "2d68ad16-268a-478c-0472-86cd341df3eb",
+    "patient_id": "2d68ad16-268a-478c-1f84-d0f1976e1a46",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-01-26",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Mauro Braun - 2024-01-26",
+    "content": "Patient: Mauro Braun, male, born 2020-02-21 (patient ID 2d68ad16-268a-478c-1f84-d0f1976e1a46).\nVisit date: 2024-01-26.\nVisit type: Well child visit.\nClinician: Rolland Lemke (General Practice).\nFacility: QUINCY CENTER PRIMARY CARE PC, QUINCY, MA."
+  },
+  {
+    "doc_id": "2d68ad16-268a-478c-0472-86cd341df3eb",
+    "patient_id": "2d68ad16-268a-478c-1f84-d0f1976e1a46",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-01-26",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Mauro Braun - 2024-01-26",
+    "content": "- Body Height: 98.7 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0\n- Body Weight: 15.7 kg\n- Weight-for-length Per age and sex: 63.8 %\n- Head Occipital-frontal circumference Percentile: 24.4 %\n- Head Occipital-frontal circumference: 48.5 cm\n- Body mass index (BMI) [Ratio]: 16.1 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 64.2 %\n- Diastolic Blood Pressure: 70.0 mm[Hg]\n- Systolic Blood Pressure: 97.0 mm[Hg]\n- Heart rate: 69.0 /min\n- Respiratory rate: 16.0 /min"
+  },
+  {
+    "doc_id": "2d68ad16-268a-478c-0472-86cd341df3eb",
+    "patient_id": "2d68ad16-268a-478c-1f84-d0f1976e1a46",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-01-26",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Mauro Braun - 2024-01-26",
+    "content": "- Medication reconciliation."
+  },
+  {
+    "doc_id": "2d68ad16-268a-478c-0472-86cd341df3eb",
+    "patient_id": "2d68ad16-268a-478c-1f84-d0f1976e1a46",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-01-26",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Mauro Braun - 2024-01-26",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "47d390c6-a1a2-1a80-6fbb-6d3705d2983f",
+    "patient_id": "47d390c6-a1a2-1a80-dd1d-9722c7b24159",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-03-16",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Demarcus Jones - 2019-03-16",
+    "content": "Patient: Demarcus Jones, male, born 2009-03-07 (patient ID 47d390c6-a1a2-1a80-dd1d-9722c7b24159).\nVisit date: 2019-03-16.\nVisit type: Well child visit.\nClinician: Francene Halvorson (General Practice).\nFacility: HAVERHILL FAMILY OFFICE LLC, HAVERHILL, MA."
+  },
+  {
+    "doc_id": "47d390c6-a1a2-1a80-6fbb-6d3705d2983f",
+    "patient_id": "47d390c6-a1a2-1a80-dd1d-9722c7b24159",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-03-16",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Demarcus Jones - 2019-03-16",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2019-03-16), resolved 2019-03-16."
+  },
+  {
+    "doc_id": "47d390c6-a1a2-1a80-6fbb-6d3705d2983f",
+    "patient_id": "47d390c6-a1a2-1a80-dd1d-9722c7b24159",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-03-16",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Demarcus Jones - 2019-03-16",
+    "content": "- Body Height: 142.5 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0\n- Body Weight: 35.1 kg\n- Body mass index (BMI) [Ratio]: 17.3 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 61.4 %\n- Diastolic Blood Pressure: 99.0 mm[Hg]\n- Systolic Blood Pressure: 116.0 mm[Hg]\n- Heart rate: 92.0 /min\n- Respiratory rate: 16.0 /min"
+  },
+  {
+    "doc_id": "47d390c6-a1a2-1a80-6fbb-6d3705d2983f",
+    "patient_id": "47d390c6-a1a2-1a80-dd1d-9722c7b24159",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-03-16",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Demarcus Jones - 2019-03-16",
+    "content": "- Medication reconciliation.\n- Patient referral for dental care."
+  },
+  {
+    "doc_id": "47d390c6-a1a2-1a80-6fbb-6d3705d2983f",
+    "patient_id": "47d390c6-a1a2-1a80-dd1d-9722c7b24159",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-03-16",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Demarcus Jones - 2019-03-16",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

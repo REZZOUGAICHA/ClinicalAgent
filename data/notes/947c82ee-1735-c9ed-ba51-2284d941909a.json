@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "947c82ee-1735-c9ed-ba51-2284d941909a",
+    "patient_id": "947c82ee-1735-c9ed-8210-38cb93d8070c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-01-24",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Marcell Hammes - 2017-01-24",
+    "content": "Patient: Marcell Hammes, female, born 2016-05-17 (patient ID 947c82ee-1735-c9ed-8210-38cb93d8070c).\nVisit date: 2017-01-24.\nVisit type: Well child visit.\nClinician: Kirby McKenzie (General Practice).\nFacility: BOSTON MEDICAL CENTER CORPORATION-, ROSLINDALE, MA."
+  },
+  {
+    "doc_id": "947c82ee-1735-c9ed-ba51-2284d941909a",
+    "patient_id": "947c82ee-1735-c9ed-8210-38cb93d8070c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-01-24",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Marcell Hammes - 2017-01-24",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2017-01-24), resolved 2017-04-25."
+  },
+  {
+    "doc_id": "947c82ee-1735-c9ed-ba51-2284d941909a",
+    "patient_id": "947c82ee-1735-c9ed-8210-38cb93d8070c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-01-24",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Marcell Hammes - 2017-01-24",
+    "content": "- Body Height: 70.0 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0\n- Body Weight: 7.2 kg\n- Weight-for-length Per age and sex: 2.3 %\n- Head Occipital-frontal circumference Percentile: 64.5 %\n- Head Occipital-frontal circumference: 44.2 cm\n- Diastolic Blood Pressure: 82.0 mm[Hg]\n- Systolic Blood Pressure: 138.0 mm[Hg]\n- Heart rate: 99.0 /min\n- Respiratory rate: 14.0 /min"
+  },
+  {
+    "doc_id": "947c82ee-1735-c9ed-ba51-2284d941909a",
+    "patient_id": "947c82ee-1735-c9ed-8210-38cb93d8070c",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-01-24",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Marcell Hammes - 2017-01-24",
+    "content": "- IPV.\n- Influenza split virus trivalent PF.\n- DTaP.\n- Pneumococcal conjugate PCV 13.\n- Hep B adolescent or pediatric."
+  }
+]

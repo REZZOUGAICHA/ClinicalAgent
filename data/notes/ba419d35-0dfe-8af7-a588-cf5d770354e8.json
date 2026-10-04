@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "ba419d35-0dfe-8af7-a588-cf5d770354e8",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Urgent Care Note",
+    "date": "2011-05-27",
+    "section": "Visit Information",
+    "title": "Urgent Care Note - Corie Kohler - 2011-05-27",
+    "content": "Patient: Corie Kohler, female, born 1925-09-18 (patient ID ba419d35-0dfe-8af7-347c-eebf02485a56).\nVisit date: 2011-05-27.\nVisit type: Urgent care clinic.\nClinician: Lorenzo Casta\u00f1eda (General Practice).\nFacility: WOONSOCKET URGENT CARE PC, NORTH ATTLEBORO, MA."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-a588-cf5d770354e8",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Urgent Care Note",
+    "date": "2011-05-27",
+    "section": "Assessment",
+    "title": "Urgent Care Note - Corie Kohler - 2011-05-27",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2011-05-27), resolved 2011-05-27.\n- Gingivitis (onset 2011-05-27), resolved 2011-06-17."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-a588-cf5d770354e8",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Urgent Care Note",
+    "date": "2011-05-27",
+    "section": "Vital Signs",
+    "title": "Urgent Care Note - Corie Kohler - 2011-05-27",
+    "content": "- Body Height: 164.1 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0\n- Body Weight: 82.0 kg\n- Body mass index (BMI) [Ratio]: 30.5 kg/m2\n- Diastolic Blood Pressure: 72.0 mm[Hg]\n- Systolic Blood Pressure: 110.0 mm[Hg]\n- Heart rate: 94.0 /min\n- Respiratory rate: 15.0 /min"
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-a588-cf5d770354e8",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Urgent Care Note",
+    "date": "2011-05-27",
+    "section": "Laboratory Results",
+    "title": "Urgent Care Note - Corie Kohler - 2011-05-27",
+    "content": "- Glucose [Mass/volume] in Serum or Plasma: 97.4 mg/dL\n- Urea nitrogen [Mass/volume] in Serum or Plasma: 12.4 mg/dL\n- Creatinine [Mass/volume] in Serum or Plasma: 2.0 mg/dL\n- Calcium [Mass/volume] in Serum or Plasma: 10.0 mg/dL\n- Sodium [Moles/volume] in Serum or Plasma: 138.0 mmol/L\n- Potassium [Moles/volume] in Serum or Plasma: 3.9 mmol/L\n- Chloride [Moles/volume] in Serum or Plasma: 108.1 mmol/L\n- Carbon dioxide  total [Moles/volume] in Serum or Plasma: 24.6 mmol/L\n- Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M: 83.3 mL/min/{1.73_m2}\n- Appearance of Urine: Cloudy urine (finding)\n- Odor of Urine: Urine smell ammoniacal (finding)\n- Clarity of Urine: Translucent (qualifier value)\n- Color of Urine: Brown color (qualifier value)\n- Glucose [Mass/volume] in Urine by Test strip: 1.4 mg/dL\n- Glucose [Presence] in Urine by Test strip: Urine glucose test = ++ (finding)\n- Bilirubin.total [Mass/volume] in Urine by Test strip: 0.4 mg/dL\n- Bilirubin.total [Presence] in Urine by Test strip: Finding of bilirubin in urine (finding)\n- Ketones [Mass/volume] in Urine by Test strip: 12.6 mg/dL\n- Ketones [Presence] in Urine by Test strip: Urine ketone test = + (finding)\n- Specific gravity of Urine by Test strip: 1.0\n- pH of Urine by Test strip: 5.0 pH\n- Protein [Mass/volume] in Urine by Test strip: 334.6 mg/dL\n- Protein [Presence] in Urine by Test strip: Urine protein test = ++ (finding)\n- Nitrite [Presence] in Urine by Test strip: Nitrite not detected in urine (finding)\n- Hemoglobin [Presence] in Urine by Test strip: Blood not detected in urine (finding)\n- Leukocyte esterase [Presence] in Urine by Test strip: Urine leukocytes not detected (finding)\n- Leukocytes [#/volume] in Blood by Automated count: 8.1 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 4.7 10*6/uL\n- Hemoglobin [Mass/volume] in Blood: 12.7 g/dL\n- Hematocrit [Volume Fraction] of Blood by Automated count: 44.9 %\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 93.9 fL\n- MCH [Entitic mass] by Automated count: 32.3 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 35.5 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 44.5 fL\n- Platelets [#/volume] in Blood by Automated count: 402.9 10*3/uL\n- Platelet distribution width [Entitic volume] in Blood by Automated count: 13.9 fL\n- Platelet [Entitic mean volume] in Blood by Automated count: 11.7 fL"
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-a588-cf5d770354e8",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Urgent Care Note",
+    "date": "2011-05-27",
+    "section": "Procedures",
+    "title": "Urgent Care Note - Corie Kohler - 2011-05-27",
+    "content": "- Medication reconciliation.\n- Assessment of health and social care needs.\n- Assessment of anxiety.\n- Assessment using Morse Fall Scale.\n- Depression screening.\n- Depression screening.\n- Patient referral for dental care, for Gingivitis."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-a588-cf5d770354e8",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Urgent Care Note",
+    "date": "2011-05-27",
+    "section": "Medications",
+    "title": "Urgent Care Note - Corie Kohler - 2011-05-27",
+    "content": "Medications prescribed at this visit:\n- lisinopril 10 MG Oral Tablet, started 2011-05-27, for Essential hypertension; stopped 2011-06-10."
+  }
+]

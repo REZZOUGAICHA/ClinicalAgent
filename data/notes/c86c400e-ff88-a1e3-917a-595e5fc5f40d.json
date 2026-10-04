@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "c86c400e-ff88-a1e3-917a-595e5fc5f40d",
+    "patient_id": "c86c400e-ff88-a1e3-2e23-caa4d8311f47",
+    "document_type": "Hospice Care Note",
+    "date": "1987-12-21",
+    "section": "Visit Information",
+    "title": "Hospice Care Note - Cristobal Montero - 1987-12-21",
+    "content": "Patient: Cristobal Montero, male, born 1947-03-03 (patient ID c86c400e-ff88-a1e3-2e23-caa4d8311f47).\nVisit date: 1987-12-21.\nVisit type: Admission to hospice.\nClinician: Randolph Keebler (General Practice).\nFacility: DIGNITY HOSPICE CARE INC, LYNN, MA."
+  },
+  {
+    "doc_id": "c86c400e-ff88-a1e3-917a-595e5fc5f40d",
+    "patient_id": "c86c400e-ff88-a1e3-2e23-caa4d8311f47",
+    "document_type": "Hospice Care Note",
+    "date": "1987-12-21",
+    "section": "Procedures",
+    "title": "Hospice Care Note - Cristobal Montero - 1987-12-21",
+    "content": "- Certification procedure.\n- Notifications.\n- Initial patient assessment.\n- Development of individualized plan of care.\n- Hospice care.\n- Hospice care.\n- Hospice care.\n- Hospice care.\n- Hospice care.\n- Hospice care.\n- Hospice care.\n- Hospice care.\n- Hospice care.\n- Hospice care.\n- Hospice care.\n- Hospice care.\n- Hospice care.\n- Hospice care.\n- Hospice care.\n- Hospice care.\n- Hospice care.\n- Hospice care.\n- Hospice care.\n- Hospice care.\n- Hospice care.\n- Hospice care."
+  }
+]

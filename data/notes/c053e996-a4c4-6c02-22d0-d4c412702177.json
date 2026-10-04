@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "c053e996-a4c4-6c02-22d0-d4c412702177",
+    "patient_id": "c053e996-a4c4-6c02-e2b6-284227156c67",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-05-24",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Sharyn Hagenes - 2024-05-24",
+    "content": "Patient: Sharyn Hagenes, female, born 2023-09-15 (patient ID c053e996-a4c4-6c02-e2b6-284227156c67).\nVisit date: 2024-05-24.\nVisit type: Well child visit.\nClinician: Colin Witting (General Practice).\nFacility: PALMER FAMILY SERVICES LLC, MILFORD, MA."
+  },
+  {
+    "doc_id": "c053e996-a4c4-6c02-22d0-d4c412702177",
+    "patient_id": "c053e996-a4c4-6c02-e2b6-284227156c67",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-05-24",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Sharyn Hagenes - 2024-05-24",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2024-05-24), resolved 2024-08-23."
+  },
+  {
+    "doc_id": "c053e996-a4c4-6c02-22d0-d4c412702177",
+    "patient_id": "c053e996-a4c4-6c02-e2b6-284227156c67",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-05-24",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Sharyn Hagenes - 2024-05-24",
+    "content": "- Body Height: 71.1 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0\n- Body Weight: 9.2 kg\n- Weight-for-length Per age and sex: 75.8 %\n- Head Occipital-frontal circumference Percentile: 78.1 %\n- Head Occipital-frontal circumference: 44.7 cm\n- Diastolic Blood Pressure: 84.0 mm[Hg]\n- Systolic Blood Pressure: 132.0 mm[Hg]\n- Heart rate: 95.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "c053e996-a4c4-6c02-22d0-d4c412702177",
+    "patient_id": "c053e996-a4c4-6c02-e2b6-284227156c67",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-05-24",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Sharyn Hagenes - 2024-05-24",
+    "content": "- IPV.\n- Influenza split virus trivalent PF.\n- DTaP.\n- Pneumococcal conjugate PCV 13.\n- Hep B adolescent or pediatric."
+  }
+]

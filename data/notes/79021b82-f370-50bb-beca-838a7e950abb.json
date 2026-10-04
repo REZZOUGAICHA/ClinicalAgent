@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "79021b82-f370-50bb-beca-838a7e950abb",
+    "patient_id": "79021b82-f370-50bb-c5a1-7333816d683f",
+    "document_type": "Office Visit Note",
+    "date": "2016-10-03",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Evette Farrell - 2016-10-03",
+    "content": "Patient: Evette Farrell, female, born 2013-03-20 (patient ID 79021b82-f370-50bb-c5a1-7333816d683f).\nVisit date: 2016-10-03.\nVisit type: Encounter for symptom.\nClinician: Willian Batz (General Practice).\nFacility: BOSTON MEDICAL CENTER CORPORATION-, WINTHROP, MA."
+  },
+  {
+    "doc_id": "79021b82-f370-50bb-beca-838a7e950abb",
+    "patient_id": "79021b82-f370-50bb-c5a1-7333816d683f",
+    "document_type": "Office Visit Note",
+    "date": "2016-10-03",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Evette Farrell - 2016-10-03",
+    "content": "Seen for Acute viral pharyngitis."
+  },
+  {
+    "doc_id": "79021b82-f370-50bb-beca-838a7e950abb",
+    "patient_id": "79021b82-f370-50bb-c5a1-7333816d683f",
+    "document_type": "Office Visit Note",
+    "date": "2016-10-03",
+    "section": "Assessment",
+    "title": "Office Visit Note - Evette Farrell - 2016-10-03",
+    "content": "Diagnoses recorded at this visit:\n- Acute viral pharyngitis (onset 2016-10-04), resolved 2016-10-11."
+  }
+]

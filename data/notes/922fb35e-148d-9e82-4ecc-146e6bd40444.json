@@ -1,0 +1,65 @@
+[
+  {
+    "doc_id": "922fb35e-148d-9e82-4ecc-146e6bd40444",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-04-27",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Agnes Weber - 2018-04-27",
+    "content": "Patient: Agnes Weber, female, born 1986-12-19 (patient ID 922fb35e-148d-9e82-7e65-bfa05e3b3515).\nVisit date: 2018-04-27.\nVisit type: General examination of patient.\nClinician: Valentine Leannon (General Practice).\nFacility: SUNRISE HEALTHCARE LLC, SHREWSBURY, MA."
+  },
+  {
+    "doc_id": "922fb35e-148d-9e82-4ecc-146e6bd40444",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-04-27",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Agnes Weber - 2018-04-27",
+    "content": "Diagnoses recorded at this visit:\n- Full-time employment (onset 2018-04-27), resolved 2019-05-03.\n- Limited social contact (onset 2018-04-27), resolved 2019-05-03."
+  },
+  {
+    "doc_id": "922fb35e-148d-9e82-4ecc-146e6bd40444",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-04-27",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Agnes Weber - 2018-04-27",
+    "content": "- Body Height: 176.6 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0\n- Body Weight: 72.7 kg\n- Body mass index (BMI) [Ratio]: 23.3 kg/m2\n- Diastolic Blood Pressure: 88.0 mm[Hg]\n- Systolic Blood Pressure: 132.0 mm[Hg]\n- Heart rate: 75.0 /min\n- Respiratory rate: 15.0 /min"
+  },
+  {
+    "doc_id": "922fb35e-148d-9e82-4ecc-146e6bd40444",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-04-27",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Agnes Weber - 2018-04-27",
+    "content": "- Leukocytes [#/volume] in Blood by Automated count: 3.8 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 4.0 10*6/uL\n- Hemoglobin [Mass/volume] in Blood: 16.3 g/dL\n- Hematocrit [Volume Fraction] of Blood by Automated count: 37.6 %\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 81.5 fL\n- MCH [Entitic mass] by Automated count: 29.1 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 34.3 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 43.9 fL\n- Platelets [#/volume] in Blood by Automated count: 405.9 10*3/uL\n- Platelet distribution width [Entitic volume] in Blood by Automated count: 9.8 fL\n- Platelet [Entitic mean volume] in Blood by Automated count: 10.2 fL"
+  },
+  {
+    "doc_id": "922fb35e-148d-9e82-4ecc-146e6bd40444",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-04-27",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Agnes Weber - 2018-04-27",
+    "content": "- Assessment of health and social care needs.\n- Assessment of anxiety.\n- Depression screening.\n- Depression screening.\n- Assessment of substance use.\n- Assessment using Alcohol Use Disorders Identification Test - Consumption."
+  },
+  {
+    "doc_id": "922fb35e-148d-9e82-4ecc-146e6bd40444",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-04-27",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Agnes Weber - 2018-04-27",
+    "content": "Medications prescribed at this visit:\n- budesonide 0.25 MG/ML Inhalation Suspension, started 2018-04-27, for Childhood asthma; stopped 2019-05-03.\n- albuterol 0.21 MG/ML Inhalation Solution, started 2018-04-27, for Childhood asthma; stopped 2019-05-03."
+  },
+  {
+    "doc_id": "922fb35e-148d-9e82-4ecc-146e6bd40444",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-04-27",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Agnes Weber - 2018-04-27",
+    "content": "- Influenza split virus trivalent PF.\n- Td (adult) 5 Lf tetanus toxoid preservative free adsorbed."
+  }
+]

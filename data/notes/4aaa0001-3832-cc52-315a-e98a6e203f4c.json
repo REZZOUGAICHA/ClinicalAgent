@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "4aaa0001-3832-cc52-315a-e98a6e203f4c",
+    "patient_id": "4aaa0001-3832-cc52-e2f3-47aad08f4284",
+    "document_type": "Office Visit Note",
+    "date": "2025-04-20",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Marvin Weissnat - 2025-04-20",
+    "content": "Patient: Marvin Weissnat, male, born 2006-02-05 (patient ID 4aaa0001-3832-cc52-e2f3-47aad08f4284).\nVisit date: 2025-04-20.\nVisit type: Encounter for check up.\nClinician: Alysha Koch (General Practice).\nFacility: TEWKSBURY HOSPITAL, TEWKSBURY, MA."
+  },
+  {
+    "doc_id": "4aaa0001-3832-cc52-315a-e98a6e203f4c",
+    "patient_id": "4aaa0001-3832-cc52-e2f3-47aad08f4284",
+    "document_type": "Office Visit Note",
+    "date": "2025-04-20",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Marvin Weissnat - 2025-04-20",
+    "content": "Seen for Gingivitis."
+  },
+  {
+    "doc_id": "4aaa0001-3832-cc52-315a-e98a6e203f4c",
+    "patient_id": "4aaa0001-3832-cc52-e2f3-47aad08f4284",
+    "document_type": "Office Visit Note",
+    "date": "2025-04-20",
+    "section": "Assessment",
+    "title": "Office Visit Note - Marvin Weissnat - 2025-04-20",
+    "content": "Diagnoses recorded at this visit:\n- Primary dental caries (onset 2025-04-20), resolved 2025-04-21."
+  },
+  {
+    "doc_id": "4aaa0001-3832-cc52-315a-e98a6e203f4c",
+    "patient_id": "4aaa0001-3832-cc52-e2f3-47aad08f4284",
+    "document_type": "Office Visit Note",
+    "date": "2025-04-20",
+    "section": "Procedures",
+    "title": "Office Visit Note - Marvin Weissnat - 2025-04-20",
+    "content": "- Dental consultation and report, for Gingivitis.\n- Dental care, for Gingivitis.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Gingivitis.\n- Examination of gingivae, for Gingivitis.\n- Restoration of tooth with coverage of all cusps using dental filling material, for Primary dental caries.\n- Dental fluoride treatment, for Gingivitis.\n- Oral health education, for Gingivitis."
+  },
+  {
+    "doc_id": "4aaa0001-3832-cc52-315a-e98a6e203f4c",
+    "patient_id": "4aaa0001-3832-cc52-e2f3-47aad08f4284",
+    "document_type": "Office Visit Note",
+    "date": "2025-04-20",
+    "section": "Medications",
+    "title": "Office Visit Note - Marvin Weissnat - 2025-04-20",
+    "content": "Medications prescribed at this visit:\n- sodium fluoride 0.0272 MG/MG Oral Gel, started 2025-04-20, for Gingivitis; stopped 2025-04-20."
+  }
+]

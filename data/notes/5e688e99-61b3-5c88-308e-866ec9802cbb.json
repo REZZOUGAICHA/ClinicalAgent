@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "5e688e99-61b3-5c88-308e-866ec9802cbb",
+    "patient_id": "5e688e99-61b3-5c88-3f60-21df8aaced27",
+    "document_type": "Office Visit Note",
+    "date": "2023-03-09",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Wallace Effertz - 2023-03-09",
+    "content": "Patient: Wallace Effertz, male, born 2010-01-28 (patient ID 5e688e99-61b3-5c88-3f60-21df8aaced27).\nVisit date: 2023-03-09.\nVisit type: Encounter for check up.\nClinician: Lorette Hauck (General Practice).\nFacility: WHITTIER REHABILTATION HOSPITAL, LYNN, MA."
+  },
+  {
+    "doc_id": "5e688e99-61b3-5c88-308e-866ec9802cbb",
+    "patient_id": "5e688e99-61b3-5c88-3f60-21df8aaced27",
+    "document_type": "Office Visit Note",
+    "date": "2023-03-09",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Wallace Effertz - 2023-03-09",
+    "content": "Seen for Patient referral for dental care."
+  },
+  {
+    "doc_id": "5e688e99-61b3-5c88-308e-866ec9802cbb",
+    "patient_id": "5e688e99-61b3-5c88-3f60-21df8aaced27",
+    "document_type": "Office Visit Note",
+    "date": "2023-03-09",
+    "section": "Procedures",
+    "title": "Office Visit Note - Wallace Effertz - 2023-03-09",
+    "content": "- Dental consultation and report, for Patient referral for dental care.\n- Dental care, for Patient referral for dental care.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Examination of gingivae, for Patient referral for dental care.\n- Oral health education, for Patient referral for dental care."
+  }
+]

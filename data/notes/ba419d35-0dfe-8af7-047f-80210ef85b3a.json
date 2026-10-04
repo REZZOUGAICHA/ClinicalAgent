@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "ba419d35-0dfe-8af7-047f-80210ef85b3a",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Urgent Care Note",
+    "date": "2016-04-01",
+    "section": "Visit Information",
+    "title": "Urgent Care Note - Corie Kohler - 2016-04-01",
+    "content": "Patient: Corie Kohler, female, born 1925-09-18 (patient ID ba419d35-0dfe-8af7-347c-eebf02485a56).\nVisit date: 2016-04-01.\nVisit type: Urgent care clinic.\nClinician: Lorenzo Casta\u00f1eda (General Practice).\nFacility: WOONSOCKET URGENT CARE PC, NORTH ATTLEBORO, MA."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-047f-80210ef85b3a",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Urgent Care Note",
+    "date": "2016-04-01",
+    "section": "Vital Signs",
+    "title": "Urgent Care Note - Corie Kohler - 2016-04-01",
+    "content": "- Body Height: 164.1 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0\n- Body Weight: 82.0 kg\n- Body mass index (BMI) [Ratio]: 30.5 kg/m2\n- Diastolic Blood Pressure: 71.0 mm[Hg]\n- Systolic Blood Pressure: 110.0 mm[Hg]\n- Heart rate: 91.0 /min\n- Respiratory rate: 12.0 /min"
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-047f-80210ef85b3a",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Urgent Care Note",
+    "date": "2016-04-01",
+    "section": "Procedures",
+    "title": "Urgent Care Note - Corie Kohler - 2016-04-01",
+    "content": "- Assessment of health and social care needs.\n- Assessment using Morse Fall Scale.\n- Screening for domestic abuse.\n- Depression screening.\n- Depression screening."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-047f-80210ef85b3a",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Urgent Care Note",
+    "date": "2016-04-01",
+    "section": "Medications",
+    "title": "Urgent Care Note - Corie Kohler - 2016-04-01",
+    "content": "Medications prescribed at this visit:\n- lisinopril 10 MG Oral Tablet, started 2016-04-01, for Essential hypertension; stopped 2016-05-06."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-047f-80210ef85b3a",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Urgent Care Note",
+    "date": "2016-04-01",
+    "section": "Immunizations",
+    "title": "Urgent Care Note - Corie Kohler - 2016-04-01",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

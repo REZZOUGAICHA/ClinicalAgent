@@ -1,0 +1,65 @@
+[
+  {
+    "doc_id": "7811dc30-8c86-8164-fa9e-c2f7931982cd",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-12-21",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Mignon Rau - 2021-12-21",
+    "content": "Patient: Mignon Rau, female, born 1970-04-21 (patient ID 7811dc30-8c86-8164-6c33-6b6f464745ef).\nVisit date: 2021-12-21.\nVisit type: General examination of patient.\nClinician: Gordon Monahan (General Practice).\nFacility: ASSOCIATED INTERNISTS OF RANDOLPH INC., MILTON, MA."
+  },
+  {
+    "doc_id": "7811dc30-8c86-8164-fa9e-c2f7931982cd",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-12-21",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Mignon Rau - 2021-12-21",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2021-12-21), resolved 2021-12-21.\n- Full-time employment (onset 2021-12-21), resolved 2022-12-27.\n- Stress (onset 2021-12-21).\n- Gingivitis (onset 2021-12-21), resolved 2022-01-04."
+  },
+  {
+    "doc_id": "7811dc30-8c86-8164-fa9e-c2f7931982cd",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-12-21",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Mignon Rau - 2021-12-21",
+    "content": "- Body Height: 153.2 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0\n- Body Weight: 66.0 kg\n- Body mass index (BMI) [Ratio]: 28.1 kg/m2\n- Diastolic Blood Pressure: 76.0 mm[Hg]\n- Systolic Blood Pressure: 115.0 mm[Hg]\n- Heart rate: 84.0 /min\n- Respiratory rate: 14.0 /min"
+  },
+  {
+    "doc_id": "7811dc30-8c86-8164-fa9e-c2f7931982cd",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-12-21",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Mignon Rau - 2021-12-21",
+    "content": "- Hemoglobin A1c/Hemoglobin.total in Blood: 5.5 %\n- Glucose [Mass/volume] in Blood: 83.5 mg/dL\n- Urea nitrogen [Mass/volume] in Blood: 14.1 mg/dL\n- Creatinine [Mass/volume] in Blood: 0.7 mg/dL\n- Calcium [Mass/volume] in Blood: 9.1 mg/dL\n- Sodium [Moles/volume] in Blood: 138.9 mmol/L\n- Potassium [Moles/volume] in Blood: 5.1 mmol/L\n- Chloride [Moles/volume] in Blood: 104.7 mmol/L\n- Carbon dioxide  total [Moles/volume] in Blood: 27.5 mmol/L\n- Cholesterol [Mass/volume] in Serum or Plasma: 194.5 mg/dL\n- Triglyceride [Mass/volume] in Serum or Plasma: 133.5 mg/dL\n- Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay: 114.8 mg/dL\n- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 53.1 mg/dL\n- Microalbumin/Creatinine [Mass Ratio] in Urine: 10.0 mg/g\n- Leukocytes [#/volume] in Blood by Automated count: 6.0 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 5.2 10*6/uL\n- Hemoglobin [Mass/volume] in Blood: 15.1 g/dL\n- Hematocrit [Volume Fraction] of Blood by Automated count: 35.7 %\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 85.9 fL\n- MCH [Entitic mass] by Automated count: 30.5 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 34.8 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 39.0 fL\n- Platelets [#/volume] in Blood by Automated count: 412.7 10*3/uL\n- Platelet distribution width [Entitic volume] in Blood by Automated count: 16.8 fL\n- Platelet [Entitic mean volume] in Blood by Automated count: 9.4 fL\n- Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M: 131.6 mL/min/{1.73_m2}"
+  },
+  {
+    "doc_id": "7811dc30-8c86-8164-fa9e-c2f7931982cd",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-12-21",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Mignon Rau - 2021-12-21",
+    "content": "- Medication reconciliation.\n- Assessment of health and social care needs.\n- Depression screening.\n- Depression screening.\n- Assessment of substance use.\n- Screening for drug abuse.\n- Patient referral for dental care, for Gingivitis."
+  },
+  {
+    "doc_id": "7811dc30-8c86-8164-fa9e-c2f7931982cd",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-12-21",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Mignon Rau - 2021-12-21",
+    "content": "Medications prescribed at this visit:\n- 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet, started 2021-12-21, for Diabetes mellitus type 2; stopped 2022-12-27.\n- budesonide 0.125 MG/ML Inhalation Suspension, started 2021-12-21, for Childhood asthma; stopped 2022-12-27.\n- albuterol 0.83 MG/ML Inhalation Solution, started 2021-12-21, for Childhood asthma; stopped 2022-12-27."
+  },
+  {
+    "doc_id": "7811dc30-8c86-8164-fa9e-c2f7931982cd",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-12-21",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Mignon Rau - 2021-12-21",
+    "content": "- zoster vaccine live.\n- Influenza split virus trivalent PF.\n- Td (adult) 5 Lf tetanus toxoid preservative free adsorbed."
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "f32a088b-988b-d7d5-0c77-387f13c46594",
+    "patient_id": "f32a088b-988b-d7d5-008b-89ea4ed1fc48",
+    "document_type": "Urgent Care Note",
+    "date": "2018-07-25",
+    "section": "Visit Information",
+    "title": "Urgent Care Note - Wayne McLaughlin - 2018-07-25",
+    "content": "Patient: Wayne McLaughlin, male, born 2006-08-16 (patient ID f32a088b-988b-d7d5-008b-89ea4ed1fc48).\nVisit date: 2018-07-25.\nVisit type: Urgent care clinic.\nClinician: Cortez Price (General Practice).\nFacility: PATRIOT URGENT CARE PROFESSIONALS PC, WALTHAM, MA."
+  },
+  {
+    "doc_id": "f32a088b-988b-d7d5-0c77-387f13c46594",
+    "patient_id": "f32a088b-988b-d7d5-008b-89ea4ed1fc48",
+    "document_type": "Urgent Care Note",
+    "date": "2018-07-25",
+    "section": "Assessment",
+    "title": "Urgent Care Note - Wayne McLaughlin - 2018-07-25",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2018-07-25), resolved 2018-08-01."
+  },
+  {
+    "doc_id": "f32a088b-988b-d7d5-0c77-387f13c46594",
+    "patient_id": "f32a088b-988b-d7d5-008b-89ea4ed1fc48",
+    "document_type": "Urgent Care Note",
+    "date": "2018-07-25",
+    "section": "Vital Signs",
+    "title": "Urgent Care Note - Wayne McLaughlin - 2018-07-25",
+    "content": "- Body Height: 152.3 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0\n- Body Weight: 46.2 kg\n- Body mass index (BMI) [Ratio]: 19.9 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 77.7 %\n- Diastolic Blood Pressure: 84.0 mm[Hg]\n- Systolic Blood Pressure: 109.0 mm[Hg]\n- Heart rate: 93.0 /min\n- Respiratory rate: 15.0 /min"
+  },
+  {
+    "doc_id": "f32a088b-988b-d7d5-0c77-387f13c46594",
+    "patient_id": "f32a088b-988b-d7d5-008b-89ea4ed1fc48",
+    "document_type": "Urgent Care Note",
+    "date": "2018-07-25",
+    "section": "Procedures",
+    "title": "Urgent Care Note - Wayne McLaughlin - 2018-07-25",
+    "content": "- Patient referral for dental care."
+  },
+  {
+    "doc_id": "f32a088b-988b-d7d5-0c77-387f13c46594",
+    "patient_id": "f32a088b-988b-d7d5-008b-89ea4ed1fc48",
+    "document_type": "Urgent Care Note",
+    "date": "2018-07-25",
+    "section": "Medications",
+    "title": "Urgent Care Note - Wayne McLaughlin - 2018-07-25",
+    "content": "Medications prescribed at this visit:\n- 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent], started 2018-07-25, for Childhood asthma; stopped 2018-08-01.\n- albuterol 0.83 MG/ML Inhalation Solution, started 2018-07-25, for Childhood asthma; stopped 2018-08-01."
+  },
+  {
+    "doc_id": "f32a088b-988b-d7d5-0c77-387f13c46594",
+    "patient_id": "f32a088b-988b-d7d5-008b-89ea4ed1fc48",
+    "document_type": "Urgent Care Note",
+    "date": "2018-07-25",
+    "section": "Immunizations",
+    "title": "Urgent Care Note - Wayne McLaughlin - 2018-07-25",
+    "content": "- Influenza split virus trivalent PF.\n- HPV quadrivalent."
+  }
+]

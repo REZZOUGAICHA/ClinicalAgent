@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "f95a6723-14a5-c4b6-2e96-c292e63f0b80",
+    "patient_id": "f95a6723-14a5-c4b6-78df-fa97f7ab361c",
+    "document_type": "Office Visit Note",
+    "date": "2025-08-13",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Roxann Sauer - 2025-08-13",
+    "content": "Patient: Roxann Sauer, female, born 1986-08-23 (patient ID f95a6723-14a5-c4b6-78df-fa97f7ab361c).\nVisit date: 2025-08-13.\nVisit type: Encounter for symptom.\nClinician: Chu Weber (General Practice).\nFacility: STURDY MEMORIAL HOSPITAL INC, ATTLEBORO, MA."
+  },
+  {
+    "doc_id": "f95a6723-14a5-c4b6-2e96-c292e63f0b80",
+    "patient_id": "f95a6723-14a5-c4b6-78df-fa97f7ab361c",
+    "document_type": "Office Visit Note",
+    "date": "2025-08-13",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Roxann Sauer - 2025-08-13",
+    "content": "Seen for Sleep disorder."
+  },
+  {
+    "doc_id": "f95a6723-14a5-c4b6-2e96-c292e63f0b80",
+    "patient_id": "f95a6723-14a5-c4b6-78df-fa97f7ab361c",
+    "document_type": "Office Visit Note",
+    "date": "2025-08-13",
+    "section": "Assessment",
+    "title": "Office Visit Note - Roxann Sauer - 2025-08-13",
+    "content": "Diagnoses recorded at this visit:\n- Sleep disorder (onset 2025-08-13)."
+  },
+  {
+    "doc_id": "f95a6723-14a5-c4b6-2e96-c292e63f0b80",
+    "patient_id": "f95a6723-14a5-c4b6-78df-fa97f7ab361c",
+    "document_type": "Office Visit Note",
+    "date": "2025-08-13",
+    "section": "Procedures",
+    "title": "Office Visit Note - Roxann Sauer - 2025-08-13",
+    "content": "- Sleep apnea assessment, for Sleep disorder.\n- Referral to sleep apnea clinic, for Sleep disorder."
+  }
+]

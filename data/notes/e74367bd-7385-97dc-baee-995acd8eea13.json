@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "e74367bd-7385-97dc-baee-995acd8eea13",
+    "patient_id": "e74367bd-7385-97dc-2c7f-251b4cd9fe29",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1973-10-20",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Tennille Jerde - 1973-10-20",
+    "content": "Patient: Tennille Jerde, female, born 1960-09-24 (patient ID e74367bd-7385-97dc-2c7f-251b4cd9fe29).\nVisit date: 1973-10-20.\nVisit type: Well child visit.\nClinician: Vito Barton (General Practice).\nFacility: DAVIS SQUARE FAMILY PRACTICE, SOMERVILLE, MA."
+  },
+  {
+    "doc_id": "e74367bd-7385-97dc-baee-995acd8eea13",
+    "patient_id": "e74367bd-7385-97dc-2c7f-251b4cd9fe29",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1973-10-20",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Tennille Jerde - 1973-10-20",
+    "content": "Diagnoses recorded at this visit:\n- Risk activity involvement (onset 1973-10-20)."
+  }
+]

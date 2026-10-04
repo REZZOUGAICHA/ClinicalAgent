@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "05cc86a0-2d98-b046-3d71-ea096e97b692",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "2012-10-17",
+    "section": "Visit Information",
+    "title": "Inpatient Discharge Summary - Carita Grady - 2012-10-17",
+    "content": "Patient: Carita Grady, female, born 1925-09-18 (patient ID 05cc86a0-2d98-b046-790a-211fd9e1ea92).\nVisit date: 2012-10-17.\nVisit type: Encounter for problem.\nClinician: Nickolas Schumm (General Practice).\nFacility: ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE, FRAMINGHAM, MA."
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-3d71-ea096e97b692",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "2012-10-17",
+    "section": "Reason for Visit",
+    "title": "Inpatient Discharge Summary - Carita Grady - 2012-10-17",
+    "content": "Seen for Appendicitis."
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-3d71-ea096e97b692",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "2012-10-17",
+    "section": "Assessment",
+    "title": "Inpatient Discharge Summary - Carita Grady - 2012-10-17",
+    "content": "Diagnoses recorded at this visit:\n- History of appendectomy (onset 2012-10-17)."
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "47d390c6-a1a2-1a80-cf65-9ed8b0ec2656",
+    "patient_id": "47d390c6-a1a2-1a80-dd1d-9722c7b24159",
+    "document_type": "Office Visit Note",
+    "date": "2020-12-03",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Demarcus Jones - 2020-12-03",
+    "content": "Patient: Demarcus Jones, male, born 2009-03-07 (patient ID 47d390c6-a1a2-1a80-dd1d-9722c7b24159).\nVisit date: 2020-12-03.\nVisit type: Encounter for symptom.\nClinician: Jackelyn Pacocha (General Practice).\nFacility: WP ACQUISITION SUB LLC, HAVERHILL, MA."
+  },
+  {
+    "doc_id": "47d390c6-a1a2-1a80-cf65-9ed8b0ec2656",
+    "patient_id": "47d390c6-a1a2-1a80-dd1d-9722c7b24159",
+    "document_type": "Office Visit Note",
+    "date": "2020-12-03",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Demarcus Jones - 2020-12-03",
+    "content": "Seen for Viral sinusitis."
+  },
+  {
+    "doc_id": "47d390c6-a1a2-1a80-cf65-9ed8b0ec2656",
+    "patient_id": "47d390c6-a1a2-1a80-dd1d-9722c7b24159",
+    "document_type": "Office Visit Note",
+    "date": "2020-12-03",
+    "section": "Assessment",
+    "title": "Office Visit Note - Demarcus Jones - 2020-12-03",
+    "content": "Diagnoses recorded at this visit:\n- Viral sinusitis (onset 2020-12-03), resolved 2020-12-23."
+  },
+  {
+    "doc_id": "47d390c6-a1a2-1a80-cf65-9ed8b0ec2656",
+    "patient_id": "47d390c6-a1a2-1a80-dd1d-9722c7b24159",
+    "document_type": "Office Visit Note",
+    "date": "2020-12-03",
+    "section": "Medications",
+    "title": "Office Visit Note - Demarcus Jones - 2020-12-03",
+    "content": "Medications prescribed at this visit:\n- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet, started 2020-12-03, for Viral sinusitis; stopped 2020-12-23."
+  }
+]

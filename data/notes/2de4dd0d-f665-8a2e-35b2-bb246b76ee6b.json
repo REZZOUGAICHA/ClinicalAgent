@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-35b2-bb246b76ee6b",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Emergency Department Note",
+    "date": "2019-02-02",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Aron Hammes - 2019-02-02",
+    "content": "Patient: Aron Hammes, male, born 2002-10-19 (patient ID 2de4dd0d-f665-8a2e-4c6b-997735e14ace).\nVisit date: 2019-02-02.\nVisit type: Emergency room admission.\nClinician: Fallon Homenick (General Practice).\nFacility: WILLIAMSTOWN COMMONS NURSING & REHAB, WILLIAMSTOWN, MA."
+  },
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-35b2-bb246b76ee6b",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Emergency Department Note",
+    "date": "2019-02-02",
+    "section": "Reason for Visit",
+    "title": "Emergency Department Note - Aron Hammes - 2019-02-02",
+    "content": "Seen for Fracture of bone."
+  },
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-35b2-bb246b76ee6b",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Emergency Department Note",
+    "date": "2019-02-02",
+    "section": "Assessment",
+    "title": "Emergency Department Note - Aron Hammes - 2019-02-02",
+    "content": "Diagnoses recorded at this visit:\n- Fracture of bone (onset 2019-02-02), resolved 2019-03-13.\n- Fracture of clavicle (onset 2019-02-02), resolved 2019-03-13."
+  },
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-35b2-bb246b76ee6b",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Emergency Department Note",
+    "date": "2019-02-02",
+    "section": "Procedures",
+    "title": "Emergency Department Note - Aron Hammes - 2019-02-02",
+    "content": "- Plain X-ray of clavicle.\n- Admission to orthopedic department, for Fracture of clavicle."
+  },
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-35b2-bb246b76ee6b",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Emergency Department Note",
+    "date": "2019-02-02",
+    "section": "Medications",
+    "title": "Emergency Department Note - Aron Hammes - 2019-02-02",
+    "content": "Medications prescribed at this visit:\n- Ibuprofen 200 MG Oral Tablet, started 2019-02-02; stopped 2019-03-13."
+  },
+  {
+    "doc_id": "2de4dd0d-f665-8a2e-35b2-bb246b76ee6b",
+    "patient_id": "2de4dd0d-f665-8a2e-4c6b-997735e14ace",
+    "document_type": "Emergency Department Note",
+    "date": "2019-02-02",
+    "section": "Plan",
+    "title": "Emergency Department Note - Aron Hammes - 2019-02-02",
+    "content": "- Fracture care for Fracture of clavicle, started 2019-02-02, ended 2019-03-13."
+  }
+]

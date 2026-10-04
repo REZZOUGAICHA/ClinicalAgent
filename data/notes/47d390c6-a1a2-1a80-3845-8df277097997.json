@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "47d390c6-a1a2-1a80-3845-8df277097997",
+    "patient_id": "47d390c6-a1a2-1a80-dd1d-9722c7b24159",
+    "document_type": "Office Visit Note",
+    "date": "2019-01-10",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Demarcus Jones - 2019-01-10",
+    "content": "Patient: Demarcus Jones, male, born 2009-03-07 (patient ID 47d390c6-a1a2-1a80-dd1d-9722c7b24159).\nVisit date: 2019-01-10.\nVisit type: Encounter for symptom.\nClinician: Jackelyn Pacocha (General Practice).\nFacility: WP ACQUISITION SUB LLC, HAVERHILL, MA."
+  },
+  {
+    "doc_id": "47d390c6-a1a2-1a80-3845-8df277097997",
+    "patient_id": "47d390c6-a1a2-1a80-dd1d-9722c7b24159",
+    "document_type": "Office Visit Note",
+    "date": "2019-01-10",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Demarcus Jones - 2019-01-10",
+    "content": "Seen for Viral sinusitis."
+  },
+  {
+    "doc_id": "47d390c6-a1a2-1a80-3845-8df277097997",
+    "patient_id": "47d390c6-a1a2-1a80-dd1d-9722c7b24159",
+    "document_type": "Office Visit Note",
+    "date": "2019-01-10",
+    "section": "Assessment",
+    "title": "Office Visit Note - Demarcus Jones - 2019-01-10",
+    "content": "Diagnoses recorded at this visit:\n- Viral sinusitis (onset 2019-01-10), resolved 2019-02-04."
+  }
+]

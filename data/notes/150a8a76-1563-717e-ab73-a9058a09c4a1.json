@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "150a8a76-1563-717e-ab73-a9058a09c4a1",
+    "patient_id": "150a8a76-1563-717e-bf0f-f52045675f46",
+    "document_type": "Outpatient Procedure Note",
+    "date": "1964-09-07",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Diego Armijo - 1964-09-07",
+    "content": "Patient: Diego Armijo, male, born 1947-03-03 (patient ID 150a8a76-1563-717e-bf0f-f52045675f46).\nVisit date: 1964-09-07.\nVisit type: Encounter for check up.\nClinician: Zachery Pagac (General Practice).\nFacility: MELROSEWAKEFIELD HEALTHCARE INC, MELROSE, MA."
+  },
+  {
+    "doc_id": "150a8a76-1563-717e-ab73-a9058a09c4a1",
+    "patient_id": "150a8a76-1563-717e-bf0f-f52045675f46",
+    "document_type": "Outpatient Procedure Note",
+    "date": "1964-09-07",
+    "section": "Vital Signs",
+    "title": "Outpatient Procedure Note - Diego Armijo - 1964-09-07",
+    "content": "- Body Height: 167.3 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0\n- Body Weight: 59.3 kg\n- Body mass index (BMI) [Ratio]: 21.2 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 44.8 %\n- Diastolic Blood Pressure: 71.0 mm[Hg]\n- Systolic Blood Pressure: 97.0 mm[Hg]\n- Heart rate: 76.0 /min\n- Respiratory rate: 15.0 /min"
+  },
+  {
+    "doc_id": "150a8a76-1563-717e-ab73-a9058a09c4a1",
+    "patient_id": "150a8a76-1563-717e-bf0f-f52045675f46",
+    "document_type": "Outpatient Procedure Note",
+    "date": "1964-09-07",
+    "section": "Procedures",
+    "title": "Outpatient Procedure Note - Diego Armijo - 1964-09-07",
+    "content": "- Assessment of anxiety.\n- Depression screening.\n- Depression screening using Patient Health Questionnaire Nine Item score.\n- Assessment of substance use.\n- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test.\n- Anticipatory guidance.\n- Patient referral for dental care."
+  },
+  {
+    "doc_id": "150a8a76-1563-717e-ab73-a9058a09c4a1",
+    "patient_id": "150a8a76-1563-717e-bf0f-f52045675f46",
+    "document_type": "Outpatient Procedure Note",
+    "date": "1964-09-07",
+    "section": "Immunizations",
+    "title": "Outpatient Procedure Note - Diego Armijo - 1964-09-07",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

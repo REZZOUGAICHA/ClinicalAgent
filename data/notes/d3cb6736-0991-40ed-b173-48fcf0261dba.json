@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "d3cb6736-0991-40ed-b173-48fcf0261dba",
+    "patient_id": "d3cb6736-0991-40ed-a220-7c714aba4c37",
+    "document_type": "Office Visit Note",
+    "date": "2021-06-27",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Tristan Reichel - 2021-06-27",
+    "content": "Patient: Tristan Reichel, male, born 1982-08-01 (patient ID d3cb6736-0991-40ed-a220-7c714aba4c37).\nVisit date: 2021-06-27.\nVisit type: Encounter for symptom.\nClinician: Beatriz Monroy (General Practice).\nFacility: FIRST PSYCHIATRIC PLANNERS INC, WOBURN, MA."
+  },
+  {
+    "doc_id": "d3cb6736-0991-40ed-b173-48fcf0261dba",
+    "patient_id": "d3cb6736-0991-40ed-a220-7c714aba4c37",
+    "document_type": "Office Visit Note",
+    "date": "2021-06-27",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Tristan Reichel - 2021-06-27",
+    "content": "Seen for Viral sinusitis."
+  },
+  {
+    "doc_id": "d3cb6736-0991-40ed-b173-48fcf0261dba",
+    "patient_id": "d3cb6736-0991-40ed-a220-7c714aba4c37",
+    "document_type": "Office Visit Note",
+    "date": "2021-06-27",
+    "section": "Assessment",
+    "title": "Office Visit Note - Tristan Reichel - 2021-06-27",
+    "content": "Diagnoses recorded at this visit:\n- Viral sinusitis (onset 2021-06-27), resolved 2021-07-05."
+  }
+]

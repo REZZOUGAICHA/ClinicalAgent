@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "47d390c6-a1a2-1a80-a4a6-777571c18a6b",
+    "patient_id": "47d390c6-a1a2-1a80-dd1d-9722c7b24159",
+    "document_type": "Office Visit Note",
+    "date": "2026-04-03",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Demarcus Jones - 2026-04-03",
+    "content": "Patient: Demarcus Jones, male, born 2009-03-07 (patient ID 47d390c6-a1a2-1a80-dd1d-9722c7b24159).\nVisit date: 2026-04-03.\nVisit type: Encounter for symptom.\nClinician: Jackelyn Pacocha (General Practice).\nFacility: WP ACQUISITION SUB LLC, HAVERHILL, MA."
+  },
+  {
+    "doc_id": "47d390c6-a1a2-1a80-a4a6-777571c18a6b",
+    "patient_id": "47d390c6-a1a2-1a80-dd1d-9722c7b24159",
+    "document_type": "Office Visit Note",
+    "date": "2026-04-03",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Demarcus Jones - 2026-04-03",
+    "content": "Seen for Acute bronchitis."
+  },
+  {
+    "doc_id": "47d390c6-a1a2-1a80-a4a6-777571c18a6b",
+    "patient_id": "47d390c6-a1a2-1a80-dd1d-9722c7b24159",
+    "document_type": "Office Visit Note",
+    "date": "2026-04-03",
+    "section": "Assessment",
+    "title": "Office Visit Note - Demarcus Jones - 2026-04-03",
+    "content": "Diagnoses recorded at this visit:\n- Acute bronchitis (onset 2026-04-04), resolved 2026-04-20."
+  },
+  {
+    "doc_id": "47d390c6-a1a2-1a80-a4a6-777571c18a6b",
+    "patient_id": "47d390c6-a1a2-1a80-dd1d-9722c7b24159",
+    "document_type": "Office Visit Note",
+    "date": "2026-04-03",
+    "section": "Medications",
+    "title": "Office Visit Note - Demarcus Jones - 2026-04-03",
+    "content": "Medications prescribed at this visit:\n- Acetaminophen 325 MG Oral Tablet, started 2026-04-03, for Acute bronchitis; stopped 2026-04-19."
+  },
+  {
+    "doc_id": "47d390c6-a1a2-1a80-a4a6-777571c18a6b",
+    "patient_id": "47d390c6-a1a2-1a80-dd1d-9722c7b24159",
+    "document_type": "Office Visit Note",
+    "date": "2026-04-03",
+    "section": "Plan",
+    "title": "Office Visit Note - Demarcus Jones - 2026-04-03",
+    "content": "- Respiratory therapy, started 2026-04-04, ended 2026-04-20."
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "7c913488-8c54-7aa0-965c-bd33889378e8",
+    "patient_id": "7c913488-8c54-7aa0-a452-83dbc3ad8377",
+    "document_type": "Emergency Department Note",
+    "date": "2025-11-17",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Dian Kiehn - 2025-11-17",
+    "content": "Patient: Dian Kiehn, female, born 2012-01-13 (patient ID 7c913488-8c54-7aa0-a452-83dbc3ad8377).\nVisit date: 2025-11-17.\nVisit type: Emergency room admission.\nClinician: Lucien Howe (General Practice).\nFacility: FALL RIVER JEWISH HOME INC, FALL RIVER, MA."
+  },
+  {
+    "doc_id": "7c913488-8c54-7aa0-965c-bd33889378e8",
+    "patient_id": "7c913488-8c54-7aa0-a452-83dbc3ad8377",
+    "document_type": "Emergency Department Note",
+    "date": "2025-11-17",
+    "section": "Reason for Visit",
+    "title": "Emergency Department Note - Dian Kiehn - 2025-11-17",
+    "content": "Seen for Fracture of bone."
+  },
+  {
+    "doc_id": "7c913488-8c54-7aa0-965c-bd33889378e8",
+    "patient_id": "7c913488-8c54-7aa0-a452-83dbc3ad8377",
+    "document_type": "Emergency Department Note",
+    "date": "2025-11-17",
+    "section": "Assessment",
+    "title": "Emergency Department Note - Dian Kiehn - 2025-11-17",
+    "content": "Diagnoses recorded at this visit:\n- Fracture of bone (onset 2025-11-17), resolved 2026-01-06.\n- Fracture subluxation of wrist (onset 2025-11-17), resolved 2026-01-06."
+  },
+  {
+    "doc_id": "7c913488-8c54-7aa0-965c-bd33889378e8",
+    "patient_id": "7c913488-8c54-7aa0-a452-83dbc3ad8377",
+    "document_type": "Emergency Department Note",
+    "date": "2025-11-17",
+    "section": "Procedures",
+    "title": "Emergency Department Note - Dian Kiehn - 2025-11-17",
+    "content": "- Plain X-ray of wrist region.\n- Bone immobilization, for Fracture subluxation of wrist."
+  },
+  {
+    "doc_id": "7c913488-8c54-7aa0-965c-bd33889378e8",
+    "patient_id": "7c913488-8c54-7aa0-a452-83dbc3ad8377",
+    "document_type": "Emergency Department Note",
+    "date": "2025-11-17",
+    "section": "Medications",
+    "title": "Emergency Department Note - Dian Kiehn - 2025-11-17",
+    "content": "Medications prescribed at this visit:\n- Ibuprofen 200 MG Oral Tablet, started 2025-11-17; stopped 2026-01-06."
+  },
+  {
+    "doc_id": "7c913488-8c54-7aa0-965c-bd33889378e8",
+    "patient_id": "7c913488-8c54-7aa0-a452-83dbc3ad8377",
+    "document_type": "Emergency Department Note",
+    "date": "2025-11-17",
+    "section": "Plan",
+    "title": "Emergency Department Note - Dian Kiehn - 2025-11-17",
+    "content": "- Fracture care for Fracture subluxation of wrist, started 2025-11-17, ended 2026-01-06."
+  }
+]

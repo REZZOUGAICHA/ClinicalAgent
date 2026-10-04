@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "7811dc30-8c86-8164-91b0-2ea7cbf3ae53",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Office Visit Note",
+    "date": "2012-04-12",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Mignon Rau - 2012-04-12",
+    "content": "Patient: Mignon Rau, female, born 1970-04-21 (patient ID 7811dc30-8c86-8164-6c33-6b6f464745ef).\nVisit date: 2012-04-12.\nVisit type: Ophthalmic examination and evaluation.\nClinician: Rudolf Vandervort (General Practice).\nFacility: BETH ISRAEL DEACONESS HOSPITAL MILTON INC, MILTON, MA."
+  },
+  {
+    "doc_id": "7811dc30-8c86-8164-91b0-2ea7cbf3ae53",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Office Visit Note",
+    "date": "2012-04-12",
+    "section": "Assessment",
+    "title": "Office Visit Note - Mignon Rau - 2012-04-12",
+    "content": "Diagnoses recorded at this visit:\n- Nonproliferative diabetic retinopathy due to type II diabetes mellitus (onset 2012-04-12)."
+  }
+]

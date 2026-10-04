@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "05cc86a0-2d98-b046-1345-9fdb318cb0c4",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Office Visit Note",
+    "date": "2016-05-29",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Carita Grady - 2016-05-29",
+    "content": "Patient: Carita Grady, female, born 1925-09-18 (patient ID 05cc86a0-2d98-b046-790a-211fd9e1ea92).\nVisit date: 2016-05-29.\nVisit type: Follow-up encounter.\nClinician: Nickolas Schumm (General Practice).\nFacility: ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE, FRAMINGHAM, MA."
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-1345-9fdb318cb0c4",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Office Visit Note",
+    "date": "2016-05-29",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Carita Grady - 2016-05-29",
+    "content": "Seen for Hyperlipidemia."
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-1345-9fdb318cb0c4",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Office Visit Note",
+    "date": "2016-05-29",
+    "section": "Medications",
+    "title": "Office Visit Note - Carita Grady - 2016-05-29",
+    "content": "Medications prescribed at this visit:\n- Simvastatin 10 MG Oral Tablet, started 2016-05-29, for Hyperlipidemia; stopped 2017-06-09."
+  }
+]

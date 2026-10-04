@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "7811dc30-8c86-8164-741f-9627a380143a",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2021-04-06",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Mignon Rau - 2021-04-06",
+    "content": "Patient: Mignon Rau, female, born 1970-04-21 (patient ID 7811dc30-8c86-8164-6c33-6b6f464745ef).\nVisit date: 2021-04-06.\nVisit type: Administration of vaccine to produce active immunity.\nClinician: Rudolf Vandervort (General Practice).\nFacility: BETH ISRAEL DEACONESS HOSPITAL MILTON INC, MILTON, MA."
+  },
+  {
+    "doc_id": "7811dc30-8c86-8164-741f-9627a380143a",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2021-04-06",
+    "section": "Immunizations",
+    "title": "Outpatient Procedure Note - Mignon Rau - 2021-04-06",
+    "content": "- COVID-19 mRNA LNP-S PF 100 mcg/0.5mL dose or 50 mcg/0.25mL dose."
+  }
+]

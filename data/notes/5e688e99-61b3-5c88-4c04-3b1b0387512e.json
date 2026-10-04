@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "5e688e99-61b3-5c88-4c04-3b1b0387512e",
+    "patient_id": "5e688e99-61b3-5c88-3f60-21df8aaced27",
+    "document_type": "Office Visit Note",
+    "date": "2020-10-29",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Wallace Effertz - 2020-10-29",
+    "content": "Patient: Wallace Effertz, male, born 2010-01-28 (patient ID 5e688e99-61b3-5c88-3f60-21df8aaced27).\nVisit date: 2020-10-29.\nVisit type: Encounter for symptom.\nClinician: Lorette Hauck (General Practice).\nFacility: WHITTIER REHABILTATION HOSPITAL, LYNN, MA."
+  },
+  {
+    "doc_id": "5e688e99-61b3-5c88-4c04-3b1b0387512e",
+    "patient_id": "5e688e99-61b3-5c88-3f60-21df8aaced27",
+    "document_type": "Office Visit Note",
+    "date": "2020-10-29",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Wallace Effertz - 2020-10-29",
+    "content": "Seen for Sinusitis."
+  },
+  {
+    "doc_id": "5e688e99-61b3-5c88-4c04-3b1b0387512e",
+    "patient_id": "5e688e99-61b3-5c88-3f60-21df8aaced27",
+    "document_type": "Office Visit Note",
+    "date": "2020-10-29",
+    "section": "Assessment",
+    "title": "Office Visit Note - Wallace Effertz - 2020-10-29",
+    "content": "Diagnoses recorded at this visit:\n- Sinusitis (onset 2020-10-30), resolved 2020-12-24."
+  }
+]

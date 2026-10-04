@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "982750f4-569b-5949-73f7-9abe84e4bbf8",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2016-08-19",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Dwana Wolf - 2016-08-19",
+    "content": "Patient: Dwana Wolf, female, born 1986-11-12 (patient ID 982750f4-569b-5949-196b-60699bdda3fb).\nVisit date: 2016-08-19.\nVisit type: Consultation for treatment.\nClinician: Marcus Schamberger (General Practice).\nFacility: THE LOWELL GENERAL HOSPITAL, WESTFORD, MA."
+  },
+  {
+    "doc_id": "982750f4-569b-5949-73f7-9abe84e4bbf8",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2016-08-19",
+    "section": "Reason for Visit",
+    "title": "Outpatient Procedure Note - Dwana Wolf - 2016-08-19",
+    "content": "Seen for Contraception care."
+  },
+  {
+    "doc_id": "982750f4-569b-5949-73f7-9abe84e4bbf8",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2016-08-19",
+    "section": "Medications",
+    "title": "Outpatient Procedure Note - Dwana Wolf - 2016-08-19",
+    "content": "Medications prescribed at this visit:\n- {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day], started 2016-08-19; stopped 2017-08-14."
+  }
+]

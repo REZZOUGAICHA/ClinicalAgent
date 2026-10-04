@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "f32a088b-988b-d7d5-b730-219c2c242bd0",
+    "patient_id": "f32a088b-988b-d7d5-008b-89ea4ed1fc48",
+    "document_type": "Emergency Department Note",
+    "date": "2024-07-14",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Wayne McLaughlin - 2024-07-14",
+    "content": "Patient: Wayne McLaughlin, male, born 2006-08-16 (patient ID f32a088b-988b-d7d5-008b-89ea4ed1fc48).\nVisit date: 2024-07-14.\nVisit type: Emergency room admission.\nClinician: Jamal Stroman (General Practice).\nFacility: ART OF CARE INC, ALLSTON, MA."
+  },
+  {
+    "doc_id": "f32a088b-988b-d7d5-b730-219c2c242bd0",
+    "patient_id": "f32a088b-988b-d7d5-008b-89ea4ed1fc48",
+    "document_type": "Emergency Department Note",
+    "date": "2024-07-14",
+    "section": "Reason for Visit",
+    "title": "Emergency Department Note - Wayne McLaughlin - 2024-07-14",
+    "content": "Seen for Fracture of bone."
+  },
+  {
+    "doc_id": "f32a088b-988b-d7d5-b730-219c2c242bd0",
+    "patient_id": "f32a088b-988b-d7d5-008b-89ea4ed1fc48",
+    "document_type": "Emergency Department Note",
+    "date": "2024-07-14",
+    "section": "Assessment",
+    "title": "Emergency Department Note - Wayne McLaughlin - 2024-07-14",
+    "content": "Diagnoses recorded at this visit:\n- Fracture of bone (onset 2024-07-14), resolved 2024-09-02.\n- Fracture of ankle (onset 2024-07-14), resolved 2024-09-02."
+  },
+  {
+    "doc_id": "f32a088b-988b-d7d5-b730-219c2c242bd0",
+    "patient_id": "f32a088b-988b-d7d5-008b-89ea4ed1fc48",
+    "document_type": "Emergency Department Note",
+    "date": "2024-07-14",
+    "section": "Procedures",
+    "title": "Emergency Department Note - Wayne McLaughlin - 2024-07-14",
+    "content": "- Plain X-ray of ankle region.\n- Bone immobilization, for Fracture of ankle."
+  },
+  {
+    "doc_id": "f32a088b-988b-d7d5-b730-219c2c242bd0",
+    "patient_id": "f32a088b-988b-d7d5-008b-89ea4ed1fc48",
+    "document_type": "Emergency Department Note",
+    "date": "2024-07-14",
+    "section": "Medications",
+    "title": "Emergency Department Note - Wayne McLaughlin - 2024-07-14",
+    "content": "Medications prescribed at this visit:\n- Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet, started 2024-07-14; no stop date recorded.\n- Ibuprofen 200 MG Oral Tablet, started 2024-07-14; stopped 2024-09-02."
+  },
+  {
+    "doc_id": "f32a088b-988b-d7d5-b730-219c2c242bd0",
+    "patient_id": "f32a088b-988b-d7d5-008b-89ea4ed1fc48",
+    "document_type": "Emergency Department Note",
+    "date": "2024-07-14",
+    "section": "Plan",
+    "title": "Emergency Department Note - Wayne McLaughlin - 2024-07-14",
+    "content": "- Fracture care for Fracture of ankle, started 2024-07-14, ended 2024-09-02."
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "922fb35e-148d-9e82-8019-aa428cb880d2",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2022-08-29",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Agnes Weber - 2022-08-29",
+    "content": "Patient: Agnes Weber, female, born 1986-12-19 (patient ID 922fb35e-148d-9e82-7e65-bfa05e3b3515).\nVisit date: 2022-08-29.\nVisit type: Consultation for treatment.\nClinician: Chanell Robel (General Practice).\nFacility: WHITTIER REHABILITATION HOSPITAL - BRADFORD, WESTBOROUGH, MA."
+  },
+  {
+    "doc_id": "922fb35e-148d-9e82-8019-aa428cb880d2",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2022-08-29",
+    "section": "Reason for Visit",
+    "title": "Outpatient Procedure Note - Agnes Weber - 2022-08-29",
+    "content": "Seen for Contraception care."
+  },
+  {
+    "doc_id": "922fb35e-148d-9e82-8019-aa428cb880d2",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2022-08-29",
+    "section": "Medications",
+    "title": "Outpatient Procedure Note - Agnes Weber - 2022-08-29",
+    "content": "Medications prescribed at this visit:\n- {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Trinessa 28 Day], started 2022-08-29; stopped 2023-08-24."
+  }
+]

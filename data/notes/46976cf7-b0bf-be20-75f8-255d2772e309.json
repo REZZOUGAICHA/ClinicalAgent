@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "46976cf7-b0bf-be20-75f8-255d2772e309",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-09-22",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Lindsay Zieme - 2017-09-22",
+    "content": "Patient: Lindsay Zieme, female, born 2007-09-14 (patient ID 46976cf7-b0bf-be20-39a5-9f425a52886d).\nVisit date: 2017-09-22.\nVisit type: Well child visit.\nClinician: Levi Abbott (General Practice).\nFacility: TREE OF LIFE HEALTHCARE ASSOCIATES, WORCESTER, MA."
+  },
+  {
+    "doc_id": "46976cf7-b0bf-be20-75f8-255d2772e309",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-09-22",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Lindsay Zieme - 2017-09-22",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2017-09-22), resolved 2018-10-05."
+  },
+  {
+    "doc_id": "46976cf7-b0bf-be20-75f8-255d2772e309",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-09-22",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Lindsay Zieme - 2017-09-22",
+    "content": "- Body Height: 138.2 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0\n- Body Weight: 32.2 kg\n- Body mass index (BMI) [Ratio]: 16.9 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 49.9 %\n- Diastolic Blood Pressure: 93.0 mm[Hg]\n- Systolic Blood Pressure: 109.0 mm[Hg]\n- Heart rate: 88.0 /min\n- Respiratory rate: 14.0 /min"
+  },
+  {
+    "doc_id": "46976cf7-b0bf-be20-75f8-255d2772e309",
+    "patient_id": "46976cf7-b0bf-be20-39a5-9f425a52886d",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2017-09-22",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Lindsay Zieme - 2017-09-22",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

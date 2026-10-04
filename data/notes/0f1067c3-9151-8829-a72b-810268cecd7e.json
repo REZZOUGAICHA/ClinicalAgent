@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "0f1067c3-9151-8829-a72b-810268cecd7e",
+    "patient_id": "0f1067c3-9151-8829-56cd-2eff898db59c",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2026-06-02",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Virgie Aufderhar - 2026-06-02",
+    "content": "Patient: Virgie Aufderhar, female, born 2009-06-18 (patient ID 0f1067c3-9151-8829-56cd-2eff898db59c).\nVisit date: 2026-06-02.\nVisit type: Consultation for treatment.\nClinician: Antwan Lindgren (General Practice).\nFacility: DR SOLOMON CARTER FULLER MENTAL HEALTH CENTER, BOSTON, MA."
+  },
+  {
+    "doc_id": "0f1067c3-9151-8829-a72b-810268cecd7e",
+    "patient_id": "0f1067c3-9151-8829-56cd-2eff898db59c",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2026-06-02",
+    "section": "Reason for Visit",
+    "title": "Outpatient Procedure Note - Virgie Aufderhar - 2026-06-02",
+    "content": "Seen for Contraception care."
+  },
+  {
+    "doc_id": "0f1067c3-9151-8829-a72b-810268cecd7e",
+    "patient_id": "0f1067c3-9151-8829-56cd-2eff898db59c",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2026-06-02",
+    "section": "Medications",
+    "title": "Outpatient Procedure Note - Virgie Aufderhar - 2026-06-02",
+    "content": "Medications prescribed at this visit:\n- 21 DAY ethinyl estradiol 0.000625 MG/HR / etonogestrel 0.005 MG/HR Vaginal System [NuvaRing], started 2026-06-02; no stop date recorded."
+  }
+]

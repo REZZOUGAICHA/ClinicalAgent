@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "d3cb6736-0991-40ed-cd72-077705e0868f",
+    "patient_id": "d3cb6736-0991-40ed-a220-7c714aba4c37",
+    "document_type": "Office Visit Note",
+    "date": "2017-08-18",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Tristan Reichel - 2017-08-18",
+    "content": "Patient: Tristan Reichel, male, born 1982-08-01 (patient ID d3cb6736-0991-40ed-a220-7c714aba4c37).\nVisit date: 2017-08-18.\nVisit type: Encounter for symptom.\nClinician: Beatriz Monroy (General Practice).\nFacility: FIRST PSYCHIATRIC PLANNERS INC, WOBURN, MA."
+  },
+  {
+    "doc_id": "d3cb6736-0991-40ed-cd72-077705e0868f",
+    "patient_id": "d3cb6736-0991-40ed-a220-7c714aba4c37",
+    "document_type": "Office Visit Note",
+    "date": "2017-08-18",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Tristan Reichel - 2017-08-18",
+    "content": "Seen for Acute infective cystitis."
+  },
+  {
+    "doc_id": "d3cb6736-0991-40ed-cd72-077705e0868f",
+    "patient_id": "d3cb6736-0991-40ed-a220-7c714aba4c37",
+    "document_type": "Office Visit Note",
+    "date": "2017-08-18",
+    "section": "Laboratory Results",
+    "title": "Office Visit Note - Tristan Reichel - 2017-08-18",
+    "content": "- Glucose [Mass/volume] in Urine by Test strip: 10.4 mg/dL\n- Ketones [Presence] in Urine by Test strip: Urine ketones not detected (finding)\n- Specific gravity of Urine by Test strip: 1.0\n- pH of Urine by Test strip: 6.8 pH\n- Protein [Mass/volume] in Urine by Test strip: 6.4 mg/dL\n- Nitrite [Presence] in Urine by Test strip: Nitrite detected in urine (finding)\n- Hemoglobin [Presence] in Urine by Test strip: Urine blood test = + (finding)\n- Leukocyte esterase [Presence] in Urine by Test strip: Urine leukocyte test one plus (finding)\n- Leukocytes [#/area] in Urine sediment by Microscopy high power field: 12.9 /[HPF]\n- Erythrocytes [#/area] in Urine sediment by Microscopy high power field: 1.8 /[HPF]\n- Epithelial cells [#/area] in Urine sediment by Microscopy high power field: 3.1 /[HPF]\n- Casts [Presence] in Urine sediment by Light microscopy: Urine microscopy: no casts (finding)\n- Mucus [Presence] in Urine sediment by Light microscopy: Mucus in urine (finding)\n- Bacteria [#/area] in Urine sediment by Microscopy high power field: Finding of presence of bacteria (finding)\n- Bacteria identified in Urine by Culture: Greater than 100 000 colony forming units per mL Escherichia coli"
+  },
+  {
+    "doc_id": "d3cb6736-0991-40ed-cd72-077705e0868f",
+    "patient_id": "d3cb6736-0991-40ed-a220-7c714aba4c37",
+    "document_type": "Office Visit Note",
+    "date": "2017-08-18",
+    "section": "Procedures",
+    "title": "Office Visit Note - Tristan Reichel - 2017-08-18",
+    "content": "- History taking.\n- Discussion about signs and symptoms.\n- History and physical examination  limited.\n- Evaluation procedure.\n- Urine specimen collection.\n- Urinalysis with reflex to microscopy and culture.\n- Antibiotic therapy."
+  },
+  {
+    "doc_id": "d3cb6736-0991-40ed-cd72-077705e0868f",
+    "patient_id": "d3cb6736-0991-40ed-a220-7c714aba4c37",
+    "document_type": "Office Visit Note",
+    "date": "2017-08-18",
+    "section": "Medications",
+    "title": "Office Visit Note - Tristan Reichel - 2017-08-18",
+    "content": "Medications prescribed at this visit:\n- nitrofurantoin  macrocrystals 25 MG / nitrofurantoin  monohydrate 75 MG [Macrobid], started 2017-08-18, for Acute infective cystitis; stopped 2017-08-20."
+  }
+]

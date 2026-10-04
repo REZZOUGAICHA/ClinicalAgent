@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "e74367bd-7385-97dc-7629-b7bc23ee8b5a",
+    "patient_id": "e74367bd-7385-97dc-2c7f-251b4cd9fe29",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-11-16",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Tennille Jerde - 2019-11-16",
+    "content": "Patient: Tennille Jerde, female, born 1960-09-24 (patient ID e74367bd-7385-97dc-2c7f-251b4cd9fe29).\nVisit date: 2019-11-16.\nVisit type: General examination of patient.\nClinician: Vito Barton (General Practice).\nFacility: DAVIS SQUARE FAMILY PRACTICE, SOMERVILLE, MA."
+  },
+  {
+    "doc_id": "e74367bd-7385-97dc-7629-b7bc23ee8b5a",
+    "patient_id": "e74367bd-7385-97dc-2c7f-251b4cd9fe29",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-11-16",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Tennille Jerde - 2019-11-16",
+    "content": "- Body Height: 163.0 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0\n- Body Weight: 79.1 kg\n- Body mass index (BMI) [Ratio]: 29.8 kg/m2\n- Diastolic Blood Pressure: 87.0 mm[Hg]\n- Systolic Blood Pressure: 125.0 mm[Hg]\n- Heart rate: 90.0 /min\n- Respiratory rate: 16.0 /min"
+  },
+  {
+    "doc_id": "e74367bd-7385-97dc-7629-b7bc23ee8b5a",
+    "patient_id": "e74367bd-7385-97dc-2c7f-251b4cd9fe29",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-11-16",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Tennille Jerde - 2019-11-16",
+    "content": "- Hemoglobin A1c/Hemoglobin.total in Blood: 6.3 %\n- Glucose [Mass/volume] in Blood: 88.9 mg/dL\n- Urea nitrogen [Mass/volume] in Blood: 8.6 mg/dL\n- Creatinine [Mass/volume] in Blood: 0.9 mg/dL\n- Calcium [Mass/volume] in Blood: 8.6 mg/dL\n- Sodium [Moles/volume] in Blood: 138.7 mmol/L\n- Potassium [Moles/volume] in Blood: 5.1 mmol/L\n- Chloride [Moles/volume] in Blood: 110.5 mmol/L\n- Carbon dioxide  total [Moles/volume] in Blood: 24.2 mmol/L"
+  },
+  {
+    "doc_id": "e74367bd-7385-97dc-7629-b7bc23ee8b5a",
+    "patient_id": "e74367bd-7385-97dc-2c7f-251b4cd9fe29",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-11-16",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Tennille Jerde - 2019-11-16",
+    "content": "- Medication reconciliation.\n- Assessment of health and social care needs.\n- Depression screening.\n- Depression screening."
+  },
+  {
+    "doc_id": "e74367bd-7385-97dc-7629-b7bc23ee8b5a",
+    "patient_id": "e74367bd-7385-97dc-2c7f-251b4cd9fe29",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-11-16",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Tennille Jerde - 2019-11-16",
+    "content": "Medications prescribed at this visit:\n- Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet], started 2019-11-16; stopped 2020-11-21.\n- Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin], started 2019-11-16; stopped 2020-11-21.\n- buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet, started 2019-11-16, for Opioid abuse; stopped 2020-11-21.\n- 12 HR Hydrocodone Bitartrate 10 MG Extended Release Oral Capsule, started 2019-11-16; stopped 2020-11-21."
+  },
+  {
+    "doc_id": "e74367bd-7385-97dc-7629-b7bc23ee8b5a",
+    "patient_id": "e74367bd-7385-97dc-2c7f-251b4cd9fe29",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2019-11-16",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Tennille Jerde - 2019-11-16",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

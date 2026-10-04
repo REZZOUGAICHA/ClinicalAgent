@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "0f1067c3-9151-8829-27eb-8309d61c76bc",
+    "patient_id": "0f1067c3-9151-8829-56cd-2eff898db59c",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2024-06-12",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Virgie Aufderhar - 2024-06-12",
+    "content": "Patient: Virgie Aufderhar, female, born 2009-06-18 (patient ID 0f1067c3-9151-8829-56cd-2eff898db59c).\nVisit date: 2024-06-12.\nVisit type: Consultation for treatment.\nClinician: Antwan Lindgren (General Practice).\nFacility: DR SOLOMON CARTER FULLER MENTAL HEALTH CENTER, BOSTON, MA."
+  },
+  {
+    "doc_id": "0f1067c3-9151-8829-27eb-8309d61c76bc",
+    "patient_id": "0f1067c3-9151-8829-56cd-2eff898db59c",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2024-06-12",
+    "section": "Reason for Visit",
+    "title": "Outpatient Procedure Note - Virgie Aufderhar - 2024-06-12",
+    "content": "Seen for Contraception care."
+  },
+  {
+    "doc_id": "0f1067c3-9151-8829-27eb-8309d61c76bc",
+    "patient_id": "0f1067c3-9151-8829-56cd-2eff898db59c",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2024-06-12",
+    "section": "Medications",
+    "title": "Outpatient Procedure Note - Virgie Aufderhar - 2024-06-12",
+    "content": "Medications prescribed at this visit:\n- {7 (ethinyl estradiol 0.01 MG Oral Tablet) / 84 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) } Pack [Seasonique], started 2024-06-12; stopped 2025-06-07."
+  }
+]

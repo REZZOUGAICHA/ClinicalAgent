@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "aee7bbe1-0c45-c028-a6a1-d61d8da74e04",
+    "patient_id": "aee7bbe1-0c45-c028-1e62-1f4cdb30c273",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2022-01-06",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Wilfredo Fritsch - 2022-01-06",
+    "content": "Patient: Wilfredo Fritsch, male, born 2010-12-23 (patient ID aee7bbe1-0c45-c028-1e62-1f4cdb30c273).\nVisit date: 2022-01-06.\nVisit type: Well child visit.\nClinician: Victoria Roob (General Practice).\nFacility: DILIGENCEHEALTHCARE, BROCKTON, MA."
+  },
+  {
+    "doc_id": "aee7bbe1-0c45-c028-a6a1-d61d8da74e04",
+    "patient_id": "aee7bbe1-0c45-c028-1e62-1f4cdb30c273",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2022-01-06",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Wilfredo Fritsch - 2022-01-06",
+    "content": "- Body Height: 148.1 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0\n- Body Weight: 52.1 kg\n- Body mass index (BMI) [Ratio]: 23.8 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 95.8 %\n- Diastolic Blood Pressure: 89.0 mm[Hg]\n- Systolic Blood Pressure: 108.0 mm[Hg]\n- Heart rate: 87.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "aee7bbe1-0c45-c028-a6a1-d61d8da74e04",
+    "patient_id": "aee7bbe1-0c45-c028-1e62-1f4cdb30c273",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2022-01-06",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Wilfredo Fritsch - 2022-01-06",
+    "content": "- Leukocytes [#/volume] in Blood by Automated count: 5.2 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 4.9 10*6/uL\n- Hemoglobin [Mass/volume] in Blood: 16.9 g/dL\n- Hematocrit [Volume Fraction] of Blood by Automated count: 46.2 %\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 80.6 fL\n- MCH [Entitic mass] by Automated count: 27.5 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 33.5 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 44.7 fL\n- Platelets [#/volume] in Blood by Automated count: 237.6 10*3/uL\n- Platelet distribution width [Entitic volume] in Blood by Automated count: 14.9 fL\n- Platelet [Entitic mean volume] in Blood by Automated count: 10.7 fL"
+  },
+  {
+    "doc_id": "aee7bbe1-0c45-c028-a6a1-d61d8da74e04",
+    "patient_id": "aee7bbe1-0c45-c028-1e62-1f4cdb30c273",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2022-01-06",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Wilfredo Fritsch - 2022-01-06",
+    "content": "- Tdap.\n- Influenza split virus trivalent PF.\n- HPV quadrivalent.\n- meningococcal MCV4P."
+  }
+]

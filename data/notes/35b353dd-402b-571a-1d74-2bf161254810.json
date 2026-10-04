@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "35b353dd-402b-571a-1d74-2bf161254810",
+    "patient_id": "35b353dd-402b-571a-d67a-af0a104d0854",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1993-09-18",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Jody Monahan - 1993-09-18",
+    "content": "Patient: Jody Monahan, male, born 1943-09-18 (patient ID 35b353dd-402b-571a-d67a-af0a104d0854).\nVisit date: 1993-09-18.\nVisit type: General examination of patient.\nClinician: Georgianne Howe (General Practice).\nFacility: WOODLAND INTERNISTS P.C., STONEHAM, MA."
+  },
+  {
+    "doc_id": "35b353dd-402b-571a-1d74-2bf161254810",
+    "patient_id": "35b353dd-402b-571a-d67a-af0a104d0854",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1993-09-18",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Jody Monahan - 1993-09-18",
+    "content": "Diagnoses recorded at this visit:\n- Essential hypertension (onset 1993-09-18)."
+  },
+  {
+    "doc_id": "35b353dd-402b-571a-1d74-2bf161254810",
+    "patient_id": "35b353dd-402b-571a-d67a-af0a104d0854",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1993-09-18",
+    "section": "Plan",
+    "title": "Annual Wellness Visit Note - Jody Monahan - 1993-09-18",
+    "content": "- Lifestyle education regarding hypertension for Essential hypertension, started 1993-09-18."
+  }
+]

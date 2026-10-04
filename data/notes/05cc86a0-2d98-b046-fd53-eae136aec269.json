@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "05cc86a0-2d98-b046-fd53-eae136aec269",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Office Visit Note",
+    "date": "2019-06-14",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Carita Grady - 2019-06-14",
+    "content": "Patient: Carita Grady, female, born 1925-09-18 (patient ID 05cc86a0-2d98-b046-790a-211fd9e1ea92).\nVisit date: 2019-06-14.\nVisit type: Encounter for check up.\nClinician: Nickolas Schumm (General Practice).\nFacility: ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE, FRAMINGHAM, MA."
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-fd53-eae136aec269",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Office Visit Note",
+    "date": "2019-06-14",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Carita Grady - 2019-06-14",
+    "content": "Seen for Patient referral for dental care."
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-fd53-eae136aec269",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Office Visit Note",
+    "date": "2019-06-14",
+    "section": "Assessment",
+    "title": "Office Visit Note - Carita Grady - 2019-06-14",
+    "content": "Diagnoses recorded at this visit:\n- Gingival disease (onset 2019-06-14), resolved 2019-06-14."
+  },
+  {
+    "doc_id": "05cc86a0-2d98-b046-fd53-eae136aec269",
+    "patient_id": "05cc86a0-2d98-b046-790a-211fd9e1ea92",
+    "document_type": "Office Visit Note",
+    "date": "2019-06-14",
+    "section": "Procedures",
+    "title": "Office Visit Note - Carita Grady - 2019-06-14",
+    "content": "- Dental consultation and report, for Patient referral for dental care.\n- Dental care, for Patient referral for dental care.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Dental plain X-ray bitewing.\n- Examination of gingivae, for Patient referral for dental care.\n- Dental surgical procedure, for Gingival disease.\n- Dental application of desensitizing medicament, for Gingival disease.\n- Gingivectomy or gingivoplasty  per tooth, for Gingival disease.\n- Postoperative care for dental procedure.\n- Oral health education, for Patient referral for dental care."
+  }
+]

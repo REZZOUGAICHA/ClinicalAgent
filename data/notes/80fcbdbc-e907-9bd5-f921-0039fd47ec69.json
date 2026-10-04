@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "80fcbdbc-e907-9bd5-f921-0039fd47ec69",
+    "patient_id": "80fcbdbc-e907-9bd5-2644-ad9ef5d6545b",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2016-06-20",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Jaime Aponte - 2016-06-20",
+    "content": "Patient: Jaime Aponte, male, born 1947-03-03 (patient ID 80fcbdbc-e907-9bd5-2644-ad9ef5d6545b).\nVisit date: 2016-06-20.\nVisit type: General examination of patient.\nClinician: Nicholle Satterfield (General Practice).\nFacility: MELROSE INTERNAL MEDICINE ASSOC PC, MELROSE, MA."
+  },
+  {
+    "doc_id": "80fcbdbc-e907-9bd5-f921-0039fd47ec69",
+    "patient_id": "80fcbdbc-e907-9bd5-2644-ad9ef5d6545b",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2016-06-20",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Jaime Aponte - 2016-06-20",
+    "content": "Diagnoses recorded at this visit:\n- Full-time employment (onset 2016-06-20), resolved 2019-07-08."
+  },
+  {
+    "doc_id": "80fcbdbc-e907-9bd5-f921-0039fd47ec69",
+    "patient_id": "80fcbdbc-e907-9bd5-2644-ad9ef5d6545b",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2016-06-20",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Jaime Aponte - 2016-06-20",
+    "content": "Medications prescribed at this visit:\n- Hydrochlorothiazide 25 MG Oral Tablet, started 2016-06-20, for Essential hypertension; stopped 2017-06-26.\n- lisinopril 10 MG Oral Tablet, started 2016-06-20, for Essential hypertension; stopped 2017-06-26.\n- amLODIPine 2.5 MG Oral Tablet, started 2016-06-20, for Essential hypertension; stopped 2017-06-26."
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "46ee9d82-b52c-856d-3ef1-6d98b7e50e5f",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-10-08",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Shalanda Koepp - 2024-10-08",
+    "content": "Patient: Shalanda Koepp, female, born 1996-06-18 (patient ID 46ee9d82-b52c-856d-069b-5064ff052225).\nVisit date: 2024-10-08.\nVisit type: General examination of patient.\nClinician: Pearlene Towne (General Practice).\nFacility: LOWELL COMMUNITY HEALTH CENTER, LOWELL, MA."
+  },
+  {
+    "doc_id": "46ee9d82-b52c-856d-3ef1-6d98b7e50e5f",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-10-08",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Shalanda Koepp - 2024-10-08",
+    "content": "Diagnoses recorded at this visit:\n- Not in labor force (onset 2024-10-08), resolved 2025-10-14."
+  },
+  {
+    "doc_id": "46ee9d82-b52c-856d-3ef1-6d98b7e50e5f",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-10-08",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Shalanda Koepp - 2024-10-08",
+    "content": "- Body Height: 153.2 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0\n- Body Weight: 70.1 kg\n- Body mass index (BMI) [Ratio]: 29.9 kg/m2\n- Diastolic Blood Pressure: 85.0 mm[Hg]\n- Systolic Blood Pressure: 132.0 mm[Hg]\n- Heart rate: 74.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "46ee9d82-b52c-856d-3ef1-6d98b7e50e5f",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-10-08",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Shalanda Koepp - 2024-10-08",
+    "content": "- Assessment of health and social care needs.\n- Assessment of anxiety."
+  },
+  {
+    "doc_id": "46ee9d82-b52c-856d-3ef1-6d98b7e50e5f",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-10-08",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Shalanda Koepp - 2024-10-08",
+    "content": "Medications prescribed at this visit:\n- tramadol hydrochloride 50 MG Oral Tablet, started 2024-10-08; stopped 2025-10-14."
+  },
+  {
+    "doc_id": "46ee9d82-b52c-856d-3ef1-6d98b7e50e5f",
+    "patient_id": "46ee9d82-b52c-856d-069b-5064ff052225",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2024-10-08",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Shalanda Koepp - 2024-10-08",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

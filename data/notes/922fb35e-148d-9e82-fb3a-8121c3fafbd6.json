@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "922fb35e-148d-9e82-fb3a-8121c3fafbd6",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Office Visit Note",
+    "date": "2024-03-15",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Agnes Weber - 2024-03-15",
+    "content": "Patient: Agnes Weber, female, born 1986-12-19 (patient ID 922fb35e-148d-9e82-7e65-bfa05e3b3515).\nVisit date: 2024-03-15.\nVisit type: Prenatal initial visit.\nClinician: Chanell Robel (General Practice).\nFacility: WHITTIER REHABILITATION HOSPITAL - BRADFORD, WESTBOROUGH, MA."
+  },
+  {
+    "doc_id": "922fb35e-148d-9e82-fb3a-8121c3fafbd6",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Office Visit Note",
+    "date": "2024-03-15",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Agnes Weber - 2024-03-15",
+    "content": "Seen for Normal pregnancy."
+  },
+  {
+    "doc_id": "922fb35e-148d-9e82-fb3a-8121c3fafbd6",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Office Visit Note",
+    "date": "2024-03-15",
+    "section": "Assessment",
+    "title": "Office Visit Note - Agnes Weber - 2024-03-15",
+    "content": "Diagnoses recorded at this visit:\n- Normal pregnancy (onset 2024-03-15), resolved 2024-10-18."
+  },
+  {
+    "doc_id": "922fb35e-148d-9e82-fb3a-8121c3fafbd6",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Office Visit Note",
+    "date": "2024-03-15",
+    "section": "Procedures",
+    "title": "Office Visit Note - Agnes Weber - 2024-03-15",
+    "content": "- Standard pregnancy test, for Normal pregnancy.\n- Ultrasound scan for fetal viability, for Normal pregnancy.\n- Evaluation of uterine fundal height, for Normal pregnancy.\n- Auscultation of the fetal heart, for Normal pregnancy.\n- Blood group typing, for Normal pregnancy.\n- Hemogram  automated  with red blood cells  white blood cells  hemoglobin  hematocrit  indices  platelet count  and manual white blood cell differential, for Normal pregnancy.\n- Hepatitis B surface antigen measurement, for Normal pregnancy.\n- Human immunodeficiency virus antigen test, for Normal pregnancy.\n- Chlamydia antigen test, for Normal pregnancy.\n- Gonorrhea infection titer test, for Normal pregnancy.\n- Syphilis infectious titer test, for Normal pregnancy.\n- Urine culture, for Normal pregnancy.\n- Cytopathology procedure  preparation of smear  genital source, for Normal pregnancy.\n- Urine screening test for diabetes, for Normal pregnancy.\n- Hepatitis C antibody  confirmatory test, for Normal pregnancy.\n- Rubella screening test, for Normal pregnancy.\n- Measurement of Varicella-zoster virus antibody, for Normal pregnancy.\n- Skin test for tuberculosis  Tine test, for Normal pregnancy.\n- Urinalysis  protein  qualitative, for Normal pregnancy.\n- Physical examination procedure, for Normal pregnancy."
+  },
+  {
+    "doc_id": "922fb35e-148d-9e82-fb3a-8121c3fafbd6",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Office Visit Note",
+    "date": "2024-03-15",
+    "section": "Plan",
+    "title": "Office Visit Note - Agnes Weber - 2024-03-15",
+    "content": "- Routine antenatal care, started 2024-03-15, ended 2024-10-18."
+  }
+]

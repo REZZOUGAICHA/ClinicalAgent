@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "47d390c6-a1a2-1a80-b250-0fb76ea3c017",
+    "patient_id": "47d390c6-a1a2-1a80-dd1d-9722c7b24159",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-03-21",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Demarcus Jones - 2020-03-21",
+    "content": "Patient: Demarcus Jones, male, born 2009-03-07 (patient ID 47d390c6-a1a2-1a80-dd1d-9722c7b24159).\nVisit date: 2020-03-21.\nVisit type: Well child visit.\nClinician: Francene Halvorson (General Practice).\nFacility: HAVERHILL FAMILY OFFICE LLC, HAVERHILL, MA."
+  },
+  {
+    "doc_id": "47d390c6-a1a2-1a80-b250-0fb76ea3c017",
+    "patient_id": "47d390c6-a1a2-1a80-dd1d-9722c7b24159",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-03-21",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Demarcus Jones - 2020-03-21",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2020-03-21), resolved 2020-03-21.\n- Gingivitis (onset 2020-03-21), resolved 2020-03-28."
+  },
+  {
+    "doc_id": "47d390c6-a1a2-1a80-b250-0fb76ea3c017",
+    "patient_id": "47d390c6-a1a2-1a80-dd1d-9722c7b24159",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-03-21",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Demarcus Jones - 2020-03-21",
+    "content": "- Body Height: 147.6 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0\n- Body Weight: 36.9 kg\n- Body mass index (BMI) [Ratio]: 16.9 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 45.0 %\n- Diastolic Blood Pressure: 94.0 mm[Hg]\n- Systolic Blood Pressure: 121.0 mm[Hg]\n- Heart rate: 96.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "47d390c6-a1a2-1a80-b250-0fb76ea3c017",
+    "patient_id": "47d390c6-a1a2-1a80-dd1d-9722c7b24159",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-03-21",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Demarcus Jones - 2020-03-21",
+    "content": "- Leukocytes [#/volume] in Blood by Automated count: 6.2 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 4.0 10*6/uL\n- Hemoglobin [Mass/volume] in Blood: 12.7 g/dL\n- Hematocrit [Volume Fraction] of Blood by Automated count: 39.3 %\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 87.3 fL\n- MCH [Entitic mass] by Automated count: 27.1 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 34.8 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 44.1 fL\n- Platelets [#/volume] in Blood by Automated count: 312.4 10*3/uL\n- Platelet distribution width [Entitic volume] in Blood by Automated count: 16.3 fL\n- Platelet [Entitic mean volume] in Blood by Automated count: 11.0 fL"
+  },
+  {
+    "doc_id": "47d390c6-a1a2-1a80-b250-0fb76ea3c017",
+    "patient_id": "47d390c6-a1a2-1a80-dd1d-9722c7b24159",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-03-21",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Demarcus Jones - 2020-03-21",
+    "content": "- Medication reconciliation.\n- Patient referral for dental care, for Gingivitis."
+  },
+  {
+    "doc_id": "47d390c6-a1a2-1a80-b250-0fb76ea3c017",
+    "patient_id": "47d390c6-a1a2-1a80-dd1d-9722c7b24159",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2020-03-21",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Demarcus Jones - 2020-03-21",
+    "content": "- Tdap.\n- Influenza split virus trivalent PF.\n- HPV quadrivalent.\n- meningococcal MCV4P."
+  }
+]

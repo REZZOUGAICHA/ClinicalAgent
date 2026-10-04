@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "7811dc30-8c86-8164-9ada-9582e9a566f3",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2011-10-25",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Mignon Rau - 2011-10-25",
+    "content": "Patient: Mignon Rau, female, born 1970-04-21 (patient ID 7811dc30-8c86-8164-6c33-6b6f464745ef).\nVisit date: 2011-10-25.\nVisit type: General examination of patient.\nClinician: Gordon Monahan (General Practice).\nFacility: ASSOCIATED INTERNISTS OF RANDOLPH INC., MILTON, MA."
+  },
+  {
+    "doc_id": "7811dc30-8c86-8164-9ada-9582e9a566f3",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2011-10-25",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Mignon Rau - 2011-10-25",
+    "content": "Diagnoses recorded at this visit:\n- Has a criminal record (onset 2011-10-25)."
+  }
+]

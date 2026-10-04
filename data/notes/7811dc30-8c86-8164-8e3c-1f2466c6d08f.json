@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "7811dc30-8c86-8164-8e3c-1f2466c6d08f",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Emergency Department Note",
+    "date": "2016-10-10",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Mignon Rau - 2016-10-10",
+    "content": "Patient: Mignon Rau, female, born 1970-04-21 (patient ID 7811dc30-8c86-8164-6c33-6b6f464745ef).\nVisit date: 2016-10-10.\nVisit type: Emergency room admission.\nClinician: Thaddeus Sauer (General Practice).\nFacility: BOSTONIAN NURSING CARE & REHABILITATION CTR THE, DORCHESTER, MA."
+  },
+  {
+    "doc_id": "7811dc30-8c86-8164-8e3c-1f2466c6d08f",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Emergency Department Note",
+    "date": "2016-10-10",
+    "section": "Reason for Visit",
+    "title": "Emergency Department Note - Mignon Rau - 2016-10-10",
+    "content": "Seen for Laceration - injury."
+  },
+  {
+    "doc_id": "7811dc30-8c86-8164-8e3c-1f2466c6d08f",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Emergency Department Note",
+    "date": "2016-10-10",
+    "section": "Assessment",
+    "title": "Emergency Department Note - Mignon Rau - 2016-10-10",
+    "content": "Diagnoses recorded at this visit:\n- Laceration - injury (onset 2016-10-10), resolved 2016-10-24.\n- Laceration of forearm (onset 2016-10-10), resolved 2016-10-24."
+  },
+  {
+    "doc_id": "7811dc30-8c86-8164-8e3c-1f2466c6d08f",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Emergency Department Note",
+    "date": "2016-10-10",
+    "section": "Procedures",
+    "title": "Emergency Department Note - Mignon Rau - 2016-10-10",
+    "content": "- Suture open wound, for Laceration of forearm."
+  },
+  {
+    "doc_id": "7811dc30-8c86-8164-8e3c-1f2466c6d08f",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Emergency Department Note",
+    "date": "2016-10-10",
+    "section": "Medications",
+    "title": "Emergency Department Note - Mignon Rau - 2016-10-10",
+    "content": "Medications prescribed at this visit:\n- Naproxen sodium 220 MG Oral Tablet, started 2016-10-10; stopped 2016-10-24."
+  },
+  {
+    "doc_id": "7811dc30-8c86-8164-8e3c-1f2466c6d08f",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Emergency Department Note",
+    "date": "2016-10-10",
+    "section": "Plan",
+    "title": "Emergency Department Note - Mignon Rau - 2016-10-10",
+    "content": "- Wound care for Laceration of forearm, started 2016-10-10, ended 2016-10-24."
+  }
+]

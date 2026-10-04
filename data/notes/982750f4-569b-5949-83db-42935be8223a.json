@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "982750f4-569b-5949-83db-42935be8223a",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-07-04",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Dwana Wolf - 2018-07-04",
+    "content": "Patient: Dwana Wolf, female, born 1986-11-12 (patient ID 982750f4-569b-5949-196b-60699bdda3fb).\nVisit date: 2018-07-04.\nVisit type: General examination of patient.\nClinician: Hank Schneider (General Practice).\nFacility: LOWELL FAMILY MEDICAL CARE PC, LOWELL, MA."
+  },
+  {
+    "doc_id": "982750f4-569b-5949-83db-42935be8223a",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-07-04",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Dwana Wolf - 2018-07-04",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2018-07-04), resolved 2019-07-10.\n- Not in labor force (onset 2018-07-04), resolved 2019-07-10.\n- Gingivitis (onset 2018-07-04), resolved 2018-07-18."
+  },
+  {
+    "doc_id": "982750f4-569b-5949-83db-42935be8223a",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-07-04",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Dwana Wolf - 2018-07-04",
+    "content": "- Body Height: 158.3 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0\n- Body Weight: 72.7 kg\n- Body mass index (BMI) [Ratio]: 29.0 kg/m2\n- Diastolic Blood Pressure: 84.0 mm[Hg]\n- Systolic Blood Pressure: 144.0 mm[Hg]\n- Heart rate: 62.0 /min\n- Respiratory rate: 15.0 /min"
+  },
+  {
+    "doc_id": "982750f4-569b-5949-83db-42935be8223a",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-07-04",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Dwana Wolf - 2018-07-04",
+    "content": "- Assessment of health and social care needs.\n- Assessment of anxiety.\n- Patient referral for dental care, for Gingivitis."
+  },
+  {
+    "doc_id": "982750f4-569b-5949-83db-42935be8223a",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-07-04",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Dwana Wolf - 2018-07-04",
+    "content": "Medications prescribed at this visit:\n- Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet], started 2018-07-04; stopped 2019-07-10.\n- Acetaminophen 325 MG Oral Tablet [Tylenol], started 2018-07-04; stopped 2019-07-10.\n- tramadol hydrochloride 50 MG Oral Tablet, started 2018-07-04; stopped 2019-07-10."
+  },
+  {
+    "doc_id": "982750f4-569b-5949-83db-42935be8223a",
+    "patient_id": "982750f4-569b-5949-196b-60699bdda3fb",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-07-04",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Dwana Wolf - 2018-07-04",
+    "content": "- Influenza split virus trivalent PF.\n- Td (adult) 5 Lf tetanus toxoid preservative free adsorbed."
+  }
+]

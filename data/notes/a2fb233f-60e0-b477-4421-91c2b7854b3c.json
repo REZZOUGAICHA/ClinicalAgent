@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "a2fb233f-60e0-b477-4421-91c2b7854b3c",
+    "patient_id": "a2fb233f-60e0-b477-cd38-af3923f792a3",
+    "document_type": "Office Visit Note",
+    "date": "2019-01-08",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Tanner Mitchell - 2019-01-08",
+    "content": "Patient: Tanner Mitchell, male, born 1962-03-11 (patient ID a2fb233f-60e0-b477-cd38-af3923f792a3).\nVisit date: 2019-01-08.\nVisit type: Encounter for symptom.\nClinician: Tracie Lesch (General Practice).\nFacility: ANNA JAQUES HOSPITAL SUBACUTE UNIT, NEWBURYPORT, MA."
+  },
+  {
+    "doc_id": "a2fb233f-60e0-b477-4421-91c2b7854b3c",
+    "patient_id": "a2fb233f-60e0-b477-cd38-af3923f792a3",
+    "document_type": "Office Visit Note",
+    "date": "2019-01-08",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Tanner Mitchell - 2019-01-08",
+    "content": "Seen for Viral sinusitis."
+  },
+  {
+    "doc_id": "a2fb233f-60e0-b477-4421-91c2b7854b3c",
+    "patient_id": "a2fb233f-60e0-b477-cd38-af3923f792a3",
+    "document_type": "Office Visit Note",
+    "date": "2019-01-08",
+    "section": "Assessment",
+    "title": "Office Visit Note - Tanner Mitchell - 2019-01-08",
+    "content": "Diagnoses recorded at this visit:\n- Viral sinusitis (onset 2019-01-08), resolved 2019-01-31."
+  }
+]

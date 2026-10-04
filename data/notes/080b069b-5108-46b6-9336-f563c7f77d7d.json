@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "080b069b-5108-46b6-9336-f563c7f77d7d",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Office Visit Note",
+    "date": "2017-07-24",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Chester Aufderhar - 2017-07-24",
+    "content": "Patient: Chester Aufderhar, male, born 1966-11-22 (patient ID 080b069b-5108-46b6-ecef-6aacd3b9ef3f).\nVisit date: 2017-07-24.\nVisit type: Encounter for symptom.\nClinician: Harland Ryan (General Practice).\nFacility: SOUTHCOAST HOSPITAL GROUP INC, WAREHAM, MA."
+  },
+  {
+    "doc_id": "080b069b-5108-46b6-9336-f563c7f77d7d",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Office Visit Note",
+    "date": "2017-07-24",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Chester Aufderhar - 2017-07-24",
+    "content": "Seen for Viral sinusitis."
+  },
+  {
+    "doc_id": "080b069b-5108-46b6-9336-f563c7f77d7d",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Office Visit Note",
+    "date": "2017-07-24",
+    "section": "Assessment",
+    "title": "Office Visit Note - Chester Aufderhar - 2017-07-24",
+    "content": "Diagnoses recorded at this visit:\n- Viral sinusitis (onset 2017-07-24), resolved 2017-08-14."
+  }
+]

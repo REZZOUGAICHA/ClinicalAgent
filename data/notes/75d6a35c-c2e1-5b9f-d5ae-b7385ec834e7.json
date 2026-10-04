@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "75d6a35c-c2e1-5b9f-d5ae-b7385ec834e7",
+    "patient_id": "75d6a35c-c2e1-5b9f-e7f8-6a5b05af8fc8",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-01-12",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Hiram Batz - 2018-01-12",
+    "content": "Patient: Hiram Batz, male, born 2013-02-01 (patient ID 75d6a35c-c2e1-5b9f-e7f8-6a5b05af8fc8).\nVisit date: 2018-01-12.\nVisit type: Well child visit.\nClinician: Shaquita Graham (General Practice).\nFacility: HOPKINTON MEDICAL CARE P.C., HOPKINTON, MA."
+  },
+  {
+    "doc_id": "75d6a35c-c2e1-5b9f-d5ae-b7385ec834e7",
+    "patient_id": "75d6a35c-c2e1-5b9f-e7f8-6a5b05af8fc8",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-01-12",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Hiram Batz - 2018-01-12",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2018-01-12), resolved 2018-01-12."
+  },
+  {
+    "doc_id": "75d6a35c-c2e1-5b9f-d5ae-b7385ec834e7",
+    "patient_id": "75d6a35c-c2e1-5b9f-e7f8-6a5b05af8fc8",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-01-12",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Hiram Batz - 2018-01-12",
+    "content": "- Body Height: 112.5 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0\n- Body Weight: 21.6 kg\n- Body mass index (BMI) [Ratio]: 17.1 kg/m2\n- Body mass index (BMI) [Percentile] Per age and sex: 88.5 %\n- Diastolic Blood Pressure: 69.0 mm[Hg]\n- Systolic Blood Pressure: 105.0 mm[Hg]\n- Heart rate: 97.0 /min\n- Respiratory rate: 14.0 /min"
+  },
+  {
+    "doc_id": "75d6a35c-c2e1-5b9f-d5ae-b7385ec834e7",
+    "patient_id": "75d6a35c-c2e1-5b9f-e7f8-6a5b05af8fc8",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-01-12",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Hiram Batz - 2018-01-12",
+    "content": "- Medication reconciliation.\n- Patient referral for dental care."
+  },
+  {
+    "doc_id": "75d6a35c-c2e1-5b9f-d5ae-b7385ec834e7",
+    "patient_id": "75d6a35c-c2e1-5b9f-e7f8-6a5b05af8fc8",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-01-12",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Hiram Batz - 2018-01-12",
+    "content": "- varicella.\n- IPV.\n- Influenza split virus trivalent PF.\n- DTaP.\n- MMR."
+  }
+]

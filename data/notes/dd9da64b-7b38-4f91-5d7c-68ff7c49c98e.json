@@ -1,0 +1,74 @@
+[
+  {
+    "doc_id": "dd9da64b-7b38-4f91-5d7c-68ff7c49c98e",
+    "patient_id": "dd9da64b-7b38-4f91-e75d-b1268dde60d4",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-07-03",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Donnetta Jenkins - 2023-07-03",
+    "content": "Patient: Donnetta Jenkins, female, born 1987-01-26 (patient ID dd9da64b-7b38-4f91-e75d-b1268dde60d4).\nVisit date: 2023-07-03.\nVisit type: General examination of patient.\nClinician: Son MacGyver (General Practice).\nFacility: HOLISTIC FAMILY PRACTICE INC., NEWBURY, MA."
+  },
+  {
+    "doc_id": "dd9da64b-7b38-4f91-5d7c-68ff7c49c98e",
+    "patient_id": "dd9da64b-7b38-4f91-e75d-b1268dde60d4",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-07-03",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Donnetta Jenkins - 2023-07-03",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2023-07-03), resolved 2024-07-08.\n- Prediabetes (onset 2023-07-03).\n- Part-time employment (onset 2023-07-03), resolved 2024-07-08."
+  },
+  {
+    "doc_id": "dd9da64b-7b38-4f91-5d7c-68ff7c49c98e",
+    "patient_id": "dd9da64b-7b38-4f91-e75d-b1268dde60d4",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-07-03",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Donnetta Jenkins - 2023-07-03",
+    "content": "- Body Height: 156.3 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0\n- Body Weight: 81.3 kg\n- Body mass index (BMI) [Ratio]: 33.3 kg/m2\n- Diastolic Blood Pressure: 83.0 mm[Hg]\n- Systolic Blood Pressure: 114.0 mm[Hg]\n- Heart rate: 79.0 /min\n- Respiratory rate: 16.0 /min"
+  },
+  {
+    "doc_id": "dd9da64b-7b38-4f91-5d7c-68ff7c49c98e",
+    "patient_id": "dd9da64b-7b38-4f91-e75d-b1268dde60d4",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-07-03",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Donnetta Jenkins - 2023-07-03",
+    "content": "- Hemoglobin A1c/Hemoglobin.total in Blood: 5.9 %\n- Glucose [Mass/volume] in Blood: 78.7 mg/dL\n- Urea nitrogen [Mass/volume] in Blood: 7.0 mg/dL\n- Creatinine [Mass/volume] in Blood: 1.0 mg/dL\n- Calcium [Mass/volume] in Blood: 9.6 mg/dL\n- Sodium [Moles/volume] in Blood: 140.8 mmol/L\n- Potassium [Moles/volume] in Blood: 4.7 mmol/L\n- Chloride [Moles/volume] in Blood: 110.7 mmol/L\n- Carbon dioxide  total [Moles/volume] in Blood: 28.3 mmol/L\n- Cholesterol [Mass/volume] in Serum or Plasma: 100.8 mg/dL\n- Triglyceride [Mass/volume] in Serum or Plasma: 136.8 mg/dL\n- Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay: 12.3 mg/dL\n- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 61.2 mg/dL\n- Leukocytes [#/volume] in Blood by Automated count: 6.9 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 4.3 10*6/uL\n- Hemoglobin [Mass/volume] in Blood: 17.3 g/dL\n- Hematocrit [Volume Fraction] of Blood by Automated count: 46.0 %\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 93.0 fL\n- MCH [Entitic mass] by Automated count: 27.4 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 35.0 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 45.4 fL\n- Platelets [#/volume] in Blood by Automated count: 407.5 10*3/uL\n- Platelet distribution width [Entitic volume] in Blood by Automated count: 11.5 fL\n- Platelet [Entitic mean volume] in Blood by Automated count: 10.9 fL"
+  },
+  {
+    "doc_id": "dd9da64b-7b38-4f91-5d7c-68ff7c49c98e",
+    "patient_id": "dd9da64b-7b38-4f91-e75d-b1268dde60d4",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-07-03",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Donnetta Jenkins - 2023-07-03",
+    "content": "- Assessment of health and social care needs.\n- Depression screening.\n- Depression screening.\n- Assessment of substance use.\n- Screening for drug abuse.\n- Patient referral for dental care."
+  },
+  {
+    "doc_id": "dd9da64b-7b38-4f91-5d7c-68ff7c49c98e",
+    "patient_id": "dd9da64b-7b38-4f91-e75d-b1268dde60d4",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-07-03",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Donnetta Jenkins - 2023-07-03",
+    "content": "Medications prescribed at this visit:\n- budesonide 0.25 MG/ML Inhalation Suspension, started 2023-07-03, for Childhood asthma; stopped 2024-07-08.\n- NDA021457 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [ProAir], started 2023-07-03, for Childhood asthma; stopped 2024-07-08."
+  },
+  {
+    "doc_id": "dd9da64b-7b38-4f91-5d7c-68ff7c49c98e",
+    "patient_id": "dd9da64b-7b38-4f91-e75d-b1268dde60d4",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-07-03",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Donnetta Jenkins - 2023-07-03",
+    "content": "- Influenza split virus trivalent PF."
+  },
+  {
+    "doc_id": "dd9da64b-7b38-4f91-5d7c-68ff7c49c98e",
+    "patient_id": "dd9da64b-7b38-4f91-e75d-b1268dde60d4",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-07-03",
+    "section": "Plan",
+    "title": "Annual Wellness Visit Note - Donnetta Jenkins - 2023-07-03",
+    "content": "- Diabetes self management plan for Prediabetes, started 2023-07-03."
+  }
+]

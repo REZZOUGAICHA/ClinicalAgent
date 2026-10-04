@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "eb5910f1-26e6-bc6f-4abb-0481e69625cb",
+    "patient_id": "eb5910f1-26e6-bc6f-b300-716eae678d6f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-07-04",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Larissa Bins - 2023-07-04",
+    "content": "Patient: Larissa Bins, female, born 1995-04-25 (patient ID eb5910f1-26e6-bc6f-b300-716eae678d6f).\nVisit date: 2023-07-04.\nVisit type: General examination of patient.\nClinician: Jerri Stiedemann (General Practice).\nFacility: GREATER LAWRENCE FAMILY HEALTH CENTER INC, HAVERHILL, MA."
+  },
+  {
+    "doc_id": "eb5910f1-26e6-bc6f-4abb-0481e69625cb",
+    "patient_id": "eb5910f1-26e6-bc6f-b300-716eae678d6f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-07-04",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Larissa Bins - 2023-07-04",
+    "content": "Diagnoses recorded at this visit:\n- Unemployed (onset 2023-07-04), resolved 2026-07-07.\n- Limited social contact (onset 2023-07-04), resolved 2026-07-07.\n- Stress (onset 2023-07-04), resolved 2026-07-07.\n- Gingivitis (onset 2023-07-04), resolved 2023-07-18."
+  },
+  {
+    "doc_id": "eb5910f1-26e6-bc6f-4abb-0481e69625cb",
+    "patient_id": "eb5910f1-26e6-bc6f-b300-716eae678d6f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-07-04",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Larissa Bins - 2023-07-04",
+    "content": "- Body Height: 162.7 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0\n- Body Weight: 73.6 kg\n- Body mass index (BMI) [Ratio]: 27.8 kg/m2\n- Diastolic Blood Pressure: 82.0 mm[Hg]\n- Systolic Blood Pressure: 124.0 mm[Hg]\n- Heart rate: 93.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "eb5910f1-26e6-bc6f-4abb-0481e69625cb",
+    "patient_id": "eb5910f1-26e6-bc6f-b300-716eae678d6f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-07-04",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Larissa Bins - 2023-07-04",
+    "content": "- Leukocytes [#/volume] in Blood by Automated count: 10.3 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 4.8 10*6/uL\n- Hemoglobin [Mass/volume] in Blood: 13.4 g/dL\n- Hematocrit [Volume Fraction] of Blood by Automated count: 35.4 %\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 93.1 fL\n- MCH [Entitic mass] by Automated count: 32.7 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 33.7 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 44.4 fL\n- Platelets [#/volume] in Blood by Automated count: 193.0 10*3/uL\n- Platelet distribution width [Entitic volume] in Blood by Automated count: 16.3 fL\n- Platelet [Entitic mean volume] in Blood by Automated count: 10.8 fL"
+  },
+  {
+    "doc_id": "eb5910f1-26e6-bc6f-4abb-0481e69625cb",
+    "patient_id": "eb5910f1-26e6-bc6f-b300-716eae678d6f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-07-04",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Larissa Bins - 2023-07-04",
+    "content": "- Assessment of health and social care needs.\n- Assessment of anxiety.\n- Screening for domestic abuse.\n- Depression screening.\n- Depression screening.\n- Assessment of substance use.\n- Assessment using Alcohol Use Disorders Identification Test - Consumption.\n- Patient referral for dental care, for Gingivitis."
+  },
+  {
+    "doc_id": "eb5910f1-26e6-bc6f-4abb-0481e69625cb",
+    "patient_id": "eb5910f1-26e6-bc6f-b300-716eae678d6f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2023-07-04",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Larissa Bins - 2023-07-04",
+    "content": "- Influenza split virus trivalent PF."
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "62f60bdb-cc5c-8305-bad0-e555264508c3",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2021-09-02",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Angel Frami - 2021-09-02",
+    "content": "Patient: Angel Frami, female, born 1975-10-22 (patient ID 62f60bdb-cc5c-8305-b98b-f2b229a55eca).\nVisit date: 2021-09-02.\nVisit type: Consultation for treatment.\nClinician: Ollie Dooley (General Practice).\nFacility: DR JOHN C CORRIGAN MENTAL HEALTH CENTER, FALL RIVER, MA."
+  },
+  {
+    "doc_id": "62f60bdb-cc5c-8305-bad0-e555264508c3",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2021-09-02",
+    "section": "Reason for Visit",
+    "title": "Outpatient Procedure Note - Angel Frami - 2021-09-02",
+    "content": "Seen for Contraception care."
+  },
+  {
+    "doc_id": "62f60bdb-cc5c-8305-bad0-e555264508c3",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2021-09-02",
+    "section": "Procedures",
+    "title": "Outpatient Procedure Note - Angel Frami - 2021-09-02",
+    "content": "- Intramuscular injection."
+  },
+  {
+    "doc_id": "62f60bdb-cc5c-8305-bad0-e555264508c3",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2021-09-02",
+    "section": "Medications",
+    "title": "Outpatient Procedure Note - Angel Frami - 2021-09-02",
+    "content": "Medications prescribed at this visit:\n- 1 ML medroxyprogesterone acetate 150 MG/ML Injection, started 2021-09-02; stopped 2022-08-28."
+  }
+]

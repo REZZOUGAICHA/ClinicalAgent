@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "b6a1cac9-8873-36a7-3d9a-fddd307d5d1a",
+    "patient_id": "b6a1cac9-8873-36a7-e726-4aad8a07d44d",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2021-05-12",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Renaldo Crist - 2021-05-12",
+    "content": "Patient: Renaldo Crist, male, born 1993-04-14 (patient ID b6a1cac9-8873-36a7-e726-4aad8a07d44d).\nVisit date: 2021-05-12.\nVisit type: Administration of vaccine to produce active immunity.\nClinician: Eleni Franecki (General Practice).\nFacility: BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM INC., NEEDHAM, MA."
+  },
+  {
+    "doc_id": "b6a1cac9-8873-36a7-3d9a-fddd307d5d1a",
+    "patient_id": "b6a1cac9-8873-36a7-e726-4aad8a07d44d",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2021-05-12",
+    "section": "Immunizations",
+    "title": "Outpatient Procedure Note - Renaldo Crist - 2021-05-12",
+    "content": "- COVID-19 mRNA LNP-S PF 100 mcg/0.5mL dose or 50 mcg/0.25mL dose."
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "6fbddf55-7096-b883-4656-05b14cf5007b",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Office Visit Note",
+    "date": "2019-10-23",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Clarinda Farrell - 2019-10-23",
+    "content": "Patient: Clarinda Farrell, female, born 1981-07-01 (patient ID 6fbddf55-7096-b883-7cd3-260f27953080).\nVisit date: 2019-10-23.\nVisit type: Prenatal visit.\nClinician: Luther Jakubowski (General Practice).\nFacility: ENCOMPASS HEALTH REHABILITATION HOSP OF NEW ENGLAN, WOBURN, MA."
+  },
+  {
+    "doc_id": "6fbddf55-7096-b883-4656-05b14cf5007b",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Office Visit Note",
+    "date": "2019-10-23",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Clarinda Farrell - 2019-10-23",
+    "content": "Seen for Normal pregnancy."
+  },
+  {
+    "doc_id": "6fbddf55-7096-b883-4656-05b14cf5007b",
+    "patient_id": "6fbddf55-7096-b883-7cd3-260f27953080",
+    "document_type": "Office Visit Note",
+    "date": "2019-10-23",
+    "section": "Procedures",
+    "title": "Office Visit Note - Clarinda Farrell - 2019-10-23",
+    "content": "- Evaluation of uterine fundal height, for Normal pregnancy.\n- Auscultation of the fetal heart, for Normal pregnancy.\n- Detection of chromosomal aneuploidy in prenatal amniotic fluid specimen using fluorescence in situ hybridization screening technique, for Normal pregnancy."
+  }
+]

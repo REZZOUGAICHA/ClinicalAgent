@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "4f083ce3-f12b-bb4b-f534-2a9b6e0ff24f",
+    "patient_id": "4f083ce3-f12b-bb4b-7353-e17f0cd55b0a",
+    "document_type": "Office Visit Note",
+    "date": "2021-03-23",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Ezekiel Walter - 2021-03-23",
+    "content": "Patient: Ezekiel Walter, male, born 1999-01-12 (patient ID 4f083ce3-f12b-bb4b-7353-e17f0cd55b0a).\nVisit date: 2021-03-23.\nVisit type: Encounter for problem.\nClinician: Eldora Langosh (General Practice).\nFacility: BRIGHAM AND WOMEN'S FAULKNER HOSPITAL INC., JAMAICA PLAIN, MA."
+  },
+  {
+    "doc_id": "4f083ce3-f12b-bb4b-f534-2a9b6e0ff24f",
+    "patient_id": "4f083ce3-f12b-bb4b-7353-e17f0cd55b0a",
+    "document_type": "Office Visit Note",
+    "date": "2021-03-23",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Ezekiel Walter - 2021-03-23",
+    "content": "Seen for Anemia."
+  },
+  {
+    "doc_id": "4f083ce3-f12b-bb4b-f534-2a9b6e0ff24f",
+    "patient_id": "4f083ce3-f12b-bb4b-7353-e17f0cd55b0a",
+    "document_type": "Office Visit Note",
+    "date": "2021-03-23",
+    "section": "Laboratory Results",
+    "title": "Office Visit Note - Ezekiel Walter - 2021-03-23",
+    "content": "- Hemoglobin [Mass/volume] in Blood: 10.9 g/dL\n- Hematocrit [Volume Fraction] of Blood by calculation: 33.9 %\n- Leukocytes [#/volume] in Blood by Automated count: 3.8 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 5.3 10*6/uL\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 93.0 fL\n- MCH [Entitic mass] by Automated count: 27.1 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 34.4 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 41.5 fL\n- Platelets [#/volume] in Blood by Automated count: 189.6 10*3/uL\n- Platelet distribution width [Entitic volume] in Blood by Automated count: 13.9 fL\n- Platelet [Entitic mean volume] in Blood by Automated count: 10.8 fL"
+  },
+  {
+    "doc_id": "4f083ce3-f12b-bb4b-f534-2a9b6e0ff24f",
+    "patient_id": "4f083ce3-f12b-bb4b-7353-e17f0cd55b0a",
+    "document_type": "Office Visit Note",
+    "date": "2021-03-23",
+    "section": "Procedures",
+    "title": "Office Visit Note - Ezekiel Walter - 2021-03-23",
+    "content": "- Peripheral blood smear interpretation.\n- Review of systems.\n- Medication reconciliation.\n- Brief general examination."
+  }
+]

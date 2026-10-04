@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "76b20010-c318-5754-b667-52f90a7d7b98",
+    "patient_id": "76b20010-c318-5754-8c85-983aa538522f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-11-26",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Jody Hickle - 2018-11-26",
+    "content": "Patient: Jody Hickle, male, born 2018-03-19 (patient ID 76b20010-c318-5754-8c85-983aa538522f).\nVisit date: 2018-11-26.\nVisit type: Well child visit.\nClinician: Dane Tromp (General Practice).\nFacility: NEWBURYPORT FAMILY PRACTICE P.C., NEWBURYPORT, MA."
+  },
+  {
+    "doc_id": "76b20010-c318-5754-b667-52f90a7d7b98",
+    "patient_id": "76b20010-c318-5754-8c85-983aa538522f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-11-26",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Jody Hickle - 2018-11-26",
+    "content": "- Body Height: 71.4 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0\n- Body Weight: 8.9 kg\n- Weight-for-length Per age and sex: 56.1 %\n- Head Occipital-frontal circumference Percentile: 58.8 %\n- Head Occipital-frontal circumference: 45.3 cm\n- Diastolic Blood Pressure: 91.0 mm[Hg]\n- Systolic Blood Pressure: 123.0 mm[Hg]\n- Heart rate: 71.0 /min\n- Respiratory rate: 15.0 /min"
+  },
+  {
+    "doc_id": "76b20010-c318-5754-b667-52f90a7d7b98",
+    "patient_id": "76b20010-c318-5754-8c85-983aa538522f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-11-26",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Jody Hickle - 2018-11-26",
+    "content": "- Medication reconciliation."
+  },
+  {
+    "doc_id": "76b20010-c318-5754-b667-52f90a7d7b98",
+    "patient_id": "76b20010-c318-5754-8c85-983aa538522f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2018-11-26",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Jody Hickle - 2018-11-26",
+    "content": "- IPV.\n- Influenza split virus trivalent PF.\n- DTaP.\n- Pneumococcal conjugate PCV 13.\n- Hep B adolescent or pediatric."
+  }
+]

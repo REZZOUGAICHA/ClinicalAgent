@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "7b06ee52-df9a-8487-70f2-d892d1aaedd9",
+    "patient_id": "7b06ee52-df9a-8487-0be6-dff27cc7d519",
+    "document_type": "Telehealth Visit Note",
+    "date": "2020-11-15",
+    "section": "Visit Information",
+    "title": "Telehealth Visit Note - Ressie Nader - 2020-11-15",
+    "content": "Patient: Ressie Nader, female, born 2001-08-06 (patient ID 7b06ee52-df9a-8487-0be6-dff27cc7d519).\nVisit date: 2020-11-15.\nVisit type: Videotelephony encounter.\nClinician: Maricarmen Delafuente (General Practice).\nFacility: ARBOUR-FULLER HOSPITAL, SOUTH ATTLEBORO, MA."
+  },
+  {
+    "doc_id": "7b06ee52-df9a-8487-70f2-d892d1aaedd9",
+    "patient_id": "7b06ee52-df9a-8487-0be6-dff27cc7d519",
+    "document_type": "Telehealth Visit Note",
+    "date": "2020-11-15",
+    "section": "Procedures",
+    "title": "Telehealth Visit Note - Ressie Nader - 2020-11-15",
+    "content": "- Telemedicine consultation with patient.\n- History taking.\n- Discussion about signs and symptoms.\n- Evaluation procedure.\n- Antibiotic therapy."
+  },
+  {
+    "doc_id": "7b06ee52-df9a-8487-70f2-d892d1aaedd9",
+    "patient_id": "7b06ee52-df9a-8487-0be6-dff27cc7d519",
+    "document_type": "Telehealth Visit Note",
+    "date": "2020-11-15",
+    "section": "Medications",
+    "title": "Telehealth Visit Note - Ressie Nader - 2020-11-15",
+    "content": "Medications prescribed at this visit:\n- nitrofurantoin  macrocrystals 25 MG / nitrofurantoin  monohydrate 75 MG Oral Capsule, started 2020-11-15, for Acute infective cystitis; stopped 2020-11-15."
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "35b353dd-402b-571a-3105-2598735757a0",
+    "patient_id": "35b353dd-402b-571a-d67a-af0a104d0854",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1987-10-03",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Jody Monahan - 1987-10-03",
+    "content": "Patient: Jody Monahan, male, born 1943-09-18 (patient ID 35b353dd-402b-571a-d67a-af0a104d0854).\nVisit date: 1987-10-03.\nVisit type: General examination of patient.\nClinician: Georgianne Howe (General Practice).\nFacility: WOODLAND INTERNISTS P.C., STONEHAM, MA."
+  },
+  {
+    "doc_id": "35b353dd-402b-571a-3105-2598735757a0",
+    "patient_id": "35b353dd-402b-571a-d67a-af0a104d0854",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1987-10-03",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Jody Monahan - 1987-10-03",
+    "content": "Diagnoses recorded at this visit:\n- Ischemic heart disease (onset 1987-10-03)."
+  },
+  {
+    "doc_id": "35b353dd-402b-571a-3105-2598735757a0",
+    "patient_id": "35b353dd-402b-571a-d67a-af0a104d0854",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "1987-10-03",
+    "section": "Medications",
+    "title": "Annual Wellness Visit Note - Jody Monahan - 1987-10-03",
+    "content": "Medications prescribed at this visit:\n- 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet, started 1987-10-10; no stop date recorded.\n- Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray, started 1987-10-10; no stop date recorded."
+  }
+]

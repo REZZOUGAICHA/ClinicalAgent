@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "bff9d9d5-ee3d-d852-d2ff-9fda7c66a8ca",
+    "patient_id": "bff9d9d5-ee3d-d852-9c67-36d8361a4a4a",
+    "document_type": "Office Visit Note",
+    "date": "2020-06-30",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Rosario Ortiz - 2020-06-30",
+    "content": "Patient: Rosario Ortiz, male, born 1945-01-28 (patient ID bff9d9d5-ee3d-d852-9c67-36d8361a4a4a).\nVisit date: 2020-06-30.\nVisit type: Follow-up encounter.\nClinician: Eleni Franecki (General Practice).\nFacility: BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM INC., NEEDHAM, MA."
+  },
+  {
+    "doc_id": "bff9d9d5-ee3d-d852-d2ff-9fda7c66a8ca",
+    "patient_id": "bff9d9d5-ee3d-d852-9c67-36d8361a4a4a",
+    "document_type": "Office Visit Note",
+    "date": "2020-06-30",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Rosario Ortiz - 2020-06-30",
+    "content": "Seen for Hyperlipidemia."
+  },
+  {
+    "doc_id": "bff9d9d5-ee3d-d852-d2ff-9fda7c66a8ca",
+    "patient_id": "bff9d9d5-ee3d-d852-9c67-36d8361a4a4a",
+    "document_type": "Office Visit Note",
+    "date": "2020-06-30",
+    "section": "Laboratory Results",
+    "title": "Office Visit Note - Rosario Ortiz - 2020-06-30",
+    "content": "- Glucose [Mass/volume] in Blood: 79.1 mg/dL\n- Urea nitrogen [Mass/volume] in Blood: 8.0 mg/dL\n- Creatinine [Mass/volume] in Blood: 2.9 mg/dL\n- Calcium [Mass/volume] in Blood: 9.5 mg/dL\n- Sodium [Moles/volume] in Blood: 136.7 mmol/L\n- Potassium [Moles/volume] in Blood: 4.2 mmol/L\n- Chloride [Moles/volume] in Blood: 110.8 mmol/L\n- Carbon dioxide  total [Moles/volume] in Blood: 21.1 mmol/L\n- Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M: 78.0 mL/min\n- Protein [Mass/volume] in Serum or Plasma: 6.2 g/dL\n- Albumin [Mass/volume] in Serum or Plasma: 5.3 g/dL\n- Globulin [Mass/volume] in Serum by calculation: 3.2 g/L\n- Bilirubin.total [Mass/volume] in Serum or Plasma: 0.2 mg/dL\n- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 73.1 U/L\n- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 30.6 U/L\n- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 33.6 U/L\n- Cholesterol [Mass/volume] in Serum or Plasma: 196.6 mg/dL\n- Triglyceride [Mass/volume] in Serum or Plasma: 169.5 mg/dL\n- Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay: 122.8 mg/dL\n- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 65.7 mg/dL"
+  },
+  {
+    "doc_id": "bff9d9d5-ee3d-d852-d2ff-9fda7c66a8ca",
+    "patient_id": "bff9d9d5-ee3d-d852-9c67-36d8361a4a4a",
+    "document_type": "Office Visit Note",
+    "date": "2020-06-30",
+    "section": "Medications",
+    "title": "Office Visit Note - Rosario Ortiz - 2020-06-30",
+    "content": "Medications prescribed at this visit:\n- Simvastatin 10 MG Oral Tablet, started 2020-06-30, for Hyperlipidemia; stopped 2021-06-30."
+  }
+]

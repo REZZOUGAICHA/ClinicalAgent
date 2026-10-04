@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "ba419d35-0dfe-8af7-f5ee-bc9bbfe0969f",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2016-09-23",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Corie Kohler - 2016-09-23",
+    "content": "Patient: Corie Kohler, female, born 1925-09-18 (patient ID ba419d35-0dfe-8af7-347c-eebf02485a56).\nVisit date: 2016-09-23.\nVisit type: Encounter for check up.\nClinician: Maricarmen Delafuente (General Practice).\nFacility: ARBOUR-FULLER HOSPITAL, SOUTH ATTLEBORO, MA."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-f5ee-bc9bbfe0969f",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2016-09-23",
+    "section": "Assessment",
+    "title": "Outpatient Procedure Note - Corie Kohler - 2016-09-23",
+    "content": "Diagnoses recorded at this visit:\n- Full-time employment (onset 2016-09-23), resolved 2018-07-27.\n- Limited social contact (onset 2016-09-23)."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-f5ee-bc9bbfe0969f",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2016-09-23",
+    "section": "Vital Signs",
+    "title": "Outpatient Procedure Note - Corie Kohler - 2016-09-23",
+    "content": "- Body Height: 164.1 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0\n- Body Weight: 82.0 kg\n- Body mass index (BMI) [Ratio]: 30.5 kg/m2\n- Diastolic Blood Pressure: 67.0 mm[Hg]\n- Systolic Blood Pressure: 108.0 mm[Hg]\n- Heart rate: 64.0 /min\n- Respiratory rate: 15.0 /min"
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-f5ee-bc9bbfe0969f",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2016-09-23",
+    "section": "Procedures",
+    "title": "Outpatient Procedure Note - Corie Kohler - 2016-09-23",
+    "content": "- Assessment of health and social care needs.\n- Screening for domestic abuse."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-f5ee-bc9bbfe0969f",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2016-09-23",
+    "section": "Medications",
+    "title": "Outpatient Procedure Note - Corie Kohler - 2016-09-23",
+    "content": "Medications prescribed at this visit:\n- lisinopril 10 MG Oral Tablet, started 2016-09-23, for Essential hypertension; stopped 2016-11-04."
+  },
+  {
+    "doc_id": "ba419d35-0dfe-8af7-f5ee-bc9bbfe0969f",
+    "patient_id": "ba419d35-0dfe-8af7-347c-eebf02485a56",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2016-09-23",
+    "section": "Immunizations",
+    "title": "Outpatient Procedure Note - Corie Kohler - 2016-09-23",
+    "content": "- Td (adult) 5 Lf tetanus toxoid preservative free adsorbed."
+  }
+]

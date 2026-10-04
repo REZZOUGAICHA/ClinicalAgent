@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "922fb35e-148d-9e82-ee3a-ed5deae6e952",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Emergency Department Note",
+    "date": "2021-12-08",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Agnes Weber - 2021-12-08",
+    "content": "Patient: Agnes Weber, female, born 1986-12-19 (patient ID 922fb35e-148d-9e82-7e65-bfa05e3b3515).\nVisit date: 2021-12-08.\nVisit type: Emergency hospital admission for asthma.\nClinician: Pat Bradtke (General Practice).\nFacility: COLEMAN HOUSE, NORTHBOROUGH, MA."
+  },
+  {
+    "doc_id": "922fb35e-148d-9e82-ee3a-ed5deae6e952",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Emergency Department Note",
+    "date": "2021-12-08",
+    "section": "Reason for Visit",
+    "title": "Emergency Department Note - Agnes Weber - 2021-12-08",
+    "content": "Seen for Asthma."
+  }
+]

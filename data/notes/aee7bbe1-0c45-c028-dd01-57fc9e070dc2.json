@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "aee7bbe1-0c45-c028-dd01-57fc9e070dc2",
+    "patient_id": "aee7bbe1-0c45-c028-1e62-1f4cdb30c273",
+    "document_type": "Office Visit Note",
+    "date": "2021-07-31",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Wilfredo Fritsch - 2021-07-31",
+    "content": "Patient: Wilfredo Fritsch, male, born 2010-12-23 (patient ID aee7bbe1-0c45-c028-1e62-1f4cdb30c273).\nVisit date: 2021-07-31.\nVisit type: Encounter for symptom.\nClinician: Damaris Funk (General Practice).\nFacility: BROCKTON HOSPITAL INC., BROCKTON, MA."
+  },
+  {
+    "doc_id": "aee7bbe1-0c45-c028-dd01-57fc9e070dc2",
+    "patient_id": "aee7bbe1-0c45-c028-1e62-1f4cdb30c273",
+    "document_type": "Office Visit Note",
+    "date": "2021-07-31",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Wilfredo Fritsch - 2021-07-31",
+    "content": "Seen for Streptococcal sore throat."
+  },
+  {
+    "doc_id": "aee7bbe1-0c45-c028-dd01-57fc9e070dc2",
+    "patient_id": "aee7bbe1-0c45-c028-1e62-1f4cdb30c273",
+    "document_type": "Office Visit Note",
+    "date": "2021-07-31",
+    "section": "Assessment",
+    "title": "Office Visit Note - Wilfredo Fritsch - 2021-07-31",
+    "content": "Diagnoses recorded at this visit:\n- Streptococcal sore throat (onset 2021-07-31), resolved 2021-08-08."
+  },
+  {
+    "doc_id": "aee7bbe1-0c45-c028-dd01-57fc9e070dc2",
+    "patient_id": "aee7bbe1-0c45-c028-1e62-1f4cdb30c273",
+    "document_type": "Office Visit Note",
+    "date": "2021-07-31",
+    "section": "Vital Signs",
+    "title": "Office Visit Note - Wilfredo Fritsch - 2021-07-31",
+    "content": "- Body temperature: 38.5 \u00b0C"
+  },
+  {
+    "doc_id": "aee7bbe1-0c45-c028-dd01-57fc9e070dc2",
+    "patient_id": "aee7bbe1-0c45-c028-1e62-1f4cdb30c273",
+    "document_type": "Office Visit Note",
+    "date": "2021-07-31",
+    "section": "Medications",
+    "title": "Office Visit Note - Wilfredo Fritsch - 2021-07-31",
+    "content": "Medications prescribed at this visit:\n- Penicillin V Potassium 250 MG Oral Tablet, started 2021-07-31, for Streptococcal sore throat; stopped 2021-08-08."
+  }
+]

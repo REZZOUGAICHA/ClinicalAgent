@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "eb5910f1-26e6-bc6f-d911-35366d6e350a",
+    "patient_id": "eb5910f1-26e6-bc6f-b300-716eae678d6f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-07-07",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Larissa Bins - 2026-07-07",
+    "content": "Patient: Larissa Bins, female, born 1995-04-25 (patient ID eb5910f1-26e6-bc6f-b300-716eae678d6f).\nVisit date: 2026-07-07.\nVisit type: General examination of patient.\nClinician: Jerri Stiedemann (General Practice).\nFacility: GREATER LAWRENCE FAMILY HEALTH CENTER INC, HAVERHILL, MA."
+  },
+  {
+    "doc_id": "eb5910f1-26e6-bc6f-d911-35366d6e350a",
+    "patient_id": "eb5910f1-26e6-bc6f-b300-716eae678d6f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-07-07",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Larissa Bins - 2026-07-07",
+    "content": "Diagnoses recorded at this visit:\n- Part-time employment (onset 2026-07-07).\n- Unhealthy alcohol drinking behavior (onset 2026-07-07).\n- Gingivitis (onset 2026-07-07), resolved 2026-07-21."
+  },
+  {
+    "doc_id": "eb5910f1-26e6-bc6f-d911-35366d6e350a",
+    "patient_id": "eb5910f1-26e6-bc6f-b300-716eae678d6f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-07-07",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Larissa Bins - 2026-07-07",
+    "content": "- Body Height: 162.7 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0\n- Body Weight: 77.5 kg\n- Body mass index (BMI) [Ratio]: 29.3 kg/m2\n- Diastolic Blood Pressure: 81.0 mm[Hg]\n- Systolic Blood Pressure: 121.0 mm[Hg]\n- Heart rate: 97.0 /min\n- Respiratory rate: 15.0 /min"
+  },
+  {
+    "doc_id": "eb5910f1-26e6-bc6f-d911-35366d6e350a",
+    "patient_id": "eb5910f1-26e6-bc6f-b300-716eae678d6f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-07-07",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Larissa Bins - 2026-07-07",
+    "content": "- Cholesterol [Mass/volume] in Serum or Plasma: 179.4 mg/dL\n- Triglyceride [Mass/volume] in Serum or Plasma: 130.7 mg/dL\n- Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay: 99.5 mg/dL\n- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 53.8 mg/dL"
+  },
+  {
+    "doc_id": "eb5910f1-26e6-bc6f-d911-35366d6e350a",
+    "patient_id": "eb5910f1-26e6-bc6f-b300-716eae678d6f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-07-07",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Larissa Bins - 2026-07-07",
+    "content": "- Medication reconciliation.\n- Assessment of health and social care needs.\n- Assessment of anxiety.\n- Depression screening.\n- Depression screening.\n- Assessment of substance use.\n- Assessment using Alcohol Use Disorders Identification Test - Consumption.\n- Patient referral for dental care, for Gingivitis."
+  },
+  {
+    "doc_id": "eb5910f1-26e6-bc6f-d911-35366d6e350a",
+    "patient_id": "eb5910f1-26e6-bc6f-b300-716eae678d6f",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2026-07-07",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Larissa Bins - 2026-07-07",
+    "content": "- Influenza split virus trivalent PF.\n- Td (adult) 5 Lf tetanus toxoid preservative free adsorbed."
+  }
+]

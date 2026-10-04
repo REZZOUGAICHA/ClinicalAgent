@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "7811dc30-8c86-8164-c0d5-4e0edcbab89b",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Urgent Care Note",
+    "date": "2019-03-12",
+    "section": "Visit Information",
+    "title": "Urgent Care Note - Mignon Rau - 2019-03-12",
+    "content": "Patient: Mignon Rau, female, born 1970-04-21 (patient ID 7811dc30-8c86-8164-6c33-6b6f464745ef).\nVisit date: 2019-03-12.\nVisit type: Urgent care clinic.\nClinician: Courtney Kihn (General Practice).\nFacility: CARECENTRAL URGENT CARE MEDICAL GROUP PC, STOUGHTON, MA."
+  },
+  {
+    "doc_id": "7811dc30-8c86-8164-c0d5-4e0edcbab89b",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Urgent Care Note",
+    "date": "2019-03-12",
+    "section": "Assessment",
+    "title": "Urgent Care Note - Mignon Rau - 2019-03-12",
+    "content": "Diagnoses recorded at this visit:\n- Full-time employment (onset 2019-03-12), resolved 2020-12-15."
+  },
+  {
+    "doc_id": "7811dc30-8c86-8164-c0d5-4e0edcbab89b",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Urgent Care Note",
+    "date": "2019-03-12",
+    "section": "Vital Signs",
+    "title": "Urgent Care Note - Mignon Rau - 2019-03-12",
+    "content": "- Body Height: 153.2 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0\n- Body Weight: 66.0 kg\n- Body mass index (BMI) [Ratio]: 28.1 kg/m2\n- Diastolic Blood Pressure: 71.0 mm[Hg]\n- Systolic Blood Pressure: 116.0 mm[Hg]\n- Heart rate: 71.0 /min\n- Respiratory rate: 14.0 /min"
+  },
+  {
+    "doc_id": "7811dc30-8c86-8164-c0d5-4e0edcbab89b",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Urgent Care Note",
+    "date": "2019-03-12",
+    "section": "Laboratory Results",
+    "title": "Urgent Care Note - Mignon Rau - 2019-03-12",
+    "content": "- Hemoglobin A1c/Hemoglobin.total in Blood: 5.5 %\n- Glucose [Mass/volume] in Blood: 81.2 mg/dL\n- Urea nitrogen [Mass/volume] in Blood: 13.7 mg/dL\n- Creatinine [Mass/volume] in Blood: 0.7 mg/dL\n- Calcium [Mass/volume] in Blood: 10.2 mg/dL\n- Sodium [Moles/volume] in Blood: 139.4 mmol/L\n- Potassium [Moles/volume] in Blood: 4.6 mmol/L\n- Chloride [Moles/volume] in Blood: 104.4 mmol/L\n- Carbon dioxide  total [Moles/volume] in Blood: 22.1 mmol/L\n- Cholesterol [Mass/volume] in Serum or Plasma: 186.1 mg/dL\n- Triglyceride [Mass/volume] in Serum or Plasma: 122.2 mg/dL\n- Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay: 104.4 mg/dL\n- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 57.3 mg/dL\n- Microalbumin/Creatinine [Mass Ratio] in Urine: 15.3 mg/g\n- Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M: 120.4 mL/min/{1.73_m2}"
+  },
+  {
+    "doc_id": "7811dc30-8c86-8164-c0d5-4e0edcbab89b",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Urgent Care Note",
+    "date": "2019-03-12",
+    "section": "Procedures",
+    "title": "Urgent Care Note - Mignon Rau - 2019-03-12",
+    "content": "- Assessment of health and social care needs.\n- Screening for domestic abuse.\n- Assessment of substance use.\n- Screening for drug abuse."
+  },
+  {
+    "doc_id": "7811dc30-8c86-8164-c0d5-4e0edcbab89b",
+    "patient_id": "7811dc30-8c86-8164-6c33-6b6f464745ef",
+    "document_type": "Urgent Care Note",
+    "date": "2019-03-12",
+    "section": "Medications",
+    "title": "Urgent Care Note - Mignon Rau - 2019-03-12",
+    "content": "Medications prescribed at this visit:\n- 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet, started 2019-03-12, for Diabetes mellitus type 2; stopped 2019-03-19.\n- budesonide 0.125 MG/ML Inhalation Suspension, started 2019-03-12, for Childhood asthma; stopped 2019-03-19.\n- albuterol 0.83 MG/ML Inhalation Solution, started 2019-03-12, for Childhood asthma; stopped 2019-03-19."
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "9661a432-4630-2cd9-aea1-ba93178515f7",
+    "patient_id": "9661a432-4630-2cd9-142c-386845fae837",
+    "document_type": "Urgent Care Note",
+    "date": "2012-05-08",
+    "section": "Visit Information",
+    "title": "Urgent Care Note - Paul Tremblay - 2012-05-08",
+    "content": "Patient: Paul Tremblay, male, born 1978-02-14 (patient ID 9661a432-4630-2cd9-142c-386845fae837).\nVisit date: 2012-05-08.\nVisit type: Urgent care clinic.\nClinician: Elizbeth Dickinson (General Practice).\nFacility: HANOVER FAMILY HEALTH & URGENT CARE PC, HANOVER, MA."
+  },
+  {
+    "doc_id": "9661a432-4630-2cd9-aea1-ba93178515f7",
+    "patient_id": "9661a432-4630-2cd9-142c-386845fae837",
+    "document_type": "Urgent Care Note",
+    "date": "2012-05-08",
+    "section": "Assessment",
+    "title": "Urgent Care Note - Paul Tremblay - 2012-05-08",
+    "content": "Diagnoses recorded at this visit:\n- Victim of intimate partner abuse (onset 2012-05-08), resolved 2017-06-13."
+  }
+]

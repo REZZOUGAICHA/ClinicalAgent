@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "f95a6723-14a5-c4b6-6cba-8e590a67e5f1",
+    "patient_id": "f95a6723-14a5-c4b6-78df-fa97f7ab361c",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2024-06-07",
+    "section": "Visit Information",
+    "title": "Outpatient Procedure Note - Roxann Sauer - 2024-06-07",
+    "content": "Patient: Roxann Sauer, female, born 1986-08-23 (patient ID f95a6723-14a5-c4b6-78df-fa97f7ab361c).\nVisit date: 2024-06-07.\nVisit type: Consultation for treatment.\nClinician: Chu Weber (General Practice).\nFacility: STURDY MEMORIAL HOSPITAL INC, ATTLEBORO, MA."
+  },
+  {
+    "doc_id": "f95a6723-14a5-c4b6-6cba-8e590a67e5f1",
+    "patient_id": "f95a6723-14a5-c4b6-78df-fa97f7ab361c",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2024-06-07",
+    "section": "Reason for Visit",
+    "title": "Outpatient Procedure Note - Roxann Sauer - 2024-06-07",
+    "content": "Seen for Contraception care."
+  },
+  {
+    "doc_id": "f95a6723-14a5-c4b6-6cba-8e590a67e5f1",
+    "patient_id": "f95a6723-14a5-c4b6-78df-fa97f7ab361c",
+    "document_type": "Outpatient Procedure Note",
+    "date": "2024-06-07",
+    "section": "Medications",
+    "title": "Outpatient Procedure Note - Roxann Sauer - 2024-06-07",
+    "content": "Medications prescribed at this visit:\n- {21 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Levora 0.15/30 28 Day], started 2024-06-07; stopped 2025-06-02."
+  }
+]

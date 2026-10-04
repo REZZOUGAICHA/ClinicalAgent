@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "6aed9210-c500-4375-187a-e32dc50cb8db",
+    "patient_id": "6aed9210-c500-4375-b0fc-3374c40b8591",
+    "document_type": "Office Visit Note",
+    "date": "2022-02-24",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Lyman Runte - 2022-02-24",
+    "content": "Patient: Lyman Runte, male, born 1965-07-08 (patient ID 6aed9210-c500-4375-b0fc-3374c40b8591).\nVisit date: 2022-02-24.\nVisit type: Encounter for check up.\nClinician: Arden Bergstrom (General Practice).\nFacility: CAPE COD HOSPITAL INC, HYANNIS, MA."
+  },
+  {
+    "doc_id": "6aed9210-c500-4375-187a-e32dc50cb8db",
+    "patient_id": "6aed9210-c500-4375-b0fc-3374c40b8591",
+    "document_type": "Office Visit Note",
+    "date": "2022-02-24",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Lyman Runte - 2022-02-24",
+    "content": "Seen for Patient referral for dental care."
+  },
+  {
+    "doc_id": "6aed9210-c500-4375-187a-e32dc50cb8db",
+    "patient_id": "6aed9210-c500-4375-b0fc-3374c40b8591",
+    "document_type": "Office Visit Note",
+    "date": "2022-02-24",
+    "section": "Procedures",
+    "title": "Office Visit Note - Lyman Runte - 2022-02-24",
+    "content": "- Dental consultation and report, for Patient referral for dental care.\n- Dental care, for Patient referral for dental care.\n- Removal of supragingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Removal of subgingival plaque and calculus from all teeth using dental instrument, for Patient referral for dental care.\n- Examination of gingivae, for Patient referral for dental care.\n- Oral health education, for Patient referral for dental care."
+  }
+]

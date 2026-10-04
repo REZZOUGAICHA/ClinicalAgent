@@ -1,0 +1,20 @@
+[
+  {
+    "doc_id": "f95a6723-14a5-c4b6-214b-8d53b70ac578",
+    "patient_id": "f95a6723-14a5-c4b6-78df-fa97f7ab361c",
+    "document_type": "Urgent Care Note",
+    "date": "2004-09-04",
+    "section": "Visit Information",
+    "title": "Urgent Care Note - Roxann Sauer - 2004-09-04",
+    "content": "Patient: Roxann Sauer, female, born 1986-08-23 (patient ID f95a6723-14a5-c4b6-78df-fa97f7ab361c).\nVisit date: 2004-09-04.\nVisit type: Urgent care clinic.\nClinician: Jewel Kassulke (General Practice).\nFacility: BARRINGTON URGENT CARE PC, ATTLEBORO, MA."
+  },
+  {
+    "doc_id": "f95a6723-14a5-c4b6-214b-8d53b70ac578",
+    "patient_id": "f95a6723-14a5-c4b6-78df-fa97f7ab361c",
+    "document_type": "Urgent Care Note",
+    "date": "2004-09-04",
+    "section": "Assessment",
+    "title": "Urgent Care Note - Roxann Sauer - 2004-09-04",
+    "content": "Diagnoses recorded at this visit:\n- Educated to high school level (onset 2004-09-04)."
+  }
+]

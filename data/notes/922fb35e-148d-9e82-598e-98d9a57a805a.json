@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "922fb35e-148d-9e82-598e-98d9a57a805a",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Office Visit Note",
+    "date": "2024-10-28",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Agnes Weber - 2024-10-28",
+    "content": "Patient: Agnes Weber, female, born 1986-12-19 (patient ID 922fb35e-148d-9e82-7e65-bfa05e3b3515).\nVisit date: 2024-10-28.\nVisit type: Follow-up encounter.\nClinician: Chanell Robel (General Practice).\nFacility: WHITTIER REHABILITATION HOSPITAL - BRADFORD, WESTBOROUGH, MA."
+  },
+  {
+    "doc_id": "922fb35e-148d-9e82-598e-98d9a57a805a",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Office Visit Note",
+    "date": "2024-10-28",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Agnes Weber - 2024-10-28",
+    "content": "Seen for Essential hypertension."
+  },
+  {
+    "doc_id": "922fb35e-148d-9e82-598e-98d9a57a805a",
+    "patient_id": "922fb35e-148d-9e82-7e65-bfa05e3b3515",
+    "document_type": "Office Visit Note",
+    "date": "2024-10-28",
+    "section": "Vital Signs",
+    "title": "Office Visit Note - Agnes Weber - 2024-10-28",
+    "content": "- Diastolic Blood Pressure: 74.0 mm[Hg]\n- Systolic Blood Pressure: 101.0 mm[Hg]"
+  }
+]

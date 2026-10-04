@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "7b06ee52-df9a-8487-0788-9b10a6ab9cae",
+    "patient_id": "7b06ee52-df9a-8487-0be6-dff27cc7d519",
+    "document_type": "Office Visit Note",
+    "date": "2020-12-14",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Ressie Nader - 2020-12-14",
+    "content": "Patient: Ressie Nader, female, born 2001-08-06 (patient ID 7b06ee52-df9a-8487-0be6-dff27cc7d519).\nVisit date: 2020-12-14.\nVisit type: Prenatal visit.\nClinician: Maricarmen Delafuente (General Practice).\nFacility: ARBOUR-FULLER HOSPITAL, SOUTH ATTLEBORO, MA."
+  },
+  {
+    "doc_id": "7b06ee52-df9a-8487-0788-9b10a6ab9cae",
+    "patient_id": "7b06ee52-df9a-8487-0be6-dff27cc7d519",
+    "document_type": "Office Visit Note",
+    "date": "2020-12-14",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Ressie Nader - 2020-12-14",
+    "content": "Seen for Normal pregnancy."
+  },
+  {
+    "doc_id": "7b06ee52-df9a-8487-0788-9b10a6ab9cae",
+    "patient_id": "7b06ee52-df9a-8487-0be6-dff27cc7d519",
+    "document_type": "Office Visit Note",
+    "date": "2020-12-14",
+    "section": "Procedures",
+    "title": "Office Visit Note - Ressie Nader - 2020-12-14",
+    "content": "- Evaluation of uterine fundal height, for Normal pregnancy.\n- Auscultation of the fetal heart, for Normal pregnancy.\n- Detection of chromosomal aneuploidy in prenatal amniotic fluid specimen using fluorescence in situ hybridization screening technique, for Normal pregnancy."
+  }
+]

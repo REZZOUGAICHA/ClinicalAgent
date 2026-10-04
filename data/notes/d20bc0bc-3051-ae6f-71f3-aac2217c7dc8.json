@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-71f3-aac2217c7dc8",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Office Visit Note",
+    "date": "2023-03-29",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Lavette Kozey - 2023-03-29",
+    "content": "Patient: Lavette Kozey, female, born 2010-03-24 (patient ID d20bc0bc-3051-ae6f-f391-ceec7ec0370f).\nVisit date: 2023-03-29.\nVisit type: Allergic disorder initial assessment.\nClinician: Beatriz Monroy (General Practice).\nFacility: FIRST PSYCHIATRIC PLANNERS INC, WOBURN, MA."
+  },
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-71f3-aac2217c7dc8",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Office Visit Note",
+    "date": "2023-03-29",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Lavette Kozey - 2023-03-29",
+    "content": "Seen for Allergic disposition."
+  },
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-71f3-aac2217c7dc8",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Office Visit Note",
+    "date": "2023-03-29",
+    "section": "Laboratory Results",
+    "title": "Office Visit Note - Lavette Kozey - 2023-03-29",
+    "content": "- Peanut IgE Ab [Units/volume] in Serum: 0.2 kU/L\n- Walnut IgE Ab [Units/volume] in Serum: 0.2 kU/L\n- Codfish IgE Ab [Units/volume] in Serum: 0.2 kU/L\n- Shrimp IgE Ab [Units/volume] in Serum: 0.1 kU/L\n- Wheat IgE Ab [Units/volume] in Serum: 0.3 kU/L\n- Egg white IgE Ab [Units/volume] in Serum: 0.2 kU/L\n- Soybean IgE Ab [Units/volume] in Serum: 0.3 kU/L\n- Cow milk IgE Ab [Units/volume] in Serum: 0.3 kU/L\n- White oak IgE Ab [Units/volume] in Serum: 0.3 kU/L\n- Common Ragweed IgE Ab [Units/volume] in Serum: 0.0 kU/L\n- Cat dander IgE Ab [Units/volume] in Serum: 0.2 kU/L\n- American house dust mite IgE Ab [Units/volume] in Serum: 0.0 kU/L\n- Cladosporium herbarum IgE Ab [Units/volume] in Serum: 0.0 kU/L\n- Honey bee IgE Ab [Units/volume] in Serum: 0.1 kU/L\n- Latex IgE Ab [Units/volume] in Serum: 0.3 kU/L"
+  },
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-71f3-aac2217c7dc8",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Office Visit Note",
+    "date": "2023-03-29",
+    "section": "Procedures",
+    "title": "Office Visit Note - Lavette Kozey - 2023-03-29",
+    "content": "- Allergy screening test."
+  },
+  {
+    "doc_id": "d20bc0bc-3051-ae6f-71f3-aac2217c7dc8",
+    "patient_id": "d20bc0bc-3051-ae6f-f391-ceec7ec0370f",
+    "document_type": "Office Visit Note",
+    "date": "2023-03-29",
+    "section": "Plan",
+    "title": "Office Visit Note - Lavette Kozey - 2023-03-29",
+    "content": "- Allergic disorder monitoring, started 2023-03-29."
+  }
+]

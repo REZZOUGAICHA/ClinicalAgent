@@ -1,0 +1,65 @@
+[
+  {
+    "doc_id": "aa616abe-1761-0c9a-8916-6b477592f2b5",
+    "patient_id": "aa616abe-1761-0c9a-7959-07544679dafd",
+    "document_type": "Emergency Department Note",
+    "date": "2008-12-12",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Jona Robel - 2008-12-12",
+    "content": "Patient: Jona Robel, female, born 1958-11-15 (patient ID aa616abe-1761-0c9a-7959-07544679dafd).\nVisit date: 2008-12-12.\nVisit type: Encounter for problem.\nClinician: Lane Gutmann (General Practice).\nFacility: GREENWOOD NURSING & REHABILITATION CENTER, WAKEFIELD, MA."
+  },
+  {
+    "doc_id": "aa616abe-1761-0c9a-8916-6b477592f2b5",
+    "patient_id": "aa616abe-1761-0c9a-7959-07544679dafd",
+    "document_type": "Emergency Department Note",
+    "date": "2008-12-12",
+    "section": "Reason for Visit",
+    "title": "Emergency Department Note - Jona Robel - 2008-12-12",
+    "content": "Seen for Sepsis."
+  },
+  {
+    "doc_id": "aa616abe-1761-0c9a-8916-6b477592f2b5",
+    "patient_id": "aa616abe-1761-0c9a-7959-07544679dafd",
+    "document_type": "Emergency Department Note",
+    "date": "2008-12-12",
+    "section": "Assessment",
+    "title": "Emergency Department Note - Jona Robel - 2008-12-12",
+    "content": "Diagnoses recorded at this visit:\n- Sepsis (onset 2008-12-12)."
+  },
+  {
+    "doc_id": "aa616abe-1761-0c9a-8916-6b477592f2b5",
+    "patient_id": "aa616abe-1761-0c9a-7959-07544679dafd",
+    "document_type": "Emergency Department Note",
+    "date": "2008-12-12",
+    "section": "Vital Signs",
+    "title": "Emergency Department Note - Jona Robel - 2008-12-12",
+    "content": "- Oxygen saturation in Arterial blood: 98.0 %\n- Mean blood pressure: 72.6 mm[Hg]\n- Systolic Blood Pressure: 69.6 mm[Hg]"
+  },
+  {
+    "doc_id": "aa616abe-1761-0c9a-8916-6b477592f2b5",
+    "patient_id": "aa616abe-1761-0c9a-7959-07544679dafd",
+    "document_type": "Emergency Department Note",
+    "date": "2008-12-12",
+    "section": "Laboratory Results",
+    "title": "Emergency Department Note - Jona Robel - 2008-12-12",
+    "content": "- Gram positive blood culture panel by Probe in Positive blood culture: Positive (qualifier value)\n- Lactate [Moles/volume] in Blood: 1.2 mmol/L\n- Lactate [Moles/volume] in Blood: 2.5 mmol/L\n- Diastolic Blood Pressure: 91.3 mm[Hg]"
+  },
+  {
+    "doc_id": "aa616abe-1761-0c9a-8916-6b477592f2b5",
+    "patient_id": "aa616abe-1761-0c9a-7959-07544679dafd",
+    "document_type": "Emergency Department Note",
+    "date": "2008-12-12",
+    "section": "Procedures",
+    "title": "Emergency Department Note - Jona Robel - 2008-12-12",
+    "content": "- Resuscitation using intravenous fluid, for Sepsis.\n- Transfer to stepdown unit, for Sepsis.\n- Admission to intensive care unit, for Septic shock.\n- Resuscitation using intravenous fluid, for Septic shock."
+  },
+  {
+    "doc_id": "aa616abe-1761-0c9a-8916-6b477592f2b5",
+    "patient_id": "aa616abe-1761-0c9a-7959-07544679dafd",
+    "document_type": "Emergency Department Note",
+    "date": "2008-12-12",
+    "section": "Medications",
+    "title": "Emergency Department Note - Jona Robel - 2008-12-12",
+    "content": "Medications prescribed at this visit:\n- piperacillin 2000 MG / tazobactam 250 MG Injection, started 2008-12-12, for Sepsis; stopped 2008-12-12.\n- 150 ML vancomycin 5 MG/ML Injection, started 2008-12-12, for Sepsis; stopped 2008-12-12."
+  }
+]

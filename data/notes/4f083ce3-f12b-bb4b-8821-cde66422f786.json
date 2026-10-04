@@ -1,0 +1,65 @@
+[
+  {
+    "doc_id": "4f083ce3-f12b-bb4b-8821-cde66422f786",
+    "patient_id": "4f083ce3-f12b-bb4b-7353-e17f0cd55b0a",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-03-16",
+    "section": "Visit Information",
+    "title": "Annual Wellness Visit Note - Ezekiel Walter - 2021-03-16",
+    "content": "Patient: Ezekiel Walter, male, born 1999-01-12 (patient ID 4f083ce3-f12b-bb4b-7353-e17f0cd55b0a).\nVisit date: 2021-03-16.\nVisit type: General examination of patient.\nClinician: Gregorio Ceja (General Practice).\nFacility: MEASURED WELLNESS LLC, BROOKLINE, MA."
+  },
+  {
+    "doc_id": "4f083ce3-f12b-bb4b-8821-cde66422f786",
+    "patient_id": "4f083ce3-f12b-bb4b-7353-e17f0cd55b0a",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-03-16",
+    "section": "Assessment",
+    "title": "Annual Wellness Visit Note - Ezekiel Walter - 2021-03-16",
+    "content": "Diagnoses recorded at this visit:\n- Prediabetes (onset 2021-03-16).\n- Anemia (onset 2021-03-16).\n- Not in labor force (onset 2021-03-16), resolved 2021-07-27."
+  },
+  {
+    "doc_id": "4f083ce3-f12b-bb4b-8821-cde66422f786",
+    "patient_id": "4f083ce3-f12b-bb4b-7353-e17f0cd55b0a",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-03-16",
+    "section": "Vital Signs",
+    "title": "Annual Wellness Visit Note - Ezekiel Walter - 2021-03-16",
+    "content": "- Body Height: 175.9 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0\n- Body Weight: 68.9 kg\n- Body mass index (BMI) [Ratio]: 22.3 kg/m2\n- Diastolic Blood Pressure: 86.0 mm[Hg]\n- Systolic Blood Pressure: 134.0 mm[Hg]\n- Heart rate: 80.0 /min\n- Respiratory rate: 15.0 /min"
+  },
+  {
+    "doc_id": "4f083ce3-f12b-bb4b-8821-cde66422f786",
+    "patient_id": "4f083ce3-f12b-bb4b-7353-e17f0cd55b0a",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-03-16",
+    "section": "Laboratory Results",
+    "title": "Annual Wellness Visit Note - Ezekiel Walter - 2021-03-16",
+    "content": "- Hemoglobin A1c/Hemoglobin.total in Blood: 5.8 %\n- Glucose [Mass/volume] in Blood: 93.2 mg/dL\n- Urea nitrogen [Mass/volume] in Blood: 10.3 mg/dL\n- Creatinine [Mass/volume] in Blood: 1.1 mg/dL\n- Calcium [Mass/volume] in Blood: 9.5 mg/dL\n- Sodium [Moles/volume] in Blood: 143.6 mmol/L\n- Potassium [Moles/volume] in Blood: 3.8 mmol/L\n- Chloride [Moles/volume] in Blood: 106.3 mmol/L\n- Carbon dioxide  total [Moles/volume] in Blood: 20.4 mmol/L\n- Leukocytes [#/volume] in Blood by Automated count: 4.1 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 4.5 10*6/uL\n- Hemoglobin [Mass/volume] in Blood: 14.9 g/dL\n- Hematocrit [Volume Fraction] of Blood by Automated count: 46.1 %\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 90.9 fL\n- MCH [Entitic mass] by Automated count: 30.4 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 34.8 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 40.8 fL\n- Platelets [#/volume] in Blood by Automated count: 408.1 10*3/uL\n- Platelet distribution width [Entitic volume] in Blood by Automated count: 10.6 fL\n- Platelet [Entitic mean volume] in Blood by Automated count: 11.8 fL"
+  },
+  {
+    "doc_id": "4f083ce3-f12b-bb4b-8821-cde66422f786",
+    "patient_id": "4f083ce3-f12b-bb4b-7353-e17f0cd55b0a",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-03-16",
+    "section": "Procedures",
+    "title": "Annual Wellness Visit Note - Ezekiel Walter - 2021-03-16",
+    "content": "- Assessment of health and social care needs.\n- Depression screening.\n- Depression screening.\n- Assessment of substance use.\n- Screening for drug abuse."
+  },
+  {
+    "doc_id": "4f083ce3-f12b-bb4b-8821-cde66422f786",
+    "patient_id": "4f083ce3-f12b-bb4b-7353-e17f0cd55b0a",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-03-16",
+    "section": "Immunizations",
+    "title": "Annual Wellness Visit Note - Ezekiel Walter - 2021-03-16",
+    "content": "- Influenza split virus trivalent PF.\n- Td (adult) 5 Lf tetanus toxoid preservative free adsorbed.\n- Hep B adult.\n- meningococcal MCV4P."
+  },
+  {
+    "doc_id": "4f083ce3-f12b-bb4b-8821-cde66422f786",
+    "patient_id": "4f083ce3-f12b-bb4b-7353-e17f0cd55b0a",
+    "document_type": "Annual Wellness Visit Note",
+    "date": "2021-03-16",
+    "section": "Plan",
+    "title": "Annual Wellness Visit Note - Ezekiel Walter - 2021-03-16",
+    "content": "- Diabetes self management plan for Prediabetes, started 2021-03-16."
+  }
+]

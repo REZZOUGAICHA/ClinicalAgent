@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "14a5a697-29a3-48b2-3f23-981757fa2146",
+    "patient_id": "14a5a697-29a3-48b2-969a-3ceefe74a700",
+    "document_type": "Emergency Department Note",
+    "date": "2025-09-13",
+    "section": "Visit Information",
+    "title": "Emergency Department Note - Drusilla Schumm - 2025-09-13",
+    "content": "Patient: Drusilla Schumm, female, born 1958-11-15 (patient ID 14a5a697-29a3-48b2-969a-3ceefe74a700).\nVisit date: 2025-09-13.\nVisit type: Emergency room admission.\nClinician: Bennie Abbott (General Practice).\nFacility: LAHEY HOSPITAL & MEDICAL CENTER BURLINGTON, PEABODY, MA."
+  },
+  {
+    "doc_id": "14a5a697-29a3-48b2-3f23-981757fa2146",
+    "patient_id": "14a5a697-29a3-48b2-969a-3ceefe74a700",
+    "document_type": "Emergency Department Note",
+    "date": "2025-09-13",
+    "section": "Reason for Visit",
+    "title": "Emergency Department Note - Drusilla Schumm - 2025-09-13",
+    "content": "Seen for Sprain (morphologic abnormality)."
+  },
+  {
+    "doc_id": "14a5a697-29a3-48b2-3f23-981757fa2146",
+    "patient_id": "14a5a697-29a3-48b2-969a-3ceefe74a700",
+    "document_type": "Emergency Department Note",
+    "date": "2025-09-13",
+    "section": "Assessment",
+    "title": "Emergency Department Note - Drusilla Schumm - 2025-09-13",
+    "content": "Diagnoses recorded at this visit:\n- Sprain (morphologic abnormality) (onset 2025-09-13), resolved 2025-10-16.\n- Sprain of wrist (onset 2025-09-13), resolved 2025-10-16."
+  },
+  {
+    "doc_id": "14a5a697-29a3-48b2-3f23-981757fa2146",
+    "patient_id": "14a5a697-29a3-48b2-969a-3ceefe74a700",
+    "document_type": "Emergency Department Note",
+    "date": "2025-09-13",
+    "section": "Medications",
+    "title": "Emergency Department Note - Drusilla Schumm - 2025-09-13",
+    "content": "Medications prescribed at this visit:\n- Ibuprofen 200 MG Oral Tablet, started 2025-09-13; stopped 2025-10-16."
+  },
+  {
+    "doc_id": "14a5a697-29a3-48b2-3f23-981757fa2146",
+    "patient_id": "14a5a697-29a3-48b2-969a-3ceefe74a700",
+    "document_type": "Emergency Department Note",
+    "date": "2025-09-13",
+    "section": "Plan",
+    "title": "Emergency Department Note - Drusilla Schumm - 2025-09-13",
+    "content": "- Physiotherapy care plan for Sprain of wrist, started 2025-09-13, ended 2025-10-16."
+  }
+]

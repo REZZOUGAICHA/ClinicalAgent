@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "c86c400e-ff88-a1e3-6f27-bf321ab4c01f",
+    "patient_id": "c86c400e-ff88-a1e3-2e23-caa4d8311f47",
+    "document_type": "Office Visit Note",
+    "date": "1984-06-12",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Cristobal Montero - 1984-06-12",
+    "content": "Patient: Cristobal Montero, male, born 1947-03-03 (patient ID c86c400e-ff88-a1e3-2e23-caa4d8311f47).\nVisit date: 1984-06-12.\nVisit type: Encounter for problem.\nClinician: Lorette Hauck (General Practice).\nFacility: WHITTIER REHABILTATION HOSPITAL, LYNN, MA."
+  },
+  {
+    "doc_id": "c86c400e-ff88-a1e3-6f27-bf321ab4c01f",
+    "patient_id": "c86c400e-ff88-a1e3-2e23-caa4d8311f47",
+    "document_type": "Office Visit Note",
+    "date": "1984-06-12",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Cristobal Montero - 1984-06-12",
+    "content": "Seen for Loss of teeth."
+  },
+  {
+    "doc_id": "c86c400e-ff88-a1e3-6f27-bf321ab4c01f",
+    "patient_id": "c86c400e-ff88-a1e3-2e23-caa4d8311f47",
+    "document_type": "Office Visit Note",
+    "date": "1984-06-12",
+    "section": "Procedures",
+    "title": "Office Visit Note - Cristobal Montero - 1984-06-12",
+    "content": "- Dental consultation and report, for Loss of teeth.\n- Dental plain X-ray bitewing.\n- Take oral or dental impression, for Loss of teeth."
+  }
+]

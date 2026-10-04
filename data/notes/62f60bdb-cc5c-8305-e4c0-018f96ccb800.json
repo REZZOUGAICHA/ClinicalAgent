@@ -1,0 +1,65 @@
+[
+  {
+    "doc_id": "62f60bdb-cc5c-8305-e4c0-018f96ccb800",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Office Visit Note",
+    "date": "2020-07-25",
+    "section": "Visit Information",
+    "title": "Office Visit Note - Angel Frami - 2020-07-25",
+    "content": "Patient: Angel Frami, female, born 1975-10-22 (patient ID 62f60bdb-cc5c-8305-b98b-f2b229a55eca).\nVisit date: 2020-07-25.\nVisit type: Encounter for symptom.\nClinician: Ollie Dooley (General Practice).\nFacility: DR JOHN C CORRIGAN MENTAL HEALTH CENTER, FALL RIVER, MA."
+  },
+  {
+    "doc_id": "62f60bdb-cc5c-8305-e4c0-018f96ccb800",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Office Visit Note",
+    "date": "2020-07-25",
+    "section": "Reason for Visit",
+    "title": "Office Visit Note - Angel Frami - 2020-07-25",
+    "content": "Seen for Suspected disease caused by Severe acute respiratory coronavirus 2."
+  },
+  {
+    "doc_id": "62f60bdb-cc5c-8305-e4c0-018f96ccb800",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Office Visit Note",
+    "date": "2020-07-25",
+    "section": "Assessment",
+    "title": "Office Visit Note - Angel Frami - 2020-07-25",
+    "content": "Diagnoses recorded at this visit:\n- Headache (onset 2020-07-25), resolved 2020-08-16.\n- Cough (onset 2020-07-25), resolved 2020-08-16.\n- Sore throat (onset 2020-07-25), resolved 2020-08-16.\n- Sputum finding (onset 2020-07-25), resolved 2020-08-16.\n- Fever (onset 2020-07-25), resolved 2020-08-16.\n- Loss of taste (onset 2020-07-25), resolved 2020-08-16.\n- Disease caused by severe acute respiratory syndrome coronavirus 2 (onset 2020-07-25), resolved 2020-08-16."
+  },
+  {
+    "doc_id": "62f60bdb-cc5c-8305-e4c0-018f96ccb800",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Office Visit Note",
+    "date": "2020-07-25",
+    "section": "Vital Signs",
+    "title": "Office Visit Note - Angel Frami - 2020-07-25",
+    "content": "- Body temperature: 38.4 \u00b0C\n- Respiratory rate: 13.4 /min\n- Heart rate: 146.6 /min\n- Oxygen saturation in Arterial blood: 82.3 %\n- Diastolic Blood Pressure: 67.0 mm[Hg]\n- Systolic Blood Pressure: 103.0 mm[Hg]\n- Body Weight: 50.7 kg"
+  },
+  {
+    "doc_id": "62f60bdb-cc5c-8305-e4c0-018f96ccb800",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Office Visit Note",
+    "date": "2020-07-25",
+    "section": "Laboratory Results",
+    "title": "Office Visit Note - Angel Frami - 2020-07-25",
+    "content": "- Influenza virus A Ag [Presence] in Upper respiratory specimen by Rapid immunoassay: Not detected (qualifier value)\n- Influenza virus B Ag [Presence] in Upper respiratory specimen by Rapid immunoassay: Not detected (qualifier value)\n- SARS-CoV-2 (COVID-19) RNA panel - Respiratory system specimen by NAA with probe detection: Detected (qualifier value)"
+  },
+  {
+    "doc_id": "62f60bdb-cc5c-8305-e4c0-018f96ccb800",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Office Visit Note",
+    "date": "2020-07-25",
+    "section": "Procedures",
+    "title": "Office Visit Note - Angel Frami - 2020-07-25",
+    "content": "- Face mask (physical object), for Suspected disease caused by Severe acute respiratory coronavirus 2."
+  },
+  {
+    "doc_id": "62f60bdb-cc5c-8305-e4c0-018f96ccb800",
+    "patient_id": "62f60bdb-cc5c-8305-b98b-f2b229a55eca",
+    "document_type": "Office Visit Note",
+    "date": "2020-07-25",
+    "section": "Plan",
+    "title": "Office Visit Note - Angel Frami - 2020-07-25",
+    "content": "- Infectious disease care plan, started 2020-07-25, ended 2020-07-25.\n- Infectious disease care plan, started 2020-07-25, ended 2020-08-16."
+  }
+]

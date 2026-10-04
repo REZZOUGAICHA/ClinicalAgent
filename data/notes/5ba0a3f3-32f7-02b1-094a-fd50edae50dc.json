@@ -1,0 +1,47 @@
+[
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-094a-fd50edae50dc",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Urgent Care Note",
+    "date": "2020-12-02",
+    "section": "Visit Information",
+    "title": "Urgent Care Note - Faustino Langworth - 2020-12-02",
+    "content": "Patient: Faustino Langworth, male, born 1998-06-17 (patient ID 5ba0a3f3-32f7-02b1-ec6a-8f568923954c).\nVisit date: 2020-12-02.\nVisit type: Urgent care clinic.\nClinician: Tracy Wilderman (General Practice).\nFacility: MASS GENERAL BRIGHAM URGENT CARE LLC, WOBURN, MA."
+  },
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-094a-fd50edae50dc",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Urgent Care Note",
+    "date": "2020-12-02",
+    "section": "Assessment",
+    "title": "Urgent Care Note - Faustino Langworth - 2020-12-02",
+    "content": "Diagnoses recorded at this visit:\n- Medication review due (onset 2020-12-02), resolved 2020-12-02."
+  },
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-094a-fd50edae50dc",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Urgent Care Note",
+    "date": "2020-12-02",
+    "section": "Vital Signs",
+    "title": "Urgent Care Note - Faustino Langworth - 2020-12-02",
+    "content": "- Body Height: 187.3 cm\n- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0\n- Body Weight: 89.5 kg\n- Body mass index (BMI) [Ratio]: 25.5 kg/m2\n- Diastolic Blood Pressure: 81.0 mm[Hg]\n- Systolic Blood Pressure: 125.0 mm[Hg]\n- Heart rate: 76.0 /min\n- Respiratory rate: 13.0 /min"
+  },
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-094a-fd50edae50dc",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Urgent Care Note",
+    "date": "2020-12-02",
+    "section": "Procedures",
+    "title": "Urgent Care Note - Faustino Langworth - 2020-12-02",
+    "content": "- Medication reconciliation.\n- Assessment of health and social care needs.\n- Depression screening.\n- Depression screening.\n- Patient referral for dental care."
+  },
+  {
+    "doc_id": "5ba0a3f3-32f7-02b1-094a-fd50edae50dc",
+    "patient_id": "5ba0a3f3-32f7-02b1-ec6a-8f568923954c",
+    "document_type": "Urgent Care Note",
+    "date": "2020-12-02",
+    "section": "Immunizations",
+    "title": "Urgent Care Note - Faustino Langworth - 2020-12-02",
+    "content": "- Influenza split virus trivalent PF.\n- Hep B adult."
+  }
+]

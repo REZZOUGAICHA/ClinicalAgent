@@ -1,0 +1,65 @@
+[
+  {
+    "doc_id": "080b069b-5108-46b6-11b8-d6e69a46c749",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "2019-02-07",
+    "section": "Visit Information",
+    "title": "Inpatient Discharge Summary - Chester Aufderhar - 2019-02-07",
+    "content": "Patient: Chester Aufderhar, male, born 1966-11-22 (patient ID 080b069b-5108-46b6-ecef-6aacd3b9ef3f).\nVisit date: 2019-02-07.\nVisit type: Hospital admission.\nClinician: Gabriel Reilly (General Practice).\nFacility: Fitchburg Outpatient Clinic, Fitchburg, MA."
+  },
+  {
+    "doc_id": "080b069b-5108-46b6-11b8-d6e69a46c749",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "2019-02-07",
+    "section": "Reason for Visit",
+    "title": "Inpatient Discharge Summary - Chester Aufderhar - 2019-02-07",
+    "content": "Seen for Abnormal findings diagnostic imaging heart+coronary circulat."
+  },
+  {
+    "doc_id": "080b069b-5108-46b6-11b8-d6e69a46c749",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "2019-02-07",
+    "section": "Assessment",
+    "title": "Inpatient Discharge Summary - Chester Aufderhar - 2019-02-07",
+    "content": "Diagnoses recorded at this visit:\n- History of coronary artery bypass grafting (onset 2019-02-07)."
+  },
+  {
+    "doc_id": "080b069b-5108-46b6-11b8-d6e69a46c749",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "2019-02-07",
+    "section": "Vital Signs",
+    "title": "Inpatient Discharge Summary - Chester Aufderhar - 2019-02-07",
+    "content": "- Oxygen saturation in Arterial blood: 94.0 %\n- Oxygen saturation in Arterial blood: 94.0 %"
+  },
+  {
+    "doc_id": "080b069b-5108-46b6-11b8-d6e69a46c749",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "2019-02-07",
+    "section": "Laboratory Results",
+    "title": "Inpatient Discharge Summary - Chester Aufderhar - 2019-02-07",
+    "content": "- Leukocytes [#/volume] in Blood by Automated count: 8.5 10*3/uL\n- Erythrocytes [#/volume] in Blood by Automated count: 4.6 10*6/uL\n- Hemoglobin [Mass/volume] in Blood: 12.1 g/dL\n- Hematocrit [Volume Fraction] of Blood by Automated count: 49.1 %\n- MCV [Entitic mean volume] in Red Blood Cells by Automated count: 79.1 fL\n- MCH [Entitic mass] by Automated count: 30.1 pg\n- MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count: 34.3 g/dL\n- Erythrocyte [DistWidth] in Blood by Automated count: 14.5 %\n- Platelets [#/volume] in Blood by Automated count: 435.2 10*3/uL\n- Glucose [Mass/volume] in Serum or Plasma: 86.9 mg/dL\n- Urea nitrogen [Mass/volume] in Serum or Plasma: 11.1 mg/dL\n- Creatinine [Mass/volume] in Serum or Plasma: 2.9 mg/dL\n- Calcium [Mass/volume] in Serum or Plasma: 8.8 mg/dL\n- Sodium [Moles/volume] in Serum or Plasma: 136.7 mmol/L\n- Potassium [Moles/volume] in Serum or Plasma: 5.0 mmol/L\n- Chloride [Moles/volume] in Serum or Plasma: 106.7 mmol/L\n- Carbon dioxide  total [Moles/volume] in Serum or Plasma: 26.1 mmol/L\n- Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M: 7.5 mL/min\n- Protein [Mass/volume] in Serum or Plasma: 6.8 g/dL\n- Albumin [Mass/volume] in Serum or Plasma: 4.3 g/dL\n- Bilirubin.total [Mass/volume] in Serum or Plasma: 12.5 mg/dL\n- Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 110.5 U/L\n- Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 38.2 U/L\n- Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 21.3 U/L\n- Magnesium [Mass/volume] in Serum or Plasma: 2.0 mg/dL\n- Phosphate [Mass/volume] in Serum or Plasma: 3.9 mg/dL\n- Prothrombin time (PT): 9.9 s\n- INR in Platelet poor plasma by Coagulation assay: 1.1\n- aPTT in Blood by Coagulation assay: 37.7 s\n- pH of Arterial blood: 6.9 [pH]\n- Carbon dioxide [Partial pressure] in Arterial blood: 40.1 mm[Hg]\n- Oxygen [Partial pressure] in Arterial blood: 97.7 mm[Hg]\n- Bicarbonate [Moles/volume] in Arterial blood: 25.1 mmol/L\n- Cholesterol [Mass/volume] in Serum or Plasma: 155.7 mg/dL\n- Triglyceride [Mass/volume] in Serum or Plasma: 144.6 mg/dL\n- Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay: 73.3 mg/dL\n- Cholesterol in HDL [Mass/volume] in Serum or Plasma: 53.5 mg/dL\n- Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method: 0.0 pg/mL\n- Thyrotropin [Units/volume] in Serum or Plasma: 3.8 m[IU]/L\n- Hemoglobin A1c/Hemoglobin.total in Blood: 6.2 %\n- Glucose [Presence] in Urine by Test strip: 1.0\n- Bilirubin.total [Presence] in Urine by Test strip: 1.0\n- Ketones [Presence] in Urine by Test strip: 1.0\n- Specific gravity of Urine by Test strip: 1.0\n- pH of Urine by Test strip: 5.9 [pH]\n- Protein [Presence] in Urine by Test strip: 1.0\n- Nitrite [Presence] in Urine by Test strip: 1.0\n- Hemoglobin [Presence] in Urine by Test strip: 0.0\n- Leukocyte esterase [Presence] in Urine by Test strip: 0.0\n- Left ventricular Ejection fraction: 43.6 %\n- Activated clotting time (ACT) of Blood by Coagulation assay: 116.0 s\n- pH of Arterial blood: 7.0 [pH]\n- Carbon dioxide [Partial pressure] in Arterial blood: 38.0 mm[Hg]\n- Oxygen [Partial pressure] in Arterial blood: 89.2 mm[Hg]\n- Bicarbonate [Moles/volume] in Arterial blood: 25.7 mmol/L\n- pH of Venous blood: 7.3 [pH]\n- Carbon dioxide [Partial pressure] in Venous blood: 39.1 mm[Hg]\n- Oxygen [Partial pressure] in Venous blood: 42.6 mm[Hg]\n- Bicarbonate [Moles/volume] in Venous blood: 26.7 mmol/L\n- Carbon dioxide  total [Moles/volume] in Venous blood: 1.5 mmol/L\n- Magnesium [Mass/volume] in Serum or Plasma: 1.7 mg/dL"
+  },
+  {
+    "doc_id": "080b069b-5108-46b6-11b8-d6e69a46c749",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "2019-02-07",
+    "section": "Procedures",
+    "title": "Inpatient Discharge Summary - Chester Aufderhar - 2019-02-07",
+    "content": "- Pre-surgery testing.\n- Blood group typing.\n- Electrocardiographic procedure.\n- Plain X-ray of chest.\n- Echocardiography.\n- Notification of treatment plan.\n- Scheduling, for Abnormal findings diagnostic imaging heart+coronary circulat.\n- Insertion of catheter into artery.\n- Administration of anesthesia for procedure.\n- Intubation.\n- Pulmonary catheterization with Swan-Ganz catheter.\n- Preparation of patient for procedure.\n- Cannulation.\n- Cardiopulmonary bypass operation.\n- Placement of aortic cross clamp.\n- Induced cardioplegia.\n- Median sternotomy.\n- Coronary artery bypass grafting, for Ischemic heart disease.\n- Removal of aortic cross clamp.\n- Vascular cannula removal.\n- Documentation procedure."
+  },
+  {
+    "doc_id": "080b069b-5108-46b6-11b8-d6e69a46c749",
+    "patient_id": "080b069b-5108-46b6-ecef-6aacd3b9ef3f",
+    "document_type": "Inpatient Discharge Summary",
+    "date": "2019-02-07",
+    "section": "Medications",
+    "title": "Inpatient Discharge Summary - Chester Aufderhar - 2019-02-07",
+    "content": "Medications prescribed at this visit:\n- cefazolin 2000 MG Injection, started 2019-02-07; stopped 2019-02-07.\n- 1 ML heparin sodium  porcine 5000 UNT/ML Injection, started 2019-02-07; stopped 2019-02-07.\n- 25 ML protamine sulfate (USP) 10 MG/ML Injection, started 2019-02-07; stopped 2019-02-07.\n- 2 ML Ondansetron 2 MG/ML Injection, started 2019-02-07; stopped 2019-02-07.\n- Midazolam 1 MG/ML Injectable Solution, started 2019-02-07; stopped 2019-02-07.\n- 100 ML Propofol 10 MG/ML Injection, started 2019-02-07; stopped 2019-02-07.\n- Rocuronium bromide 10 MG/ML Injectable Solution, started 2019-02-07; stopped 2019-02-07.\n- isoflurane 999 MG/ML Inhalation Solution, started 2019-02-07; stopped 2019-02-07.\n- 10 ML Alfentanil 0.5 MG/ML Injection, started 2019-02-07; stopped 2019-02-07."
+  }
+]
